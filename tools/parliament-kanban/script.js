@@ -1,10 +1,9 @@
 ---
 ---
-
 function openBill(billId) {
     // Remove any existing active tag
-    active_tag = document.getElementsByClassName("active")[0];
-    previous_active_bill = active_tag?.id;
+    const active_tag = document.getElementsByClassName("active")[0];
+    const previous_active_bill = active_tag?.id;
     if (active_tag != null) {
         active_tag.classList.remove("active");
         history.replaceState(null, null, "#");
@@ -22,7 +21,7 @@ function childClick(event) {
 }
 
 function ticketIsInCoalition(ticket) {
-    coalitionParties = ["{{ site.data.parties | where: "group", "Coalition" | map: "name" | join: 'QQQ' | slugify | split: 'qqq' | join: '", "' }}"];
+    const coalitionParties = ["{{ site.data.parties | where: "group", "Coalition" | map: "name" | join: 'QQQ' | slugify | split: 'qqq' | join: '", "' }}"];
     for (const party of coalitionParties) {
         if (ticket.classList.contains(party)) {
             return true;

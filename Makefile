@@ -3,8 +3,8 @@ generate:
 	@echo "Generating Parliament Kanban data"
 	uv run python tools/parliament-kanban/main.py
 
-	@echo "Generating Gov Daisy data"
-	uv run python tools/gov-daisy/generate_data.py
+	@echo "Generating Budget Daisy data"
+	uv run python tools/budget-daisy/generate_data.py
 
 .PHONY: build
 build:

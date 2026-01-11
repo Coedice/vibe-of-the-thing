@@ -12,6 +12,7 @@ sass:
 exclude:
   - "*.py"
   - "*.pyc"
+  - "*.pxd"
   - pyproject.toml
   - uv.lock
   - Makefile
@@ -22,3 +23,4 @@ exclude:
   - package-lock.json
   - package.json
   - stylelint.config.cjs
+  - eslint.config.js

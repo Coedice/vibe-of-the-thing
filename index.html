@@ -1,0 +1,42 @@
+---
+title: Home
+layout: default
+nav: home
+body_class: home
+---
+<div class="page">
+    <section class="hero">
+        <h1>Vibe of the Thing</h1>
+        <p class="subtitle">There is no one section... It's just the vibe of the thing. (The Castle, 1997)</p>
+        <p>A collection of interactive tools for exploring Australian government data.</p>
+    </section>
+    <section class="tools-grid">
+        <a href="{{ '/tools/budget-daisy/' | relative_url }}" class="tool-card">
+            <div class="tool-card__top">
+                <div class="tool-icon">📊</div>
+                <div>
+                    <h2>Budget Daisy</h2>
+                    <p>Interactive sunburst visualisations of federal budgets and revenues. Explore spending patterns across government departments from 1964 onwards.</p>
+                </div>
+            </div>
+        </a>
+        <a href="{{ '/tools/parliament-kanban/' | relative_url }}" class="tool-card">
+            <div class="tool-card__top">
+                <div class="tool-icon">📋</div>
+                <div>
+                    <h2>Parliament Kanban</h2>
+                    <p>A Kanban view of all federal parliament bills. Track legislation through Pending, Passed, or Failed, and filter by party and status.</p>
+                </div>
+            </div>
+        </a>
+        <a href="{{ '/tools/when-talk/' | relative_url }}" class="tool-card">
+            <div class="tool-card__top">
+                <div class="tool-icon">⏱️</div>
+                <div>
+                    <h2>When Talk</h2>
+                    <p>Estimate speaking times for parliamentary proceedings. Enter a bill and expected speakers to estimate when each person will talk.</p>
+                </div>
+            </div>
+        </a>
+    </section>
+</div>

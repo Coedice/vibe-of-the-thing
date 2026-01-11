@@ -1,4 +1,15 @@
 module.exports = {
+  customSyntax: 'postcss-scss',
+  ignoreFiles: [
+    'node_modules/**',
+    '_site/**',
+  ],
+    overrides: [
+      {
+        files: ['**/*.scss'],
+        customSyntax: 'postcss-scss',
+      },
+    ],
   extends: [
     'stylelint-config-standard-scss',
     'stylelint-config-recommended',

@@ -1,0 +1,235 @@
+---
+---
+$arc-stroke-width: 1px;
+$arc-stroke: #ecf0f1;
+$centre-circle-color: transparent;
+$centre-value-font-size: 2em;
+$centre-text-font-size: 0.9em;
+$centre-value-color: #141924;
+$centre-text-color: #94a3b8;
+$centre-text-stroke: #ecf0f1;
+$centre-text-stroke-width: 2px;
+
+@mixin transition($props...) {
+    transition: $props;
+}
+
+// Logo styling specific to budget-daisy
+.budget-daisy .logo {
+    background: linear-gradient(135deg, rgba(45, 127, 249, 0.12), rgba(125, 211, 252, 0.18));
+}
+
+// Controls layout - side by side
+.controls {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    gap: 1rem;
+    align-items: end;
+    justify-content: center;
+}
+
+// Centre Info for sunburst
+#centre-info {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    max-width: 300px;
+}
+
+#centre-value {
+    font-size: 2em !important;
+    font-weight: 700;
+    color: var(--text);
+    margin-bottom: 0.5rem;
+}
+
+#centre-subtitle {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    font-style: italic;
+    text-align: center;
+}
+
+// Tooltip
+.tooltip {
+    position: fixed;
+    display: none;
+    background: rgba(0, 0, 0, 0.9);
+    color: #fff;
+    padding: 1rem;
+    border-radius: var(--radius-md);
+    font-size: 0.9rem;
+    pointer-events: none;
+    z-index: 1000;
+    max-width: 300px;
+    box-shadow: var(--shadow-lg);
+
+    strong {
+        font-size: 1rem;
+        display: block;
+        margin-bottom: 0.5rem;
+        color: #fff;
+    }
+
+    .percentage {
+        color: var(--accent);
+        font-weight: 600;
+    }
+
+    .over-budget {
+        color: var(--danger);
+        padding: 1.5rem;
+        border-radius: var(--radius-lg);
+        box-shadow: var(--shadow);
+        margin-bottom: 2rem;
+    }
+}
+
+// Visualization container
+#visualisation-container {
+    position: relative;
+}
+
+.visualization-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    height: 600px;
+}
+
+#sunburst {
+    flex-shrink: 0;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+// Legend
+.legend {
+    display: none; // Hidden by default on desktop
+    margin-bottom: 40px;
+
+    .legend-item {
+        display: flex;
+        align-items: center;
+        cursor: pointer;
+        padding: 0.5rem;
+        border-radius: 6px;
+        transition: all 0.2s;
+        color: black;
+
+        &:hover {
+            transform: translateY(-1px);
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        .legend-color {
+            display: none;
+        }
+
+        .legend-text {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+
+            .legend-name {
+                font-size: 0.8rem;
+                font-weight: 600;
+                color: black;
+            }
+
+            .legend-value {
+                font-size: 0.7rem;
+                color: black;
+            }
+        }
+    }
+}
+
+// Sunburst SVG Styles
+.centre-circle {
+    fill: $centre-circle-color;
+    transition: fill 0.3s ease;
+}
+
+.centre-value-svg {
+    text-anchor: middle;
+    font-size: $centre-value-font-size;
+    font-weight: 700;
+    fill: $centre-value-color;
+}
+
+.centre-subtitle-svg,
+.centre-name-svg {
+    text-anchor: middle;
+    font-size: $centre-text-font-size;
+    fill: $centre-text-color;
+    font-style: italic;
+    stroke: $centre-text-stroke;
+    stroke-width: $centre-text-stroke-width;
+    paint-order: stroke fill;
+}
+
+// Sunburst Path Styles
+path {
+    stroke: $arc-stroke;
+    stroke-width: $arc-stroke-width;
+    cursor: pointer;
+
+    &.hovered {
+        opacity: 0.8;
+        stroke-width: 3px;
+    }
+}
+
+// Mobile Responsive Styles
+@media (width <= 768px) {
+    .tooltip {
+        display: none !important;
+    }
+
+    .visualization-wrapper {
+        flex-direction: column;
+        align-items: center;
+        height: auto;
+    }
+
+    #sunburst {
+        position: static;
+        transform: none;
+        margin-bottom: 1rem;
+    }
+
+    .legend {
+        display: grid; // Show legend on mobile as grid
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+        gap: 0.5rem;
+        position: static;
+        right: auto;
+        top: auto;
+        min-width: auto;
+        max-width: 100%;
+        width: 100%;
+        margin-top: 1rem;
+    }
+
+    #visualisation-container {
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    #scale {
+        transform: scale(0.6);
+    }
+}
+
+@media (max-width: 640px) {
+    .controls {
+        grid-template-columns: 1fr;
+    }
+}

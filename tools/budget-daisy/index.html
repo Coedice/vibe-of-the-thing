@@ -1,0 +1,42 @@
+---
+title: Budget Daisy
+layout: default
+nav: budget-daisy
+body_class: budget-daisy
+styles:
+  - /assets/css/budget-daisy.css
+head_scripts:
+  - https://d3js.org/d3.v7.min.js
+data_script: true
+---
+<div class="page">
+    <header class="hero">
+        <div class="brand">
+            <div class="logo">📊</div>
+            <div>
+                <h1>Budget Daisy</h1>
+            </div>
+        </div>
+        <p>Interactive visualisation of federal budgets and revenues.</p>
+    </header>
+    <div class="controls">
+        <div class="control-group">
+            <label for="year-dropdown">Fiscal Year:</label>
+            <select id="year-dropdown"></select>
+        </div>
+        <div class="control-group">
+            <label for="data-type-switch">Show:</label>
+            <select id="data-type-switch">
+                <option value="budget">Budget</option>
+                <option value="revenue">Revenue</option>
+            </select>
+        </div>
+    </div>
+    <div id="visualisation-container">
+        <div class="visualization-wrapper">
+            <svg id="sunburst"></svg>
+        </div>
+        <div id="tooltip" class="tooltip"></div>
+        <div id="legend" class="legend"></div>
+    </div>
+</div>
