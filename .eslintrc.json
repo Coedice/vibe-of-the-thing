@@ -5,13 +5,25 @@
   },
   "extends": "eslint:recommended",
   "parserOptions": {
-    "ecmaVersion": 12,
+    "ecmaVersion": "latest",
     "sourceType": "module"
   },
   "globals": {
-    "d3": "readonly"
+    "d3": "readonly",
+    "window": "readonly",
+    "document": "readonly",
+    "navigator": "readonly",
+    "alert": "readonly",
+    "console": "readonly",
+    "process": "readonly",
+    "module": "readonly",
+    "require": "readonly",
+    "__dirname": "readonly",
+    "__filename": "readonly"
   },
   "rules": {
+      "no-unused-vars": "warn",
+      "no-console": "off",
     "semi": ["error", "always"],
     "quotes": ["error", "double"]
   }

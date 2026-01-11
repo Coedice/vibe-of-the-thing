@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>WhenTalk</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <div class="page">
+            <header class="page-header">
+                <div class="brand">
+                    <h1>WhenTalk</h1>
+                </div>
+                <button id="share-btn" class="badge share-btn" title="Copy shareable link">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <circle cx="18" cy="5" r="3"></circle>
+                        <circle cx="6" cy="12" r="3"></circle>
+                        <circle cx="18" cy="19" r="3"></circle>
+                        <line x1="8.59" y1="13.51" x2="15.42" y2="17.49"></line>
+                        <line x1="15.41" y1="6.51" x2="8.59" y2="10.49"></line>
+                    </svg>
+                    Share
+                </button>
+            </header>
+
+            <main class="layout">
+                <section class="panel form-panel">
+                    <header class="panel-header">
+                        <div>
+                            <p class="eyebrow">Planning</p>
+                            <h2>Speaker timeline</h2>
+                        </div>
+                    </header>
+
+                    <div class="field">
+                        <label for="bill">Bill</label>
+                        <textarea id="bill" placeholder="Australia Act 1986"></textarea>
+                        <p class="hint">Type the bill title. The closest live item will be matched.</p>
+                    </div>
+
+                    <div class="field">
+                        <label for="speaker-list">Expected speaker order</label>
+                        <textarea id="speaker-list" placeholder="One speaker per line&#10;Hon Jane Smith&#10;Mr John Citizen"></textarea>
+                        <p class="hint">Enter the planned speaking order, one per line.</p>
+                    </div>
+
+                    <div class="speaker-timeline" id="speaker-timeline">
+                        <div class="timeline-empty">Enter speakers above to see estimated times</div>
+                    </div>
+
+                    <details class="debug">
+                        <summary>Show parsed live data</summary>
+                        <pre id="dataDump"></pre>
+                    </details>
+                </section>
+
+                <section class="panel iframe-panel">
+                    <header class="panel-header">
+                        <div>
+                            <p class="eyebrow">Reference</p>
+                            <h2>Live minutes</h2>
+                        </div>
+                        <div class="badge ghost">Official source</div>
+                    </header>
+                    <div class="iframe-shell">
+                        <iframe id="live-minutes" src="https://www.aph.gov.au/Parliamentary_Business/Chamber_documents/Live_Minutes" frameborder="0"></iframe>
+                    </div>
+                </section>
+            </main>
+
+            <footer class="page-footer">
+                <p>Have feedback or suggestions? <a href="mailto:gavindouch@gmail.com?body=Hi%20Gavin%2C%0A%0A">Email me</a></p>
+                <p>Copyright &copy; 2025 <a href="https://gavindou.ch">Gavin Douch</a></p>
+            </footer>
+        </div>
+
+        <script src="script.js"></script>
+    </body>
+</html>

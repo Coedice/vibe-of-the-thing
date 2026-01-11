@@ -18,6 +18,7 @@ build:
 format:
 	isort .
 	ruff format
+	npx eslint . --fix
 	npm run lint
 
 .PHONY: clean
