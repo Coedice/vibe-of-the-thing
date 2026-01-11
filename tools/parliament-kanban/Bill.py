@@ -7,10 +7,9 @@ from typing import List, Optional
 import requests
 import yaml
 from bs4 import BeautifulSoup
-from termcolor import colored
-
 from MP import MP
 from SystemID import SystemID
+from termcolor import colored
 
 _DOWNLOAD_RETRIES = 10
 _DOWNLOAD_DELAY_SECONDS = 30

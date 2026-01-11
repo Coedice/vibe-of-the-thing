@@ -4,12 +4,11 @@ import os
 from typing import List
 
 import requests
+from Bill import Bill
 from bs4 import BeautifulSoup
+from MP import MP
 from rich.progress import track
 from termcolor import colored
-
-from Bill import Bill
-from MP import MP
 
 SECTIONS = [
     (

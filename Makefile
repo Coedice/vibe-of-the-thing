@@ -3,6 +3,9 @@ generate:
 	@echo "Generating Parliament Kanban data"
 	uv run python tools/parliament-kanban/main.py
 
+	@echo "Generating Gov Daisy data"
+	uv run python tools/gov-daisy/generate_data.py
+
 .PHONY: build
 build:
 	@docker run --rm -v "$$PWD:/srv/jekyll" -p 8080:8080 -it jekyll/jekyll:latest /bin/sh -c " \
@@ -15,6 +18,7 @@ build:
 format:
 	isort .
 	ruff format
+	npm run lint
 
 .PHONY: clean
 clean:

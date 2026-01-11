@@ -1,10 +1,23 @@
+# Jekyll
 _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
-.bundle/
 vendor/
+Gemfile.lock
+
+# Python/uv/venv
+.venv/
+__pycache__/
 *.pyc
+uv.lock
+
+# Node/npm/ESLint
+node_modules/
+package-lock.json
+npm-debug.log*
+.eslintcache
+
+# Other
 .DS_Store
 *.tmp
-uv.lock
