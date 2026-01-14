@@ -22,22 +22,8 @@ layout: compress
         {% endfor %}
     {% endif %}
     {% if page.data_script %}
-        {% assign budget_years = '' | split: ',' %}
-        {% assign revenue_years = '' | split: ',' %}
-        {% for pair in site.data.budget %}
-            {% assign k = pair[0] %}
-            {% if k contains 'year_' %}
-                {% assign budget_years = budget_years | push: k %}
-            {% endif %}
-        {% endfor %}
-        {% for pair in site.data.revenue %}
-            {% assign k = pair[0] %}
-            {% if k contains 'year_' %}
-                {% assign revenue_years = revenue_years | push: k %}
-            {% endif %}
-        {% endfor %}
-        {% capture jsdata_budget %}{% assign comma = '' %}{% for y in budget_years %}{{ comma }}"{{ y | remove: 'year_' }}": {{ site.data.budget[y] | jsonify }}{% assign comma = ',' %}{% endfor %}{% endcapture %}
-        {% capture jsdata_revenue %}{% assign comma = '' %}{% for y in revenue_years %}{{ comma }}"{{ y | remove: 'year_' }}": {{ site.data.revenue[y] | jsonify }}{% assign comma = ',' %}{% endfor %}{% endcapture %}
+        {% capture jsdata_budget %}{% assign comma = '' %}{% for pair in site.data.budgets %}{% assign year = pair[0] %}{{ comma }}"{{ year }}": {{ pair[1] | jsonify }}{% assign comma = ',' %}{% endfor %}{% endcapture %}
+        {% capture jsdata_revenue %}{% assign comma = '' %}{% for pair in site.data.revenues %}{% assign year = pair[0] %}{{ comma }}"{{ year }}": {{ pair[1] | jsonify }}{% assign comma = ',' %}{% endfor %}{% endcapture %}
         <script>
             window.budgetData = { {{ jsdata_budget }} };
             window.revenueData = { {{ jsdata_revenue }} };

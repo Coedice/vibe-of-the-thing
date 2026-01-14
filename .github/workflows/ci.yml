@@ -24,6 +24,8 @@ jobs:
         version: "0.8.8"
         enable-cache: true
     - name: Update bill data
-      run: uv run python main.py
+      run: make kanban
+    - name: Update budget data
+      run: make budget
     - name: Add, commit, and push any changes
-      run: git add .; git diff-index --quiet HEAD || git commit -m "Update bill data"; git push
+      run: git add .; git diff-index --quiet HEAD || git commit -m "Update data"; git push

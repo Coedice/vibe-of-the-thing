@@ -182,6 +182,77 @@ def export_yearly_yaml(
             yaml.dump(out, f, sort_keys=False, allow_unicode=True)
 
 
+def export_consolidated_yaml(tree: dict, years: list[str], output_file: str) -> None:
+    """
+    Export all years' budget data to a single consolidated YAML file.
+    Each year is stored as a top-level key containing its filtered tree structure.
+    """
+    os.makedirs(
+        os.path.dirname(output_file) if os.path.dirname(output_file) else ".",
+        exist_ok=True,
+    )
+
+    def filter_for_year(node: dict, year: str, unit: str = None) -> dict | None:
+        """
+        Recursively filter the tree for a specific year, removing excluded nodes and keeping only relevant budget data.
+        If a node's value is simply the sum of its children's values, omit the value from the parent node.
+        """
+        if should_exclude(node["name"], node.get("unit", unit)):
+            return None
+        new_node = {"name": node["name"]}
+        children = []
+        if node.get("children"):
+            children = [
+                filter_for_year(child, year, child.get("unit", unit))
+                for child in node["children"]
+            ]
+            children = [
+                c for c in children if c and ("budget" in c or c.get("children"))
+            ]
+            if children:
+                new_node["children"] = children
+        # Only add budget if not just the sum of children
+        if "budget" in node and year in node["budget"]:
+            parent_val = node["budget"][year]
+            # Check if children all have budget values for this year
+            if children and all(
+                "budget" in c and isinstance(c["budget"], (int, float))
+                for c in children
+            ):
+                children_sum = sum(
+                    c["budget"]
+                    for c in children
+                    if "budget" in c and isinstance(c["budget"], (int, float))
+                )
+                # If parent's value is not exactly the sum of its children, keep it
+                if abs(parent_val - children_sum) > 1e-6:
+                    new_node["budget"] = parent_val
+            else:
+                new_node["budget"] = parent_val
+        return new_node
+
+    def add_siblings(node: dict) -> None:
+        """
+        Add a _siblings key to each child node containing a list of its siblings.
+        """
+        children = node.get("children", [])
+        for i, child in enumerate(children):
+            child["_siblings"] = [c for j, c in enumerate(children) if j != i]
+            add_siblings(child)
+
+    add_siblings(tree)
+
+    # Build consolidated data with all years
+    consolidated_data = {}
+    for year in years:
+        out = filter_for_year(tree, year)
+        consolidated_data[year] = out
+
+    # Write consolidated YAML file
+    with open(output_file, "w") as f:
+        yaml.dump(consolidated_data, f, sort_keys=False, allow_unicode=True)
+
+
 if __name__ == "__main__":
     """
     Main entry point for the script. Downloads the Excel file, parses it, builds the budget tree,
@@ -210,16 +281,16 @@ if __name__ == "__main__":
         excel_bytes, years_budget, BUDGET_SHEET_NAME
     )
 
-    # Set output directory for budget
-    output_dir_budget = os.path.abspath(
-        os.path.join(os.path.dirname(__file__), "_data", "budget")
+    # Set output file for consolidated budget data
+    output_file_budget = os.path.abspath(
+        os.path.join(os.path.dirname(__file__), "..", "..", "_data", "budgets.yml")
     )
 
-    # Export YAML files for each year (budget)
-    export_yearly_yaml(tree_budget, years_budget, output_dir_budget)
+    # Export consolidated YAML file (budget)
+    export_consolidated_yaml(tree_budget, years_budget, output_file_budget)
 
     print(
-        f"[INFO] Budget data generation complete. YAML files written to {output_dir_budget}"
+        f"[INFO] Budget data generation complete. YAML file written to {output_file_budget}"
     )
 
     # --- Revenue ---
@@ -280,14 +351,14 @@ if __name__ == "__main__":
 
     combine_net_income_tax(tree_rev)
 
-    # Set output directory for revenue
-    output_dir_rev: str = os.path.abspath(
-        os.path.join(os.path.dirname(__file__), "_data", "revenue")
+    # Set output file for consolidated revenue data
+    output_file_rev: str = os.path.abspath(
+        os.path.join(os.path.dirname(__file__), "..", "..", "_data", "revenues.yml")
     )
 
-    # Export YAML files for each year (revenue)
-    export_yearly_yaml(tree_rev, years_rev, output_dir_rev)
+    # Export consolidated YAML file (revenue)
+    export_consolidated_yaml(tree_rev, years_rev, output_file_rev)
 
     print(
-        f"[INFO] Revenue data generation complete. YAML files written to {output_dir_rev}"
+        f"[INFO] Revenue data generation complete. YAML file written to {output_file_rev}"
     )

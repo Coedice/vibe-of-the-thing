@@ -1,9 +1,9 @@
-.PHONY: generate
-generate:
-	@echo "Generating Parliament Kanban data"
+.PHONY: kanban
+kanban:
 	uv run python tools/parliament-kanban/main.py
 
-	@echo "Generating Budget Daisy data"
+.PHONY: budget
+budget:
 	uv run python tools/budget-daisy/generate_data.py
 
 .PHONY: build

@@ -462,7 +462,7 @@ pending:
   introducer_division: Hindmarsh
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7406_first-reps/toc_pdf/25104b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-26
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0024%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0023%22
 - bill_id: r7408
   title: Universities Accord (Australian Tertiary Education Commission) (Consequential
     and Transitional Provisions) Bill 2025
@@ -480,7 +480,7 @@ pending:
   introducer_division: Blaxland
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7408_first-reps/toc_pdf/25105b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-26
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0036%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0035%22
 - bill_id: r7409
   title: Treasury Laws Amendment (Genetic Testing Protections in Life Insurance and
     Other Measures) Bill 2025
@@ -510,7 +510,7 @@ pending:
   introducer_division: Fraser
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7409_first-reps/toc_pdf/25106b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-26
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0044%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0043%22
 - bill_id: r7411
   title: Corporations Amendment (Digital Assets Framework) Bill 2025
   status: Before Reps
@@ -530,7 +530,7 @@ pending:
   introducer_division: Fraser
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7411_first-reps/toc_pdf/25108b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-26
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0048%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0047%22
 - bill_id: r7412
   title: Treasury Laws Amendment (Supporting Choice in Superannuation and Other Measures)
     Bill 2025
@@ -556,7 +556,7 @@ pending:
   introducer_division: Fraser
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7412_first-reps/toc_pdf/25113b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-26
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0052%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0051%22
 - bill_id: r7413
   title: Coal Mining Industry (Long Service Leave) Legislation Amendment Bill 2025
   status: Before Reps
@@ -575,7 +575,7 @@ pending:
   introducer_division: Kingston
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7413_first-reps/toc_pdf/25112b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-26
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0028%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0027%22
 - bill_id: r7414
   title: Telecommunications Legislation Amendment (Universal Outdoor Mobile Obligation)
     Bill 2025
@@ -611,7 +611,7 @@ pending:
   introducer_division: Cowan
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7415_first-reps/toc_pdf/25110b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-26
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0040%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0039%22
 - bill_id: r7416
   title: Universities Accord (Australian Tertiary Education Commission) Bill 2025
   status: Before Reps
@@ -816,8 +816,8 @@ pending:
     \ Tribunal from: determining the amount payable to copyright owners, in respect\
     \ of published sound recordings, to one per cent of the commercial broadcaster\u2019\
     s gross earnings; and determining the amount payable by the Australian Broadcasting\
-    \ Corporation from to copyright owners, in respect of published sound recordings,\
-    \ to an amount not exceeding 0.5 cents per head of the Australian population."
+    \ Corporation to copyright owners, in respect of published sound recordings, to\
+    \ an amount not exceeding 0.5 cents per head of the Australian population."
   introducer_name: David Pocock
   introducer_party: Independent
   introducer_id: '11009'
@@ -1317,7 +1317,7 @@ pending:
   introducer_division: ACT
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1471_first-senate/toc_pdf/25S2920.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-24
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28882%2F0208%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28882%2F0207%22
 - bill_id: s1473
   title: Environment and Other Legislation Amendment (Low Emissions Future) Bill 2025
   status: Before Senate
@@ -1330,7 +1330,7 @@ pending:
     \ its functions in relation to \u2018clean emissions energy technologies\u2019\
     , which includes civil nuclear energy and nuclear technologies; and Clean Energy\
     \ Finance Corporation Act 2012 to remove the prohibition on the Clean Energy Finance\
-    \ Corporations\u2019 ability to invest in nuclear technology or nuclear power."
+    \ Corporation's ability to invest in nuclear technology or nuclear power."
   introducer_name: Jane Hume
   introducer_party: Liberal
   introducer_id: '10853'
@@ -1352,7 +1352,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1474_first-senate/toc_pdf/25S2620.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-03
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28870%2F0179%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28870%2F0180%22
 - bill_id: s1475
   title: Fair Work Amendment (Right to Work from Home) Bill 2025
   status: Before Senate
@@ -1367,7 +1367,7 @@ pending:
   introducer_division: SA
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1475_first-senate/toc_pdf/25S2720.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-05
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28876%2F0193%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28876%2F0194%22
 - bill_id: s1478
   title: National Disability Insurance Scheme Amendment (Integrity and Safeguarding)
     Bill 2025
@@ -1407,7 +1407,7 @@ pending:
   introducer_division: NSW
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1479_first-senate/toc_pdf/25S3020.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-25
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28885%2F0128%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28885%2F0127%22
 - bill_id: s1480
   title: Social Media Minimum Age Repeal Bill 2025
   status: Before Senate
@@ -1425,7 +1425,7 @@ pending:
   introducer_division: Victoria
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1480_first-senate/toc_pdf/25S3120.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-25
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28885%2F0133%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28885%2F0132%22
 - bill_id: s1481
   title: Unlocking Supply of Family Homes Bill 2025
   status: Before Senate
@@ -2184,7 +2184,7 @@ passed:
     \ providers that are delivering courses outside Australia are authorised by the\
     \ Tertiary Education Quality and Standards Agency; Higher Education Support Act\
     \ 2003 to introduce demand driven Commonwealth supported places for courses of\
-    \ study in medicine for eligible First Nations Students; and A New Tax System\
+    \ study in medicine for eligible First Nations students; and A New Tax System\
     \ (Family Assistance) (Administration) Act 1999 to: expand information gathering\
     \ powers to support the Early Education Service Delivery Prices Project; expand\
     \ authorisations for the handling of protected information; make technical amendments;\
@@ -2379,7 +2379,7 @@ passed:
     Act 1999 (the Samuel Review), the bill amends the Environment Protection and Biodiversity
     Conservation Act 1999 to: streamline the assessment and approvals process; update
     provisions relating to accreditation and bilateral agreements; provide for bioregional
-    plans; provide a framework for the Minister  to make, vary and revoke national
+    plans; provide a framework for the minister  to make, vary and revoke national
     environmental standards; make it clear that projects with unacceptable impacts
     on nationally protected matters can no longer be approved; prevent a project being
     approved unless all residual significant impacts of the action on nationally protected

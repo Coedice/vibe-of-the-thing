@@ -1,0 +1,4932 @@
+1901-02:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 0.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 0.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Customs and Excise
+        budget: 17788638.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 0.0
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 0.0
+    - name: Other non-taxation receipts
+      budget: 4789280.0
+1902-03:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 0.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 0.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Customs and Excise
+        budget: 19370306.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 0.0
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 0.0
+    - name: Other non-taxation receipts
+      budget: 4841560.0
+1903-04:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 0.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 0.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Customs and Excise
+        budget: 18211516.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 0.0
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 0.0
+    - name: Other non-taxation receipts
+      budget: 5050704.0
+1904-05:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 0.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 0.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Customs and Excise
+        budget: 17599060.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 0.0
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 0.0
+    - name: Other non-taxation receipts
+      budget: 5321676.0
+1905-06:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 0.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 0.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Customs and Excise
+        budget: 17998970.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 0.0
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 0.0
+    - name: Other non-taxation receipts
+      budget: 5759820.0
+1906-07:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 0.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 0.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Customs and Excise
+        budget: 19297324.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 0.0
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 0.0
+    - name: Other non-taxation receipts
+      budget: 6367310.0
+1907-08:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 0.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 0.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Customs and Excise
+        budget: 23290704.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 0.0
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 0.0
+    - name: Other non-taxation receipts
+      budget: 6747464.0
+1908-09:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 0.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 0.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Customs and Excise
+        budget: 21688134.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 0.0
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 0.0
+    - name: Other non-taxation receipts
+      budget: 7013550.0
+1909-10:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 0.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 0.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Customs and Excise
+        budget: 23186330.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 0.0
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 0.0
+    - name: Other non-taxation receipts
+      budget: 7895104.0
+1910-11:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 0.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 0.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Customs and Excise
+        budget: 25960888.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 2740690.000000001
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 0.0
+    - name: Other non-taxation receipts
+      budget: 8896222.0
+1911-12:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 0.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 0.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Customs and Excise
+        budget: 29420272.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 2732913.999999997
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 0.0
+    - name: Other non-taxation receipts
+      budget: 8910004.0
+1912-13:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 0.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 0.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Customs and Excise
+        budget: 31106070.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 3129588.000000002
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 0.0
+    - name: Other non-taxation receipts
+      budget: 9566968.0
+1913-14:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 0.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 0.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Customs and Excise
+        budget: 29956140.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 3219671.999999999
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 0.0
+    - name: Other non-taxation receipts
+      budget: 10288036.0
+1914-15:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 0.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 0.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Customs and Excise
+        budget: 29754508.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 3986683.9999999967
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 0.0
+    - name: Other non-taxation receipts
+      budget: 11078718.0
+1915-16:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 7865550.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 0.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Customs and Excise
+        budget: 33868206.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 5333301.999999996
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 0.0
+    - name: Other non-taxation receipts
+      budget: 14432614.0
+1916-17:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 11243900.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 0.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Customs and Excise
+        budget: 31220574.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 6589606.000000004
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 210000.0
+    - name: Other non-taxation receipts
+      budget: 18830994.0
+1917-18:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 14771028.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 1360016.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Customs and Excise
+        budget: 26448624.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 6633820.000000004
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 1025040.0
+    - name: Other non-taxation receipts
+      budget: 23402434.0
+1918-19:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 20752912.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 2413076.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Customs and Excise
+        budget: 34853940.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 6782409.999999999
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 1693084.0
+    - name: Other non-taxation receipts
+      budget: 22919346.0
+1919-20:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 25696246.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 5138024.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Customs and Excise
+        budget: 43149118.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 8220072.000000002
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 1935076.0
+    - name: Other non-taxation receipts
+      budget: 21356608.0
+1920-21:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 28702816.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 4166278.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Customs and Excise
+        budget: 63619812.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 7970080.000000003
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 2858016.0
+    - name: Other non-taxation receipts
+      budget: 23667234.0
+1921-22:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 33581364.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 2613416.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Customs and Excise
+        budget: 55260718.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 7902186.0
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 3405738.0
+    - name: Other non-taxation receipts
+      budget: 26961710.0
+1922-23:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 25809036.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 573514.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Customs and Excise
+        budget: 65744258.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 7643225.999999998
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 4029726.0
+    - name: Other non-taxation receipts
+      budget: 25596994.0
+1923-24:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 22115110.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 141292.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Customs and Excise
+        budget: 71501568.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 7946995.999999999
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 3517270.0
+    - name: Other non-taxation receipts
+      budget: 26755572.0
+1924-25:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 22272688.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: -149566.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Customs and Excise
+        budget: 74385562.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 9162696.000000011
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 5548060.0
+    - name: Other non-taxation receipts
+      budget: 26475762.0
+1925-26:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 21716092.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: -154982.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Customs and Excise
+        budget: 78397756.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 8787143.999999998
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 7585112.0
+    - name: Other non-taxation receipts
+      budget: 28210954.0
+1926-27:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 22252556.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: -56714.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Customs and Excise
+        budget: 87104956.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 8688819.999999993
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 3326590.0
+    - name: Other non-taxation receipts
+      budget: 29734628.0
+1927-28:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 20330350.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: -224472.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Customs and Excise
+        budget: 82893460.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 10276377.999999994
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 3604350.0
+    - name: Other non-taxation receipts
+      budget: 30701248.0
+1928-29:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 19682992.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: -48618.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Customs and Excise
+        budget: 82117142.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 10855462.000000004
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 3665464.0
+    - name: Other non-taxation receipts
+      budget: 33488038.000000004
+1929-30:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 22240058.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 29356.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Customs and Excise
+        budget: 83548782.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 10557354.000000004
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 3365782.0
+    - name: Other non-taxation receipts
+      budget: 34537276.0
+1930-31:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 27277698.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: -1588.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 6945708.0
+      - name: Customs and Excise
+        budget: 56590146.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 10028248.00000001
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 2774302.0
+    - name: Other non-taxation receipts
+      budget: 35519380.0
+1931-32:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 26972572.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: -67510.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 16850134.0
+      - name: Customs and Excise
+        budget: 56811592.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 7351296.000000008
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 0.0
+    - name: Other non-taxation receipts
+      budget: 32770726.000000004
+1932-33:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 21757436.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: -11500.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 18738552.0
+      - name: Customs and Excise
+        budget: 65984886.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 5822698.000000003
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 0.0
+    - name: Other non-taxation receipts
+      budget: 32529984.0
+1933-34:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 18629536.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 3134.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 17391378.0
+      - name: Customs and Excise
+        budget: 68509684.0
+      - name: Primary production taxes
+        budget: 2507914.0
+      - name: Other taxes
+        budget: 5775810.00000001
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 0.0
+    - name: Other non-taxation receipts
+      budget: 32381406.0
+1934-35:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 17523238.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: -35326.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 17108152.0
+      - name: Customs and Excise
+        budget: 75738972.0
+      - name: Primary production taxes
+        budget: 1596708.0
+      - name: Other taxes
+        budget: 5577303.999999987
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 0.0
+    - name: Other non-taxation receipts
+      budget: 34473168.0
+1935-36:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 17551124.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 41912.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 18864966.0
+      - name: Customs and Excise
+        budget: 82875434.0
+      - name: Primary production taxes
+        budget: 2301448.0
+      - name: Other taxes
+        budget: 5599728.000000009
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 0.0
+    - name: Other non-taxation receipts
+      budget: 36660492.0
+1936-37:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 17112028.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 0.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 16016853.999999998
+      - name: Customs and Excise
+        budget: 85986064.0
+      - name: Primary production taxes
+        budget: 121224.0
+      - name: Other taxes
+        budget: 6456343.999999998
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 0.0
+    - name: Other non-taxation receipts
+      budget: 39909746.0
+1937-38:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 18797006.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: -2066.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 16047771.999999998
+      - name: Customs and Excise
+        budget: 96766010.0
+      - name: Primary production taxes
+        budget: 161096.0
+      - name: Other taxes
+        budget: 6482198.000000007
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 0.0
+    - name: Other non-taxation receipts
+      budget: 40641818.0
+1938-39:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 23764880.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 0.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 18616668.0
+      - name: Customs and Excise
+        budget: 95264730.0
+      - name: Primary production taxes
+        budget: 3766736.0
+      - name: Other taxes
+        budget: 6809576.00000001
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 0.0
+    - name: Other non-taxation receipts
+      budget: 41891154.0
+1939-40:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 32860626.000000004
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 0.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 24392350.0
+      - name: Customs and Excise
+        budget: 107649812.0
+      - name: Primary production taxes
+        budget: 5140862.0
+      - name: Other taxes
+        budget: 10146397.999999998
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 0.0
+    - name: Other non-taxation receipts
+      budget: 43621186.0
+1940-41:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 86610478.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 0.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 39585360.0
+      - name: Customs and Excise
+        budget: 107559566.0
+      - name: Primary production taxes
+        budget: 3165748.0
+      - name: Other taxes
+        budget: 14014449.999999976
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 0.0
+    - name: Other non-taxation receipts
+      budget: 49984162.0
+1941-42:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 93765524.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 61362328.0
+      - name: Other income tax and withholding tax
+        children:
+        - name: Payroll tax
+          budget: 17924928.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 53660170.0
+      - name: Customs and Excise
+        budget: 113561616.0
+      - name: Primary production taxes
+        budget: 3475302.0
+      - name: Other taxes
+        budget: 15292690.0
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 0.0
+    - name: Other non-taxation receipts
+      budget: 61009990.0
+1942-43:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 186062366.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 95992176.0
+      - name: Other income tax and withholding tax
+        children:
+        - name: Payroll tax
+          budget: 20901334.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 57692510.0
+      - name: Customs and Excise
+        budget: 129756239.99999999
+      - name: Primary production taxes
+        budget: 3580652.0
+      - name: Other taxes
+        budget: 20465328.00000003
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 0.0
+    - name: Other non-taxation receipts
+      budget: 74421718.0
+1943-44:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 264929420.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 102668918.0
+      - name: Other income tax and withholding tax
+        children:
+        - name: Payroll tax
+          budget: 21805170.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 55817382.0
+      - name: Customs and Excise
+        budget: 134582832.0
+      - name: Primary production taxes
+        budget: 4050220.0000000005
+      - name: Other taxes
+        budget: 23649202.00000001
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 0.0
+    - name: Other non-taxation receipts
+      budget: 76817434.0
+1944-45:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 311364484.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 119703590.0
+      - name: Other income tax and withholding tax
+        children:
+        - name: Payroll tax
+          budget: 22176176.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 59343604.0
+      - name: Customs and Excise
+        budget: 134353342.0
+      - name: Primary production taxes
+        budget: 4141934.0
+      - name: Other taxes
+        budget: 24906388.000000022
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 0.0
+    - name: Other non-taxation receipts
+      budget: 77701346.0
+1945-46:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 278658724.0
+        - name: Individuals income tax - Social services contribution
+          budget: 40000000.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 110528432.0
+      - name: Other income tax and withholding tax
+        children:
+        - name: Payroll tax
+          budget: 22998486.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 67200350.0
+      - name: Customs and Excise
+        budget: 155921288.0
+      - name: Primary production taxes
+        budget: 4097985.9999999995
+      - name: Other taxes
+        budget: 27017146.00000001
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 0.0
+    - name: Other non-taxation receipts
+      budget: 75120584.0
+1946-47:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 206811198.0
+        - name: Individuals income tax - Social services contribution
+          budget: 102000000.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 106718682.0
+      - name: Other income tax and withholding tax
+        children:
+        - name: Payroll tax
+          budget: 27293472.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 72529170.0
+      - name: Customs and Excise
+        budget: 204492778.0
+      - name: Primary production taxes
+        budget: 37662270.0
+      - name: Other taxes
+        budget: 27874028.000000037
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 0.0
+    - name: Other non-taxation receipts
+      budget: 77131038.0
+1947-48:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 183326254.0
+        - name: Individuals income tax - Social services contribution
+          budget: 142895696.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 139578160.0
+      - name: Other income tax and withholding tax
+        children:
+        - name: Payroll tax
+          budget: 33189528.000000004
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 69457158.0
+      - name: Customs and Excise
+        budget: 231209280.0
+      - name: Primary production taxes
+        budget: 17828878.0
+      - name: Other taxes
+        budget: 28370709.99999999
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 0.0
+    - name: Other non-taxation receipts
+      budget: 85954600.0
+1948-49:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 218428034.0
+        - name: Individuals income tax - Social services contribution
+          budget: 180510130.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 145755582.0
+      - name: Other income tax and withholding tax
+        children:
+        - name: Payroll tax
+          budget: 39605848.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 78058552.0
+      - name: Customs and Excise
+        budget: 252398430.0
+      - name: Primary production taxes
+        budget: 38658142.0
+      - name: Other taxes
+        budget: 27296425.99999998
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 0.0
+    - name: Other non-taxation receipts
+      budget: 128103698.00000001
+1949-50:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 190832604.0
+        - name: Individuals income tax - Social services contribution
+          budget: 201119738.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 167354904.0
+      - name: Other income tax and withholding tax
+        children:
+        - name: Payroll tax
+          budget: 45455642.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 84849160.0
+      - name: Customs and Excise
+        budget: 287765218.0
+      - name: Primary production taxes
+        budget: 28145162.0
+      - name: Other taxes
+        budget: 31396734.000000022
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 1812370.0
+    - name: Other non-taxation receipts
+      budget: 122571962.0
+1950-51:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 354927364.0
+        - name: Individuals income tax - Social services contribution
+          budget: 147916944.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 181071318.0
+      - name: Other income tax and withholding tax
+        children:
+        - name: Payroll tax
+          budget: 57442742.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 114346202.0
+      - name: Customs and Excise
+        budget: 330006996.0
+      - name: Primary production taxes
+        budget: 335455206.0
+      - name: Other taxes
+        budget: 32366794.000000026
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 4065672.0
+    - name: Other non-taxation receipts
+      budget: 125984152.0
+1951-52:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 773388386.0
+        - name: Individuals income tax - Social services contribution
+          budget: 15353010.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 301617864.0
+      - name: Other income tax and withholding tax
+        children:
+        - name: Payroll tax
+          budget: 74339992.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 190917438.0
+      - name: Customs and Excise
+        budget: 427833870.0
+      - name: Primary production taxes
+        budget: 40791574.0
+      - name: Other taxes
+        budget: 42678808.0
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 6351482.0
+    - name: Other non-taxation receipts
+      budget: 160383058.0
+1952-53:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 774392158.0
+        - name: Individuals income tax - Social services contribution
+          budget: 5474198.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 334053040.0
+      - name: Other income tax and withholding tax
+        children:
+        - name: Payroll tax
+          budget: 80342712.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 178134490.0
+      - name: Customs and Excise
+        budget: 367648360.0
+      - name: Primary production taxes
+        budget: 98294346.0
+      - name: Other taxes
+        budget: 35024353.99999993
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 8855906.0
+    - name: Other non-taxation receipts
+      budget: 197914058.0
+1953-54:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 788097602.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 268265200.0
+      - name: Other income tax and withholding tax
+        children:
+        - name: Payroll tax
+          budget: 80767578.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 191377118.0
+      - name: Customs and Excise
+        budget: 440434198.0
+      - name: Primary production taxes
+        budget: 3341250.0
+      - name: Other taxes
+        budget: 26817474.00000012
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 16046206.000000002
+    - name: Other non-taxation receipts
+      budget: 230433440.0
+1954-55:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 722849980.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 342982786.0
+      - name: Other income tax and withholding tax
+        children:
+        - name: Payroll tax
+          budget: 82909262.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 200891970.0
+      - name: Customs and Excise
+        budget: 488805446.0
+      - name: Primary production taxes
+        budget: 12305618.0
+      - name: Other taxes
+        budget: 22485872.000000056
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 23085746.0
+    - name: Other non-taxation receipts
+      budget: 238565624.0
+1955-56:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 774260574.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 373715596.0
+      - name: Other income tax and withholding tax
+        children:
+        - name: Payroll tax
+          budget: 91086886.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 220001758.0
+      - name: Customs and Excise
+        budget: 511542688.0
+      - name: Primary production taxes
+        budget: 11647142.0
+      - name: Other taxes
+        budget: 23878481.999999963
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 26986730.0
+    - name: Other non-taxation receipts
+      budget: 243596876.0
+1956-57:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 807454012.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 433142128.0
+      - name: Other income tax and withholding tax
+        children:
+        - name: Payroll tax
+          budget: 97350660.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 251502704.0
+      - name: Customs and Excise
+        budget: 572073308.0
+      - name: Primary production taxes
+        budget: 9976008.0
+      - name: Other taxes
+        budget: 29307412.0
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 25688364.0
+    - name: Other non-taxation receipts
+      budget: 397176026.0
+1957-58:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 870142032.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 430696104.0
+      - name: Other income tax and withholding tax
+        children:
+        - name: Payroll tax
+          budget: 97103152.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 275555048.0
+      - name: Customs and Excise
+        budget: 608729288.0
+      - name: Primary production taxes
+        budget: 16679486.0
+      - name: Other taxes
+        budget: 31981360.000000052
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 21112362.0
+    - name: Other non-taxation receipts
+      budget: 295543918.0
+1958-59:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 777930222.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 439389462.0
+      - name: Other income tax and withholding tax
+        children:
+        - name: Payroll tax
+          budget: 99237782.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 287233232.0
+      - name: Customs and Excise
+        budget: 617828996.0
+      - name: Primary production taxes
+        budget: 7191966.0
+      - name: Other taxes
+        budget: 30617882.000000067
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 22412568.0
+    - name: Other non-taxation receipts
+      budget: 310257640.0
+1959-60:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 884328000.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 458260000.0
+      - name: Other income tax and withholding tax
+        children:
+        - name: Payroll tax
+          budget: 110324000.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 328370000.0
+      - name: Customs and Excise
+        budget: 672984000.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 32375999.999999978
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 5284000.0
+    - name: Interest received
+      budget: 26552000.0
+    - name: Other non-taxation receipts
+      budget: 358094000.0
+1960-61:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 1036821999.9999999
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 565124000.0
+      - name: Other income tax and withholding tax
+        children:
+        - name: Payroll tax
+          budget: 122520000.0
+        budget: 134440000.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 346080000.0
+      - name: Customs and Excise
+        budget: 716826000.0
+      - name: Primary production taxes
+        budget: 6092000.0
+      - name: Other taxes
+        budget: 36629999.99999983
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 3982000.0
+    - name: Interest received
+      budget: 29176000.0
+    - name: Other non-taxation receipts
+      budget: 401620000.0
+1961-62:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 1073772000.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 565376000.0
+      - name: Other income tax and withholding tax
+        children:
+        - name: Payroll tax
+          budget: 121943000.0
+        budget: 138176000.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 297648000.0
+      - name: Customs and Excise
+        budget: 701535000.0
+      - name: Primary production taxes
+        budget: 8930000.0
+      - name: Other taxes
+        budget: 42707999.99999986
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 4105000.0000000005
+    - name: Interest received
+      budget: 34008000.0
+    - name: Other non-taxation receipts
+      budget: 418796000.0
+1962-63:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 1082622000.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 519828000.0
+      - name: Other income tax and withholding tax
+        children:
+        - name: Payroll tax
+          budget: 126510000.0
+        budget: 144439000.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 313062000.0
+      - name: Customs and Excise
+        budget: 758939000.0
+      - name: Primary production taxes
+        budget: 10149000.0
+      - name: Other taxes
+        budget: 44104000.000000045
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 3826000.0
+    - name: Interest received
+      budget: 43524000.0
+    - name: Other non-taxation receipts
+      budget: 461748000.0
+1963-64:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 1271063000.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 586260000.0
+      - name: Other income tax and withholding tax
+        children:
+        - name: Payroll tax
+          budget: 136443000.0
+        budget: 152379000.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 325189000.0
+      - name: Customs and Excise
+        budget: 814961000.0
+      - name: Primary production taxes
+        budget: 11004000.0
+      - name: Other taxes
+        budget: 48497000.00000013
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 5077000.0
+    - name: Interest received
+      budget: 46851000.0
+    - name: Other non-taxation receipts
+      budget: 549028000.0
+1964-65:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 1569483000.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 709044000.0
+      - name: Other income tax and withholding tax
+        children:
+        - name: Payroll tax
+          budget: 150078000.0
+        budget: 166117000.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 362857000.0
+      - name: Customs and Excise
+        budget: 899642000.0
+      - name: Primary production taxes
+        budget: 19515000.0
+      - name: Other taxes
+        budget: 51181999.99999973
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 5118000.0
+    - name: Interest received
+      budget: 48394000.0
+    - name: Other non-taxation receipts
+      budget: 588131000.0
+1965-66:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 1729440000.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 801105000.0
+      - name: Other income tax and withholding tax
+        children:
+        - name: Payroll tax
+          budget: 161943000.0
+        budget: 179190000.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 370005000.0
+      - name: Customs and Excise
+        budget: 1022799000.0
+      - name: Primary production taxes
+        budget: 28833000.0
+      - name: Other taxes
+        budget: 44661999.99999992
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 5197000.0
+    - name: Interest received
+      budget: 51440000.0
+    - name: Other non-taxation receipts
+      budget: 648619000.0
+1966-67:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 1920603000.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 781925000.0
+      - name: Other income tax and withholding tax
+        children:
+        - name: Payroll tax
+          budget: 172232000.0
+        budget: 194940000.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 380657000.0
+      - name: Customs and Excise
+        budget: 1081317000.0
+      - name: Primary production taxes
+        budget: 30764000.0
+      - name: Other taxes
+        budget: 53455000.0000001
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 14517000.0
+    - name: Interest received
+      budget: 99983000.0
+    - name: Other non-taxation receipts
+      budget: 770178000.0
+1967-68:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 2175249000.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 833042000.0
+      - name: Other income tax and withholding tax
+        children:
+        - name: Payroll tax
+          budget: 184416000.0
+        budget: 207042000.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 416626000.0
+      - name: Customs and Excise
+        budget: 1167389000.0
+      - name: Primary production taxes
+        budget: 31650000.0
+      - name: Other taxes
+        budget: 67769999.99999999
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 11188000.0
+    - name: Interest received
+      budget: 111989000.0
+    - name: Other non-taxation receipts
+      budget: 823206000.0
+1968-69:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Individuals income tax - Individuals
+          budget: 2377406000.0
+        - name: Net income tax
+          budget: 0
+      - name: Company tax
+        budget: 1006543000.0
+      - name: Other income tax and withholding tax
+        children:
+        - name: Payroll tax
+          budget: 205568000.0
+        budget: 238327000.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 493910000.0
+      - name: Customs and Excise
+        budget: 1248795000.0
+      - name: Primary production taxes
+        budget: 33406999.999999996
+      - name: Other taxes
+        budget: 74252999.99999999
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 5724000.0
+    - name: Interest received
+      budget: 159592000.0
+    - name: Other non-taxation receipts
+      budget: 451482000.0
+1969-70:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross PAYE/PAYG withholding
+          budget: 2524673000.0
+        - name: Other
+          budget: 773917000.0
+        - name: Net income tax
+          budget: -440454000.0
+      - name: Company tax
+        budget: 1151364000.0
+      - name: Other income tax and withholding tax
+        children:
+        - name: Payroll tax
+          budget: 230468000.0
+        budget: 276490000.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 567359000.0
+      - name: Customs and Excise
+        budget: 1354199000.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 79884999.99999988
+  - name: Non-taxation receipts
+    children:
+    - name: Other non-taxation receipts
+      budget: 793673000.0
+1970-71:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross PAYE/PAYG withholding
+          budget: 2939073000.0
+        - name: Other
+          budget: 746075000.0
+        - name: Net income tax
+          budget: -507011000.0
+      - name: Company tax
+        budget: 1395389000.0
+      - name: Other income tax and withholding tax
+        children:
+        - name: Payroll tax
+          budget: 295428000.0
+        budget: 343702000.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 633159000.0
+      - name: Customs and Excise
+        budget: 1519032000.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 80519000.00000012
+  - name: Non-taxation receipts
+    children:
+    - name: Other non-taxation receipts
+      budget: 880291000.0
+1971-72:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross PAYE/PAYG withholding
+          budget: 3492066000.0
+        - name: Other
+          budget: 880037000.0
+        - name: Net income tax
+          budget: -603519000.0
+      - name: Company tax
+        budget: 1477482000.0
+      - name: Other income tax and withholding tax
+        children:
+        - name: Payroll tax
+          budget: 99070000.0
+        budget: 156722000.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 682801000.0
+      - name: Customs and Excise
+        budget: 1679885000.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 78455000.00000004
+  - name: Non-taxation receipts
+    children:
+    - name: Other non-taxation receipts
+      budget: 1001469000.0
+1972-73:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross PAYE/PAYG withholding
+          budget: 3777100000.0
+        - name: Other
+          budget: 928000000.0
+        - name: Net income tax
+          budget: -616400000.0
+      - name: Company tax
+        budget: 1561300000.0
+      - name: Other income tax and withholding tax
+        children:
+        - name: Payroll tax
+          budget: 6300000.0
+        budget: 78900000.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 765000000.0
+      - name: Customs and Excise
+        budget: 1781900000.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 215900000.0000001
+  - name: Non-taxation receipts
+    children:
+    - name: Other non-taxation receipts
+      budget: 1028300000.0
+1973-74:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross PAYE/PAYG withholding
+          budget: 5010200000.0
+        - name: Other
+          budget: 1251900000.0
+        - name: Net income tax
+          budget: -771900000.0
+      - name: Company tax
+        budget: 1953900000.0
+      - name: Other income tax and withholding tax
+        children:
+        - name: Payroll tax
+          budget: 7700000.0
+        budget: 86900000.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 969000000.0
+      - name: Customs and Excise
+        budget: 2159100000.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 213900000.0000001
+  - name: Non-taxation receipts
+    children:
+    - name: Other non-taxation receipts
+      budget: 1064599999.9999999
+1974-75:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross PAYE/PAYG withholding
+          budget: 6918900000.0
+        - name: Other
+          budget: 1642700000.0
+        - name: Net income tax
+          budget: -847600000.0
+      - name: Company tax
+        budget: 2358800000.0
+      - name: Other income tax and withholding tax
+        children:
+        - name: Payroll tax
+          budget: 15700000.0
+        budget: 103800000.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 1154000000.0
+      - name: Customs and Excise
+        budget: 2569500000.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 184099999.9999999
+  - name: Non-taxation receipts
+    children:
+    - name: Other non-taxation receipts
+      budget: 1187900000.0
+1975-76:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross PAYE/PAYG withholding
+          budget: 8362400000.0
+        - name: Other
+          budget: 2199700000.0
+        - name: Net income tax
+          budget: -1342700000.0
+      - name: Company tax
+        budget: 2522800000.0
+      - name: Other income tax and withholding tax
+        children:
+        - name: Payroll tax
+          budget: 19700000.0
+        budget: 114700000.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 1408000000.0
+      - name: Customs and Excise
+        budget: 3375600000.0000005
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 202800000.00000018
+  - name: Non-taxation receipts
+    children:
+    - name: Other non-taxation receipts
+      budget: 1431699999.9999998
+1976-77:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross PAYE/PAYG withholding
+          budget: 9811300000.0
+        - name: Other
+          budget: 2524800000.0
+        - name: Net income tax
+          budget: -1282400000.0
+      - name: Company tax
+        budget: 2824500000.0
+      - name: Other income tax and withholding tax
+        children:
+        - name: Payroll tax
+          budget: 21300000.0
+        budget: 117700000.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 1650000000.0
+      - name: Customs and Excise
+        budget: 3759300000.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 236599999.99999946
+  - name: Non-taxation receipts
+    children:
+    - name: Other non-taxation receipts
+      budget: 1741399999.9999998
+1977-78:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross PAYE/PAYG withholding
+          budget: 10578500000.0
+        - name: Other
+          budget: 2490200000.0
+        - name: Net income tax
+          budget: -939700000.0
+      - name: Company tax
+        budget: 3095300000.0
+      - name: Other income tax and withholding tax
+        children:
+        - name: Payroll tax
+          budget: 22500000.0
+        budget: 140400000.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 1758000000.0
+      - name: Customs and Excise
+        budget: 3965800000.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 257399999.99999964
+  - name: Non-taxation receipts
+    children:
+    - name: Other non-taxation receipts
+      budget: 2122400000.0
+1978-79:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross PAYE/PAYG withholding
+          budget: 11437600000.0
+        - name: Other
+          budget: 2406200000.0
+        - name: Net income tax
+          budget: -1040000000.0
+      - name: Company tax
+        budget: 3036500000.0
+      - name: Other income tax and withholding tax
+        children:
+        - name: Payroll tax
+          budget: 16200000.0
+        budget: 130299999.99999999
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 1770000000.0
+      - name: Customs and Excise
+        budget: 5301600000.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 246000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Other non-taxation receipts
+      budget: 2278700000.0
+1979-80:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross PAYE/PAYG withholding
+          budget: 13287400000.0
+        - name: Other
+          budget: 2879800000.0
+        - name: Net income tax
+          budget: -1127100000.0
+        budget: 15040099999.999998
+      - name: Company tax
+        budget: 3406500000.0
+      - name: Other income tax and withholding tax
+        children:
+        - name: Payroll tax
+          budget: 15700000.0
+        budget: 156799999.99999997
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 1865000000.0
+      - name: Customs and Excise
+        budget: 6593800000.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 242900000.00000054
+  - name: Non-taxation receipts
+    children:
+    - name: Other non-taxation receipts
+      budget: 2355600000.0
+1980-81:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross PAYE/PAYG withholding
+          budget: 15290800000.0
+        - name: Other
+          budget: 3422600000.0
+        - name: Net income tax
+          budget: -1170200000.0
+        budget: 17543199999.999996
+      - name: Company tax
+        budget: 4694700000.0
+      - name: Other income tax and withholding tax
+        children:
+        - name: Payroll tax
+          budget: 17000000.0
+        budget: 178000000.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 2102000000.0
+      - name: Customs and Excise
+        budget: 7717600000.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 231000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Other non-taxation receipts
+      budget: 2679700000.0000005
+1981-82:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross PAYE/PAYG withholding
+          budget: 18836000000.0
+        - name: Gross other individuals
+          budget: 3807000000.0
+        - name: Net income tax
+          budget: -1418000000.0
+      - name: Company tax
+        budget: 5053000000.0
+      - name: Other income tax and withholding tax
+        budget: 205000000.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 2854000000.0
+      - name: Customs and Excise
+        budget: 8150000000.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 301000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Other non-taxation receipts
+      budget: 3006000000.0
+1982-83:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross PAYE/PAYG withholding
+          budget: 20812000000.0
+        - name: Gross other individuals
+          budget: 4126000000.0
+        - name: Net income tax
+          budget: -1971000000.0
+      - name: Company tax
+        budget: 4768000000.0
+      - name: Other income tax and withholding tax
+        budget: 339000000.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 3490000000.0
+      - name: Customs and Excise
+        budget: 8908000000.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 362000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Other non-taxation receipts
+      budget: 3676000000.0
+1983-84:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross PAYE/PAYG withholding
+          budget: 22024000000.0
+        - name: Gross other individuals
+          budget: 4474000000.0
+        - name: Gross prescribed payments system
+          budget: 251000000.0
+        - name: Medicare Levy
+          budget: 365000000.0
+        - name: Net income tax
+          budget: -2403000000.0
+      - name: Company tax
+        budget: 4383000000.0
+      - name: Other income tax and withholding tax
+        budget: 557000000.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 4165000000.0
+      - name: Customs and Excise
+        budget: 10129000000.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 554000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Other non-taxation receipts
+      budget: 4112000000.0
+1984-85:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross PAYE/PAYG withholding
+          budget: 24403000000.0
+        - name: Gross other individuals
+          budget: 5334000000.0
+        - name: Gross prescribed payments system
+          budget: 412000000.0
+        - name: Medicare Levy
+          budget: 1223000000.0
+        - name: Net income tax
+          budget: -2072000000.0
+      - name: Company tax
+        budget: 5505000000.0
+      - name: Other income tax and withholding tax
+        budget: 529000000.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 4966000000.0
+      - name: Customs and Excise
+        budget: 11541000000.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 580000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Interest received
+      budget: 4567000000.0
+    - name: Other non-taxation receipts
+      budget: 4000000.0
+1985-86:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross PAYE/PAYG withholding
+          budget: 27575000000.0
+        - name: Gross other individuals
+          budget: 5695000000.0
+        - name: Gross prescribed payments system
+          budget: 515000000.0
+        - name: Medicare Levy
+          budget: 1335000000.0
+        - name: Net income tax
+          budget: -2385000000.0
+      - name: Company tax
+        budget: 6111000000.0
+      - name: Fringe benefits tax
+        budget: 0.0
+      - name: Other income tax and withholding tax
+        budget: 562000000.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 5728000000.0
+      - name: Customs and Excise
+        budget: 12544000000.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 718000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Interest received
+      budget: 3445000000.0
+    - name: Other non-taxation receipts
+      budget: 2348000000.0
+1986-87:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross PAYE/PAYG withholding
+          budget: 30657000000.0
+        - name: Gross other individuals
+          budget: 7457000000.0
+        - name: Gross prescribed payments system
+          budget: 765000000.0
+        - name: Medicare Levy
+          budget: 1715000000.0
+        - name: Net income tax
+          budget: -2520000000.0
+      - name: Company tax
+        budget: 6714000000.0
+      - name: Fringe benefits tax
+        budget: 535000000.0
+      - name: Other income tax and withholding tax
+        budget: 639000000.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 6348000000.0
+      - name: Customs and Excise
+        budget: 12574000000.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 1472000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Interest received
+      budget: 3556000000.0
+    - name: Other non-taxation receipts
+      budget: 2935000000.0
+1987-88:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross PAYE/PAYG withholding
+          budget: 33359000000.0
+        - name: Gross other individuals
+          budget: 7880000000.0
+        - name: Gross prescribed payments system
+          budget: 958000000.0
+        - name: Medicare Levy
+          budget: 2080000000.0
+        - name: Net income tax
+          budget: -2402000000.0
+      - name: Company tax
+        budget: 8801000000.0
+      - name: Fringe benefits tax
+        budget: 881000000.0
+      - name: Superannuation taxes
+        budget: 11000000.0
+      - name: Other income tax and withholding tax
+        budget: 667000000.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 7547000000.0
+      - name: Customs and Excise
+        budget: 13350000000.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 1766000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Interest received
+      budget: 3599000000.0
+    - name: Other non-taxation receipts
+      budget: 2309000000.0
+1988-89:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross PAYE/PAYG withholding
+          budget: 39106000000.0
+        - name: Gross other individuals
+          budget: 7352000000.0
+        - name: Gross prescribed payments system
+          budget: 1308000000.0
+        - name: Medicare Levy
+          budget: 2320000000.0
+        - name: Net income tax
+          budget: -2550000000.0
+      - name: Company tax
+        budget: 10265000000.0
+      - name: Fringe benefits tax
+        budget: 990000000.0
+      - name: Superannuation taxes
+        budget: 7000000.0
+      - name: Other income tax and withholding tax
+        budget: 737000000.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 9402000000.0
+      - name: Customs and Excise
+        budget: 12405000000.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 1874000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Interest received
+      budget: 3751000000.0
+    - name: Other non-taxation receipts
+      budget: 1024000000.0
+1989-90:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross PAYE/PAYG withholding
+          budget: 41322000000.0
+        - name: Gross other individuals
+          budget: 7652000000.0
+        - name: Gross prescribed payments system
+          budget: 1734000000.0
+        - name: Medicare Levy
+          budget: 2545000000.0
+        - name: Net income tax
+          budget: -3234000000.0
+      - name: Company tax
+        budget: 12926000000.0
+      - name: Fringe benefits tax
+        budget: 1168000000.0
+      - name: Resource rent taxes
+        budget: 42000000.0
+      - name: Superannuation taxes
+        budget: 376000000.0
+      - name: Other income tax and withholding tax
+        budget: 915000000.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 10132000000.0
+      - name: Customs and Excise
+        budget: 13849000000.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 1816000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Interest received
+      budget: 3470000000.0
+    - name: Other non-taxation receipts
+      budget: 1157000000.0
+1990-91:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross PAYE/PAYG withholding
+          budget: 41704000000.0
+        - name: Gross other individuals
+          budget: 8633000000.0
+        - name: Gross prescribed payments system
+          budget: 1358000000.0
+        - name: Medicare Levy
+          budget: 2480000000.0
+        - name: Net income tax
+          budget: -4007000000.0
+      - name: Company tax
+        budget: 14166000000.0
+      - name: Fringe benefits tax
+        budget: 1262000000.0
+      - name: Resource rent taxes
+        budget: 293000000.0
+      - name: Superannuation taxes
+        budget: 1053000000.0
+      - name: Other income tax and withholding tax
+        budget: 901000000.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 9365000000.0
+      - name: Customs and Excise
+        budget: 13685000000.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 2192000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Interest received
+      budget: 3302000000.0
+    - name: Other non-taxation receipts
+      budget: 1550000000.0
+1991-92:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross PAYE/PAYG withholding
+          budget: 41388000000.0
+        - name: Gross other individuals
+          budget: 8722000000.0
+        - name: Gross prescribed payments system
+          budget: 1563000000.0
+        - name: Medicare Levy
+          budget: 2385000000.0
+        - name: Net income tax
+          budget: -7516000000.0
+      - name: Company tax
+        budget: 13419000000.0
+      - name: Fringe benefits tax
+        budget: 1327000000.0
+      - name: Resource rent taxes
+        budget: 876000000.0
+      - name: Superannuation taxes
+        budget: 1139000000.0
+      - name: Other income tax and withholding tax
+        budget: 941000000.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 9113000000.0
+      - name: Customs and Excise
+        budget: 12780000000.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 1688000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Interest received
+      budget: 2971000000.0
+    - name: Other non-taxation receipts
+      budget: 2563000000.0
+1992-93:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross PAYE/PAYG withholding
+          budget: 43035000000.0
+        - name: Gross other individuals
+          budget: 7705000000.0
+        - name: Gross prescribed payments system
+          budget: 1589000000.0
+        - name: Medicare Levy
+          budget: 2415000000.0
+        - name: Net income tax
+          budget: -7433000000.0
+      - name: Company tax
+        budget: 13071000000.0
+      - name: Fringe benefits tax
+        budget: 1344000000.0
+      - name: Resource rent taxes
+        budget: 1389000000.0
+      - name: Superannuation taxes
+        budget: 1522000000.0
+      - name: Other income tax and withholding tax
+        budget: 764000000.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 9252000000.0
+      - name: Customs and Excise
+        budget: 13008000000.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 1570000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Interest received
+      budget: 2474000000.0
+    - name: Other non-taxation receipts
+      budget: 3150000000.0
+1993-94:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross PAYE/PAYG withholding
+          budget: 44451000000.0
+        - name: Gross other individuals
+          budget: 8217000000.0
+        - name: Gross prescribed payments system
+          budget: 1781000000.0
+        - name: Medicare Levy
+          budget: 2870000000.0
+        - name: Net income tax
+          budget: -6743000000.0
+      - name: Company tax
+        budget: 12700000000.0
+      - name: Fringe benefits tax
+        budget: 1417000000.0
+      - name: Resource rent taxes
+        budget: 1072000000.0
+      - name: Superannuation taxes
+        budget: 1191000000.0
+      - name: Other income tax and withholding tax
+        budget: 877000000.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 10414000000.0
+      - name: Customs and Excise
+        budget: 14040000000.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 1735000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Interest received
+      budget: 1809000000.0
+    - name: Other non-taxation receipts
+      budget: 3772000000.0
+1994-95:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross PAYE/PAYG withholding
+          budget: 48078000000.0
+        - name: Gross other individuals
+          budget: 8971000000.0
+        - name: Gross prescribed payments system
+          budget: 2049000000.0
+        - name: Medicare Levy
+          budget: 3030000000.0
+        - name: Net income tax
+          budget: -7481000000.0
+      - name: Company tax
+        budget: 15588000000.0
+      - name: Fringe benefits tax
+        budget: 2740000000.0
+      - name: Resource rent taxes
+        budget: 865000000.0
+      - name: Superannuation taxes
+        budget: 1913000000.0
+      - name: Other income tax and withholding tax
+        budget: 903000000.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 11624000000.0
+      - name: Customs and Excise
+        budget: 15474000000.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 1933000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Interest received
+      budget: 1790000000.0
+    - name: Other non-taxation receipts
+      budget: 2952000000.0
+1995-96:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross PAYE/PAYG withholding
+          budget: 53302000000.0
+        - name: Gross other individuals
+          budget: 9538000000.0
+        - name: Gross prescribed payments system
+          budget: 2059000000.0
+        - name: Medicare Levy
+          budget: 3350000000.0
+        - name: Net income tax
+          budget: -7835000000.0
+      - name: Company tax
+        budget: 18252000000.0
+      - name: Fringe benefits tax
+        budget: 3031000000.0
+      - name: Resource rent taxes
+        budget: 791000000.0
+      - name: Superannuation taxes
+        budget: 1634000000.0
+      - name: Other income tax and withholding tax
+        budget: 1349000000.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 12955000000.0
+      - name: Customs and Excise
+        budget: 15973000000.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 1988000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Interest received
+      budget: 1403000000.0
+    - name: Other non-taxation receipts
+      budget: 3899000000.0
+1996-97:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross PAYE/PAYG withholding
+          budget: 57401000000.0
+        - name: Gross other individuals
+          budget: 11110000000.0
+        - name: Gross prescribed payments system
+          budget: 2110000000.0
+        - name: Medicare Levy
+          budget: 4150000000.0
+        - name: Net income tax
+          budget: -8318000000.0
+      - name: Company tax
+        budget: 19173000000.0
+      - name: Fringe benefits tax
+        budget: 3163000000.0
+      - name: Resource rent taxes
+        budget: 1308000000.0
+      - name: Superannuation taxes
+        budget: 2595000000.0
+      - name: Other income tax and withholding tax
+        budget: 1080000000.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 13308000000.0
+      - name: Customs and Excise
+        budget: 16580000000.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 2154000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Interest received
+      budget: 1126000000.0
+    - name: Other non-taxation receipts
+      budget: 4089000000.0
+1997-98:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross PAYE/PAYG withholding
+          budget: 65705500000.0
+        - name: Gross other individuals
+          budget: 12118500000.0
+        - name: Gross prescribed payments system
+          budget: 2523700000.0
+        - name: Net income tax
+          budget: -9525400000.0
+      - name: Company tax
+        budget: 19406100000.0
+      - name: Fringe benefits tax
+        budget: 3168000000.0
+      - name: Resource rent taxes
+        budget: 907200000.0
+      - name: Superannuation taxes
+        budget: 3093400000.0
+      - name: Other income tax and withholding tax
+        budget: 1136800000.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 14085000000.0
+      - name: Customs and Excise
+        budget: 17210900000.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 2387099999.9999986
+  - name: Non-taxation receipts
+    children:
+    - name: Interest received
+      budget: 1139300000.0
+    - name: Other non-taxation receipts
+      budget: 3609800000.0
+1998-99:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross PAYE/PAYG withholding
+          budget: 71156779520.04001
+        - name: Gross other individuals
+          budget: 13102834501.930002
+        - name: Gross prescribed payments system
+          budget: 2793774256.8700004
+        - name: Net income tax
+          budget: -10324900000.0
+        budget: 76728488278.84003
+      - name: Company tax
+        budget: 20733525685.25
+      - name: Fringe benefits tax
+        budget: 3288865611.16
+      - name: Resource rent taxes
+        budget: 418884879.38
+      - name: Superannuation taxes
+        budget: 3916176239.4900002
+      - name: Other income tax and withholding tax
+        budget: 1219647426.78
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 15162000000.0
+      - name: Customs and Excise
+        budget: 17252818022.16
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 2383200000.000001
+  - name: Non-taxation receipts
+    children:
+    - name: Interest received
+      budget: 681800000.0
+    - name: Other non-taxation receipts
+      budget: 4658700000.0
+1999-00:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross PAYE/PAYG withholding
+          budget: 76506694323.89001
+        - name: Gross other individuals
+          budget: 13369624638.340002
+        - name: Gross prescribed payments system
+          budget: 3120000000.0
+        - name: Net income tax
+          budget: -10945943473.73
+      - name: Company tax
+        budget: 24453476747.660004
+      - name: Fringe benefits tax
+        budget: 3373300000.0
+      - name: Resource rent taxes
+        budget: 1183900000.0
+      - name: Superannuation taxes
+        budget: 3819939234.56
+      - name: Other income tax and withholding tax
+        budget: 1428000000.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Sales tax
+        budget: 15532000000.0
+      - name: Customs and Excise
+        budget: 17849122424.0
+      - name: Primary production taxes
+        budget: 0.0
+      - name: Other taxes
+        budget: 1004886105.280013
+  - name: Non-taxation receipts
+    children:
+    - name: Interest received
+      budget: 995000000.0
+    - name: Other non-taxation receipts
+      budget: 14137975000.000006
+2000-01:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross other individuals
+          budget: 13226000000.0
+        - name: Net income tax
+          budget: 64020000000.0
+      - name: Company tax
+        budget: 31582000000.0
+      - name: Fringe benefits tax
+        budget: 3207000000.0
+      - name: Resource rent taxes
+        budget: 2379000000.0
+      - name: Superannuation taxes
+        budget: 4800000000.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Goods and services tax
+        budget: 23776832112.0
+      - name: Sales tax
+        budget: 1929000000.0
+      - name: Customs and Excise
+        budget: 23601000000.0
+      - name: Primary production taxes
+        budget: 451000000.0
+      - name: Other taxes
+        budget: 862000000.0000037
+  - name: Non-taxation receipts
+    children:
+    - name: Interest received
+      budget: 1140000000.0
+    - name: Other non-taxation receipts
+      budget: 13651000000.0
+2001-02:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross other individuals
+          budget: 16290000000.0
+        - name: Net income tax
+          budget: 68346000000.0
+      - name: Company tax
+        budget: 27230000000.0
+      - name: Fringe benefits tax
+        budget: 3272000000.0
+      - name: Resource rent taxes
+        budget: 1361000000.0
+      - name: Superannuation taxes
+        budget: 4374000000.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Goods and services tax
+        budget: 26897788000.0
+      - name: Sales tax
+        budget: 785000000.0
+      - name: Customs and Excise
+        budget: 24241000000.0
+      - name: Primary production taxes
+        budget: 550000000.0
+      - name: Other taxes
+        budget: 1095000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Interest received
+      budget: 918000000.0
+    - name: Other non-taxation receipts
+      budget: 14062000000.0
+2002-03:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross other individuals
+          budget: 17436000000.0
+        - name: Net income tax
+          budget: 72483000000.0
+      - name: Company tax
+        budget: 32752000000.0
+      - name: Fringe benefits tax
+        budget: 3103000000.0
+      - name: Resource rent taxes
+        budget: 1712000000.0
+      - name: Superannuation taxes
+        budget: 4840000000.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Goods and services tax
+        budget: 30698866000.0
+      - name: Sales tax
+        budget: 858000000.0
+      - name: Customs and Excise
+        budget: 25715000000.0
+      - name: Primary production taxes
+        budget: 586000000.0
+      - name: Other taxes
+        budget: 1176000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Interest received
+      budget: 982000000.0
+    - name: Other non-taxation receipts
+      budget: 14504000000.0
+2003-04:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross other individuals
+          budget: 19935000000.0
+        - name: Net income tax
+          budget: 77313000000.0
+      - name: Company tax
+        budget: 36101000000.0
+      - name: Fringe benefits tax
+        budget: 3226000000.0
+      - name: Resource rent taxes
+        budget: 1168000000.0
+      - name: Superannuation taxes
+        budget: 5552000000.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Goods and services tax
+        budget: 33194977485.8725
+      - name: Wine equalisation tax
+        budget: 704000000.0
+      - name: Luxury car tax
+        budget: 335000000.0
+      - name: Customs and Excise
+        budget: 26117000000.0
+      - name: Primary production taxes
+        budget: 603000000.0
+      - name: Other taxes
+        budget: 1191000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 3223000000.0
+    - name: Interest received
+      budget: 1056000000.0
+    - name: Other non-taxation receipts
+      budget: 10450000000.0
+2004-05:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross other individuals
+          budget: 22554000000.0
+        - name: Net income tax
+          budget: 83570000000.0
+      - name: Company tax
+        budget: 40404000000.0
+      - name: Fringe benefits tax
+        budget: 3703000000.0
+      - name: Resource rent taxes
+        budget: 1459000000.0
+      - name: Superannuation taxes
+        budget: 6247000000.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Goods and services tax
+        budget: 35062574000.00002
+      - name: Wine equalisation tax
+        budget: 682000000.0
+      - name: Luxury car tax
+        budget: 298000000.0
+      - name: Customs and Excise
+        budget: 26900000000.0
+      - name: Primary production taxes
+        budget: 584000000.0
+      - name: Other taxes
+        budget: 1775000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 3838000000.0
+    - name: Interest received
+      budget: 1400000000.0
+    - name: Other non-taxation receipts
+      budget: 10547000000.0
+2005-06:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross other individuals
+          budget: 24895000000.0
+        - name: Net income tax
+          budget: 87876000000.0
+      - name: Company tax
+        budget: 48959924967.17
+      - name: Fringe benefits tax
+        budget: 4049000000.0
+      - name: Resource rent taxes
+        budget: 1917000000.0
+      - name: Superannuation taxes
+        budget: 6367506879.66
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Goods and services tax
+        budget: 37441701693.34748
+      - name: Wine equalisation tax
+        budget: 656038409.96
+      - name: Luxury car tax
+        budget: 322428176.33
+      - name: Customs and Excise
+        budget: 26301584828.22
+      - name: Primary production taxes
+        budget: 610067000.0
+      - name: Other taxes
+        budget: 1964157280.5311007
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 4360177000.0
+    - name: Interest received
+      budget: 2324869355.0000005
+    - name: Other non-taxation receipts
+      budget: 11231235433.230001
+2006-07:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross other individuals
+          budget: 25797000000.0
+        - name: Net income tax
+          budget: 89974000000.0
+      - name: Company tax
+        budget: 57100000000.0
+      - name: Fringe benefits tax
+        budget: 3761000000.0
+      - name: Resource rent taxes
+        budget: 1510000000.0
+      - name: Superannuation taxes
+        budget: 8211000000.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Goods and services tax
+        budget: 39614000000.0
+      - name: Wine equalisation tax
+        budget: 650000000.0
+      - name: Luxury car tax
+        budget: 364000000.0
+      - name: Customs and Excise
+        budget: 27812000000.0
+      - name: Primary production taxes
+        budget: 608000000.0
+      - name: Other taxes
+        budget: 1993000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 3197000000.0
+    - name: Interest received
+      budget: 3731000000.0
+    - name: Other non-taxation receipts
+      budget: 8264291643.65
+2007-08:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross other individuals
+          budget: 29525000000.0
+        - name: Net income tax
+          budget: 94381000000.0
+      - name: Company tax
+        budget: 61700000000.0
+      - name: Fringe benefits tax
+        budget: 3856000000.0
+      - name: Resource rent taxes
+        budget: 1686000000.0
+      - name: Superannuation taxes
+        budget: 12054000000.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Goods and services tax
+        budget: 42424000000.0
+      - name: Wine equalisation tax
+        budget: 665000000.0
+      - name: Luxury car tax
+        budget: 452000000.0
+      - name: Customs and Excise
+        budget: 29288000000.0
+      - name: Primary production taxes
+        budget: 611000000.0
+      - name: Other taxes
+        budget: 2675000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 4769000000.0
+    - name: Other non-taxation receipts
+      budget: 10831000000.0
+2008-09:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross other individuals
+          budget: 30030000000.0
+        - name: Net income tax
+          budget: 92330000000.0
+      - name: Company tax
+        budget: 60391000000.0
+      - name: Fringe benefits tax
+        budget: 3399000000.0
+      - name: Resource rent taxes
+        budget: 2184000000.0
+      - name: Superannuation taxes
+        budget: 9217000000.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Goods and services tax
+        budget: 41335000000.0
+      - name: Wine equalisation tax
+        budget: 693000000.0
+      - name: Luxury car tax
+        budget: 393000000.0
+      - name: Customs and Excise
+        budget: 30188000000.0
+      - name: Primary production taxes
+        budget: 620000000.0
+      - name: Other taxes
+        budget: 2894000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 5166000000.0
+    - name: Other non-taxation receipts
+      budget: 13760000000.0
+2009-10:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross other individuals
+          budget: 25928000000.0
+        - name: Net income tax
+          budget: 94142000000.0
+      - name: Company tax
+        budget: 52209000000.0
+      - name: Fringe benefits tax
+        budget: 3504000000.0
+      - name: Resource rent taxes
+        budget: 1251000000.0
+      - name: Superannuation taxes
+        budget: 6099000000.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Goods and services tax
+        budget: 43967000000.0
+      - name: Wine equalisation tax
+        budget: 733000000.0
+      - name: Luxury car tax
+        budget: 472000000.0
+      - name: Customs and Excise
+        budget: 29780000000.0
+      - name: Primary production taxes
+        budget: 395000000.0
+      - name: Other taxes
+        budget: 3688000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 4025000000.0
+    - name: Other non-taxation receipts
+      budget: 18470000000.0
+2010-11:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross other individuals
+          budget: 27795000000.0
+        - name: Net income tax
+          budget: 104943000000.0
+      - name: Company tax
+        budget: 56262000000.0
+      - name: Fringe benefits tax
+        budget: 3303000000.0
+      - name: Resource rent taxes
+        budget: 806000000.0
+      - name: Superannuation taxes
+        budget: 6519000000.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Goods and services tax
+        budget: 46083000000.0
+      - name: Wine equalisation tax
+        budget: 722000000.0
+      - name: Luxury car tax
+        budget: 483000000.0
+      - name: Customs and Excise
+        budget: 31184000000.0
+      - name: Primary production taxes
+        budget: 445000000.0
+      - name: Other taxes
+        budget: 3559000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 4943000000.0
+    - name: Other non-taxation receipts
+      budget: 14975000000.0
+2011-12:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross other individuals
+          budget: 31141000000.0
+        - name: Net income tax
+          budget: 117233000000.0
+      - name: Company tax
+        budget: 66584000000.0
+      - name: Fringe benefits tax
+        budget: 3731000000.0
+      - name: Resource rent taxes
+        budget: 1463000000.0
+      - name: Superannuation taxes
+        budget: 7562000000.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Goods and services tax
+        budget: 45861000000.0
+      - name: Wine equalisation tax
+        budget: 708000000.0
+      - name: Luxury car tax
+        budget: 435000000.0
+      - name: Customs and Excise
+        budget: 32540000000.0
+      - name: Primary production taxes
+        budget: 421000000.0
+      - name: Other taxes
+        budget: 3589000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 4267000000.0
+    - name: Other non-taxation receipts
+      budget: 14339000000.0
+2012-13:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross other individuals
+          budget: 33294000000.0
+        - name: Net income tax
+          budget: 123006000000.0
+      - name: Company tax
+        budget: 66911000000.0
+      - name: Fringe benefits tax
+        budget: 3922000000.0
+      - name: Resource rent taxes
+        budget: 1817000000.0
+      - name: Superannuation taxes
+        budget: 7661000000.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Goods and services tax
+        budget: 48596000000.0
+      - name: Wine equalisation tax
+        budget: 725000000.0
+      - name: Luxury car tax
+        budget: 434000000.0
+      - name: Customs and Excise
+        budget: 33555000000.0
+      - name: Primary production taxes
+        budget: 463000000.0
+      - name: Other taxes
+        budget: 7452000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 3561000000.0
+    - name: Other non-taxation receipts
+      budget: 19656000000.0
+2013-14:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross other individuals
+          budget: 34787000000.0
+        - name: Net income tax
+          budget: 128804000000.0
+      - name: Company tax
+        budget: 67273000000.0
+      - name: Fringe benefits tax
+        budget: 4077000000.0
+      - name: Resource rent taxes
+        budget: 1511000000.0
+      - name: Superannuation taxes
+        budget: 6101000000.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Goods and services tax
+        budget: 51394000000.0
+      - name: Wine equalisation tax
+        budget: 766000000.0
+      - name: Luxury car tax
+        budget: 464000000.0
+      - name: Customs and Excise
+        budget: 35321000000.0
+      - name: Primary production taxes
+        budget: 495000000.0
+      - name: Other taxes
+        budget: 9291000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 3128000000.0
+    - name: Other non-taxation receipts
+      budget: 16910000000.0
+2014-15:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross other individuals
+          budget: 38541000000.0
+        - name: Net income tax
+          budget: 139319000000.0
+      - name: Company tax
+        budget: 66174000000.0
+      - name: Fringe benefits tax
+        budget: 4347000000.0
+      - name: Resource rent taxes
+        budget: 1870000000.0
+      - name: Superannuation taxes
+        budget: 5873000000.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Goods and services tax
+        budget: 54542000000.0
+      - name: Wine equalisation tax
+        budget: 792000000.0
+      - name: Luxury car tax
+        budget: 520000000.0
+      - name: Customs and Excise
+        budget: 34566000000.0
+      - name: Primary production taxes
+        budget: 515000000.0
+      - name: Other taxes
+        budget: 6821000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 3056000000.0
+    - name: Other non-taxation receipts
+      budget: 21362000000.0
+2015-16:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross other individuals
+          budget: 41746000000.0
+        - name: Net income tax
+          budget: 145355000000.0
+      - name: Company tax
+        budget: 62897000000.0
+      - name: Fringe benefits tax
+        budget: 4368000000.0
+      - name: Resource rent taxes
+        budget: 741000000.0
+      - name: Superannuation taxes
+        budget: 6834000000.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Goods and services tax
+        budget: 57457000000.0
+      - name: Wine equalisation tax
+        budget: 854000000.0
+      - name: Luxury car tax
+        budget: 602000000.0
+      - name: Customs and Excise
+        budget: 35425000000.0
+      - name: Primary production taxes
+        budget: 517000000.0
+      - name: Other taxes
+        budget: 5593000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 2936000000.0
+    - name: Other non-taxation receipts
+      budget: 21601000000.0
+2016-17:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross other individuals
+          budget: 42871000000.0
+        - name: Net income tax
+          budget: 150991000000.0
+      - name: Company tax
+        budget: 68390000000.0
+      - name: Fringe benefits tax
+        budget: 4046000000.0
+      - name: Resource rent taxes
+        budget: 981000000.0
+      - name: Superannuation taxes
+        budget: 8218000000.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Goods and services tax
+        budget: 60023000000.0
+      - name: Wine equalisation tax
+        budget: 842000000.0
+      - name: Luxury car tax
+        budget: 664000000.0
+      - name: Customs and Excise
+        budget: 35837000000.0
+      - name: Primary production taxes
+        budget: 547000000.0
+      - name: Other taxes
+        budget: 5860000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 0.0
+    - name: Interest received
+      budget: 2925000000.0
+    - name: Other non-taxation receipts
+      budget: 27672000000.0
+2017-18:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross other individuals
+          budget: 43866000000.0
+        - name: Net income tax
+          budget: 163127000000.0
+      - name: Company tax
+        budget: 84591000000.0
+      - name: Fringe benefits tax
+        budget: 3911000000.0
+      - name: Resource rent taxes
+        budget: 1116000000.0
+      - name: Superannuation taxes
+        budget: 10804000000.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Goods and services tax
+        budget: 63235000000.0
+      - name: Wine equalisation tax
+        budget: 894000000.0
+      - name: Luxury car tax
+        budget: 695000000.0
+      - name: Customs and Excise
+        budget: 38356000000.0
+      - name: Primary production taxes
+        budget: 555000000.0
+      - name: Other taxes
+        budget: 6903000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 5407000000.0
+    - name: Interest received
+      budget: 3433000000.0
+    - name: Other non-taxation receipts
+      budget: 20013000000.0
+2018-19:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross other individuals
+          budget: 48423000000.0
+        - name: Net income tax
+          budget: 175250000000.0
+      - name: Company tax
+        budget: 93660000000.0
+      - name: Fringe benefits tax
+        budget: 3794000000.0
+      - name: Resource rent taxes
+        budget: 1053000000.0
+      - name: Superannuation taxes
+        budget: 11269000000.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Goods and services tax
+        budget: 65204000000.0
+      - name: Wine equalisation tax
+        budget: 982000000.0
+      - name: Luxury car tax
+        budget: 675000000.0
+      - name: Customs and Excise
+        budget: 39227000000.0
+      - name: Primary production taxes
+        budget: 556000000.0
+      - name: Other taxes
+        budget: 8486000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 8943000000.0
+    - name: Interest received
+      budget: 3803000000.0
+    - name: Other non-taxation receipts
+      budget: 23962000000.0
+2019-20:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross other individuals
+          budget: 43713000000.0
+        - name: Net income tax
+          budget: 178207000000.0
+      - name: Company tax
+        budget: 84781000000.0
+      - name: Fringe benefits tax
+        budget: 3850000000.0
+      - name: Resource rent taxes
+        budget: 1052000000.0
+      - name: Superannuation taxes
+        budget: 6267000000.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Goods and services tax
+        budget: 60263000000.0
+      - name: Wine equalisation tax
+        budget: 959000000.0
+      - name: Luxury car tax
+        budget: 570000000.0
+      - name: Customs and Excise
+        budget: 43147000000.0
+      - name: Primary production taxes
+        budget: 469000000.0
+      - name: Other taxes
+        budget: 8497000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 7007000000.0
+    - name: Interest received
+      budget: 3244000000.0
+    - name: Other non-taxation receipts
+      budget: 27373000000.0
+2020-21:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross other individuals
+          budget: 48769000000.0
+        - name: Net income tax
+          budget: 184192000000.0
+      - name: Company tax
+        budget: 98786000000.0
+      - name: Fringe benefits tax
+        budget: 3569000000.0
+      - name: Resource rent taxes
+        budget: 786000000.0
+      - name: Superannuation taxes
+        budget: 12956000000.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Goods and services tax
+        budget: 72932000000.0
+      - name: Wine equalisation tax
+        budget: 1119000000.0
+      - name: Luxury car tax
+        budget: 914000000.0
+      - name: Customs and Excise
+        budget: 42582000000.0
+      - name: Primary production taxes
+        budget: 525000000.0
+      - name: Other taxes
+        budget: 6720000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 9757000000.0
+    - name: Interest received
+      budget: 2812000000.0
+    - name: Other non-taxation receipts
+      budget: 33495000000.0
+2021-22:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross other individuals
+          budget: 57432000000.0
+        - name: Net income tax
+          budget: 201621000000.0
+        budget: 259052000000.0
+      - name: Company tax
+        budget: 123308000000.0
+      - name: Fringe benefits tax
+        budget: 3331000000.0
+      - name: Resource rent taxes
+        budget: 1638000000.0
+      - name: Superannuation taxes
+        budget: 26546000000.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Goods and services tax
+        budget: 73498000000.0
+      - name: Wine equalisation tax
+        budget: 1100000000.0
+      - name: Luxury car tax
+        budget: 960000000.0
+      - name: Customs and Excise
+        budget: 39126000000.0
+      - name: Primary production taxes
+        budget: 626000000.0
+      - name: Other taxes
+        budget: 7401000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 11564000000.0
+    - name: Interest received
+      budget: 2446000000.0
+    - name: Other non-taxation receipts
+      budget: 33761000000.0
+2022-23:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross other individuals
+          budget: 69407000000.0
+        - name: Net income tax
+          budget: 227250000000.0
+        budget: 296658000000.0
+      - name: Company tax
+        budget: 151068000000.0
+      - name: Fringe benefits tax
+        budget: 4009000000.0
+      - name: Resource rent taxes
+        budget: 2287000000.0
+      - name: Superannuation taxes
+        budget: 10406000000.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Goods and services tax
+        budget: 81518000000.0
+      - name: Wine equalisation tax
+        budget: 1107000000.0
+      - name: Luxury car tax
+        budget: 1143000000.0
+      - name: Customs and Excise
+        budget: 43029000000.0
+      - name: Primary production taxes
+        budget: 666000000.0
+      - name: Other taxes
+        budget: 9411000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 5164000000.0
+    - name: Interest received
+      budget: 7009000000.0
+    - name: Other non-taxation receipts
+      budget: 36004000000.0
+2023-24:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross other individuals
+          budget: 74198707190.06999
+        - name: Net income tax
+          budget: 257314126633.82
+      - name: Company tax
+        budget: 141176864410.12
+      - name: Fringe benefits tax
+        budget: 4631851625.830001
+      - name: Resource rent taxes
+        budget: 1144281956.4800003
+      - name: Superannuation taxes
+        budget: 12465223543.05
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Goods and services tax
+        budget: 85031292485.36
+      - name: Wine equalisation tax
+        budget: 1091185906.26
+      - name: Luxury car tax
+        budget: 1252742270.2600002
+      - name: Customs and Excise
+        budget: 43513513286.31004
+      - name: Primary production taxes
+        budget: 637326000.0
+      - name: Other taxes
+        budget: 10943335692.439962
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 6412240000.0
+    - name: Interest received
+      budget: 10509154000.0
+    - name: Other non-taxation receipts
+      budget: 38263587000.0
+2024-25:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross other individuals
+          budget: 80500000000.0
+        - name: Net income tax
+          budget: 254400000000.0
+      - name: Company tax
+        budget: 133500000000.0
+      - name: Fringe benefits tax
+        budget: 4950000000.0
+      - name: Resource rent taxes
+        budget: 1450000000.0
+      - name: Superannuation taxes
+        budget: 22810000000.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Goods and services tax
+        budget: 89400000000.0
+      - name: Wine equalisation tax
+        budget: 1110000000.0
+      - name: Luxury car tax
+        budget: 1170000000.0
+      - name: Customs and Excise
+        budget: 43110000000.0
+      - name: Primary production taxes
+        budget: 735000000.0
+      - name: Other taxes
+        budget: 12108000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 7380000000.0
+    - name: Interest received
+      budget: 9520000000.0
+    - name: Other non-taxation receipts
+      budget: 41780000000.0
+2025-26:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross other individuals
+          budget: 79900000000.0
+        - name: Net income tax
+          budget: 269800000000.0
+      - name: Company tax
+        budget: 140400000000.0
+      - name: Fringe benefits tax
+        budget: 5080000000.0
+      - name: Resource rent taxes
+        budget: 1950000000.0
+      - name: Superannuation taxes
+        budget: 25560000000.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Goods and services tax
+        budget: 94234000000.0
+      - name: Wine equalisation tax
+        budget: 1200000000.0
+      - name: Luxury car tax
+        budget: 1200000000.0
+      - name: Customs and Excise
+        budget: 43800000000.0
+      - name: Primary production taxes
+        budget: 669000000.0
+      - name: Other taxes
+        budget: 12293000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 7416000000.0
+    - name: Interest received
+      budget: 9389000000.0
+    - name: Other non-taxation receipts
+      budget: 42461000000.0
+2026-27:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross other individuals
+          budget: 84900000000.0
+        - name: Net income tax
+          budget: 285100000000.0
+      - name: Company tax
+        budget: 144500000000.0
+      - name: Fringe benefits tax
+        budget: 5110000000.0
+      - name: Resource rent taxes
+        budget: 1800000000.0
+      - name: Superannuation taxes
+        budget: 26110000000.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Goods and services tax
+        budget: 99309000000.0
+      - name: Wine equalisation tax
+        budget: 1240000000.0
+      - name: Luxury car tax
+        budget: 1270000000.0
+      - name: Customs and Excise
+        budget: 44990000000.0
+      - name: Primary production taxes
+        budget: 684000000.0
+      - name: Other taxes
+        budget: 12543000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 7766000000.0
+    - name: Interest received
+      budget: 8939000000.0
+    - name: Other non-taxation receipts
+      budget: 41710000000.0
+2027-28:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross other individuals
+          budget: 90700000000.0
+        - name: Net income tax
+          budget: 302400000000.0
+      - name: Company tax
+        budget: 144000000000.0
+      - name: Fringe benefits tax
+        budget: 5220000000.0
+      - name: Resource rent taxes
+        budget: 1650000000.0
+      - name: Superannuation taxes
+        budget: 26110000000.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Goods and services tax
+        budget: 104868000000.0
+      - name: Wine equalisation tax
+        budget: 1300000000.0
+      - name: Luxury car tax
+        budget: 1330000000.0
+      - name: Customs and Excise
+        budget: 44940000000.0
+      - name: Primary production taxes
+        budget: 691000000.0
+      - name: Other taxes
+        budget: 12729000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 8212000000.0
+    - name: Interest received
+      budget: 9798000000.0
+    - name: Other non-taxation receipts
+      budget: 43430000000.0
+2028-29:
+  name: Australian Government Budget
+  children:
+  - name: Taxation receipts
+    children:
+    - name: Income taxation receipts
+      children:
+      - name: Individuals and other withholding taxes
+        children:
+        - name: Gross other individuals
+          budget: 97700000000.0
+        - name: Net income tax
+          budget: 322600000000.0
+      - name: Company tax
+        budget: 149300000000.0
+      - name: Fringe benefits tax
+        budget: 5440000000.0
+      - name: Resource rent taxes
+        budget: 1450000000.0
+      - name: Superannuation taxes
+        budget: 28860000000.0
+      - name: Other income tax and withholding tax
+        budget: 0.0
+    - name: Indirect taxation receipts
+      children:
+      - name: Goods and services tax
+        budget: 110481000000.0
+      - name: Wine equalisation tax
+        budget: 1350000000.0
+      - name: Luxury car tax
+        budget: 1400000000.0
+      - name: Customs and Excise
+        budget: 45930000000.0
+      - name: Primary production taxes
+        budget: 712000000.0
+      - name: Other taxes
+        budget: 13044000000.0
+  - name: Non-taxation receipts
+    children:
+    - name: Dividends
+      budget: 8946000000.0
+    - name: Interest received
+      budget: 10109000000.0
+    - name: Other non-taxation receipts
+      budget: 43518000000.0
