@@ -1,6 +1,7 @@
 import io
 import os
 import re
+import time
 
 import openpyxl
 import pandas as pd
@@ -27,13 +28,24 @@ def should_exclude(name: str, unit: str = None) -> bool:
     return False
 
 
-def fetch_excel_bytes(url: str) -> io.BytesIO:
+def fetch_excel_bytes(url: str, max_retries: int = 5) -> io.BytesIO:
     """
     Download the Excel file from the given URL and return its bytes as a BytesIO object.
+    Retries with exponential backoff on transient network errors.
     """
-    response = requests.get(url)
-    response.raise_for_status()
-    return io.BytesIO(response.content)
+    for attempt in range(max_retries):
+        try:
+            response = requests.get(url, timeout=60)
+            response.raise_for_status()
+            return io.BytesIO(response.content)
+        except requests.exceptions.RequestException as e:
+            if attempt < max_retries - 1:
+                wait_time = 2 ** attempt  # Exponential backoff
+                print(f"Attempt {attempt + 1} failed: {e}. Retrying in {wait_time} seconds...")
+                time.sleep(wait_time)
+            else:
+                print(f"All attempts failed: {e}")
+                raise
 
 
 def build_budget_tree_from_excel(

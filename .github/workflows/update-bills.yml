@@ -1,4 +1,4 @@
-name: Update page with new data
+name: Update bill data
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build-and-deploy:
+  update-bill-data:
     runs-on: ubuntu-latest
     timeout-minutes: 40
     steps:
@@ -25,7 +25,5 @@ jobs:
         enable-cache: true
     - name: Update bill data
       run: make kanban
-    - name: Update budget data
-      run: make budget
     - name: Add, commit, and push any changes
-      run: git add .; git diff-index --quiet HEAD || git commit -m "Update data"; git push
+      run: git add .; git diff-index --quiet HEAD || git commit -m "Update bill data"; git push

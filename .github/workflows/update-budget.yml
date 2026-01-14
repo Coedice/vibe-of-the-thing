@@ -1,0 +1,29 @@
+name: Update budget data
+
+on:
+  schedule:
+    - cron: '0 6 1 * *' # First day of each month at 06:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-bill-data:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+    - name: Set up Git
+      uses: actions4git/setup-git@v1
+    - name: "Set up Python"
+      uses: actions/setup-python@v5
+      with:
+        python-version-file: "pyproject.toml"
+    - name: Install uv
+      uses: astral-sh/setup-uv@v6
+      with:
+        version: "0.8.8"
+        enable-cache: true
+    - name: Update budget data
+      run: make budget
+    - name: Add, commit, and push any changes
+      run: git add .; git diff-index --quiet HEAD || git commit -m "Update budget data"; git push
