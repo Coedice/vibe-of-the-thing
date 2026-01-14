@@ -18,15 +18,16 @@ columns:
 - title: "Failed"
   data: failed
 ---
+{% assign tool = site.data.tools | where: "id", page.nav | first %}
 <div class="page">
     <header class="hero">
         <div class="brand">
-            <div class="logo">📋</div>
+            <div class="logo">{{ tool.emoji | default: "📋" }}</div>
             <div>
-                <h1>{{ page.title }}</h1>
+                <h1>{{ tool.title | default: page.title }}</h1>
             </div>
         </div>
-        <p>Track all bills that have come before the current federal parliament. Data updates daily.</p>
+        <p>{{ tool.description }}</p>
     </header>
 
     {% assign filters = "" %}

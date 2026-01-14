@@ -47,9 +47,10 @@ layout: compress
             </button>
             <nav id="siteNav">
                 <a href="{{ '/' | relative_url }}" class="{% if page.nav == 'home' %}active{% endif %}">Home</a>
-                <a href="{{ '/tools/budget-daisy/' | relative_url }}" class="{% if page.nav == 'budget-daisy' %}active{% endif %}">Budget Daisy</a>
-                <a href="{{ '/tools/parliament-kanban/' | relative_url }}" class="{% if page.nav == 'parliament-kanban' %}active{% endif %}">Parliament Kanban</a>
-                <a href="{{ '/tools/when-talk/' | relative_url }}" class="{% if page.nav == 'when-talk' %}active{% endif %}">When Talk</a>
+                {% assign tools = site.data.tools | default: empty %}
+                {% for tool in tools %}
+                    <a href="{{ tool.url | relative_url }}" class="{% if page.nav == tool.id %}active{% endif %}">{{ tool.title }}</a>
+                {% endfor %}
             </nav>
         </div>
     </header>

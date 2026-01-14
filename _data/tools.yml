@@ -1,0 +1,15 @@
+- id: budget-daisy
+  title: Budget Daisy
+  url: /tools/budget-daisy/
+  emoji: "\U0001F4CA"
+  description: "Interactive sunburst visualisations of federal budgets and revenues. Explore spending patterns across government departments from 1964 onwards."
+- id: parliament-kanban
+  title: Parliament Kanban
+  url: /tools/parliament-kanban/
+  emoji: "\U0001F4CB"
+  description: "A Kanban view of all federal parliament bills. Track legislation through Pending, Passed, or Failed, and filter by party and status."
+- id: when-talk
+  title: When Talk
+  url: /tools/when-talk/
+  emoji: "\u23F1\uFE0F"
+  description: "Estimate speaking times for parliamentary proceedings. Enter a bill and expected speakers to estimate when each person will talk."

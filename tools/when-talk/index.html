@@ -8,15 +8,16 @@ styles:
 head_scripts:
   - script.js
 ---
+{% assign tool = site.data.tools | where: "id", page.nav | first %}
 <div class="page">
     <header class="hero">
         <div class="brand">
-            <div class="logo">⏱️</div>
+            <div class="logo">{{ tool.emoji | default: "⏱️" }}</div>
             <div>
-                <h1>When Talk</h1>
+                <h1>{{ tool.title | default: page.title }}</h1>
             </div>
         </div>
-        <p>Estimate speaking times for parliamentary debates.</p>
+        <p>{{ tool.description }}</p>
     </header>
     <main class="layout two-column">
         <section class="panel form-panel">
