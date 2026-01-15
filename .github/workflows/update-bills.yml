@@ -26,4 +26,15 @@ jobs:
     - name: Update bill data
       run: make kanban
     - name: Add, commit, and push any changes
-      run: git add .; git diff-index --quiet HEAD || git commit -m "Update bill data"; git push
+      run: |
+        COMMIT_MSG="Update bill data"
+        git add .
+        git diff-index --quiet HEAD && exit 0
+        if [ "$(git log -1 --pretty=%B)" = "$COMMIT_MSG" ]; then
+          git commit --amend --no-edit
+          git push --force-with-lease origin HEAD:main
+        else
+          git commit -m "$COMMIT_MSG"
+          git push
+        fi
+

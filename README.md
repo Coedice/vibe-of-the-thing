@@ -20,9 +20,9 @@ A collection of interactive tools for exploring Australian federal government da
 
 | Target | Description |
 | - | - |
+| `make build` | Build and serve the Jekyll site locally at `http://0.0.0.0:8080/` |
 | `make kanban` | Generate data for Parliament Kanban |
 | `make budget` | Generate data for Budget Daisy |
-| `make build` | Build and serve the Jekyll site locally at `http://0.0.0.0:8080/` |
 | `make format` | Format code using isort, ruff, and eslint |
 | `make clean` | Remove all generated files, caches, and dependencies |
 

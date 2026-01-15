@@ -40,8 +40,10 @@ def fetch_excel_bytes(url: str, max_retries: int = 5) -> io.BytesIO:
             return io.BytesIO(response.content)
         except requests.exceptions.RequestException as e:
             if attempt < max_retries - 1:
-                wait_time = 2 ** attempt  # Exponential backoff
-                print(f"Attempt {attempt + 1} failed: {e}. Retrying in {wait_time} seconds...")
+                wait_time = 2**attempt  # Exponential backoff
+                print(
+                    f"Attempt {attempt + 1} failed: {e}. Retrying in {wait_time} seconds..."
+                )
                 time.sleep(wait_time)
             else:
                 print(f"All attempts failed: {e}")

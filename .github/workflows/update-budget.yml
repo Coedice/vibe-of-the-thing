@@ -26,4 +26,15 @@ jobs:
     - name: Update budget data
       run: make budget
     - name: Add, commit, and push any changes
-      run: git add .; git diff-index --quiet HEAD || git commit -m "Update budget data"; git push
+      run: |
+        COMMIT_MSG="Update budget data"
+        git add .
+        git diff-index --quiet HEAD && exit 0
+        if [ "$(git log -1 --pretty=%B)" = "$COMMIT_MSG" ]; then
+          git commit --amend --no-edit
+          git push --force-with-lease origin HEAD:main
+        else
+          git commit -m "$COMMIT_MSG"
+          git push
+        fi
+
