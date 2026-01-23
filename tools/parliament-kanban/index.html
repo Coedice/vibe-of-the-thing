@@ -43,13 +43,7 @@ columns:
         {% endfor %}
 
         {% if party_has_bills %}
-            {% if party.group %}
-                {% unless filters contains party.group %}
-                    {% assign filters = filters | append: party.group | append: "|" %}
-                {% endunless %}
-            {% else %}
-                {% assign filters = filters | append: party.name | append: "|" %}
-            {% endif %}
+            {% assign filters = filters | append: party.name | append: "|" %}
         {% endif %}
     {% endfor %}
     {% assign filters = filters

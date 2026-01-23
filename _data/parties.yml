@@ -7,23 +7,19 @@
   long_name: Liberal Party
   color: "#0047ab"
   icon: "https://upload.wikimedia.org/wikipedia/en/6/65/Liberal_Party_of_Australia_logo.svg"
-  group: Coalition
   url: https://www.liberal.org.au
 - name: Liberal National Party
   color: "#1456f1"
   icon: "https://upload.wikimedia.org/wikipedia/commons/7/78/LNP_Regular.svg"
-  group: Coalition
   url: https://online.lnp.org.au
 - name: Country Liberal Party
   color: "#f8981d"
   icon: "https://upload.wikimedia.org/wikipedia/en/4/47/Logo_of_the_Country_Liberal_Party_%28CLP%29_of_the_Northern_Territory.png"
-  group: Coalition
   url: https://www.clp.org.au
 - name: Nationals
   long_name: National Party
   color: "#006644"
   icon: "https://upload.wikimedia.org/wikipedia/commons/6/64/The_National_Party_of_Australia_Logo.svg"
-  group: Coalition
   url: https://www.nationals.org.au
 - name: Greens
   long_name: Australian Greens

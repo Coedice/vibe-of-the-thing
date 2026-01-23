@@ -20,15 +20,7 @@ function childClick(event) {
     event.stopPropagation();
 }
 
-function ticketIsInCoalition(ticket) {
-    const coalitionParties = ["{{ site.data.parties | where: "group", "Coalition" | map: "name" | join: 'QQQ' | slugify | split: 'qqq' | join: '", "' }}"];
-    for (const party of coalitionParties) {
-        if (ticket.classList.contains(party)) {
-            return true;
-        }
-    }
-    return false;
-}
+
 
 function updateColumnCounts() {
     // Update column counts
@@ -62,7 +54,7 @@ function filterByParty(party) {
     // Update tickets
     const tickets = document.getElementsByClassName("ticket");
     for (const ticket of tickets) {
-        if (ticket.classList.contains(party) || party == "clear-filter" || party == "coalition" && ticketIsInCoalition(ticket)) {
+        if (ticket.classList.contains(party) || party == "clear-filter") {
             ticket.style.display = "block";
         } else {
             ticket.style.display = "none";
