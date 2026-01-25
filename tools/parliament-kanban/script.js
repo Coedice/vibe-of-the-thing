@@ -2,7 +2,7 @@
 ---
 function openBill(billId) {
     // Remove any existing active tag
-    const active_tag = document.getElementsByClassName("active")[0];
+    const active_tag = document.querySelector(".ticket.active");
     const previous_active_bill = active_tag?.id;
     if (active_tag != null) {
         active_tag.classList.remove("active");
