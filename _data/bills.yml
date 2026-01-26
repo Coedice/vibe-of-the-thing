@@ -50,7 +50,7 @@ pending:
     gas emissions and the Paris Agreement; and National Greenhouse and Energy Reporting
     Act 2007 to remove the emissions reduction safeguard mechanism'
   introducer_name: Barnaby Joyce
-  introducer_party: Nationals
+  introducer_party: One Nation
   introducer_id: '10350'
   introducer_division: New England
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7346_first-reps/toc_pdf/25050b01.pdf;fileType=application%2Fpdf
@@ -595,7 +595,7 @@ pending:
   introducer_division: Lilley
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7414_first-reps/toc_pdf/25111b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-27
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28890%2F0014%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28890%2F0013%22
 - bill_id: r7415
   title: Translating and Interpreting Services Bill 2025
   status: Before Reps
@@ -649,7 +649,7 @@ pending:
   introducer_division: Burt
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7417_first-reps/toc_pdf/25116b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-27
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28890%2F0026%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28890%2F0025%22
 - bill_id: r7418
   title: Defence and Veterans&rsquo; Service Commissioner (Consequential and Transitional
     Provisions) Bill 2025
@@ -667,7 +667,7 @@ pending:
   introducer_division: Burt
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7418_first-reps/toc_pdf/25117b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-27
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28890%2F0022%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28890%2F0021%22
 - bill_id: r7419
   title: Defence and Veterans&rsquo; Service Commissioner Bill 2025
   status: Before Reps
@@ -686,7 +686,7 @@ pending:
   introducer_division: Burt
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7419_first-reps/toc_pdf/25118b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-27
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28890%2F0018%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28890%2F0017%22
 - bill_id: s1138
   title: Plebiscite (Future Migration Level) Bill 2018
   status: Before Senate
@@ -1367,7 +1367,7 @@ pending:
   introducer_division: SA
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1475_first-senate/toc_pdf/25S2720.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-05
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28876%2F0194%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28876%2F0195%22
 - bill_id: s1478
   title: National Disability Insurance Scheme Amendment (Integrity and Safeguarding)
     Bill 2025
@@ -1382,13 +1382,13 @@ pending:
     \ and communication options; enable the National Disability Insurance Agency to\
     \ move to an entirely electronic claiming system for providers; and ensure that\
     \ plan variations can include an increase or decrease of the total funding amounts."
-  introducer_name: null
+  introducer_name: Anthony Chisholm
   introducer_party: Labor
-  introducer_id: null
-  introducer_division: null
+  introducer_id: '10849'
+  introducer_division: Queensland
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1478_first-senate/toc_pdf/2511520.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-26
-  second_reading_hansard_url: null
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28888%2F0186%22
 - bill_id: s1479
   title: Higher Education Support Amendment (Reverse Job-Ready Graduates Fee Hikes
     and End 50k Arts Degrees) Bill 2025
@@ -1443,7 +1443,7 @@ pending:
   introducer_division: Victoria
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1481_first-senate/toc_pdf/25S3320.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-26
-  second_reading_hansard_url: null
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28888%2F0169%22
 - bill_id: s1482
   title: A New Tax System (Family Assistance) Amendment (No Jab No Pay Repeal) Bill
     2025
@@ -1461,7 +1461,7 @@ pending:
   introducer_division: SA
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1482_first-senate/toc_pdf/25S3220.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-26
-  second_reading_hansard_url: null
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28888%2F0164%22
 - bill_id: s1483
   title: Defence Amendment (Sexual Assault Prevention, Intervention and Response Commission)
     Bill 2025
@@ -2415,6 +2415,36 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7404_aspassed/toc_pdf/25102b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-12-04
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28878%2F0016%22
+- bill_id: r7421
+  title: Combatting Antisemitism, Hate and Extremism (Firearms and Customs Laws) Bill
+    2026
+  status: Assent
+  type: Government
+  portfolio: Home Affairs
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Tony Burke
+  introducer_party: Labor
+  introducer_id: '10081'
+  introducer_division: Watson
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7421_aspassed/toc_pdf/26002b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-01-20
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29340%2F0011%22
+- bill_id: r7422
+  title: Combatting Antisemitism, Hate and Extremism (Criminal and Migration Laws)
+    Bill 2026
+  status: Assent
+  type: Government
+  portfolio: Attorney-General
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Michelle Rowland
+  introducer_party: Labor
+  introducer_id: '10751'
+  introducer_division: Greenway
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7422_aspassed/toc_pdf/26003b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-01-20
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29340%2F0048%22
 - bill_id: s1457
   title: Competition and Consumer Amendment (Australian Energy Regulator Separation)
     Bill 2025
