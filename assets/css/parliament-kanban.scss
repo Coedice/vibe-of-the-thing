@@ -127,11 +127,11 @@
         right: 14px;
         width: 22px;
         height: 22px;
-        content: url("{{ '../../tools/parliament-kanban/assets/images/unstarred.webp' }}");
+        content: url("{{ '../../parliament-kanban/assets/images/unstarred.webp' }}");
     }
 
     &.starred > .starIcon {
-        content: url("{{ '../../tools/parliament-kanban/assets/images/starred.webp' }}");
+        content: url("{{ '../../parliament-kanban/assets/images/starred.webp' }}");
     }
 
     &:not(.active) {

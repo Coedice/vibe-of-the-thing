@@ -9,7 +9,7 @@ export default [
       "**/*.scss",
       "**/*.css"
       ,
-      "tools/parliament-kanban/script.js"
+      "parliament-kanban/script.js"
     ]
   },
   {
@@ -39,3 +39,4 @@ export default [
     }
   }
 ];
+

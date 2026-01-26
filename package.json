@@ -12,6 +12,7 @@
     "stylelint-scss": "^6.13.0"
   },
   "scripts": {
-    "lint": "eslint tools/budget-daisy/script.js tools/parliament-kanban/script.js tools/when-talk/script.js --ext .js --fix --no-warn-ignored"
+    "lint": "eslint budget-daisy/script.js parliament-kanban/script.js when-talk/script.js --ext .js --fix --no-warn-ignored"
   }
 }
+

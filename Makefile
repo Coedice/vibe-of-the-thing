@@ -1,10 +1,10 @@
 .PHONY: kanban
 kanban:
-	uv run python tools/parliament-kanban/main.py
+	uv run python parliament-kanban/main.py
 
 .PHONY: budget
 budget:
-	uv run python tools/budget-daisy/generate_data.py
+	uv run python budget-daisy/generate_data.py
 
 .PHONY: build
 build:
@@ -36,3 +36,4 @@ clean:
 	rm -f *.pyc
 	rm -f _data/bills.yml.tmp
 	rm -f uv.lock
+
