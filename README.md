@@ -9,6 +9,7 @@ A collection of interactive tools for exploring Australian federal government da
 | **Budget Daisy** | Interactive circular/sunburst visualisation of Australian federal budgets and revenues, inspired by DaisyDisk | • Interactive sunburst chart with drill-down<br>• Year comparison & trend analysis<br>• Search & filter across categories<br>• Budget vs actual spending |
 | **Parliament Kanban** | Kanban board view of all bills in the current parliament | • Visual bill tracking<br>• Status updates<br>• Legislative progress monitoring |
 | **When Talk** | Estimate when speakers will get their turn in Federal Parliament debates | • Live debate tracking<br>• Speaker timeline visualisation<br>• Bill matching<br>• Shareable links |
+| **Everything Graph** | Customisable graph of Australian history | TBD |
 
 ### Data Sources
 
@@ -31,4 +32,3 @@ A collection of interactive tools for exploring Australian federal government da
 - Jekyll for static site generation
 - D3.js for data visualisation
 - SCSS for styling
-

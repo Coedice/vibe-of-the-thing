@@ -1,0 +1,14 @@
+---
+---
+{
+  "datasets": {
+{%- assign first = true -%}
+{%- for dataset in site.data.timeseries -%}
+{%- unless first -%},{%- endunless -%}
+{%- assign first = false -%}
+    "{{ dataset.name | slugify }}": {{ dataset | jsonify }}
+{%- endfor -%}
+  },
+  "markers": {{ site.data.markers | jsonify }},
+  "government": {{ site.data.government | jsonify }}
+}

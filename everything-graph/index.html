@@ -1,0 +1,71 @@
+---
+title: Everything Graph
+layout: default
+nav: everything-graph
+body_class: everything-graph
+styles:
+  - /assets/css/everything-graph.css
+head_scripts:
+  - https://d3js.org/d3.v7.min.js
+  - /assets/js/everything-graph.js
+---
+<main class="main-content">
+    <section class="visualization" aria-label="Timeline Chart">
+        <div id="timeline-chart" tabindex="0"></div>
+    </section>
+    <aside class="sidebar">
+        <section class="controls-section" aria-label="Controls">
+            <div class="controls" role="form" aria-label="Graph Controls">
+                <h3>Graph Features</h3>
+                <div class="control-group">
+                    <div class="feature-toggles">
+                        <div class="pill-row">
+                            {% assign features = "party-backgrounds:Party Backgrounds,pm-faces:Prime Ministers" | split: "," %}
+                            {% for feature in features %}
+                                {% assign parts = feature | split: ":" %}
+                                <button type="button" class="pill feature-pill{% if parts[0] == 'party-backgrounds' or parts[0] == 'pm-faces' %} active-filter{% endif %}" data-feature="{{ parts[0] | escape }}">{{ parts[1] | escape }}</button>
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+
+                <h3>Visual Mode</h3>
+                <div class="control-group">
+                    <div class="mode-selector">
+                        <div class="pill-row">
+                            <button type="button" class="pill mode-pill{% if mode == 'relative' or mode == nil %} active-filter{% endif %}" data-mode="relative">Relative (%)</button>
+                            <button type="button" class="pill mode-pill{% if mode == 'absolute' %} active-filter{% endif %}" data-mode="absolute">Absolute</button>
+                        </div>
+                    </div>
+                </div>
+
+                <h3>Datasets</h3>
+                <div class="control-group">
+                    <div class="dataset-tree" id="dataset-tree"></div>
+                </div>
+
+                <h3>Timeline</h3>
+                <div class="control-group">
+                    <div class="timeline-controls">
+                        <input type="date" id="start-date" class="date-input" aria-label="Start date">
+                        <span>to</span>
+                        <input type="date" id="end-date" class="date-input" aria-label="End date">
+                    </div>
+                </div>
+
+                <h3>Markers</h3>
+                <div class="control-group">
+                    <div class="marker-toggles">
+                        <div class="pill-row">
+                            {% assign marker_types = site.data.markers | map: 'type' | uniq %}
+                            {% for type in marker_types %}
+                                {% assign label = type | capitalize %}
+                                <button type="button" class="pill marker-pill" data-marker="{{ type | escape }}">{{ label | escape }}</button>
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </aside>
+</main>
