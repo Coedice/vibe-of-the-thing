@@ -10,6 +10,10 @@ budget:
 reports:
 	cd report-search && uv run python download_reports.py
 
+.PHONY: wellbeing
+wellbeing:
+	uv run python wellbeing-index/generate_data.py
+
 .PHONY: build
 build:
 	@docker run --rm -v "$$PWD:/srv/jekyll" -p 8080:8080 -it jekyll/jekyll:latest /bin/sh -c " \

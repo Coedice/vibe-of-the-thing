@@ -1,21 +1,21 @@
 - id: budget-daisy
   title: Budget Daisy
   url: /budget-daisy/
-  emoji: "\U0001F4CA"
+  emoji: "🌼"
   description: "Interactive sunburst visualisations of federal budgets and revenues. Explore spending patterns across government departments from 1964 onwards."
   data_source_url: "https://www.pbo.gov.au/publications-and-data/data-and-tools/data-portal/historical-fiscal-data"
   data_source_label: "Parliamentary Budget Office"
 - id: parliament-kanban
   title: Parliament Kanban
   url: /parliament-kanban/
-  emoji: "\U0001F4CB"
+  emoji: "📋"
   description: "A Kanban view of all federal parliament bills. Track legislation through Pending, Passed, or Failed, and filter by party and status."
   data_source_url: "https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation"
   data_source_label: "Australian Parliament"
 - id: when-talk
   title: When Talk
   url: /when-talk/
-  emoji: "\u23F1\uFE0F"
+  emoji: "⏱️"
   description: "Estimate speaking times for parliamentary proceedings. Enter a bill and expected speakers to estimate when each person will talk."
   data_source_url: "https://www.aph.gov.au/Parliamentary_Business/Chamber_documents/Live_Minutes"
   data_source_label: "Australian Parliament"
@@ -24,3 +24,9 @@
   url: /report-search/
   emoji: "🔍"
   description: "Search across reports from think tanks. Find insights and data across multiple organisations in seconds."
+
+- id: wellbeing-index
+  title: Wellbeing Index
+  url: /wellbeing-index/
+  emoji: "📈"
+  description: "A customisable wellbeing index combining economic, social, and environmental factors."

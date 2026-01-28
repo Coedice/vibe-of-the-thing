@@ -1,0 +1,30 @@
+---
+---
+{
+  "statistics": {
+{%- assign first = true -%}
+{%- assign slugify = "abcdefghijklmnopqrstuvwxyz" | split: "" -%}
+{%- for source in site.data.timeseries_sources -%}
+{%- assign slug = source.name | downcase | replace: " ", "-" | replace: "/", "-" | replace: "(", "" | replace: ")", "" -%}
+{%- assign data = site.data.timeseries_data[slug] -%}
+{%- unless first -%},{%- endunless -%}
+{%- assign first = false -%}
+    "{{ slug }}": {
+      "name": "{{ source.name }}",
+      "category": "{{ source.category }}",
+      "unit": "{{ source.unit }}",
+      "source": "{{ source.source }}",
+      "source_url": "{{ source.source_url }}",
+      "slug": "{{ slug }}",
+      "wellbeing": {
+        "weight": {{ source.weight }},
+        "inverted": {{ source.inverted }},
+        "color": "{{ source.color }}"
+      },
+      "data": {{ data | jsonify }}
+    }
+{%- endfor -%}
+  },
+  "government": {{ site.data.governments | jsonify }},
+  "party_colors": {{ site.data.party_colors | jsonify }}
+}
