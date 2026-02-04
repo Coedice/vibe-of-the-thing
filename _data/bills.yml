@@ -211,7 +211,7 @@ pending:
   introducer_id: '10751'
   introducer_division: Greenway
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7365_first-reps/toc_pdf/25066b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-02-03
+  last_updated: 2026-02-04
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28849%2F0020%22
 - bill_id: r7371
   title: Freedom of Information Amendment Bill 2025
@@ -427,7 +427,7 @@ pending:
   introducer_party: Labor
   introducer_id: '10751'
   introducer_division: Greenway
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7402_first-reps/toc_pdf/25098b01.pdf;fileType=application%2Fpdf
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7402_third-reps/toc_pdf/25098b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-02-04
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28875%2F0019%22
 - bill_id: r7403
@@ -461,7 +461,7 @@ pending:
   introducer_id: '10086'
   introducer_division: Hindmarsh
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7406_first-reps/toc_pdf/25104b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-02-03
+  last_updated: 2026-02-04
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0023%22
 - bill_id: r7408
   title: Universities Accord (Australian Tertiary Education Commission) (Consequential
@@ -529,7 +529,7 @@ pending:
   introducer_id: '10925'
   introducer_division: Fraser
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7411_first-reps/toc_pdf/25108b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-02-03
+  last_updated: 2026-02-04
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0047%22
 - bill_id: r7412
   title: Treasury Laws Amendment (Supporting Choice in Superannuation and Other Measures)
@@ -610,7 +610,7 @@ pending:
   introducer_id: '10863'
   introducer_division: Cowan
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7415_first-reps/toc_pdf/25110b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-26
+  last_updated: 2026-02-04
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0039%22
 - bill_id: r7416
   title: Universities Accord (Australian Tertiary Education Commission) Bill 2025
@@ -648,7 +648,7 @@ pending:
   introducer_id: '10861'
   introducer_division: Burt
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7417_first-reps/toc_pdf/25116b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-02-03
+  last_updated: 2026-02-04
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28890%2F0026%22
 - bill_id: r7418
   title: Defence and Veterans&rsquo; Service Commissioner (Consequential and Transitional
@@ -695,13 +695,13 @@ pending:
   portfolio: Attorney-General
   originating_house: House of Representatives
   summary: null
-  introducer_name: null
+  introducer_name: Michelle Rowland
   introducer_party: Labor
-  introducer_id: null
-  introducer_division: null
+  introducer_id: '10751'
+  introducer_division: Greenway
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7427_first-reps/toc_pdf/26008b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-02-04
-  second_reading_hansard_url: null
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29134%2F0016%22
 - bill_id: s1138
   title: Plebiscite (Future Migration Level) Bill 2018
   status: Before Senate
@@ -1493,6 +1493,20 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1483_first-senate/toc_pdf/25S3420.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-27
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28891%2F0084%22
+- bill_id: s1484
+  title: High Seas Biodiversity Bill 2026
+  status: Before Senate
+  type: Government
+  portfolio: Climate Change, Energy, the Environment and Water
+  originating_house: Senate
+  summary: null
+  introducer_name: null
+  introducer_party: Labor
+  introducer_id: null
+  introducer_division: null
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1484_first-senate/toc_pdf/2600620.pdf;fileType=application%2Fpdf
+  last_updated: 2026-02-04
+  second_reading_hansard_url: null
 - bill_id: s996
   title: Landholders&rsquo; Right to Refuse (Gas and Coal) Bill 2015
   status: Before Senate
