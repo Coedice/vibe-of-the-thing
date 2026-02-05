@@ -197,22 +197,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7364_first-reps/toc_pdf/25064b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-01
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28843%2F0024%22
-- bill_id: r7365
-  title: Administrative Review Tribunal and Other Legislation Amendment Bill 2025
-  status: Before Senate
-  type: Government
-  portfolio: Attorney-General
-  originating_house: House of Representatives
-  summary: "Amends the Administrative Review Tribunal Act 2024 and Migration Act 1958\
-    \ to expand the Administrative Review Tribunal\u2019s ability to determine matters\
-    \ without holding an oral hearing of the proceeding."
-  introducer_name: Michelle Rowland
-  introducer_party: Labor
-  introducer_id: '10751'
-  introducer_division: Greenway
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7365_first-reps/toc_pdf/25066b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-02-04
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28849%2F0020%22
 - bill_id: r7371
   title: Freedom of Information Amendment Bill 2025
   status: Before Senate
@@ -234,7 +218,7 @@ pending:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28849%2F0016%22
 - bill_id: r7375
   title: Excise Tariff Amendment (Draught Beer) Bill 2025
-  status: Before Reps
+  status: Before Senate
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
@@ -246,11 +230,11 @@ pending:
   introducer_id: '10925'
   introducer_division: Fraser
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7375_first-reps/toc_pdf/25073b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-02-04
+  last_updated: 2026-02-05
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28900%2F0029%22
 - bill_id: r7377
   title: Customs Tariff Amendment (Draught Beer) Bill 2025
-  status: Before Reps
+  status: Before Senate
   type: Government
   portfolio: Home Affairs
   originating_house: House of Representatives
@@ -262,7 +246,7 @@ pending:
   introducer_id: '10925'
   introducer_division: Fraser
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7377_first-reps/toc_pdf/25076b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-02-04
+  last_updated: 2026-02-05
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28900%2F0033%22
 - bill_id: r7378
   title: Defence Amendment (Parliamentary Joint Committee on Defence) Bill 2025
@@ -279,11 +263,11 @@ pending:
   introducer_id: '10887'
   introducer_division: Wills
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7378_first-reps/toc_pdf/25077b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-06
+  last_updated: 2026-02-05
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28900%2F0037%22
 - bill_id: r7383
   title: Corporations (Review Fees) Amendment (Technical Amendments) Bill 2025
-  status: Before Reps
+  status: Before Senate
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
@@ -295,7 +279,7 @@ pending:
   introducer_id: '10925'
   introducer_division: Fraser
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7383_first-reps/toc_pdf/25080b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-02-03
+  last_updated: 2026-02-05
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28901%2F0027%22
 - bill_id: r7385
   title: Commonwealth Parole Board Bill 2025
@@ -411,8 +395,8 @@ pending:
   last_updated: 2025-11-27
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28878%2F0020%22
 - bill_id: r7402
-  title: Copyright Amendment Bill 2025
-  status: Before Reps
+  title: Copyright Amendment Bill 2026
+  status: Before Senate
   type: Government
   portfolio: Attorney-General
   originating_house: House of Representatives
@@ -428,7 +412,7 @@ pending:
   introducer_id: '10751'
   introducer_division: Greenway
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7402_third-reps/toc_pdf/25098b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-02-04
+  last_updated: 2026-02-05
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28875%2F0019%22
 - bill_id: r7403
   title: Interactive Gambling Amendment (Ending Online Wagering on Greyhound Racing)
@@ -449,7 +433,7 @@ pending:
 - bill_id: r7406
   title: Health Legislation Amendment (Prescribing of Pharmaceutical Benefits) Bill
     2025
-  status: Before Reps
+  status: Before Senate
   type: Government
   portfolio: Health, Disability and Ageing
   originating_house: House of Representatives
@@ -461,7 +445,7 @@ pending:
   introducer_id: '10086'
   introducer_division: Hindmarsh
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7406_first-reps/toc_pdf/25104b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-02-04
+  last_updated: 2026-02-05
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0023%22
 - bill_id: r7408
   title: Universities Accord (Australian Tertiary Education Commission) (Consequential
@@ -479,7 +463,7 @@ pending:
   introducer_id: '10123'
   introducer_division: Blaxland
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7408_first-reps/toc_pdf/25105b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-26
+  last_updated: 2026-02-05
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0035%22
 - bill_id: r7409
   title: Treasury Laws Amendment (Genetic Testing Protections in Life Insurance and
@@ -513,7 +497,7 @@ pending:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0043%22
 - bill_id: r7411
   title: Corporations Amendment (Digital Assets Framework) Bill 2025
-  status: Before Reps
+  status: Before Senate
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
@@ -529,7 +513,7 @@ pending:
   introducer_id: '10925'
   introducer_division: Fraser
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7411_first-reps/toc_pdf/25108b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-02-04
+  last_updated: 2026-02-05
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0047%22
 - bill_id: r7412
   title: Treasury Laws Amendment (Supporting Choice in Superannuation and Other Measures)
@@ -598,7 +582,7 @@ pending:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28890%2F0014%22
 - bill_id: r7415
   title: Translating and Interpreting Services Bill 2025
-  status: Before Reps
+  status: Before Senate
   type: Government
   portfolio: Home Affairs
   originating_house: House of Representatives
@@ -610,7 +594,7 @@ pending:
   introducer_id: '10863'
   introducer_division: Cowan
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7415_first-reps/toc_pdf/25110b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-02-04
+  last_updated: 2026-02-05
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0039%22
 - bill_id: r7416
   title: Universities Accord (Australian Tertiary Education Commission) Bill 2025
@@ -629,7 +613,7 @@ pending:
   introducer_id: null
   introducer_division: null
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7416_first-reps/toc_pdf/25107b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-26
+  last_updated: 2026-02-05
   second_reading_hansard_url: null
 - bill_id: r7417
   title: Veterans&rsquo; Affairs Legislation Amendment (Miscellaneous Measures No.
@@ -647,7 +631,7 @@ pending:
   introducer_party: Labor
   introducer_id: '10861'
   introducer_division: Burt
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7417_first-reps/toc_pdf/25116b01.pdf;fileType=application%2Fpdf
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7417_third-reps/toc_pdf/25116b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-02-04
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28890%2F0026%22
 - bill_id: r7418
@@ -687,6 +671,65 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7419_first-reps/toc_pdf/25118b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-27
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28890%2F0018%22
+- bill_id: r7423
+  title: National Health Amendment (Passive Immunological Products) Bill 2026
+  status: Before Reps
+  type: Government
+  portfolio: Health, Disability and Ageing
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Rebecca White
+  introducer_party: Labor
+  introducer_id: '11052'
+  introducer_division: Lyons
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7423_first-reps/toc_pdf/25103b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-02-05
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29135%2F0029%22
+- bill_id: r7424
+  title: Social Security and Other Legislation Amendment (Technical Changes No. 1)
+    Bill 2026
+  status: Before Reps
+  type: Government
+  portfolio: Social Services
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Tanya Plibersek
+  introducer_party: Labor
+  introducer_id: '10513'
+  introducer_division: Sydney
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7424_first-reps/toc_pdf/26004b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-02-05
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29135%2F0013%22
+- bill_id: r7425
+  title: National Commission for Aboriginal and Torres Strait Islander Children and
+    Young People Bill 2026
+  status: Before Reps
+  type: Government
+  portfolio: Social Services
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Tanya Plibersek
+  introducer_party: Labor
+  introducer_id: '10513'
+  introducer_division: Sydney
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7425_first-reps/toc_pdf/26005b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-02-05
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29135%2F0005%22
+- bill_id: r7426
+  title: National Commission for Aboriginal and Torres Strait Islander Children and
+    Young People (Transitional Provisions) Bill 2026
+  status: Before Reps
+  type: Government
+  portfolio: Social Services
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Tanya Plibersek
+  introducer_party: Labor
+  introducer_id: '10513'
+  introducer_division: Sydney
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7426_first-reps/toc_pdf/26007b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-02-05
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29135%2F0009%22
 - bill_id: r7427
   title: Law and Justice Legislation Amendment (New South Wales Local Court) Bill
     2026
@@ -702,6 +745,48 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7427_first-reps/toc_pdf/26008b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-02-04
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29134%2F0016%22
+- bill_id: r7428
+  title: Appropriation (Parliamentary Departments) Bill (No. 2) 2025-2026
+  status: Before Reps
+  type: Government
+  portfolio: Finance
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Daniel Mulino
+  introducer_party: Labor
+  introducer_id: '10925'
+  introducer_division: Fraser
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7428_first-reps/toc_pdf/26009b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-02-05
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29135%2F0025%22
+- bill_id: r7429
+  title: Appropriation Bill (No. 4) 2025-2026
+  status: Before Reps
+  type: Government
+  portfolio: Finance
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Daniel Mulino
+  introducer_party: Labor
+  introducer_id: '10925'
+  introducer_division: Fraser
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7429_first-reps/toc_pdf/26011b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-02-05
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29135%2F0021%22
+- bill_id: r7430
+  title: Appropriation Bill (No. 3) 2025-2026
+  status: Before Reps
+  type: Government
+  portfolio: Finance
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Daniel Mulino
+  introducer_party: Labor
+  introducer_id: '10925'
+  introducer_division: Fraser
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7430_first-reps/toc_pdf/26010b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-02-05
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29135%2F0017%22
 - bill_id: s1138
   title: Plebiscite (Future Migration Level) Bill 2018
   status: Before Senate
@@ -952,22 +1037,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1427_first-senate/toc_pdf/24S1720.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-30
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28060%2F0198%22
-- bill_id: s1430
-  title: Competition and Consumer Amendment (Make Price Gouging Illegal) Bill 2024
-  status: Before Senate
-  type: Private
-  portfolio: null
-  originating_house: Senate
-  summary: Amends the Competition and Consumer Act 2010 to prohibit a corporation
-    with substantial market power from engaging in conduct that results in, or is
-    likely to result in, an excessive price being charged for a good or service.
-  introducer_name: Nick Mckim
-  introducer_party: Greens
-  introducer_id: '10841'
-  introducer_division: Tasmania
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1430_first-senate/toc_pdf/24S2020.pdf;fileType=application%2Fpdf
-  last_updated: 2025-08-26
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28046%2F0126%22
 - bill_id: s1432
   title: Interactive Gambling Amendment (Ban Gambling Ads) Bill 2024
   status: Before Senate
@@ -1500,13 +1569,42 @@ pending:
   portfolio: Climate Change, Energy, the Environment and Water
   originating_house: Senate
   summary: null
-  introducer_name: null
+  introducer_name: Katy Gallagher
   introducer_party: Labor
-  introducer_id: null
-  introducer_division: null
+  introducer_id: '10838'
+  introducer_division: ACT
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1484_first-senate/toc_pdf/2600620.pdf;fileType=application%2Fpdf
   last_updated: 2026-02-04
-  second_reading_hansard_url: null
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29200%2F0156%22
+- bill_id: s1485
+  title: Commonwealth Electoral Amendment (Banning Dirty Donations) Bill 2026
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: null
+  introducer_name: Steph Hodgins-May
+  introducer_party: Greens
+  introducer_id: '11020'
+  introducer_division: Victoria
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1485_first-senate/toc_pdf/26S0120.pdf;fileType=application%2Fpdf
+  last_updated: 2026-02-04
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29200%2F0271%22
+- bill_id: s1486
+  title: Environment and Other Legislation Amendment (Removing Nuclear Energy Prohibitions)
+    Bill 2026
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: null
+  introducer_name: Matthew Canavan
+  introducer_party: Liberal National Party
+  introducer_id: '10827'
+  introducer_division: Queensland
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1486_first-senate/toc_pdf/26S0220.pdf;fileType=application%2Fpdf
+  last_updated: 2026-02-04
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29200%2F0276%22
 - bill_id: s996
   title: Landholders&rsquo; Right to Refuse (Gas and Coal) Bill 2015
   status: Before Senate
@@ -2569,6 +2667,22 @@ failed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7359_first-reps/toc_pdf/25059b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-24
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28839%2F0009%22
+- bill_id: s1430
+  title: Competition and Consumer Amendment (Make Price Gouging Illegal) Bill 2024
+  status: Not Proceeding
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: Amends the Competition and Consumer Act 2010 to prohibit a corporation
+    with substantial market power from engaging in conduct that results in, or is
+    likely to result in, an excessive price being charged for a good or service.
+  introducer_name: Nick Mckim
+  introducer_party: Greens
+  introducer_id: '10841'
+  introducer_division: Tasmania
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1430_first-senate/toc_pdf/24S2020.pdf;fileType=application%2Fpdf
+  last_updated: 2026-02-05
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28046%2F0126%22
 - bill_id: s1463
   title: Sex Discrimination Amendment (Restoring Biological Definitions) Bill 2025
   status: Not Proceeding
