@@ -402,6 +402,25 @@ button {
     }
 }
 
+.feedback-btn {
+    align-self: flex-start;
+    display: inline-block;
+    padding: 8px 16px;
+    background: var(--accent);
+    color: white;
+    text-decoration: none;
+    border-radius: 999px;
+    font-size: 14px;
+    font-weight: 500;
+    transition: background 0.2s;
+    margin-top: 8px;
+
+    &:hover {
+        background: #1e5fc9;
+        color: white;
+    }
+}
+
 // ============================================================
 // PANELS & LAYOUTS
 // ============================================================

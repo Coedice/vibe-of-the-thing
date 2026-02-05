@@ -10,15 +10,7 @@ head_scripts:
 ---
 {% assign tool = site.data.tools | where: "id", page.nav | first %}
 <div class="page">
-    <header class="hero">
-        <div class="brand">
-            <div class="logo">{{ tool.emoji | default: "⏱️" }}</div>
-            <div>
-                <h1>{{ tool.title | default: page.title }}</h1>
-            </div>
-        </div>
-        <p>{{ tool.description }}</p>
-    </header>
+{% include hero.html nav="when-talk" %}
     <main class="layout two-column">
         <section class="panel form-panel">
             <header class="panel-header">

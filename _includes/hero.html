@@ -1,0 +1,13 @@
+{% assign tool = site.data.tools | where: "id", include.nav | first %}
+<header class="hero">
+    <div class="brand">
+        <div class="logo">{{ tool.emoji | default: include.emoji }}</div>
+        <div>
+            <h1>{{ tool.title | default: include.title }}</h1>
+        </div>
+    </div>
+    <p>{{ tool.description | default: include.description }}</p>
+    {% assign subject = "Vibe of the Thing - " | append: tool.title | append: " Feedback" | uri_encode %}
+    {% assign body = "Hi Gavin,%0A%0A" | uri_encode %}
+    <a href="mailto:gavindouch@gmail.com?subject={{ subject }}&body={{ body }}" class="feedback-btn">Send feedback</a>
+</header>
