@@ -1,13 +1,15 @@
-const url = "https://script.google.com/macros/s/AKfycbwaF6fjMSKBsactYtgMGsZRYM_Ey5ZKiW7RsIsIYic96gJVZOFS2G-wm3yV1E-8Xpvv/exec";
+const url = "https://script.google.com/macros/s/AKfycbyf7CzUyF0ouMU2oSAuuS_jmiRdqs7fowJqr1aeeiNhX1cuk2TC4zHMZwap_7X7bMbH/exec";
 const formValues = [
   "bill",
-  "speaker-list"
+  "speaker-list",
+  "chamber"
 ];
 
 let billDebates = [];
 let isFirstLoad = true;
+let selectedChamber = "house"; // "house" or "federation"
 
-function parseDoc(doc) {
+function parseDoc(doc, chamber) {
   // Get bill debate program items
   let programItems = [];
   for (const billLink of doc.getElementsByTagName("a")) {
@@ -39,6 +41,7 @@ function parseDoc(doc) {
     let billLink = programItem.getElementsByTagName("a")[0];
     billDebate.billId = billLink.getAttribute("href").match(/BillId%3A(.*?)%/)[1];
     billDebate.billName = billLink.textContent;
+    billDebate.chamber = chamber;
 
     // Get start time
     let startTime = programItem.getElementsByClassName("timeStamp")[0].textContent;
@@ -95,25 +98,26 @@ function parseDoc(doc) {
 function fetchLiveMinutes() {
   fetch(url)
     .then(response => response.text())
+    .then(data => JSON.parse(data))
     .then(data => {
       const parser = new DOMParser();
-      const doc = parser.parseFromString(data, "text/html");
+      const houseDoc = parser.parseFromString(data.house, "text/html");
+      const fedChamberDoc = parser.parseFromString(data.federationChamber, "text/html");
 
-      return doc;
-    })
-    .then(data => {
-      if (data == null) {
-        throw new Error("Data is null");
-      }
-      billDebates = parseDoc(data);
+      // Parse both chambers
+      const houseDebates = parseDoc(houseDoc, "house");
+      const fedChamberDebates = parseDoc(fedChamberDoc, "federation");
+
+      // Combine debates from both chambers
+      billDebates = [...houseDebates, ...fedChamberDebates];
       document.getElementById("dataDump").innerHTML = JSON.stringify(billDebates);
-        
+
       // Auto-populate on first load if no URL params
       if (isFirstLoad) {
         isFirstLoad = false;
         autoPopulateFromLastDebate();
       }
-        
+
       estimateTime();
     })
     .catch(error => {
@@ -156,7 +160,10 @@ function normaliseName(name) {
 function estimateTime() {
   const expectedSpeakerList = document.getElementById("speaker-list").value.split("\n").filter(line => line.trim() !== "");
   const billId = billTitleToID(document.getElementById("bill").value);
-  const billDebate = billDebates.find(billDebate => billDebate.billId === billId);
+
+  // Filter debates by selected chamber
+  const filteredDebates = billDebates.filter(d => d.chamber === selectedChamber);
+  const billDebate = filteredDebates.find(billDebate => billDebate.billId === billId);
   const timelineEl = document.getElementById("speaker-timeline");
 
   // If no speakers, show empty state
@@ -199,22 +206,22 @@ function estimateTime() {
 
   // Calculate times for all speakers
   let html = "";
-    
+
   expectedSpeakerList.forEach((speaker, index) => {
     const speakerName = speaker.trim();
     const minutesToSpeaker = 15 * (index - linesBeforeLastMatchedSpeaker);
     let expectedTime = new Date(lastMatchEndTime);
     expectedTime.setMinutes(expectedTime.getMinutes() + minutesToSpeaker);
-        
+
     const expectedTimeText = `${expectedTime.getHours().toString().padStart(2, "0")}:${expectedTime.getMinutes().toString().padStart(2, "0")}`;
     const countdown = countDown(expectedTime);
-        
+
     // Determine status
     let status = "";
     let statusClass = "";
     const now = new Date().getTime();
     const timeDiff = expectedTime - now;
-        
+
     if (index <= linesBeforeLastMatchedSpeaker) {
       status = "Completed";
       statusClass = "completed";
@@ -228,7 +235,7 @@ function estimateTime() {
       status = countdown;
       statusClass = "upcoming";
     }
-        
+
     html += `
             <div class="speaker-item ${statusClass}">
                 <div class="speaker-info">
@@ -239,7 +246,7 @@ function estimateTime() {
             </div>
         `;
   });
-    
+
   timelineEl.innerHTML = html;
 }
 
@@ -273,7 +280,10 @@ function levenshtein(a, b) {
 }
 
 function billTitleToID(title) {
-  for (const billDebate of billDebates) {
+  // Filter debates by selected chamber
+  const filteredDebates = billDebates.filter(d => d.chamber === selectedChamber);
+
+  for (const billDebate of filteredDebates) {
     if (billTitleMatch(title, billDebate.billName)) {
       return billDebate.billId;
     }
@@ -291,7 +301,14 @@ function loadFormValuesFromURL() {
   formValues.forEach(id => {
     const value = params.get(id);
     if (value) {
-      document.getElementById(id).value = value;
+      const element = document.getElementById(id);
+      if (element) {
+        element.value = value;
+        // Update selectedChamber if loading chamber from URL
+        if (id === "chamber") {
+          selectedChamber = value;
+        }
+      }
     }
   });
 }
@@ -374,6 +391,25 @@ function cleanTextArea(textAreaId) {
   textArea.dispatchEvent(inputEvent);
 }
 
+function updateIframeURL() {
+  const iframe = document.getElementById("live-minutes");
+  const sourceLink = document.getElementById("official-source-link");
+  if (!iframe) return;
+  
+  let url;
+  if (selectedChamber === "federation") {
+    url = "https://www.aph.gov.au/Parliamentary_Business/Chamber_documents/Live_Federation_Chamber_Minutes?fullscreen=1#EndOfDoc";
+  } else {
+    // Default to House of Representatives
+    url = "https://www.aph.gov.au/Parliamentary_Business/Chamber_documents/Live_Minutes?fullscreen=1#EndOfDoc";
+  }
+  
+  iframe.src = url;
+  if (sourceLink) {
+    sourceLink.href = url;
+  }
+}
+
 // Defer DOM-dependent wiring until the document is ready
 document.addEventListener("DOMContentLoaded", () => {
   // Clean text areas when the user clicks away
@@ -402,6 +438,19 @@ document.addEventListener("DOMContentLoaded", () => {
       element.addEventListener("input", estimateTime);
     }
   });
+
+  // Chamber selector handler
+  const chamberSelect = document.getElementById("chamber");
+  if (chamberSelect) {
+    chamberSelect.addEventListener("change", (e) => {
+      selectedChamber = e.target.value;
+      updateIframeURL();
+      estimateTime();
+    });
+  }
+  
+  // Set initial iframe URL based on loaded chamber value
+  updateIframeURL();
 
   // Share button handler
   const shareBtn = document.getElementById("share-btn");

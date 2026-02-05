@@ -37,6 +37,13 @@ head_scripts:
                 </button>
             </header>
             <div class="field">
+                <label for="chamber">Chamber</label>
+                <select id="chamber" class="chamber-select">
+                    <option value="house">House of Representatives</option>
+                    <option value="federation">Federation Chamber</option>
+                </select>
+            </div>
+            <div class="field">
                 <label for="bill">Bill</label>
                 <textarea id="bill" placeholder="Australia Act 1986"></textarea>
                 <p class="hint">Type the bill title. The closest live item will be matched.</p>
@@ -60,10 +67,10 @@ head_scripts:
                 <div>
                     <h2>Live minutes</h2>
                 </div>
-                <div class="badge ghost">Official source</div>
+                <a id="official-source-link" class="badge ghost" target="_blank">Official source</a>
             </header>
             <div class="iframe-shell">
-                <iframe id="live-minutes" src="https://www.aph.gov.au/Parliamentary_Business/Chamber_documents/Live_Minutes" frameborder="0"></iframe>
+                <iframe id="live-minutes" frameborder="0"></iframe>
             </div>
         </section>
     </main>
