@@ -463,7 +463,7 @@ pending:
   introducer_id: '10123'
   introducer_division: Blaxland
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7408_first-reps/toc_pdf/25105b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-02-05
+  last_updated: 2026-02-09
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0035%22
 - bill_id: r7409
   title: Treasury Laws Amendment (Genetic Testing Protections in Life Insurance and
@@ -613,7 +613,7 @@ pending:
   introducer_id: '11033'
   introducer_division: Sturt
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7416_first-reps/toc_pdf/25107b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-02-05
+  last_updated: 2026-02-09
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29135%2F0164%22
 - bill_id: r7417
   title: Veterans&rsquo; Affairs Legislation Amendment (Miscellaneous Measures No.
@@ -787,6 +787,34 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7430_first-reps/toc_pdf/26010b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-02-05
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29135%2F0017%22
+- bill_id: r7431
+  title: Flags Amendment (Protection of Australian National Flags) Bill 2026
+  status: Before Reps
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Pat Conaghan
+  introducer_party: Nationals
+  introducer_id: '10922'
+  introducer_division: Cowper
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7431_first-reps/toc_pdf/26016b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-02-09
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29136%2F0358%22
+- bill_id: r7432
+  title: Criminal Code Amendment (Flag Protection) Bill 2026
+  status: Before Reps
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Rebekha Sharkie
+  introducer_party: Centre Alliance
+  introducer_id: '10874'
+  introducer_division: Mayo
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7432_first-reps/toc_pdf/26017b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-02-09
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29136%2F0362%22
 - bill_id: s1138
   title: Plebiscite (Future Migration Level) Bill 2018
   status: Before Senate
