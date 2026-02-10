@@ -163,7 +163,7 @@ pending:
   introducer_id: '10931'
   introducer_division: Lilley
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7358_first-reps/toc_pdf/25057b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-09-04
+  last_updated: 2026-02-09
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28839%2F0005%22
 - bill_id: r7362
   title: Australia Day Bill 2025
@@ -463,7 +463,7 @@ pending:
   introducer_id: '10123'
   introducer_division: Blaxland
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7408_first-reps/toc_pdf/25105b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-02-09
+  last_updated: 2026-02-10
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0035%22
 - bill_id: r7409
   title: Treasury Laws Amendment (Genetic Testing Protections in Life Insurance and
@@ -613,7 +613,7 @@ pending:
   introducer_id: '11033'
   introducer_division: Sturt
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7416_first-reps/toc_pdf/25107b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-02-09
+  last_updated: 2026-02-10
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29135%2F0164%22
 - bill_id: r7417
   title: Veterans&rsquo; Affairs Legislation Amendment (Miscellaneous Measures No.
@@ -683,7 +683,7 @@ pending:
   introducer_id: '11052'
   introducer_division: Lyons
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7423_first-reps/toc_pdf/25103b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-02-05
+  last_updated: 2026-02-10
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29135%2F0029%22
 - bill_id: r7424
   title: Social Security and Other Legislation Amendment (Technical Changes No. 1)
@@ -698,7 +698,7 @@ pending:
   introducer_id: '10513'
   introducer_division: Sydney
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7424_first-reps/toc_pdf/26004b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-02-05
+  last_updated: 2026-02-10
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29135%2F0013%22
 - bill_id: r7425
   title: National Commission for Aboriginal and Torres Strait Islander Children and
@@ -713,7 +713,7 @@ pending:
   introducer_id: '10513'
   introducer_division: Sydney
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7425_first-reps/toc_pdf/26005b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-02-05
+  last_updated: 2026-02-10
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29135%2F0005%22
 - bill_id: r7426
   title: National Commission for Aboriginal and Torres Strait Islander Children and
@@ -728,7 +728,7 @@ pending:
   introducer_id: '10513'
   introducer_division: Sydney
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7426_first-reps/toc_pdf/26007b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-02-05
+  last_updated: 2026-02-10
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29135%2F0009%22
 - bill_id: r7427
   title: Law and Justice Legislation Amendment (New South Wales Local Court) Bill
@@ -743,7 +743,7 @@ pending:
   introducer_id: '10751'
   introducer_division: Greenway
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7427_first-reps/toc_pdf/26008b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-02-04
+  last_updated: 2026-02-10
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29134%2F0016%22
 - bill_id: r7428
   title: Appropriation (Parliamentary Departments) Bill (No. 2) 2025-2026
@@ -2047,6 +2047,22 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7363_aspassed/toc_pdf/25061b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-05
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28833%2F0005%22
+- bill_id: r7365
+  title: Administrative Review Tribunal and Other Legislation Amendment Bill 2025
+  status: Act
+  type: Government
+  portfolio: Attorney-General
+  originating_house: House of Representatives
+  summary: "Amends the Administrative Review Tribunal Act 2024 and Migration Act 1958\
+    \ to expand the Administrative Review Tribunal\u2019s ability to determine matters\
+    \ without holding an oral hearing of the proceeding."
+  introducer_name: Michelle Rowland
+  introducer_party: Labor
+  introducer_id: '10751'
+  introducer_division: Greenway
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7365_aspassed/toc_pdf/25066b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-02-09
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28849%2F0020%22
 - bill_id: r7366
   title: Health Legislation Amendment (Miscellaneous Measures No. 1) Bill 2025
   status: Assent
