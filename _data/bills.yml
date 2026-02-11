@@ -34,7 +34,7 @@ pending:
   introducer_id: '10081'
   introducer_division: Watson
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7339_first-reps/toc_pdf/25033b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-07-23
+  last_updated: 2026-02-11
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28810%2F0094%22
 - bill_id: r7346
   title: Repeal Net Zero Bill 2025
@@ -539,7 +539,7 @@ pending:
   introducer_id: '10925'
   introducer_division: Fraser
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7412_first-reps/toc_pdf/25113b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-26
+  last_updated: 2026-02-11
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0051%22
 - bill_id: r7413
   title: Coal Mining Industry (Long Service Leave) Legislation Amendment Bill 2025
@@ -650,7 +650,7 @@ pending:
   introducer_id: '10861'
   introducer_division: Burt
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7418_first-reps/toc_pdf/25117b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-27
+  last_updated: 2026-02-11
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28890%2F0022%22
 - bill_id: r7419
   title: Defence and Veterans&rsquo; Service Commissioner Bill 2025
@@ -669,7 +669,7 @@ pending:
   introducer_id: '10861'
   introducer_division: Burt
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7419_first-reps/toc_pdf/25118b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-27
+  last_updated: 2026-02-11
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28890%2F0018%22
 - bill_id: r7423
   title: National Health Amendment (Passive Immunological Products) Bill 2026
@@ -683,7 +683,7 @@ pending:
   introducer_id: '11052'
   introducer_division: Lyons
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7423_first-reps/toc_pdf/25103b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-02-10
+  last_updated: 2026-02-11
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29135%2F0029%22
 - bill_id: r7424
   title: Social Security and Other Legislation Amendment (Technical Changes No. 1)
@@ -698,7 +698,7 @@ pending:
   introducer_id: '10513'
   introducer_division: Sydney
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7424_first-reps/toc_pdf/26004b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-02-10
+  last_updated: 2026-02-11
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29135%2F0013%22
 - bill_id: r7425
   title: National Commission for Aboriginal and Torres Strait Islander Children and
@@ -713,7 +713,7 @@ pending:
   introducer_id: '10513'
   introducer_division: Sydney
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7425_first-reps/toc_pdf/26005b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-02-10
+  last_updated: 2026-02-11
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29135%2F0005%22
 - bill_id: r7426
   title: National Commission for Aboriginal and Torres Strait Islander Children and
@@ -728,7 +728,7 @@ pending:
   introducer_id: '10513'
   introducer_division: Sydney
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7426_first-reps/toc_pdf/26007b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-02-10
+  last_updated: 2026-02-11
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29135%2F0009%22
 - bill_id: r7427
   title: Law and Justice Legislation Amendment (New South Wales Local Court) Bill
@@ -743,7 +743,7 @@ pending:
   introducer_id: '10751'
   introducer_division: Greenway
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7427_first-reps/toc_pdf/26008b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-02-10
+  last_updated: 2026-02-11
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29134%2F0016%22
 - bill_id: r7428
   title: Appropriation (Parliamentary Departments) Bill (No. 2) 2025-2026
@@ -815,6 +815,50 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7432_first-reps/toc_pdf/26017b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-02-09
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29136%2F0362%22
+- bill_id: r7435
+  title: Superannuation (Building a Stronger and Fairer Super System) Imposition Bill
+    2026
+  status: Before Reps
+  type: Government
+  portfolio: Treasury
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Jim Chalmers
+  introducer_party: Labor
+  introducer_id: '10809'
+  introducer_division: Rankin
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7435_first-reps/toc_pdf/26014b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-02-11
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29138%2F0013%22
+- bill_id: r7437
+  title: Treasury Laws Amendment (Building a Stronger and Fairer Super System) Bill
+    2026
+  status: Before Reps
+  type: Government
+  portfolio: Treasury
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Jim Chalmers
+  introducer_party: Labor
+  introducer_id: '10809'
+  introducer_division: Rankin
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7437_first-reps/toc_pdf/26018b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-02-11
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29138%2F0009%22
+- bill_id: r7438
+  title: Commonwealth Entities Legislation Amendment Bill 2026
+  status: Before Reps
+  type: Government
+  portfolio: Attorney-General
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Michelle Rowland
+  introducer_party: Labor
+  introducer_id: '10751'
+  introducer_division: Greenway
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7438_first-reps/toc_pdf/26015b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-02-11
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29138%2F0017%22
 - bill_id: s1138
   title: Plebiscite (Future Migration Level) Bill 2018
   status: Before Senate
