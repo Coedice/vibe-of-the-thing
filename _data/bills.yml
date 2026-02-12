@@ -34,7 +34,7 @@ pending:
   introducer_id: '10081'
   introducer_division: Watson
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7339_first-reps/toc_pdf/25033b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-02-11
+  last_updated: 2026-02-12
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28810%2F0094%22
 - bill_id: r7346
   title: Repeal Net Zero Bill 2025
@@ -539,7 +539,7 @@ pending:
   introducer_id: '10925'
   introducer_division: Fraser
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7412_first-reps/toc_pdf/25113b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-02-11
+  last_updated: 2026-02-12
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0051%22
 - bill_id: r7413
   title: Coal Mining Industry (Long Service Leave) Legislation Amendment Bill 2025
@@ -683,7 +683,7 @@ pending:
   introducer_id: '11052'
   introducer_division: Lyons
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7423_first-reps/toc_pdf/25103b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-02-11
+  last_updated: 2026-02-12
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29135%2F0029%22
 - bill_id: r7424
   title: Social Security and Other Legislation Amendment (Technical Changes No. 1)
@@ -698,7 +698,7 @@ pending:
   introducer_id: '10513'
   introducer_division: Sydney
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7424_first-reps/toc_pdf/26004b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-02-11
+  last_updated: 2026-02-12
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29135%2F0013%22
 - bill_id: r7425
   title: National Commission for Aboriginal and Torres Strait Islander Children and
@@ -757,7 +757,7 @@ pending:
   introducer_id: '10925'
   introducer_division: Fraser
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7428_first-reps/toc_pdf/26009b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-02-05
+  last_updated: 2026-02-12
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29135%2F0025%22
 - bill_id: r7429
   title: Appropriation Bill (No. 4) 2025-2026
@@ -771,7 +771,7 @@ pending:
   introducer_id: '10925'
   introducer_division: Fraser
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7429_first-reps/toc_pdf/26011b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-02-05
+  last_updated: 2026-02-12
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29135%2F0021%22
 - bill_id: r7430
   title: Appropriation Bill (No. 3) 2025-2026
@@ -785,7 +785,7 @@ pending:
   introducer_id: '10925'
   introducer_division: Fraser
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7430_first-reps/toc_pdf/26010b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-02-05
+  last_updated: 2026-02-12
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29135%2F0017%22
 - bill_id: r7431
   title: Flags Amendment (Protection of Australian National Flags) Bill 2026
@@ -815,6 +815,21 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7432_first-reps/toc_pdf/26017b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-02-09
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29136%2F0362%22
+- bill_id: r7434
+  title: Health Legislation Amendment (Improving Choice and Transparency for Private
+    Health Consumers) Bill 2026
+  status: Before Reps
+  type: Government
+  portfolio: Health, Disability and Ageing
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Mark Butler
+  introducer_party: Labor
+  introducer_id: '10086'
+  introducer_division: Hindmarsh
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7434_first-reps/toc_pdf/26013b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-02-12
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29139%2F0011%22
 - bill_id: r7435
   title: Superannuation (Building a Stronger and Fairer Super System) Imposition Bill
     2026
@@ -830,6 +845,20 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7435_first-reps/toc_pdf/26014b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-02-11
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29138%2F0013%22
+- bill_id: r7436
+  title: Treasury Laws Amendment (Financial Reporting System Reform) Bill 2026
+  status: Before Reps
+  type: Government
+  portfolio: Treasury
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Daniel Mulino
+  introducer_party: Labor
+  introducer_id: '10925'
+  introducer_division: Fraser
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7436_first-reps/toc_pdf/26012b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-02-12
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29139%2F0015%22
 - bill_id: r7437
   title: Treasury Laws Amendment (Building a Stronger and Fairer Super System) Bill
     2026
