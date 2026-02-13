@@ -210,8 +210,9 @@ function estimateTime() {
   expectedSpeakerList.forEach((speaker, index) => {
     const speakerName = speaker.trim();
 
-    // First speaker gets 30 min, rest get 15 min each
-    const minutesToSpeaker = 15 * (index - linesBeforeLastMatchedSpeaker) + (linesBeforeLastMatchedSpeaker === 0 ? 15 : 0);
+    // First two speakers get 30 min each, rest get 15 min each (cumulative from last matched)
+    const speakersAfterLastMatched = index - linesBeforeLastMatchedSpeaker;
+    const minutesToSpeaker = speakersAfterLastMatched < 2 ? 30 : 60 + 15 * (speakersAfterLastMatched - 2);
     let expectedTime = new Date(lastMatchEndTime);
     expectedTime.setMinutes(expectedTime.getMinutes() + minutesToSpeaker);
 
