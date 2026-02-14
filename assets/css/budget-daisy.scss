@@ -28,6 +28,22 @@ $centre-text-stroke-width: 2px;
     justify-content: center;
 }
 
+.data-source {
+    text-align: center;
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    margin: 0;
+
+    a {
+        color: var(--text-muted);
+        text-decoration: underline;
+
+        &:hover {
+            color: var(--accent);
+        }
+    }
+}
+
 // Centre Info for sunburst
 #centre-info {
     position: absolute;
