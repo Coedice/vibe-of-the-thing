@@ -49,41 +49,47 @@ function parseDoc(doc, chamber) {
     startTime = parseTime(minutesDate, startTime);
     billDebate.startTimeStamp = startTime;
 
-    // Get debate list
-    let debateList = programItem.querySelector('div[style="margin-left:21pt"]');
-    if (debateList == null) {
+    // Get all debate lists within the program item
+    const debateLists = programItem.querySelectorAll('div[style="margin-left:21pt"]');
+    if (debateLists.length === 0) {
       continue;
     }
 
-    // Get debate turns
+    // Get debate turns from all debate lists
     let debateTurns = [];
-    for (const pair of debateList.textContent.split(".")) {
-      let couple = pair.split(",");
-      if (couple.length != 2) {
-        continue;
-      }
+    for (const debateList of debateLists) {
+      const cleanDebateList = debateList.textContent.replaceAll(/Point of order,.*?\./gi, "").replaceAll(" (in continuation)", "");
 
-      let speaker = couple[0].trim();
-            
-      // Skip "Point of order" entries
-      if (speaker.toLowerCase() === "point of order") {
-        continue;
+      for (const debateEntry of cleanDebateList.split(".")) {
+        let speakerTimePair = debateEntry.split(",");
+        if (speakerTimePair.length != 2) {
+          continue;
+        }
+
+        let speakerName = speakerTimePair[0].trim();
+        const normalisedSpeaker = normaliseName(speakerName);
+
+        // Skip if same speaker as last entry
+        if (debateTurns.length > 0 && 
+          debateTurns[debateTurns.length - 1].normalisedSpeaker === normalisedSpeaker) {
+          continue;
+        }
+
+        let speakerTime = parseTime(minutesDate, speakerTimePair[1].trim());
+        debateTurns.push({speaker: speakerName, normalisedSpeaker: normalisedSpeaker, time: speakerTime});
       }
-            
-      // Skip if same speaker as last entry
-      if (debateTurns.length > 0 && normaliseName(debateTurns[debateTurns.length - 1].speaker) === normaliseName(speaker)) {
-        continue;
-      }
-            
-      let time = parseTime(minutesDate, couple[1].trim());
-      debateTurns.push({speaker: speaker, time: time});
     }
     billDebate.debateTurns = debateTurns;
 
-    // If bill already in list
+    // If bill already in list, merge debate turns
     const existingDebate = billDebates.find(({billId}) => billId === billDebate.billId);
     if (existingDebate) {
-      existingDebate.debateTurns.push(...billDebate.debateTurns);
+      for (const turn of billDebate.debateTurns) {
+        const lastTurn = existingDebate.debateTurns[existingDebate.debateTurns.length - 1];
+        if (!lastTurn || lastTurn.normalisedSpeaker !== turn.normalisedSpeaker) {
+          existingDebate.debateTurns.push(turn);
+        }
+      }
     }
     else {
       // Add to list
@@ -118,7 +124,7 @@ function fetchLiveMinutes() {
         autoPopulateFromLastDebate();
       }
 
-      estimateTime();
+      estimateSpeakingTimes();
     })
     .catch(error => {
       console.error("Failed to fetch data:", error);
@@ -154,10 +160,12 @@ function normaliseName(name) {
   name = name.toLowerCase();
   name = name.trim();
   name = name.replace(/^(mr|ms|mrs|dr) /, "");
-  return name;
+
+  const parts = name.split(/\s+/).sort();
+  return parts.join(" ");
 }
 
-function estimateTime() {
+function estimateSpeakingTimes() {
   const expectedSpeakerList = document.getElementById("speaker-list").value.split("\n").filter(line => line.trim() !== "");
   const billId = billTitleToID(document.getElementById("bill").value);
 
@@ -178,43 +186,72 @@ function estimateTime() {
     return;
   }
 
-  // Get last matched speaker's timestamp and index
-  let lastMatchEndTime = null;
-  let linesBeforeLastMatchedSpeaker = 0;
+  // Build a map of normalised speaker names to their index in the expected list
+  const speakerToIndex = new Map();
+  expectedSpeakerList.forEach((speaker, index) => {
+    speakerToIndex.set(normaliseName(speaker), index);
+  });
+
+  // Find any speaker in the debate that appears in the expected list
+  let pivotIndex = -1;
   for (let i = billDebate.debateTurns.length - 1; i >= 0; i--) {
-    const speaker = billDebate.debateTurns[i].speaker;
-    let matchFound = false;
-    for (let j = expectedSpeakerList.length - 1; j >= 0; j--) {
-      const expectedSpeaker = expectedSpeakerList[j];
-      if (normaliseName(speaker) === normaliseName(expectedSpeaker)) {
-        lastMatchEndTime = billDebate.debateTurns[i].time;
-        matchFound = true;
-        linesBeforeLastMatchedSpeaker = j;
+    const debateSpeaker = billDebate.debateTurns[i].normalisedSpeaker;
+    for (const [key, index] of speakerToIndex) {
+      if (key === debateSpeaker) {
+        pivotIndex = index;
         break;
       }
     }
-    if (matchFound) {
-      break;
-    }
+    if (pivotIndex !== -1) break;
   }
 
-  // If insufficient data, show error
-  if (!lastMatchEndTime) {
+  // If no matching speaker found
+  if (pivotIndex === -1) {
     timelineEl.innerHTML = '<div class="timeline-error">No matching speakers found in live data yet</div>';
     return;
   }
 
+  function estimateSpeakerDuration(index) {
+    // First two speakers in the debate get 30 min each, rest get 15 min each
+    return index < 2 ? 30 : 15;
+  }
+
+  // First speaker's start time is the time of the first debate turn
+  const firstSpeakerTime = billDebate.debateTurns[0].time;
+
   // Calculate times for all speakers
   let html = "";
+
+  // Find the next speaker
+  let nextSpeakerIndex = -1;
+  for (let i = 0; i < expectedSpeakerList.length; i++) {
+    const speaker = expectedSpeakerList[i].trim();
+    const debateTurn = billDebate.debateTurns.find(t => t.normalisedSpeaker === normaliseName(speaker));
+    if (!debateTurn) {
+      nextSpeakerIndex = i;
+      break;
+    }
+  }
 
   expectedSpeakerList.forEach((speaker, index) => {
     const speakerName = speaker.trim();
 
-    // First two speakers get 30 min each, rest get 15 min each (cumulative from last matched)
-    const speakersAfterLastMatched = index - linesBeforeLastMatchedSpeaker;
-    const minutesToSpeaker = speakersAfterLastMatched < 2 ? 30 : 60 + 15 * (speakersAfterLastMatched - 2);
-    let expectedTime = new Date(lastMatchEndTime);
-    expectedTime.setMinutes(expectedTime.getMinutes() + minutesToSpeaker);
+    // Check if this speaker has started speaking (appeared in debate)
+    const debateTurn = billDebate.debateTurns.find(t => t.normalisedSpeaker === normaliseName(speaker));
+
+    let expectedTime;
+    if (debateTurn) {
+      // Use actual time from debate
+      expectedTime = debateTurn.time;
+    } else {
+      // Calculate estimated time based on cumulative duration from first speaker
+      let minutesToSpeaker = 0;
+      for (let i = 0; i <= index; i++) {
+        minutesToSpeaker += estimateSpeakerDuration(i);
+      }
+      expectedTime = new Date(firstSpeakerTime);
+      expectedTime.setMinutes(expectedTime.getMinutes() + minutesToSpeaker);
+    }
 
     const expectedTimeText = `${expectedTime.getHours().toString().padStart(2, "0")}:${expectedTime.getMinutes().toString().padStart(2, "0")}`;
     const countdown = countDown(expectedTime);
@@ -225,13 +262,15 @@ function estimateTime() {
     const now = new Date().getTime();
     const timeDiff = expectedTime - now;
 
-    if (index <= linesBeforeLastMatchedSpeaker) {
+    const hasStarted = !!debateTurn;
+
+    if (hasStarted) {
       status = "Completed";
       statusClass = "completed";
     } else if (timeDiff < 0) {
       status = countdown;
       statusClass = "overdue";
-    } else if (timeDiff < 5 * 60 * 1000) {
+    } else if (index === nextSpeakerIndex) {
       status = countdown;
       statusClass = "imminent";
     } else {
@@ -320,35 +359,38 @@ function autoPopulateFromLastDebate() {
   // Check if URL has any parameters
   const params = new URLSearchParams(window.location.search);
   const hasParams = params.has("bill") || params.has("speaker-list");
-    
+
+  // Filter to only use debates from the selected chamber
+  const chamberDebates = billDebates.filter(d => d.chamber === selectedChamber);
+
   // If params exist or no debates available, don't auto-populate
-  if (hasParams || billDebates.length === 0) {
+  if (hasParams || chamberDebates.length === 0) {
     return;
   }
-    
+
   // Try to find the last debate with more than 1 speaker
   let selectedDebate = null;
-  for (let i = billDebates.length - 1; i >= 0; i--) {
-    if (billDebates[i].debateTurns && billDebates[i].debateTurns.length > 1) {
-      selectedDebate = billDebates[i];
+  for (let i = chamberDebates.length - 1; i >= 0; i--) {
+    if (chamberDebates[i].debateTurns && chamberDebates[i].debateTurns.length > 1) {
+      selectedDebate = chamberDebates[i];
       break;
     }
   }
-    
+
   // If no debate with multiple speakers, just use the last debate
   if (!selectedDebate) {
-    selectedDebate = billDebates[billDebates.length - 1];
+    selectedDebate = chamberDebates[chamberDebates.length - 1];
   }
-    
+
   // Populate bill name
   document.getElementById("bill").value = selectedDebate.billName;
-    
+
   // Populate speaker list from debate turns
   const speakers = selectedDebate.debateTurns.map(turn => turn.speaker).join("\n");
   document.getElementById("speaker-list").value = speakers;
-    
+
   // Trigger estimateTime to update the timeline display
-  estimateTime();
+  estimateSpeakingTimes();
 }
 
 function copyShareLink() {
@@ -361,13 +403,13 @@ function copyShareLink() {
     }
   });
   const shareURL = `${window.location.pathname}?${params.toString()}`;
-  
+
   if (!navigator.clipboard) {
     console.error("Clipboard API not available");
     alert("Unable to copy link");
     return;
   }
-    
+
   navigator.clipboard.writeText(shareURL).then(() => {
     const btn = document.getElementById("share-btn");
     const originalText = btn.innerHTML;
@@ -398,7 +440,7 @@ function updateIframeURL() {
   const iframe = document.getElementById("live-minutes");
   const sourceLink = document.getElementById("official-source-link");
   if (!iframe) return;
-  
+
   let url;
   if (selectedChamber === "federation") {
     url = "https://www.aph.gov.au/Parliamentary_Business/Chamber_documents/Live_Federation_Chamber_Minutes?fullscreen=1#EndOfDoc";
@@ -406,7 +448,7 @@ function updateIframeURL() {
     // Default to House of Representatives
     url = "https://www.aph.gov.au/Parliamentary_Business/Chamber_documents/Live_Minutes?fullscreen=1#EndOfDoc";
   }
-  
+
   iframe.src = url;
   if (sourceLink) {
     sourceLink.href = url;
@@ -431,14 +473,14 @@ document.addEventListener("DOMContentLoaded", () => {
   setInterval(fetchLiveMinutes, 20_000);
 
   // Estimate time every second
-  estimateTime();
-  setInterval(estimateTime, 1_000);
+  estimateSpeakingTimes();
+  setInterval(estimateSpeakingTimes, 1_000);
 
   // Estimate time when form values change
   formValues.forEach(id => {
     const element = document.getElementById(id);
     if (element) {
-      element.addEventListener("input", estimateTime);
+      element.addEventListener("input", estimateSpeakingTimes);
     }
   });
 
@@ -448,10 +490,10 @@ document.addEventListener("DOMContentLoaded", () => {
     chamberSelect.addEventListener("change", (e) => {
       selectedChamber = e.target.value;
       updateIframeURL();
-      estimateTime();
+      estimateSpeakingTimes();
     });
   }
-  
+
   // Set initial iframe URL based on loaded chamber value
   updateIframeURL();
 
