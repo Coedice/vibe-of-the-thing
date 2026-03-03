@@ -19,4 +19,8 @@
   description: "Estimate speaking times for parliamentary proceedings. Enter a bill and expected speakers to estimate when each person will talk."
   data_source_url: "https://www.aph.gov.au/Parliamentary_Business/Chamber_documents/Live_Minutes"
   data_source_label: "Australian Parliament"
-
+- id: report-search
+  title: Report Search
+  url: /report-search/
+  emoji: "🔍"
+  description: "Search across reports from think tanks. Find insights and data across multiple organisations in seconds."

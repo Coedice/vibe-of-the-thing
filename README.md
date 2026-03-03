@@ -9,12 +9,14 @@ A collection of interactive tools for exploring Australian federal government da
 | **Budget Daisy** | Interactive circular/sunburst visualisation of Australian federal budgets and revenues, inspired by DaisyDisk | • Interactive sunburst chart with drill-down<br>• Year comparison & trend analysis<br>• Search & filter across categories<br>• Budget vs actual spending |
 | **Parliament Kanban** | Kanban board view of all bills in the current parliament | • Visual bill tracking<br>• Status updates<br>• Legislative progress monitoring |
 | **When Talk** | Estimate when speakers will get their turn in Federal Parliament debates | • Live debate tracking<br>• Speaker timeline visualisation<br>• Bill matching<br>• Shareable links |
+| **Report Search** | Search across research reports from Australian think tanks | • Full-text search<br>• Filter by organization<br>• Highlighted excerpts<br>• Direct report links |
 
 ### Data Sources
 
 - [Parliamentary Budget Office Historical Fiscal Data](https://www.pbo.gov.au/publications-and-data/data-and-tools/data-portal/historical-fiscal-data)
 - [Parliament of Australia](https://www.aph.gov.au)
 - [Open Australia](https://openaustralia.org.au)
+- Think tank websites (Grattan Institute, Lowy Institute, Per Capita, Superpower Institute, etc.)
 
 ## Make Targets
 
@@ -23,6 +25,8 @@ A collection of interactive tools for exploring Australian federal government da
 | `make build` | Build and serve the Jekyll site locally at `http://0.0.0.0:8080/` |
 | `make kanban` | Generate data for Parliament Kanban |
 | `make budget` | Generate data for Budget Daisy |
+| `make wellbeing` | Generate data for Wellbeing Index |
+| `make reports` | Download and convert think tank reports to searchable YAML |
 | `make format` | Format code using isort, ruff, and eslint |
 | `make clean` | Remove all generated files, caches, and dependencies |
 

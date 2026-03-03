@@ -6,6 +6,10 @@ kanban:
 budget:
 	uv run python budget-daisy/generate_data.py
 
+.PHONY: reports
+reports:
+	cd report-search && uv run python download_reports.py
+
 .PHONY: build
 build:
 	@docker run --rm -v "$$PWD:/srv/jekyll" -p 8080:8080 -it jekyll/jekyll:latest /bin/sh -c " \
@@ -25,8 +29,8 @@ format:
 clean:
 	rm -rf _site/
 	rm -rf .venv/
-	rm -rf .ruff_cache/
-	rm -rf __pycache__/
+	rm -rf **/.ruff_cache/
+	rm -rf **/__pycache__/
 	rm -rf .sass-cache/
 	rm -rf .jekyll-cache/
 	rm -rf .jekyll-metadata
@@ -36,4 +40,3 @@ clean:
 	rm -f *.pyc
 	rm -f _data/bills.yml.tmp
 	rm -f uv.lock
-
