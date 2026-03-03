@@ -1,0 +1,253 @@
+think_tanks:
+- name: Evatt Foundation
+  slug: evatt
+  website: https://www.evatt.org.au/
+  reports_url: https://www.evatt.org.au/papers
+  harness: evatt
+  description: "Public policy and social justice foundation"
+- name: Business Council of Australia
+  slug: bca
+  website: https://www.bca.com.au/
+  reports_url: https://www.bca.com.au/our-insights/
+  harness: bca
+  description: "Association of Australia's leading companies"
+- name: Carers Australia
+  slug: carers
+  website: https://www.carersaustralia.com.au/
+  reports_url: https://www.carersaustralia.com.au/submissions-rep
+  harness: carers
+  description: "Advocate for Australia's carers and care relationships"
+- name: Clean Energy Council
+  slug: cleanenergy
+  website: https://www.cleanenergycouncil.org.au/
+  reports_url: https://www.cleanenergycouncil.org.au/
+  harness: cleanenergy
+  description: "Peak body for Australia's clean energy industry"
+- name: Grattan Institute
+  slug: grattan
+  website: https://grattan.edu.au
+  reports_url: https://grattan.edu.au/research/
+  harness: grattan
+  description: "Independent think tank focusing on Australian public policy"
+- name: JBWere Foundation
+  slug: jbwere
+  website: https://www.jbwere.com.au/
+  reports_url: https://www.jbwere.com.au/resources/
+  harness: jbwere
+  description: "Investment management and financial advisory foundation"
+- name: Lowy Institute
+  slug: lowy
+  website: https://www.lowyinstitute.org/
+  reports_url: https://www.lowyinstitute.org/publications
+  harness: lowy
+  description: "Independent international policy think tank"
+- name: Per Capita
+  slug: percapita
+  website: https://percapita.org.au/
+  reports_url: https://percapita.org.au/publications/
+  harness: percapita
+  description: "Left-leaning think tank producing policy research"
+- name: Superpower Institute
+  slug: superpower
+  website: https://www.superpowerinstitute.com.au/
+  reports_url: https://www.superpowerinstitute.com.au/work
+  harness: superpower
+  description: "Think tank focused on technology policy and innovation"
+- name: Institute of Public Affairs
+  slug: ipa
+  website: https://ipa.org.au/
+  reports_url: https://ipa.org.au/publications-ipa/all-research-outputs
+  harness: ipa
+  description: "Independent think tank promoting free market and constitutional policy"
+- name: Centre for Independent Studies
+  slug: cis
+  website: https://www.cis.org.au/
+  reports_url: https://www.cis.org.au/publications/
+  harness: cis
+  description: "Independent policy research institute with free-market perspective"
+- name: Australia Institute
+  slug: australia-institute
+  website: https://www.australiainstitute.org.au/
+  reports_url: https://www.australiainstitute.org.au/research/
+  harness: australia_institute
+  description: "Independent think tank focused on climate, economy and democracy"
+- name: Accountability Round Table
+  slug: accountability-rt
+  website: https://www.accountabilityrt.org/
+  reports_url: https://www.accountabilityrt.org/category/submissions/
+  harness: accountability_rt
+  description: "Integrity and accountability policy advocacy organisation"
+- name: Australian Institute of Policy and Science
+  slug: aips
+  website: https://aips.org.au/
+  reports_url: https://aips.org.au/aq-magazine/
+  harness: aips
+  description: "Science policy and public affairs institute"
+- name: Australian Strategic Policy Institute
+  slug: aspi
+  website: https://www.aspi.org.au/
+  reports_url: https://www.aspi.org.au/all-work/?s=&filter_tag=all&filter_programs=all&filter_category=report
+  harness: aspi
+  description: "Independent strategic policy and security think tank"
+- name: Abundant Housing Network Australia
+  slug: abundant-housing
+  website: https://abundanthousing.org.au/
+  reports_url: https://abundanthousing.org.au/
+  harness: abundant_housing
+  description: "Grassroots housing policy and reform network"
+- name: Chifley Research Centre
+  slug: chifley
+  website: https://www.chifley.org.au/
+  reports_url: https://www.chifley.org.au/publications/
+  harness: chifley
+  description: "Policy think tank affiliated with the Australian Labor movement"
+- name: Coalition of Peaks
+  slug: coalition-of-peaks
+  website: https://www.coalitionofpeaks.org.au/
+  reports_url: https://www.coalitionofpeaks.org.au/resources
+  harness: coalition_of_peaks
+  description: "Representative body for Aboriginal and Torres Strait Islander peak organisations"
+- name: COTA Australia
+  slug: cota
+  website: https://cota.org.au/
+  reports_url: https://cota.org.au/our-work/
+  harness: cota
+  description: "National advocacy body for older Australians"
+- name: John Curtin Research Centre
+  slug: jcrc
+  website: https://curtinrc.org/
+  reports_url: https://curtinrc.org/
+  harness: jcrc
+  description: "Public policy and Labor history research centre"
+- name: e61 Institute
+  slug: e61
+  website: https://e61.in/
+  reports_url: https://e61.in/category/research/
+  harness: e61
+  description: "Independent economic research institute"
+- name: YIMBY Melbourne
+  slug: yimby-melbourne
+  website: https://www.yimby.melbourne/
+  reports_url: https://www.yimby.melbourne/
+  harness: yimby_melbourne
+  description: "Urban planning and housing advocacy organisation"
+- name: Australian Republic Movement
+  slug: republic
+  website: https://republic.org.au/
+  reports_url: https://republic.org.au/media
+  harness: republic
+  description: "Membership organisation advocating for an Australian republic"
+- name: McKell Institute
+  slug: mckell
+  website: https://mckellinstitute.org.au/
+  reports_url: https://mckellinstitute.org.au/research/
+  harness: mckell
+  description: "Progressive public policy research institute"
+- name: Australian Council of Social Service
+  slug: acoss
+  website: https://www.acoss.org.au/
+  reports_url: https://www.acoss.org.au/publications/
+  harness: acoss
+  description: "Peak body for social service and anti-poverty advocacy"
+- name: Business Council of Co-operatives and Mutuals
+  slug: bccm
+  website: https://bccm.coop/
+  reports_url: https://bccm.coop/news/
+  harness: bccm
+  description: "Peak body for co-operatives and mutual enterprises"
+- name: Universities Australia
+  slug: universities-australia
+  website: https://universitiesaustralia.edu.au/
+  reports_url: https://universitiesaustralia.edu.au/policy-submissions/
+  harness: universities_australia
+  description: "Peak representative body for Australia's universities"
+- name: National Aboriginal and Torres Strait Islander Legal Services
+  slug: natsils
+  website: https://www.natsils.org.au/
+  reports_url: https://www.natsils.org.au/media/
+  harness: natsils
+  description: "National peak body for Aboriginal and Torres Strait Islander legal services"
+- name: People with Disability Australia
+  slug: pwd
+  website: https://pwd.org.au/
+  reports_url: https://pwd.org.au/resources/
+  harness: pwd
+  description: "National disability rights and advocacy organisation"
+- name: Safe and Equal
+  slug: safe-and-equal
+  website: https://safeandequal.org.au/
+  reports_url: https://safeandequal.org.au/resources/
+  harness: safe_and_equal
+  description: "Family and gender-based violence peak body in Victoria"
+- name: Australian Chamber of Commerce and Industry
+  slug: acci
+  website: https://www.acci.com.au/
+  reports_url: https://www.acci.com.au/resource
+  harness: acci
+  description: "Peak business advocacy body for Australian chambers and industry"
+- name: Australian Medical Association
+  slug: ama
+  website: https://www.ama.com.au/
+  reports_url: https://www.ama.com.au/advocacy-policy
+  harness: ama
+  description: "National peak professional body for medical practitioners"
+- name: Municipal Association of Victoria
+  slug: mav
+  website: https://www.mav.asn.au/
+  reports_url: https://www.mav.asn.au/news-resources/publications/submissions
+  harness: mav
+  description: "Peak body for local government in Victoria"
+- name: Alliance for Gambling Reform
+  slug: agr
+  website: https://www.agr.org.au/
+  reports_url: https://www.agr.org.au/policiesandreports
+  harness: agr
+  description: "Advocacy organisation focused on reducing gambling harm"
+- name: ANU Crawford School of Public Policy
+  slug: anu-crawford
+  website: https://crawford.anu.edu.au/
+  reports_url: https://crawford.anu.edu.au/publication
+  harness: anu_crawford
+  description: "ANU public policy school with regular policy publications"
+- name: Sydney Policy Lab
+  slug: sydney-policy-lab
+  website: https://www.sydney.edu.au/sydney-policy-lab.html
+  reports_url: https://www.sydney.edu.au/sydney-policy-lab/news-and-events.html
+  harness: sydney_policy_lab
+  description: "University-based public policy and civic research lab"
+- name: Mitchell Institute
+  slug: mitchell-institute
+  website: https://www.vu.edu.au/mitchell-institute
+  reports_url: https://www.vu.edu.au/mitchell-institute/education-policy-reports
+  harness: mitchell_institute
+  description: "Education policy research institute"
+- name: Australian Housing and Urban Research Institute
+  slug: ahuri
+  website: https://www.ahuri.edu.au/
+  reports_url: https://www.ahuri.edu.au/research
+  harness: ahuri
+  description: "National housing and urban research institute"
+- name: Climate Council
+  slug: climate-council
+  website: https://www.climatecouncil.org.au/
+  reports_url: https://www.climatecouncil.org.au/resources/
+  harness: climate_council
+  description: "Climate policy and science communication organisation"
+- name: Sydney Institute
+  slug: sydney-institute
+  website: https://thesydneyinstitute.com.au/
+  reports_url: https://thesydneyinstitute.com.au/blog/
+  harness: sydney_institute
+  description: "Policy and public affairs institute"
+- name: Blueprint Institute
+  slug: blueprint-institute
+  website: https://www.blueprintinstitute.org.au/
+  reports_url: https://www.blueprintinstitute.org.au/publications
+  harness: blueprint_institute
+  description: "Policy institute focused on evidence-based reform"
+- name: Harm Reduction Australia
+  slug: hra
+  website: https://harmreductionaustralia.org.au/
+  reports_url: https://harmreductionaustralia.org.au/
+  harness: harm_reduction_australia
+  description: "National advocacy organisation focused on reducing alcohol and other drug harm"

@@ -1,13 +1,15 @@
 [project]
-name = "parliament-kanban"
+name = "vibe-of-the-thing"
 version = "0.1.0"
-description = "A kanban board view of all bills in the current parliament."
+description = "Interactive tools for exploring Australian federal government data."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "beautifulsoup4>=4.13.4",
     "lxml>=4.9.0",
     "lxml-html-clean>=0.4.2",
+    "markitdown>=0.0.2,<0.1.0",
+    "ollama>=0.1.0",
     "openpyxl>=3.1.5",
     "pandas>=2.3.3",
     "pyyaml>=6.0.2",
