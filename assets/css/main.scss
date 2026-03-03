@@ -421,6 +421,28 @@ button {
     }
 }
 
+.data-source {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    margin: 0;
+
+    a {
+        color: var(--text-muted);
+        text-decoration: underline;
+
+        &:hover {
+            color: var(--accent);
+        }
+    }
+}
+
+.hero-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 8px;
+}
+
 // ============================================================
 // PANELS & LAYOUTS
 // ============================================================

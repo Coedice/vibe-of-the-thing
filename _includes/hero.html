@@ -7,7 +7,12 @@
         </div>
     </div>
     <p>{{ tool.description | default: include.description }}</p>
-    {% assign subject = "Vibe of the Thing - " | append: tool.title | append: " Feedback" | uri_encode %}
-    {% assign body = "Hi Gavin,%0A%0A" | uri_encode %}
-    <a href="mailto:gavindouch@gmail.com?subject={{ subject }}&body={{ body }}" class="feedback-btn">Send feedback</a>
+    <div class="hero-actions">
+        {% if tool.data_source_url %}
+        <a href="{{ tool.data_source_url }}" target="_blank" rel="noopener" class="feedback-btn">View data source</a>
+        {% endif %}
+        {% assign subject = "Vibe of the Thing - " | append: tool.title | append: " Feedback" | uri_encode %}
+        {% assign body = "Hi Gavin,%0A%0A" | uri_encode %}
+        <a href="mailto:gavindouch@gmail.com?subject={{ subject }}&body={{ body }}" class="feedback-btn">Send feedback</a>
+    </div>
 </header>
