@@ -1,48 +1,4 @@
 pending:
-- bill_id: r7408
-  title: Universities Accord (Australian Tertiary Education Commission) (Consequential
-    and Transitional Provisions) Bill 2025
-  status: Before Senate
-  type: Government
-  portfolio: Education
-  originating_house: House of Representatives
-  summary: Introduced with the Universities Accord (Australian Tertiary Education
-    Commission) Bill 2025, the bill amends the Higher Education Support Act 2003 and
-    Tertiary Education Quality and Standards Agency Act 2011 to make amendments consequential
-    on the establishment of the Australian Tertiary Education Commission.
-  introducer_name: Jason Clare
-  introducer_party: Labor
-  introducer_id: '10123'
-  introducer_division: Blaxland
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7408_first-reps/toc_pdf/25105b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-03-03
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0035%22
-- bill_id: r7412
-  title: Treasury Laws Amendment (Supporting Choice in Superannuation and Other Measures)
-    Bill 2025
-  status: Before Senate
-  type: Government
-  portfolio: Treasury
-  originating_house: House of Representatives
-  summary: 'Amends the: Superannuation Guarantee (Administration) Act 1992 to streamline
-    the choice of superannuation fund process during employee onboarding; Corporations
-    Act 2001 to ban advertising of certain superannuation products to new employees
-    as part of the onboarding process; Income Tax Assessment Act 1936 and Income Tax
-    Assessment Act 1997 to provide income tax and withholding tax exemptions for World
-    Rugby and its wholly-owned subsidiaries; International Tax Agreements Act 1953
-    to give legislative authority to the Convention between Australia and the Portuguese
-    Republic for the elimination of double taxation with respect to taxes on income
-    and the prevention of tax evasion and avoidance; Income Tax Assessment Act 1997
-    to update the list of deductible gift recipients; and A New Tax System (Wine Equalisation
-    Tax) Act 1999 to increase the maximum amount of wine equalisation tax producer
-    rebate claimable by eligible wine producers to $400,000 each financial year.'
-  introducer_name: Daniel Mulino
-  introducer_party: Labor
-  introducer_id: '10925'
-  introducer_division: Fraser
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7412_first-reps/toc_pdf/25113b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-03-03
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0051%22
 - bill_id: r7416
   title: Universities Accord (Australian Tertiary Education Commission) Bill 2025
   status: Before Senate
@@ -1210,6 +1166,25 @@ failed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7359_first-reps/toc_pdf/25059b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-24
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28839%2F0009%22
+- bill_id: r7371
+  title: Freedom of Information Amendment Bill 2025
+  status: Not Proceeding
+  type: Government
+  portfolio: Attorney-General
+  originating_house: House of Representatives
+  summary: 'Amends the: Freedom of Information Act 1982 to implement or respond to
+    certain recommendations from previous reviews and inquiries in relation to the
+    Freedom of Information framework, including the Review of the Freedom of Information
+    Act 1982 and Australian Information Commissioner Act 2010 (the 2013 Hawke Review);
+    and Australian Information Commissioner Act 2010 and Public Interest Disclosure
+    Act 2013 to make consequential amendments.'
+  introducer_name: Michelle Rowland
+  introducer_party: Labor
+  introducer_id: '10751'
+  introducer_division: Greenway
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7371_third-reps/toc_pdf/25071b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-03-05
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28849%2F0016%22
 - bill_id: s1430
   title: Competition and Consumer Amendment (Make Price Gouging Illegal) Bill 2024
   status: Not Proceeding
