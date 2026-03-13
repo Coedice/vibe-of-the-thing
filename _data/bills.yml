@@ -709,6 +709,23 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7376_aspassed/toc_pdf/25072b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-06
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28901%2F0017%22
+- bill_id: r7378
+  title: Defence Amendment (Parliamentary Joint Committee on Defence) Bill 2025
+  status: Assent
+  type: Government
+  portfolio: Defence
+  originating_house: House of Representatives
+  summary: Amends the Defence Act 1903 to establish the Parliamentary Joint Committee
+    on Defence to have general oversight of Australian defence agencies, other than
+    the Australian Geospatial-Intelligence Organisation, the Australian Signals Directorate
+    and the Defence Intelligence Organisation.
+  introducer_name: Peter Khalil
+  introducer_party: Labor
+  introducer_id: '10887'
+  introducer_division: Wills
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7378_aspassed/toc_pdf/25077b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-03-13
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28900%2F0037%22
 - bill_id: r7379
   title: Telecommunications Legislation Amendment (Triple Zero Custodian and Emergency
     Calling Powers) Bill 2025
@@ -807,6 +824,22 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7382_aspassed/toc_pdf/25081b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-06
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28900%2F0017%22
+- bill_id: r7383
+  title: Corporations (Review Fees) Amendment (Technical Amendments) Bill 2025
+  status: Assent
+  type: Government
+  portfolio: Treasury
+  originating_house: House of Representatives
+  summary: Amends the Corporations (Review Fees) Act 2003 to validate certain fees
+    collected by the Australian Securities and Investments Commission between 1 July
+    2011 and 11 March 2025, including the indexation applied to those fees.
+  introducer_name: Daniel Mulino
+  introducer_party: Labor
+  introducer_id: '10925'
+  introducer_division: Fraser
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7383_aspassed/toc_pdf/25080b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-03-13
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28901%2F0027%22
 - bill_id: r7384
   title: Education Legislation Amendment (Integrity and Other Measures) Bill 2025
   status: Act
@@ -1135,6 +1168,105 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7427_aspassed/toc_pdf/26008b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-03-05
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29134%2F0016%22
+- bill_id: r7435
+  title: Superannuation (Building a Stronger and Fairer Super System) Imposition Bill
+    2026
+  status: Assent
+  type: Government
+  portfolio: Treasury
+  originating_house: House of Representatives
+  summary: Introduced with the Treasury Laws Amendment (Building a Stronger and Fairer
+    Super System) Bill 2026 to reduce the tax concessions available to individuals
+    with a total superannuation balance (TSB) exceeding $3 million, the bill imposes
+    a tax of 15 per cent on earnings based on the percentage of the TSB exceeding
+    the $3 million threshold and a further 10 per cent on earnings based on the percentage
+    of the TSB exceeding the $10 million threshold.
+  introducer_name: Jim Chalmers
+  introducer_party: Labor
+  introducer_id: '10809'
+  introducer_division: Rankin
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7435_aspassed/toc_pdf/26014b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-03-13
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29138%2F0013%22
+- bill_id: r7437
+  title: Treasury Laws Amendment (Building a Stronger and Fairer Super System) Bill
+    2026
+  status: Assent
+  type: Government
+  portfolio: Treasury
+  originating_house: House of Representatives
+  summary: Introduced with the Superannuation (Building a Stronger and Fairer Super
+    System) Imposition Bill 2026 to reduce the tax concessions available to individuals
+    with a total superannuation balance (TSB) exceeding $3 million, the bill amends
+    9 Acts to makes consequential and miscellaneous amendments. Also amends the Superannuation
+    (Government Co-contribution for Low Income Earners) Act 2003 to link the low income
+    superannuation tax offset (LISTO) eligibility threshold to the relevant personal
+    income tax threshold and link the maximum LISTO amount to the superannuation guarantee
+    charge percentage.
+  introducer_name: Jim Chalmers
+  introducer_party: Labor
+  introducer_id: '10809'
+  introducer_division: Rankin
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7437_aspassed/toc_pdf/26018b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-03-13
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29138%2F0009%22
+- bill_id: r7442
+  title: Parliamentary Frameworks Legislation Amendment (Reviews) Bill 2026
+  status: Assent
+  type: Government
+  portfolio: Finance
+  originating_house: House of Representatives
+  summary: 'Amends the: Members of Parliament (Staff) Act 1984, Parliamentary Business
+    Resources Act 2017 and Parliamentary Workplace Support Service Act 2023 to enable
+    the forthcoming statutory reviews of these Acts to be combined; and Parliamentary
+    Business Resources Act 2017 and Parliamentary Workplace Support Service Act 2023
+    to align the frequency of the future periodic reviews of these Acts to allow them
+    to be combined or conducted separately.'
+  introducer_name: Patrick Gorman
+  introducer_party: Labor
+  introducer_id: '10911'
+  introducer_division: Perth
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7442_aspassed/toc_pdf/26022b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-03-13
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29142%2F0009%22
+- bill_id: r7443
+  title: Royal Commissions Legislation Amendment (Protections for Providing Information)
+    Bill 2026
+  status: Assent
+  type: Government
+  portfolio: Attorney-General
+  originating_house: House of Representatives
+  summary: 'Amends the: Royal Commissions Act 1902 and Criminal Code Act 1995 to provide
+    additional protections for people who provide intelligence or operationally sensitive
+    information to a Royal Commission on a voluntary or compulsory basis where that
+    information is subject to secrecy provisions; and Royal Commission Regulations
+    2019 to ensure that these protections apply to the Royal Commission on Antisemitism
+    and Social Cohesion.'
+  introducer_name: Michelle Rowland
+  introducer_party: Labor
+  introducer_id: '10751'
+  introducer_division: Greenway
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7443_aspassed/toc_pdf/26023b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-03-13
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29140%2F0073%22
+- bill_id: r7447
+  title: Migration Amendment (2026 Measures No. 1) Bill 2026
+  status: Assent
+  type: Government
+  portfolio: Home Affairs
+  originating_house: House of Representatives
+  summary: Amends the Migration Act 1958 to enable temporary restrictions on the arrival
+    of certain classes of temporary visa holders in Australia, including when events
+    or circumstances outside Australia mean that there is an increased risk that certain
+    classes of temporary visa holders will not depart Australia when their visas cease
+    to be in effect.
+  introducer_name: Anthony Chisholm
+  introducer_party: Labor
+  introducer_id: '10849'
+  introducer_division: Queensland
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7447_aspassed/toc_pdf/26029b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-03-13
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29209%2F0252%22
 - bill_id: s1457
   title: Competition and Consumer Amendment (Australian Energy Regulator Separation)
     Bill 2025
