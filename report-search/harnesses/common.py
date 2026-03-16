@@ -4,6 +4,7 @@ from urllib.parse import urljoin, urlparse
 
 import requests
 from bs4 import BeautifulSoup
+from playwright.sync_api import sync_playwright
 
 from . import Harness, ScrapeResult
 
@@ -184,6 +185,89 @@ class GenericPdfHarness(Harness):
 
             time.sleep(0.05)
 
+        if not pdf_urls and self.max_pages > 0:
+            try:
+                pdf_urls = self._scrape_with_playwright(start_url, candidate_paths)
+            except Exception as e:
+                result.errors.append(f"Playwright fallback failed: {e}")
+
         result.pdf_urls = sorted(pdf_urls)
         result.pdfs_found = len(result.pdf_urls)
         return result
+
+    def _scrape_with_playwright(self, start_url: str, seed_paths: list) -> set:
+        """Use Playwright to scrape PDFs from JavaScript-rendered sites."""
+        pdf_urls = set()
+        to_visit = [start_url]
+        for path in seed_paths:
+            to_visit.append(urljoin(start_url, path))
+
+        visited = set()
+        queued = set(to_visit)
+
+        keywords = [
+            "report",
+            "reports",
+            "publication",
+            "publications",
+            "submission",
+            "submissions",
+            "resource",
+            "resources",
+            "paper",
+            "papers",
+            "research",
+            "policy",
+            "media",
+            "library",
+            "download",
+        ]
+
+        try:
+            with sync_playwright() as p:
+                browser = p.chromium.launch(headless=True)
+                page = browser.new_page()
+                page.set_default_timeout(15000)
+
+                while to_visit and len(visited) < 20:
+                    current = to_visit.pop(0)
+                    if current in visited:
+                        continue
+                    visited.add(current)
+
+                    try:
+                        page.goto(current, wait_until="domcontentloaded", timeout=15000)
+                        page.wait_for_timeout(1000)
+
+                        for link in page.query_selector_all("a[href]"):
+                            href = link.get_attribute("href")
+                            if not href:
+                                continue
+
+                            full_url = urljoin(current, href)
+
+                            if self._looks_like_pdf(full_url):
+                                pdf_urls.add(full_url)
+                                continue
+
+                            if not self._is_same_domain(start_url, full_url):
+                                continue
+
+                            text = (link.inner_text() or "").lower()
+                            token = (href + " " + text).lower()
+
+                            if any(
+                                k in token for k in keywords
+                            ) or self._looks_like_listing(full_url):
+                                if full_url not in visited and full_url not in queued:
+                                    to_visit.append(full_url)
+                                    queued.add(full_url)
+
+                    except Exception:
+                        continue
+
+                browser.close()
+        except Exception:
+            pass
+
+        return pdf_urls

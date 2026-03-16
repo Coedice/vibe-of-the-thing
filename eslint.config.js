@@ -2,6 +2,7 @@ export default [
   {
     ignores: [
       "node_modules/**",
+      ".venv/**",
       "_site/**",
       ".bundle/**",
       "vendor/**",

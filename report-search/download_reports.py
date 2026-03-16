@@ -10,8 +10,9 @@ Workflow (per report):
 """
 
 import argparse
-import json
+import concurrent.futures
 import tempfile
+import threading
 import time
 from pathlib import Path
 
@@ -31,6 +32,9 @@ from scraper import scrape_think_tank
 from think_tanks_data import get_all_think_tanks, get_total_count
 
 YAML_OUTPUT = Path("../_data/recommendations.yml")
+MAX_RETRIES = 2
+
+yaml_lock = threading.Lock()
 
 
 def load_existing_json_reports() -> set:
@@ -48,111 +52,109 @@ def load_existing_json_reports() -> set:
         return set()
 
 
-def process_single_report(pdf_url: str, tank: dict) -> bool:
+def process_single_report(pdf_url: str, tank: dict, skip_ai: bool = False) -> dict:
     """Process a single report through all phases: download, convert, shrink, AI extract, save."""
     tank_slug = tank["slug"]
+    tank_name = tank["name"]
 
-    # Use temporary files that get cleaned up automatically
-    with tempfile.NamedTemporaryFile(suffix=".pdf", delete=False) as pdf_file:
-        pdf_path = Path(pdf_file.name)
-    md_path = pdf_path.with_suffix(".md")
+    for attempt in range(MAX_RETRIES + 1):
+        with tempfile.NamedTemporaryFile(suffix=".pdf", delete=False) as pdf_file:
+            pdf_path = Path(pdf_file.name)
+        md_path = pdf_path.with_suffix(".md")
 
-    try:
-        # Phase 1: Download PDF to temporary file
-        print(f"  Downloading PDF...")
-        response = requests.get(pdf_url, timeout=60)
-        response.raise_for_status()
-        with open(pdf_path, "wb") as f:
-            f.write(response.content)
-
-        # Phase 2: Convert to markdown
-        print(f"  Converting to markdown...")
-        md_converter = MarkItDown()
-
-        pdf_converted = False
         try:
-            result = md_converter.convert(str(pdf_path))
-            content = getattr(result, "text_content", None) or str(result)
-            with open(md_path, "w", encoding="utf-8") as f:
-                f.write(content)
-            pdf_converted = True
-        except:
-            # Catch ANY exception from PDF conversion
-            print(f"  Error converting PDF, creating blank markdown")
+            response = requests.get(pdf_url, timeout=60)
+            response.raise_for_status()
+            with open(pdf_path, "wb") as f:
+                f.write(response.content)
+
+            md_converter = MarkItDown()
+
             try:
-                md_path.write_text("", encoding="utf-8")
+                result = md_converter.convert(str(pdf_path))
+                content = getattr(result, "text_content", None) or str(result)
+                with open(md_path, "w", encoding="utf-8") as f:
+                    f.write(content)
+            except Exception:
+                try:
+                    md_path.write_text("", encoding="utf-8")
+                except:
+                    pass
+
+            try:
+                if pdf_path.exists():
+                    pdf_path.unlink()
             except:
                 pass
 
-        # Delete PDF after conversion attempt (success or failure)
-        try:
-            if pdf_path.exists():
-                pdf_path.unlink()
-        except:
-            pass
+            with open(md_path, "r", encoding="utf-8") as f:
+                content = f.read()
+            reduced_content = extract_recommendations_context(content)
+            with open(md_path, "w", encoding="utf-8") as f:
+                f.write(reduced_content)
 
-        # Phase 3: Shrink markdown
-        print(f"  Shrinking markdown...")
-        with open(md_path, "r", encoding="utf-8") as f:
-            content = f.read()
-        reduced_content = extract_recommendations_context(content)
-        with open(md_path, "w", encoding="utf-8") as f:
-            f.write(reduced_content)
+            if skip_ai:
+                ai_result = {"title": "Untitled (AI skipped)", "recommendations": []}
+            else:
+                with open(md_path, "r", encoding="utf-8") as f:
+                    content = f.read()
+                ai_result = extract_recommendations(content)
 
-        # Phase 4: Extract AI summary
-        print(f"  Extracting AI summary...")
-        with open(md_path, "r", encoding="utf-8") as f:
-            content = f.read()
-        ai_result = extract_recommendations(content)
+            report = {
+                "think_tank": tank_name,
+                "source_url": pdf_url,
+                "slug": tank_slug,
+                "title": ai_result.get("title", "Untitled"),
+                "recommendations": ai_result.get("recommendations", []),
+            }
 
-        # Phase 5: Add to YAML and cleanup
-        print(f"  Adding to YAML: {ai_result.get('title', 'Untitled')[:50]}...")
-        report = {
-            "think_tank": tank["name"],
-            "source_url": pdf_url,
-            "slug": tank_slug,
-            "title": ai_result.get("title", "Untitled"),
-            "recommendations": ai_result.get("recommendations", []),
-        }
+            with yaml_lock:
+                existing_reports = []
+                if YAML_OUTPUT.exists():
+                    with open(YAML_OUTPUT, "r", encoding="utf-8") as f:
+                        existing_data = yaml.safe_load(f)
+                        if existing_data:
+                            existing_reports = existing_data.get("reports", []) or []
 
-        # Load existing reports
-        YAML_OUTPUT.parent.mkdir(parents=True, exist_ok=True)
-        existing_reports = []
-        if YAML_OUTPUT.exists():
-            with open(YAML_OUTPUT, "r", encoding="utf-8") as f:
-                existing_data = yaml.safe_load(f)
-                if existing_data:
-                    existing_reports = existing_data.get("reports", []) or []
+                existing_reports.append(report)
 
-        # Add new report
-        existing_reports.append(report)
+                YAML_OUTPUT.parent.mkdir(parents=True, exist_ok=True)
+                with open(YAML_OUTPUT, "w", encoding="utf-8") as f:
+                    yaml.dump(
+                        {"reports": existing_reports},
+                        f,
+                        default_flow_style=False,
+                        allow_unicode=True,
+                        sort_keys=False,
+                    )
 
-        # Save to YAML
-        with open(YAML_OUTPUT, "w", encoding="utf-8") as f:
-            yaml.dump(
-                {"reports": existing_reports},
-                f,
-                default_flow_style=False,
-                allow_unicode=True,
-                sort_keys=False,
-            )
+            md_path.unlink()
 
-        # Delete markdown file after successful save
-        md_path.unlink()
+            return {"success": True, "title": report["title"]}
 
-        print(f"  ✓ Completed: {report['title'][:50]}...\n")
-        return True
+        except Exception as e:
+            for p in [pdf_path, md_path]:
+                if p.exists():
+                    try:
+                        p.unlink()
+                    except:
+                        pass
 
+            if attempt < MAX_RETRIES:
+                time.sleep((attempt + 1) * 2)
+            else:
+                return {"success": False, "error": str(e), "url": pdf_url}
+
+    return {"success": False, "error": "Max retries exceeded", "url": pdf_url}
+
+
+def scrape_single_think_tank(tank: dict) -> dict:
+    """Scrape a single think tank and return PDF URLs."""
+    try:
+        result = scrape_think_tank(tank)
+        return {"tank": tank, "pdf_urls": result.pdf_urls, "errors": result.errors}
     except Exception as e:
-        print(f"  ✗ Error processing {pdf_url}: {type(e).__name__}: {e}\n")
-        # Cleanup any leftover files
-        for p in [pdf_path, md_path]:
-            if p.exists():
-                try:
-                    p.unlink()
-                except Exception:
-                    pass
-        return False
+        return {"tank": tank, "pdf_urls": [], "errors": [str(e)]}
 
 
 def main():
@@ -163,8 +165,26 @@ def main():
         "--delay",
         "-d",
         type=float,
-        default=1.0,
-        help="Delay between requests in seconds (default: 1.0)",
+        default=0.0,
+        help="Delay between requests in seconds (default: 0.0)",
+    )
+    parser.add_argument(
+        "--workers",
+        "-w",
+        type=int,
+        default=4,
+        help="Number of parallel workers (default: 4)",
+    )
+    parser.add_argument(
+        "--scrape-workers",
+        type=int,
+        default=8,
+        help="Number of parallel scrapers (default: 8)",
+    )
+    parser.add_argument(
+        "--no-ai",
+        action="store_true",
+        help="Skip AI extraction (for CI or quick scraping)",
     )
     parser.add_argument(
         "--count", action="store_true", help="Show think tank count and exit"
@@ -176,7 +196,6 @@ def main():
         print(f"Total think tanks: {get_total_count()}")
         return 0
 
-    # Setup
     think_tanks = get_all_think_tanks()
     print(f"Found {len(think_tanks)} think tanks")
 
@@ -184,11 +203,8 @@ def main():
     if existing_urls:
         print(f"Found {len(existing_urls)} existing reports in YAML, will skip those\n")
 
-    # Process reports
-    total_processed = 0
-    total_errors = 0
-
     console = Console()
+
     with Progress(
         SpinnerColumn(),
         TextColumn("[progress.description]{task.description}"),
@@ -196,45 +212,80 @@ def main():
         TaskProgressColumn(),
         console=console,
     ) as progress:
-        task = progress.add_task("Processing reports...", total=len(think_tanks))
+        scrape_task = progress.add_task(
+            "Scraping think tanks...", total=len(think_tanks)
+        )
 
-        for tank in think_tanks:
-            print(f"\n{'=' * 60}")
-            print(f"Think Tank: {tank['name']}")
-            print(f"{'=' * 60}")
+        tank_results = []
+        with concurrent.futures.ThreadPoolExecutor(
+            max_workers=args.scrape_workers
+        ) as executor:
+            futures = {
+                executor.submit(scrape_single_think_tank, tank): tank
+                for tank in think_tanks
+            }
+            for future in concurrent.futures.as_completed(futures):
+                result = future.result()
+                tank_results.append(result)
+                progress.update(scrape_task, advance=1)
 
-            try:
-                # Scrape to get report URLs
-                result = scrape_think_tank(tank)
-                tank_slug = tank["slug"]
+        all_pdf_urls = []
+        total_scrape_errors = 0
+        for tr in tank_results:
+            all_pdf_urls.extend(tr["pdf_urls"])
+            total_scrape_errors += len(tr["errors"])
+            if tr["errors"]:
+                console.print(
+                    f"[yellow]Warning:[/yellow] {tr['tank']['name']}: {tr['errors'][0]}"
+                )
 
-                for pdf_url in result.pdf_urls:
-                    if pdf_url in existing_urls:
-                        continue
+        new_urls = [url for url in all_pdf_urls if url not in existing_urls]
+        console.print(
+            f"\nFound {len(new_urls)} new reports to process (from {len(all_pdf_urls)} total)\n"
+        )
 
-                    # Process this single report through all phases
-                    success = process_single_report(pdf_url, tank)
+        if new_urls:
+            process_task = progress.add_task(
+                "Processing reports...", total=len(new_urls)
+            )
 
-                    if success:
+            total_processed = 0
+            total_errors = 0
+
+            tank_to_urls = {}
+            for url in new_urls:
+                for tr in tank_results:
+                    if url in tr["pdf_urls"]:
+                        tank_to_urls[url] = tr["tank"]
+                        break
+
+            with concurrent.futures.ThreadPoolExecutor(
+                max_workers=args.workers
+            ) as executor:
+                futures = {
+                    executor.submit(
+                        process_single_report, url, tank_to_urls[url], args.no_ai
+                    ): url
+                    for url in new_urls
+                }
+                for future in concurrent.futures.as_completed(futures):
+                    result = future.result()
+                    if result.get("success"):
                         total_processed += 1
                     else:
                         total_errors += 1
+                    progress.update(process_task, advance=1)
 
-                    # Add delay between reports
-                    time.sleep(args.delay)
+        else:
+            total_processed = 0
+            total_errors = 0
 
-            except Exception as e:
-                print(f"Error scraping {tank.get('name', 'Unknown')}: {e}\n")
-                total_errors += 1
-
-            progress.update(task, advance=1)
-
-    print(f"\n{'=' * 60}")
-    print(f"Processing complete!")
-    print(f"Successfully processed: {total_processed} reports")
-    print(f"Errors: {total_errors}")
-    print(f"Output: {YAML_OUTPUT}")
-    print(f"{'=' * 60}")
+    console.print(f"\n{'=' * 60}")
+    console.print(f"Processing complete!")
+    console.print(f"Successfully processed: {total_processed} reports")
+    console.print(f"Errors: {total_errors}")
+    console.print(f"Output: {YAML_OUTPUT}")
+    console.print(f"{'=' * 60}")
 
     return 0
 

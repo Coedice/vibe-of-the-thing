@@ -8,7 +8,7 @@ budget:
 
 .PHONY: reports
 reports:
-	cd report-search && uv run python download_reports.py
+	cd report-search && uv run python download_reports.py -w 4 --scrape-workers 8
 
 .PHONY: build
 build:
