@@ -1,0 +1,8 @@
+---
+---
+{%- assign colors = site.data.party_colors -%}
+{
+{%- for party in colors %}
+  "{{ party[0] }}": "{{ party[1] }}"{% if forloop.last == false %},{% endif %}
+{%- endfor %}
+}

@@ -1,0 +1,44 @@
+- name: Low inflation
+  category: Economy
+  source_title: ABS
+  source_url: https://dataexplorer.abs.gov.au/vis?df[ds]=ECONOMY_TOPICS&df[id]=CPI&df[ag]=ABS&dq=1.10001..50.Q&pd=,&to[TIME_PERIOD]=false&vw=tb
+  weight: 0.5
+  inverted: true
+  color: "#eab308"
+  api_url: https://data.api.abs.gov.au/rest/data/ABS,CPI,/1.10001..50.Q
+
+- name: Wage Price Index
+  category: Economy
+  source_title: ABS
+  source_url: https://dataexplorer.abs.gov.au/vis?fs[0]=Economy,0%7CPrice%20indexes%20and%20inflation%23PRICE_INDEX_INFLATION%23&pg=0&fc=Economy&bp=true&snb=13&df[ds]=ECONOMY_TOPICS&df[id]=CPI_M&df[ag]=ABS&df[vs]=1.2.0&dq=1.10001..50.M&pd=,&to[TIME_PERIOD]=false&vw=tb
+  weight: 0.5
+  inverted: false
+  color: "#3b82f6"
+  api_url: https://data.api.abs.gov.au/rest/data/ABS,WPI,1.2.0/3..7.TOT.20.AUS.Q
+
+- name: GDP per capita
+  category: Economy
+  source_title: ABS
+  source_url: https://dataexplorer.abs.gov.au/vis?tm=GDP%20per%20capita&pg=0&snb=1&vw=tb&df[ds]=ECONOMY_TOPICS&df[id]=ANA_AGG&df[ag]=ABS&df[vs]=1.0.0&dq=M1.GPM_PCA.20..Q&pd=,&to[TIME_PERIOD]=false&ly[rw]=TIME_PERIOD
+  weight: 0.5
+  inverted: false
+  color: "#ff0000"
+  api_url: https://data.api.abs.gov.au/rest/data/ABS,ANA_AGG,1.0.0/M1.GPM_PCA.20..Q
+
+- name: Low unemployment
+  category: Economy
+  source_title: ABS
+  source_url: https://dataexplorer.abs.gov.au/vis?pg=0&snb=10&df[ds]=LABOUR_TOPICS&df[id]=LF&df[ag]=ABS&df[vs]=1.0.0&dq=M13.3.1599.20.AUS.M&pd=,&to[TIME_PERIOD]=false&ly[rw]=TIME_PERIOD&isAvailabilityDisabled=false&fs[0]=Labour,0%7CEmployment%20and%20unemployment%23EMPLOYMENT_UNEMPLOYMENT%23&bp=true
+  weight: 0.5
+  inverted: true
+  color: "#00ff00"
+  api_url: https://data.api.abs.gov.au/rest/data/ABS,LF,1.0.0/M13.3.1599.20.AUS.M
+
+- name: Fertility rate
+  category: Demographics
+  source_title: ABS
+  source_url: https://dataexplorer.abs.gov.au/vis?fs[0]=People,1%7CPopulation%23POPULATION%23%7CBirths%23BIRTHS%23&pg=0&fc=People&bp=true&snb=11&df[ds]=PEOPLE_TOPICS&df[id]=FERTILITY_AGE_STATE&df[ag]=ABS&df[vs]=1.0.0&dq=11.TOT.AUS.A&pd=,&to[TIME_PERIOD]=false
+  weight: 0.5
+  inverted: false
+  color: "#0000ff"
+  api_url: https://data.api.abs.gov.au/rest/data/ABS,FERTILITY_AGE_STATE,1.0.0/11.TOT.AUS.A

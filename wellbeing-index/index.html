@@ -1,0 +1,38 @@
+---
+title: Everything Graph
+layout: default
+nav: wellbeing-index
+body_class: wellbeing-index
+styles:
+  - /assets/css/wellbeing-index.css
+head_scripts:
+  - https://d3js.org/d3.v7.min.js
+  - /assets/js/wellbeing-index.js
+---
+<main class="main-content">
+    <section class="visualization" aria-label="Timeline Chart">
+        <div id="timeline-chart" tabindex="0"></div>
+    </section>
+    <aside class="sidebar">
+        <section class="controls-section" aria-label="Controls">
+            <div class="controls" role="form" aria-label="Graph Controls">
+                <h3>Wellbeing Weightings</h3>
+                <div class="control-group">
+                    <div id="weightings-container"></div>
+                    <div id="weighting-summary" class="weighting-summary"></div>
+                </div>
+
+                <h3>Date Range</h3>
+                <div class="control-group date-range-container">
+                    <div class="date-range-slider" id="date-range-slider">
+                        <div class="slider-track"></div>
+                        <input type="range" id="slider-min" class="slider-input" aria-label="Start date">
+                        <input type="range" id="slider-max" class="slider-input" aria-label="End date">
+                        <div class="slider-label slider-label-min" id="date-from-label"></div>
+                        <div class="slider-label slider-label-max" id="date-to-label"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </aside>
+</main>
