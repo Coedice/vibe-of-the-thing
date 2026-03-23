@@ -192,13 +192,15 @@ function estimateSpeakingTimes() {
     speakerToIndex.set(normaliseName(speaker), index);
   });
 
-  // Find any speaker in the debate that appears in the expected list
+  // Find the latest live speaker that appears in the expected list
   let pivotIndex = -1;
+  let pivotTurn = null;
   for (let i = billDebate.debateTurns.length - 1; i >= 0; i--) {
     const debateSpeaker = billDebate.debateTurns[i].normalisedSpeaker;
     for (const [key, index] of speakerToIndex) {
       if (key === debateSpeaker) {
         pivotIndex = index;
+        pivotTurn = billDebate.debateTurns[i];
         break;
       }
     }
@@ -216,8 +218,21 @@ function estimateSpeakingTimes() {
     return index < 2 ? 30 : 15;
   }
 
-  // First speaker's start time is the time of the first debate turn
-  const firstSpeakerTime = billDebate.debateTurns[0].time;
+  function estimateTimeFromPivot(index) {
+    const expectedTime = new Date(pivotTurn.time);
+
+    if (index > pivotIndex) {
+      for (let i = pivotIndex; i < index; i++) {
+        expectedTime.setMinutes(expectedTime.getMinutes() + estimateSpeakerDuration(i));
+      }
+    } else if (index < pivotIndex) {
+      for (let i = index; i < pivotIndex; i++) {
+        expectedTime.setMinutes(expectedTime.getMinutes() - estimateSpeakerDuration(i));
+      }
+    }
+
+    return expectedTime;
+  }
 
   // Calculate times for all speakers
   let html = "";
@@ -244,13 +259,8 @@ function estimateSpeakingTimes() {
       // Use actual time from debate
       expectedTime = debateTurn.time;
     } else {
-      // Calculate estimated time based on cumulative duration from first speaker
-      let minutesToSpeaker = 0;
-      for (let i = 0; i <= index; i++) {
-        minutesToSpeaker += estimateSpeakerDuration(i);
-      }
-      expectedTime = new Date(firstSpeakerTime);
-      expectedTime.setMinutes(expectedTime.getMinutes() + minutesToSpeaker);
+      // Estimate from the latest matched live speaker rather than the start of debate.
+      expectedTime = estimateTimeFromPivot(index);
     }
 
     const expectedTimeText = `${expectedTime.getHours().toString().padStart(2, "0")}:${expectedTime.getMinutes().toString().padStart(2, "0")}`;
