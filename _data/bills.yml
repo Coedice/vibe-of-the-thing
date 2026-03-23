@@ -685,7 +685,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28901%2F0017%22
 - bill_id: r7378
   title: Defence Amendment (Parliamentary Joint Committee on Defence) Bill 2025
-  status: Assent
+  status: Act
   type: Government
   portfolio: Defence
   originating_house: House of Representatives
@@ -800,7 +800,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28900%2F0017%22
 - bill_id: r7383
   title: Corporations (Review Fees) Amendment (Technical Amendments) Bill 2025
-  status: Assent
+  status: Act
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
@@ -1145,7 +1145,7 @@ passed:
 - bill_id: r7435
   title: Superannuation (Building a Stronger and Fairer Super System) Imposition Bill
     2026
-  status: Assent
+  status: Act
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
@@ -1165,7 +1165,7 @@ passed:
 - bill_id: r7437
   title: Treasury Laws Amendment (Building a Stronger and Fairer Super System) Bill
     2026
-  status: Assent
+  status: Act
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
@@ -1186,7 +1186,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29138%2F0009%22
 - bill_id: r7442
   title: Parliamentary Frameworks Legislation Amendment (Reviews) Bill 2026
-  status: Assent
+  status: Act
   type: Government
   portfolio: Finance
   originating_house: House of Representatives
@@ -1206,7 +1206,7 @@ passed:
 - bill_id: r7443
   title: Royal Commissions Legislation Amendment (Protections for Providing Information)
     Bill 2026
-  status: Assent
+  status: Act
   type: Government
   portfolio: Attorney-General
   originating_house: House of Representatives
@@ -1225,7 +1225,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29140%2F0073%22
 - bill_id: r7447
   title: Migration Amendment (2026 Measures No. 1) Bill 2026
-  status: Assent
+  status: Act
   type: Government
   portfolio: Home Affairs
   originating_house: House of Representatives
