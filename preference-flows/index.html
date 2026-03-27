@@ -1,0 +1,103 @@
+---
+title: Preference Flows
+layout: default
+nav: preference-flows
+body_class: preference-flows
+styles:
+  - /assets/css/preference-flows.css
+head_scripts:
+  - https://d3js.org/d3.v7.min.js
+  - https://unpkg.com/d3-sankey@0.12.3/dist/d3-sankey.min.js
+scripts:
+  - /preference-flows/script.js
+---
+{% assign tool = site.data.tools | where: "id", page.nav | first %}
+<script>
+    window.preferenceFlowDefault = {{ site.data.preference_flows | default: empty | jsonify }};
+    window.preferenceFlowParties = {{ site.data.parties | default: empty | jsonify }};
+</script>
+<div class="page">
+    <header class="hero">
+        <div class="brand">
+            <div class="logo">{{ tool.emoji | default: "🗳️" }}</div>
+            <div>
+                <h1>{{ tool.title | default: page.title }}</h1>
+            </div>
+        </div>
+        <p>{{ tool.description }}</p>
+    </header>
+
+    <section class="controls-card preference-controls">
+        <div class="control-block">
+            <div class="control-header">
+                <h2>Candidates</h2>
+                <span class="hint">One candidate per line, in display order.</span>
+            </div>
+            <textarea id="candidatesInput" class="large-input" aria-label="Candidates list">Labor
+Liberal
+Greens
+Independent</textarea>
+        </div>
+
+        <div class="control-block">
+            <div class="control-header">
+                <h2>Ballots</h2>
+                <span class="hint">Format: count: Candidate A &gt; Candidate B &gt; Candidate C. Use multiple lines with the same first candidate to model split preferences.</span>
+            </div>
+            <textarea id="ballotsInput" class="large-input" aria-label="Ballots list">4200: Labor &gt; Greens &gt; Independent &gt; Liberal
+3600: Liberal &gt; Independent &gt; Labor &gt; Greens
+1200: Greens &gt; Labor &gt; Independent &gt; Liberal
+600: Greens &gt; Independent &gt; Labor &gt; Liberal
+420: Independent &gt; Greens &gt; Labor &gt; Liberal
+280: Independent &gt; Labor &gt; Greens &gt; Liberal</textarea>
+        </div>
+
+        <div class="control-block settings-block">
+            <div class="control-header">
+                <h2>Settings</h2>
+                <span class="hint">Choose number of seats and optional AA-reserved seats.</span>
+            </div>
+            <label for="seatsInput">Seats</label>
+            <input id="seatsInput" type="number" min="1" step="1" value="1">
+            <label for="aaSeatsInput">AA Seats</label>
+            <input id="aaSeatsInput" type="number" min="0" step="1" value="0">
+            <button id="runSimulation" class="button button-primary" type="button">Run Preference Flow</button>
+            <div id="validationMessage" class="validation-message" role="status" aria-live="polite"></div>
+        </div>
+    </section>
+
+    <section class="panel">
+        <div class="panel-header">
+            <h2>Alluvial Diagram</h2>
+            <span id="quotaBadge" class="badge ghost">Quota: -</span>
+        </div>
+        <div id="chartContainer" class="chart-container">
+            <svg id="flowChart" aria-label="Preference flow alluvial diagram"></svg>
+        </div>
+    </section>
+
+    <section class="panel">
+        <div class="panel-header">
+            <h2>Count Summary</h2>
+        </div>
+        <div id="summary" class="summary"></div>
+    </section>
+
+    <section class="panel methodology-panel">
+        <div class="panel-header">
+            <h2>Methodology</h2>
+        </div>
+        <div class="methodology-content">
+            <p>This tool models an IRV/STV count using weighted ballots and a Droop quota. Ballots are entered in grouped form (for example, <strong>4200: Labor &gt; Greens &gt; Independent</strong>), then expanded internally as fractional ballot weights for transfer calculations.</p>
+            <ol>
+                <li><strong>Set quota threshold:</strong> total votes / (seats + 1).</li>
+                <li><strong>Allocate current preferences:</strong> In each round, every active ballot is assigned to its highest-ranked continuing candidate.</li>
+                <li><strong>Elect on quota:</strong> If a candidate&rsquo;s tally is (strictly) greater than the quota threshold, they are elected in that round and marked with a tick.</li>
+                <li><strong>Transfer surplus (Gregory-style):</strong> If an elected candidate has surplus, each ballot currently with that candidate transfers the same fraction: surplus / candidate total.</li>
+                <li><strong>Eliminate lowest:</strong> If nobody reaches quota, the lowest candidate is eliminated and their ballots transfer at full current value to the next continuing preference.</li>
+                <li><strong>AA tally (optional):</strong> Mark candidates with <strong>(AA)</strong> and set AA seats. Once non-AA seats are filled, an AA stage begins in a separate alluvial chart below the main chart, with only unelected AA candidates continuing from a reset AA table.</li>
+                <li><strong>Repeat until seats filled:</strong> Counting stops when all seats are filled, or when remaining candidates equal remaining seats.</li>
+            </ol>
+        </div>
+    </section>
+</div>

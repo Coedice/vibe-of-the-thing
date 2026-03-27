@@ -10,6 +10,7 @@ A collection of interactive tools for exploring Australian federal government da
 | **Parliament Kanban** | Kanban board view of all bills in the current parliament | • Visual bill tracking<br>• Status updates<br>• Legislative progress monitoring |
 | **When Talk** | Estimate when speakers will get their turn in Federal Parliament debates | • Live debate tracking<br>• Speaker timeline visualisation<br>• Bill matching<br>• Shareable links |
 | **Report Search** | Search across research reports from Australian think tanks | • Full-text search<br>• Filter by organization<br>• Highlighted excerpts<br>• Direct report links |
+| **Preference Flows** | Build election preference-flow scenarios with IRV/STV counting | • Custom candidates and ballot weights<br>• Adjustable seat count and Droop quota<br>• Round-by-round alluvial transfer diagram |
 
 ### Data Sources
 
