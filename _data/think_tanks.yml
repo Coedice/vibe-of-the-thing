@@ -251,3 +251,9 @@ think_tanks:
   reports_url: https://harmreductionaustralia.org.au/
   harness: harm_reduction_australia
   description: "National advocacy organisation focused on reducing alcohol and other drug harm"
+- name: Consumer Policy Research Centre
+  slug: cprc
+  website: https://cprc.org.au/
+  reports_url: https://cprc.org.au/research/reports/
+  harness: cprc
+  description: "Independent not-for-profit consumer policy research and advocacy organisation"
