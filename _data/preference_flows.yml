@@ -4,11 +4,14 @@ candidates:
   - Greens
   - Independent
 ballots:
-  - "4200: Labor > Greens > Independent > Liberal"
+  - "3600: Labor > Greens > Independent > Liberal"
+  - "400: Labor > Liberal > Greens > Independent"
+  - "200: Labor > Independent > Greens > Liberal"
   - "3600: Liberal > Independent > Labor > Greens"
   - "1200: Greens > Labor > Independent > Liberal"
   - "600: Greens > Liberal > Labor > Independent"
   - "420: Independent > Greens > Labor > Liberal"
-  - "280: Independent > Labor > Greens > Liberal"
+  - "130: Independent > Labor > Greens > Liberal"
+  - "150: Independent > Liberal > Labor > Greens"
 seats: 1
 aa_seats: 0
