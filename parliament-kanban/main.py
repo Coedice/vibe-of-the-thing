@@ -129,6 +129,7 @@ if os.path.exists(BILLS_YAML_FILE_TMP):
     os.remove(BILLS_YAML_FILE_TMP)
 
 mps = get_mps()
+any_bills = False
 
 for section_name, url in SECTIONS:
     print(
@@ -138,12 +139,17 @@ for section_name, url in SECTIONS:
             attrs=["underline"],
         )
     )
+
+    bill_ids = get_bill_ids(section_name, url)
+    if bill_ids:
+        any_bills = True
+
     with open(BILLS_YAML_FILE_TMP, "a") as f:
         f.write(f"{section_name}:\n")
 
     # Download and write bills
     for bill_id in track(
-        get_bill_ids(section_name, url),
+        bill_ids,
         description=f"[blue]Downloading {section_name} bills...",
     ):
         bill = Bill(bill_id, mps)
@@ -151,4 +157,7 @@ for section_name, url in SECTIONS:
             f.write(bill.yaml())
         print(f"Loaded bill {bill}")
 
-os.rename(BILLS_YAML_FILE_TMP, BILLS_YAML_FILE)
+if any_bills:
+    os.rename(BILLS_YAML_FILE_TMP, BILLS_YAML_FILE)
+elif os.path.exists(BILLS_YAML_FILE_TMP):
+    os.remove(BILLS_YAML_FILE_TMP)
