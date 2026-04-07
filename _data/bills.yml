@@ -2644,7 +2644,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0040%22
 - bill_id: r7402
   title: Copyright Amendment Bill 2026
-  status: Assent
+  status: Act
   type: Government
   portfolio: Attorney-General
   originating_house: House of Representatives
@@ -2683,7 +2683,7 @@ passed:
 - bill_id: r7408
   title: Universities Accord (Australian Tertiary Education Commission) (Consequential
     and Transitional Provisions) Bill 2025
-  status: Assent
+  status: Act
   type: Government
   portfolio: Education
   originating_house: House of Representatives
@@ -2726,7 +2726,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0051%22
 - bill_id: r7416
   title: Universities Accord (Australian Tertiary Education Commission) Bill 2025
-  status: Assent
+  status: Act
   type: Government
   portfolio: Education
   originating_house: House of Representatives
@@ -2746,7 +2746,7 @@ passed:
 - bill_id: r7417
   title: Veterans&rsquo; Affairs Legislation Amendment (Miscellaneous Measures No.
     2) Bill 2026
-  status: Assent
+  status: Act
   type: Government
   portfolio: "Veterans\u2019 Affairs"
   originating_house: House of Representatives
@@ -2765,7 +2765,7 @@ passed:
 - bill_id: r7418
   title: Defence and Veterans&rsquo; Service Commissioner (Consequential and Transitional
     Provisions) Bill 2025
-  status: Assent
+  status: Act
   type: Government
   portfolio: Prime Minister and Cabinet
   originating_house: House of Representatives
@@ -2782,7 +2782,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28890%2F0022%22
 - bill_id: r7419
   title: Defence and Veterans&rsquo; Service Commissioner Bill 2025
-  status: Assent
+  status: Act
   type: Government
   portfolio: Prime Minister and Cabinet
   originating_house: House of Representatives
@@ -2862,7 +2862,7 @@ passed:
 - bill_id: r7424
   title: Social Security and Other Legislation Amendment (Technical Changes No. 1)
     Bill 2026
-  status: Assent
+  status: Act
   type: Government
   portfolio: Social Services
   originating_house: House of Representatives
@@ -3125,7 +3125,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29149%2F0022%22
 - bill_id: r7462
   title: Fair Work Amendment (Fairer Fuel) Bill 2026
-  status: Assent
+  status: Act
   type: Government
   portfolio: Employment and Workplace Relations
   originating_house: House of Representatives
@@ -3144,7 +3144,7 @@ passed:
 - bill_id: r7472
   title: Export Finance and Insurance Corporation Amendment (Strategic Reserve) Bill
     2026
-  status: Assent
+  status: Act
   type: Government
   portfolio: Foreign Affairs and Trade
   originating_house: House of Representatives
@@ -3158,7 +3158,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29216%2F0235%22
 - bill_id: r7473
   title: Appropriation (Fuel Security Response) Bill (No. 2) 2025-2026
-  status: Assent
+  status: Act
   type: Government
   portfolio: Finance
   originating_house: House of Representatives
@@ -3172,7 +3172,7 @@ passed:
   second_reading_hansard_url: null
 - bill_id: r7474
   title: Appropriation (Fuel Security Response) Bill (No. 1) 2025-2026
-  status: Assent
+  status: Act
   type: Government
   portfolio: Finance
   originating_house: House of Representatives
@@ -3186,7 +3186,7 @@ passed:
   second_reading_hansard_url: null
 - bill_id: r7477
   title: Treasury Laws Amendment (Fuel Excise Relief) Bill 2026
-  status: Assent
+  status: Act
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
