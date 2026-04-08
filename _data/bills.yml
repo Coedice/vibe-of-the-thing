@@ -174,22 +174,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7364_first-reps/toc_pdf/25064b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-01
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28843%2F0024%22
-- bill_id: r7377
-  title: Customs Tariff Amendment (Draught Beer) Bill 2025
-  status: Before Senate
-  type: Government
-  portfolio: Home Affairs
-  originating_house: House of Representatives
-  summary: Introduced with the Excise Tariff Amendment (Draught Beer) Bill 2025, the
-    bill amends the Customs Tariff Act 1995 to pause the indexation of customs duty
-    rates on draught beer for two years, from 1 August 2025
-  introducer_name: Daniel Mulino
-  introducer_party: Labor
-  introducer_id: '10925'
-  introducer_division: Fraser
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7377_aspassed/toc_pdf/25076b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-04-01
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28900%2F0033%22
 - bill_id: r7387
   title: Crimes Amendment (Mandatory Minimum Sentences for Child Sexual Abuse) Bill
     2025
@@ -2265,6 +2249,22 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7374_aspassed/toc_pdf/25074b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-06
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28901%2F0013%22
+- bill_id: r7375
+  title: Excise Tariff Amendment (Draught Beer) Bill 2025
+  status: Assent
+  type: Government
+  portfolio: Treasury
+  originating_house: House of Representatives
+  summary: Introduced with the Customs Tariff Amendment (Draught Beer) Bill 2025,
+    the bill amends the Excise Tariff Act 1921 to pause the indexation of excise duty
+    rates on draught beer for two years, from 1 August 2025,
+  introducer_name: Daniel Mulino
+  introducer_party: Labor
+  introducer_id: '10925'
+  introducer_division: Fraser
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7375_aspassed/toc_pdf/25073b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-04-08
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28900%2F0029%22
 - bill_id: r7376
   title: Fair Work Amendment (Baby Priya&rsquo;s) Bill 2025
   status: Act
@@ -2281,6 +2281,22 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7376_aspassed/toc_pdf/25072b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-06
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28901%2F0017%22
+- bill_id: r7377
+  title: Customs Tariff Amendment (Draught Beer) Bill 2025
+  status: Assent
+  type: Government
+  portfolio: Home Affairs
+  originating_house: House of Representatives
+  summary: Introduced with the Excise Tariff Amendment (Draught Beer) Bill 2025, the
+    bill amends the Customs Tariff Act 1995 to pause the indexation of customs duty
+    rates on draught beer for two years, from 1 August 2025
+  introducer_name: Daniel Mulino
+  introducer_party: Labor
+  introducer_id: '10925'
+  introducer_division: Fraser
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7377_aspassed/toc_pdf/25076b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-04-08
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28900%2F0033%22
 - bill_id: r7378
   title: Defence Amendment (Parliamentary Joint Committee on Defence) Bill 2025
   status: Act
@@ -2442,6 +2458,39 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7384_aspassed/toc_pdf/25083b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-12-04
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28901%2F0023%22
+- bill_id: r7385
+  title: Commonwealth Parole Board Bill 2025
+  status: Assent
+  type: Government
+  portfolio: Attorney-General
+  originating_house: House of Representatives
+  summary: Introduced with the Commonwealth Parole Board (Consequential and Transitional
+    Provisions) Bill 2025, the bill establishes a statutory independent Commonwealth
+    Parole Board to make decisions about the conditional release and management of
+    federal offenders and other detained persons.
+  introducer_name: Michelle Rowland
+  introducer_party: Labor
+  introducer_id: '10751'
+  introducer_division: Greenway
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7385_aspassed/toc_pdf/25085b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-04-08
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28900%2F0021%22
+- bill_id: r7386
+  title: Commonwealth Parole Board (Consequential and Transitional Provisions) Bill
+    2025
+  status: Assent
+  type: Government
+  portfolio: Attorney-General
+  originating_house: House of Representatives
+  summary: Introduced with the Commonwealth Parole Board Bill 2025, the bill amends
+    the Crimes Act 1914 to support the establishment of the Commonwealth Parole Board.
+  introducer_name: Michelle Rowland
+  introducer_party: Labor
+  introducer_id: '10751'
+  introducer_division: Greenway
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7386_aspassed/toc_pdf/25084b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-04-08
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28900%2F0025%22
 - bill_id: r7389
   title: Customs Tariff Amendment (Geelong Treaty Implementation) Bill 2025
   status: Act
@@ -2642,6 +2691,22 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7398_aspassed/toc_pdf/25097b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-12-01
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0040%22
+- bill_id: r7401
+  title: Migration Amendment (Combatting Migrant Exploitation) Bill 2025
+  status: Assent
+  type: Government
+  portfolio: Home Affairs
+  originating_house: House of Representatives
+  summary: Amends the Migration Act 1958 to provide for the publication of a register
+    of approved standard business sponsors and accredited sponsors who have nominated
+    skilled workers for entry to Australia.
+  introducer_name: Tony Burke
+  introducer_party: Labor
+  introducer_id: '10081'
+  introducer_division: Watson
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7401_aspassed/toc_pdf/25099b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-04-08
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28878%2F0020%22
 - bill_id: r7402
   title: Copyright Amendment Bill 2026
   status: Act
@@ -2698,6 +2763,56 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7408_aspassed/toc_pdf/25105b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-04-01
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0035%22
+- bill_id: r7409
+  title: Treasury Laws Amendment (Genetic Testing Protections in Life Insurance and
+    Other Measures) Bill 2025
+  status: Assent
+  type: Government
+  portfolio: Treasury
+  originating_house: House of Representatives
+  summary: "Amends: the Insurance Contracts Act 1984 to establish a ban which prohibits\
+    \ insurers from using certain information about an individual\u2019s genetic testing\
+    \ to inform the offer of life insurance cover, or the terms and conditions of\
+    \ the cover that is offered; the Disability Discrimination Act 1992 to align Australia\u2019\
+    s anti-discrimination law with the ban; the Corporations Act 2001 to provide four\
+    \ licensing exemptions for foreign financial services providers; 7 Acts to support\
+    \ Australia\u2019s continuing participation with multilateral development banks\
+    \ (MDBs) and the International Monetary Fund by introducing special appropriations\
+    \ for current and future financial obligations to MDBs, enabling the delegation\
+    \ of certain powers, ensuring payments consistent with existing obligations can\
+    \ be made without additional ministerial approval, and making technical amendments;\
+    \ and the Financial Sector Reform (Hayne Royal Commission Response\u2014Better\
+    \ Advice) Act 2021 to remove the requirement that individual financial advisers\
+    \ register themselves with the Australian Securities and Investments Commission\
+    \ annually from 1 July 2026. Also repeals 9 Acts and the European Bank for Reconstruction\
+    \ and Development Regulation 2012."
+  introducer_name: Daniel Mulino
+  introducer_party: Labor
+  introducer_id: '10925'
+  introducer_division: Fraser
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7409_aspassed/toc_pdf/25106b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-04-08
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0043%22
+- bill_id: r7411
+  title: Corporations Amendment (Digital Assets Framework) Bill 2025
+  status: Assent
+  type: Government
+  portfolio: Treasury
+  originating_house: House of Representatives
+  summary: "Amends the Corporations Act 2001 and Australian Securities and Investments\
+    \ Commission Act 2001 to update Australia\u2019s digital asset regulatory regime\
+    \ by: defining the core concepts of digital tokens, digital asset platforms and\
+    \ tokenised custody platforms; applying the financial services law in a way that\
+    \ is tailored to these platforms; providing targeted exemptions for certain digital\
+    \ token arrangements; and providing the Australian Securities and Investments\
+    \ Commission and the Minister with powers to regulate these platforms."
+  introducer_name: Daniel Mulino
+  introducer_party: Labor
+  introducer_id: '10925'
+  introducer_division: Fraser
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7411_aspassed/toc_pdf/25108b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-04-08
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0047%22
 - bill_id: r7412
   title: Treasury Laws Amendment (Supporting Choice in Superannuation and Other Measures)
     Bill 2025
@@ -2724,6 +2839,22 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7412_aspassed/toc_pdf/25113b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-03-26
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0051%22
+- bill_id: r7415
+  title: Translating and Interpreting Services Bill 2025
+  status: Assent
+  type: Government
+  portfolio: Home Affairs
+  originating_house: House of Representatives
+  summary: Establishes a framework to support the provision of translating and interpreting
+    services provided by the Department of Home Affairs in its capacity as the Translating
+    and Interpreting Service National.
+  introducer_name: Anne Aly
+  introducer_party: Labor
+  introducer_id: '10863'
+  introducer_division: Cowan
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7415_aspassed/toc_pdf/25110b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-04-08
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0039%22
 - bill_id: r7416
   title: Universities Accord (Australian Tertiary Education Commission) Bill 2025
   status: Act
@@ -2859,6 +2990,22 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7422_aspassed/toc_pdf/26003b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-01-20
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29340%2F0048%22
+- bill_id: r7423
+  title: National Health Amendment (Passive Immunological Products) Bill 2026
+  status: Assent
+  type: Government
+  portfolio: Health, Disability and Ageing
+  originating_house: House of Representatives
+  summary: "Amends the National Health Act 1953 to amend the definition of \u2018\
+    vaccine\u2019 to enable new and merging technologies to be listed on the National\
+    \ Immunisation Program."
+  introducer_name: Rebecca White
+  introducer_party: Labor
+  introducer_id: '11052'
+  introducer_division: Lyons
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7423_aspassed/toc_pdf/25103b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-04-08
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29135%2F0029%22
 - bill_id: r7424
   title: Social Security and Other Legislation Amendment (Technical Changes No. 1)
     Bill 2026
