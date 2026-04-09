@@ -3423,6 +3423,44 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1460_aspassed/toc_pdf/2503920.pdf;fileType=application%2Fpdf
   last_updated: 2025-08-28
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28816%2F0170%22
+- bill_id: s1478
+  title: National Disability Insurance Scheme Amendment (Integrity and Safeguarding)
+    Bill 2026
+  status: Assent
+  type: Government
+  portfolio: Health, Disability and Ageing
+  originating_house: Senate
+  summary: "Amends the National Disability Insurance Scheme Act 2013 to: expand the\
+    \ NDIS Quality and Safeguards Commission\u2019s powers to detect, prevent and\
+    \ respond to breaches of obligations under the Act; provide participants wishing\
+    \ to withdraw from the National Disability Insurance Scheme with additional safeguards\
+    \ and communication options; enable the National Disability Insurance Agency to\
+    \ move to an entirely electronic claiming system for providers; and ensure that\
+    \ plan variations can include an increase or decrease of the total funding amounts."
+  introducer_name: Anthony Chisholm
+  introducer_party: Labor
+  introducer_id: '10849'
+  introducer_division: Queensland
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1478_aspassed/toc_pdf/2511520.pdf;fileType=application%2Fpdf
+  last_updated: 2026-04-08
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28888%2F0186%22
+- bill_id: s1484
+  title: High Seas Biodiversity Bill 2026
+  status: Assent
+  type: Government
+  portfolio: Climate Change, Energy, the Environment and Water
+  originating_house: Senate
+  summary: "Establishes a framework to implement Australia\u2019s obligations under\
+    \ the Agreement under the United Nations Convention on the Law of the Sea on the\
+    \ Conservation and Sustainable use of Marine Biological Diversity of Areas beyond\
+    \ National Jurisdiction."
+  introducer_name: Katy Gallagher
+  introducer_party: Labor
+  introducer_id: '10838'
+  introducer_division: ACT
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1484_aspassed/toc_pdf/2600620.pdf;fileType=application%2Fpdf
+  last_updated: 2026-04-08
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29200%2F0156%22
 failed:
 - bill_id: r7348
   title: Electoral Legislation Amendment (Electoral Communications) Bill 2025
