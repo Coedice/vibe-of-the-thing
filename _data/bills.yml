@@ -1637,10 +1637,10 @@ pending:
   portfolio: null
   originating_house: Senate
   summary: null
-  introducer_name: null
-  introducer_party: null
-  introducer_id: null
-  introducer_division: null
+  introducer_name: Sarah Hanson-Young
+  introducer_party: Greens
+  introducer_id: '10711'
+  introducer_division: SA
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1491_first-senate/toc_pdf/26S0820.pdf;fileType=application%2Fpdf
   last_updated: 2026-04-01
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29217%2F0236%22
