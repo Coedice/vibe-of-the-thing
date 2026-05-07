@@ -522,7 +522,8 @@ pending:
   type: Private
   portfolio: null
   originating_house: House of Representatives
-  summary: null
+  summary: Provides that prime agricultural land must not be used for a purpose other
+    than agriculture.
   introducer_name: Andrew Gee
   introducer_party: Independent
   introducer_id: '10883'
@@ -537,7 +538,11 @@ pending:
   type: Government
   portfolio: Home Affairs
   originating_house: House of Representatives
-  summary: null
+  summary: 'Amends the: Commerce (Trade Descriptions) Act 1905 to create a strict
+    liability offence for the importation of goods that bear false trade marks; and
+    Customs Regulation 2015 to prescribe this offence in the Customs Infringement
+    Notice Scheme, enabling Australian Border Force officers to issue infringement
+    notices as an alternative to prosecution.'
   introducer_name: Julian Hill
   introducer_party: Labor
   introducer_id: '10885'
@@ -551,7 +556,13 @@ pending:
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
-  summary: null
+  summary: "Amends the: Taxation Administration Act 1953 and 3 other Acts to establish\
+    \ a framework to enable victims and survivors of specified child abuse offences\
+    \ to obtain visibility of, and access to, certain amounts held in a perpetrator\u2019\
+    s superannuation for the purpose of satisfying unpaid compensation orders arising\
+    \ from criminal or civil proceedings; and Bankruptcy Act 1966 to ensure that compensation\
+    \ debts owed to victims and survivors are not extinguished by a perpetrator\u2019\
+    s bankruptcy."
   introducer_name: Daniel Mulino
   introducer_party: Labor
   introducer_id: '10925'
@@ -565,7 +576,14 @@ pending:
   type: Government
   portfolio: Home Affairs
   originating_house: House of Representatives
-  summary: null
+  summary: "Introduced with the Australian Criminal Intelligence Commission (National\
+    \ Policing Information Charges) Bill 2026, the bill continues in existence the\
+    \ Australian Criminal Intelligence Commission as Australia\u2019s national criminal\
+    \ intelligence agency with realigned functions and powers to obtain, analyse and\
+    \ communicate intelligence relevant to serious and organised crime, provide nationally\
+    \ coordinated criminal history check services, prepare and issue criminal intelligence\
+    \ assessments and provide advice about crime trends, criminal activity and preventing\
+    \ crime."
   introducer_name: Julian Hill
   introducer_party: Labor
   introducer_id: '10885'
@@ -580,7 +598,10 @@ pending:
   type: Government
   portfolio: Home Affairs
   originating_house: House of Representatives
-  summary: null
+  summary: Introduced with the Australian Criminal Intelligence Commission Bill 2026,
+    the bill imposes a national policing information charge on an application to the
+    Australian Criminal Intelligence Commission for a nationally coordinated criminal
+    history check service.
   introducer_name: Julian Hill
   introducer_party: Labor
   introducer_id: '10885'
@@ -595,7 +616,15 @@ pending:
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
-  summary: null
+  summary: "Amends the: Income Tax Assessment Act 1997 to: remove the requirement\
+    \ that gifts to deductible gift recipients be valued at $2 or more donor can claim\
+    \ a tax deduction; and exclude tobacco and gambling related activities from eligibility\
+    \ for the Research and Development Tax Incentive; Income Tax Assessment Act 1936\
+    \ to require trustees of closely held trusts to report, in the trust\u2019s income\
+    \ tax return, the quoted tax file numbers of beneficiaries who have an entitlement;\
+    \ and Australian Securities and Investments Commission Act 2001, Superannuation\
+    \ Industry (Supervision) Act 1993 and Treasury Laws Amendment (More Competition,\
+    \ Better Prices) Act 2022 to make minor and technical amendments."
   introducer_name: Daniel Mulino
   introducer_party: Labor
   introducer_id: '10925'
@@ -609,7 +638,23 @@ pending:
   type: Government
   portfolio: Home Affairs
   originating_house: House of Representatives
-  summary: null
+  summary: 'Amends the: Customs Act 1901, Excise Act 1901 and Taxation Administration
+    Act 1953 to increase penalties for offences relating to the importation, possession,
+    buying, selling, supply, production or manufacture of illicit tobacco; Taxation
+    Administration Regulations 2017 to make consequential amendments; Telecommunications
+    (Interception and Access) Act 1979 to enable law enforcement and intelligence
+    agencies to apply for telecommunications interception warrants for the purpose
+    of investigating illicit tobacco-related offences; Proceeds of Crime Act 2002
+    to: include additional grounds for making a non-publication order and expand the
+    types of information and documents which can be protected by those orders; enable
+    responsible authorities to seek examination orders in certain circumstances; enable
+    the sharing of certain information; enable jurisdictions that have signed up to
+    the Intergovernmental Agreement on the National Cooperative Scheme on Unexplained
+    Wealth to participate in equitable sharing arrangements; remove the requirement
+    for a court to make a preliminary unexplained wealth order before considering
+    an application for an unexplained wealth order; and enable the postal or electronic
+    service of documents; and Proceeds of Crime Act 2002 and 3 other Acts to establish
+    a search warrant framework.'
   introducer_name: Julian Hill
   introducer_party: Labor
   introducer_id: '10885'
@@ -623,7 +668,9 @@ pending:
   type: Private
   portfolio: null
   originating_house: House of Representatives
-  summary: null
+  summary: Amends the Interactive Gambling Act 2001 to prohibit the advertising of
+    licensed interactive wagering services in Australia, subject to limited exceptions
+    and phased implementation arrangements.
   introducer_name: Kate Chaney
   introducer_party: Independent
   introducer_id: '10974'
@@ -638,7 +685,9 @@ pending:
   type: Private
   portfolio: null
   originating_house: House of Representatives
-  summary: null
+  summary: "Amends the Australian Citizenship Act 2007 to provide for a court to order\
+    \ the cessation of a person\u2019s Australian citizenship where the person holds\
+    \ two or more citizenships and is convicted of a terrorism offence."
   introducer_name: Barnaby Joyce
   introducer_party: One Nation
   introducer_id: '10350'
@@ -653,7 +702,10 @@ pending:
   type: Government
   portfolio: Arts
   originating_house: House of Representatives
-  summary: null
+  summary: Introduced with the Public and Educational Lending Rights (Better Income
+    for Authors) Bill 2026, the bill repeals the Public Lending Right Act 1985 and
+    makes transitional and consequential provisions to support the implementation
+    of the new public and educational lending rights framework.
   introducer_name: Tony Burke
   introducer_party: Labor
   introducer_id: '10081'
@@ -668,7 +720,28 @@ pending:
   type: Government
   portfolio: Defence
   originating_house: House of Representatives
-  summary: null
+  summary: "Amends the: Defence Force Discipline Act 1982 to: implement certain recommendations\
+    \ of the Royal Commission into Defence and Veteran Suicide in relation to suspension\
+    \ from duty while under investigation, sentencing procedures, disclosure of service\
+    \ offences, removing stigmatising language, and distinguishing between violent\
+    \ and non-violent commission of certain service offences; update superior tribunal\
+    \ procedures; establish the summary contravention scheme; and make a range of\
+    \ other amendments in relation to policing equipment, updates to prescribed quantities\
+    \ for drug offences, disclosure of investigative material, changes to service\
+    \ offences, changes to imprisonment terms for restricted courts martial and Defence\
+    \ Force magistrates, amendments to petition and for review processes, delegation\
+    \ of powers, functions of the Director of Military Prosecutions, harmonising termination\
+    \ grounds for judicial officers, application of territory rules of evidence, powers\
+    \ of investigating officers, and enabling removal orders for intimate images;\
+    \ Defence Force Discipline Act 1982 and Defence Force Discipline Appeals Act 1955\
+    \ to: update powers for service tribunals when dealing with accused persons suffering\
+    \ from a mental impairment; and establish the Defence Mental Health Tribunal as\
+    \ a specialised decision-making body; Defence Act 1903 and Defence Force Discipline\
+    \ Act 1982 to update the title of \u2018Director of Defence Counsel Services\u2019\
+    \ to \u2018Director of Defence Legal Assistance\u2019; Administrative Decisions\
+    \ (Judicial Review) Act 1977 to extinguish convictions for historical homosexual\
+    \ service offences. Also makes consequential amendments to 5 Acts and a contingent\
+    \ amendment to the Defence and Veterans\u2019 Service Commissioner Act 2026."
   introducer_name: Matt Keogh
   introducer_party: Labor
   introducer_id: '10861'
@@ -682,7 +755,10 @@ pending:
   type: Government
   portfolio: Arts
   originating_house: House of Representatives
-  summary: null
+  summary: Introduced with the Public and Educational Lending Rights (Better Income
+    for Authors) Consequential Amendments and Transitional Provisions Bill 2026, the
+    bill establishes a framework for public and educational lending rights to replace
+    the existing Public Lending Right Scheme and the Educational Lending Right Scheme.
   introducer_name: Tony Burke
   introducer_party: Labor
   introducer_id: '10081'
@@ -696,7 +772,9 @@ pending:
   type: Government
   portfolio: Attorney-General
   originating_house: House of Representatives
-  summary: null
+  summary: Amends the Criminal Code Act 1995 to extend the operation of certain offences
+    in relation to the unauthorised disclosure of information by certain Commonwealth
+    officers for a further 6 months, until 29 December 2026.
   introducer_name: Michelle Rowland
   introducer_party: Labor
   introducer_id: '10751'
@@ -710,7 +788,22 @@ pending:
   type: Government
   portfolio: Attorney-General
   originating_house: House of Representatives
-  summary: null
+  summary: "Amends: the Criminal Code Act 1995 to: remove the existing offence relating\
+    \ to the unauthorised disclosure of information by certain Commonwealth officers\
+    \ and replace it with a new offence prohibiting the improper use or communication\
+    \ of information by certain Commonwealth officers when done with the intention\
+    \ of obtaining a benefit or causing detriment to a Commonwealth entity or other\
+    \ person; and require the Attorney-General\u2019s consent to prosecute journalists\
+    \ or certain other persons for secrecy offences unless otherwise prescribed by\
+    \ regulations; 12 Acts to make consequential amendments; 17 Acts and 5 regulations\
+    \ to remove certain secrecy offences and non-disclosure duties and remove criminal\
+    \ liability from secrecy offences, effectively converting those offences into\
+    \ non-disclosure duties without criminal liability; the Criminal Code Act 1995,\
+    \ Foreign Influence Transparency Scheme Act 2018 and Intelligence Services Act\
+    \ 2001 to ensure that secrecy offences are proportionate and consistent with the\
+    \ rule of law, clarify the scope of existing offences and limit their application\
+    \ to non-officials; and the Business Names Registration Act 2011 and Criminal\
+    \ Code Act 1995 to make minor and technical amendments to secrecy provisions."
   introducer_name: Michelle Rowland
   introducer_party: Labor
   introducer_id: '10751'
@@ -724,7 +817,14 @@ pending:
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
-  summary: null
+  summary: 'Amends the Competition and Consumer Act 2010 to: prohibit a person from
+    engaging in unfair trading practices in trade or commerce; require a person offering
+    goods or services at a base price to disclose information relating to any applicable
+    transaction-based charges that would apply to those goods or services; and require
+    a person offering goods or services under a subscription contract to provide subscribers
+    with certain pre-contract and ongoing information and an easy and straightforward
+    way to end a subscription, including an online cancellation option in certain
+    circumstances.'
   introducer_name: Andrew Leigh
   introducer_party: Labor
   introducer_id: '10746'
@@ -739,7 +839,14 @@ pending:
   portfolio: Infrastructure, Transport, Regional Development, Communications, Sport
     and the Arts
   originating_house: House of Representatives
-  summary: null
+  summary: "Introduced with the Aviation Consumer Protection Levy Bill 2026, Aviation\
+    \ Consumer Protection Levy (Collection) Bill 2026 and Aviation Consumer Protection\
+    \ (Consequential Amendments and Transitional Provisions) Bill 2026, the bill establishes\
+    \ an aviation consumer protection framework which will impose requirements on\
+    \ airlines and airport operators relating to the offer and supply of airline and\
+    \ airport services and establish a scheme for handling eligible complaints. Also\
+    \ establishes the Aircraft Noise Ombudsperson to review an aircraft noise management\
+    \ agency\u2019s management of aircraft noise in Australian territory."
   introducer_name: null
   introducer_party: Labor
   introducer_id: null
@@ -754,7 +861,11 @@ pending:
   portfolio: Infrastructure, Transport, Regional Development, Communications, Sport
     and the Arts
   originating_house: House of Representatives
-  summary: null
+  summary: Introduced with the Aviation Consumer Protection Bill 2026, Aviation Consumer
+    Protection Levy (Collection) Bill 2026 and Aviation Consumer Protection (Consequential
+    Amendments and Transitional Provisions) Bill 2026, the bill imposes an annual
+    levy on certain airlines and airport operators to recover the cost of activities
+    carried out by the Aviation Consumer Protection Authority.
   introducer_name: Catherine King
   introducer_party: Labor
   introducer_id: '10368'
@@ -769,7 +880,11 @@ pending:
   portfolio: Infrastructure, Transport, Regional Development, Communications, Sport
     and the Arts
   originating_house: House of Representatives
-  summary: null
+  summary: Introduced with the Aviation Consumer Protection Bill 2026, Aviation Consumer
+    Protection Levy Bill 2026 and Aviation Consumer Protection (Consequential Amendments
+    and Transitional Provisions) Bill 2026, the bill provides for the collection and
+    administration of the levy imposed by the Aviation Consumer Protection Levy Act
+    2026.
   introducer_name: Catherine King
   introducer_party: Labor
   introducer_id: '10368'
@@ -785,7 +900,10 @@ pending:
   portfolio: Infrastructure, Transport, Regional Development, Communications, Sport
     and the Arts
   originating_house: House of Representatives
-  summary: null
+  summary: Introduced with the Aviation Consumer Protection Bill 2026, Aviation Consumer
+    Protection Levy Bill 2026 and Aviation Consumer Protection Levy (Collection) Bill
+    2026, the bill amends the Air Navigation Act 1920 to make a consequential amendment.
+    Also provides for transitional provisions in relation to the Aircraft Noise Ombudsperson.
   introducer_name: Catherine King
   introducer_party: Labor
   introducer_id: '10368'
@@ -1636,7 +1754,10 @@ pending:
   type: Private
   portfolio: null
   originating_house: Senate
-  summary: null
+  summary: 'Amends the Online Safety Act 2021 to: require social media services to
+    provide users with the option to opt out of receiving recommended content (through
+    algorithms) at any time; and impose certain reporting and risk assessment and
+    mitigation obligations on providers of online services.'
   introducer_name: Sarah Hanson-Young
   introducer_party: Greens
   introducer_id: '10711'
@@ -1650,7 +1771,10 @@ pending:
   type: Private
   portfolio: null
   originating_house: Senate
-  summary: null
+  summary: Establishes the Commonwealth Environmental Water Holder Commission of Inquiry
+    to inquire into and report on the management, use, performance and outcomes of
+    Commonwealth environmental water holdings, with particular focus on the role,
+    functions and conduct of the Commonwealth Environmental Water Holder.
   introducer_name: Ross Cadell
   introducer_party: Nationals
   introducer_id: '11004'
@@ -3295,7 +3419,12 @@ passed:
   type: Government
   portfolio: Foreign Affairs and Trade
   originating_house: House of Representatives
-  summary: null
+  summary: "Amends the Export Finance and Insurance Corporation Act 1991 to: expand\
+    \ and clarify the role of Export Finance Australia in supporting projects that\
+    \ contribute to Australia\u2019s strategic reserves, including reserves of critical\
+    \ goods, materials or capabilities considered essential to Australia\u2019s economic\
+    \ security, supply chain resilience or national interest; provide for remuneration\
+    \ and allowances for committee members; and provide for reporting requirements."
   introducer_name: Nita Green
   introducer_party: Labor
   introducer_id: '10950'
@@ -3337,7 +3466,14 @@ passed:
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
-  summary: null
+  summary: 'Amends the: Customs Tariff Act 1995 and Excise Tariff Act 1921 to: temporarily
+    reduce the excise duty rates and excise-equivalent customs duty rates for fuels,
+    including petrol, diesel and similar petroleum-based products; and provide the
+    Treasurer with the power to determine a fuel duty rate reduction below the 50
+    per cent reduction that would otherwise apply between 1 April and 30 June 2026;
+    and Fuel Tax Act 2006 to provide the Transport Minister with the power, on a temporary
+    basis, to vary the road user charge for a financial year commencing on 1 July
+    2025 or 1 July 2026.'
   introducer_name: null
   introducer_party: Labor
   introducer_id: null
