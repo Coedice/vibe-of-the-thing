@@ -568,7 +568,7 @@ pending:
   introducer_id: '10925'
   introducer_division: Fraser
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7453_first-reps/toc_pdf/26033b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-03-25
+  last_updated: 2026-05-12
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29149%2F0026%22
 - bill_id: r7454
   title: Australian Criminal Intelligence Commission Bill 2026
@@ -711,7 +711,7 @@ pending:
   introducer_id: '10081'
   introducer_division: Watson
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7463_first-reps/toc_pdf/26041b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-04-01
+  last_updated: 2026-05-12
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29153%2F0036%22
 - bill_id: r7464
   title: Defence Force Discipline Amendment (RCDVS Implementation and Related Measures
@@ -764,7 +764,7 @@ pending:
   introducer_id: '10081'
   introducer_division: Watson
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7465_first-reps/toc_pdf/26042b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-04-01
+  last_updated: 2026-05-12
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29153%2F0032%22
 - bill_id: r7466
   title: Secrecy Provisions Amendment (Sunsetting Provision) Bill 2026
@@ -780,7 +780,7 @@ pending:
   introducer_id: '10751'
   introducer_division: Greenway
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7466_first-reps/toc_pdf/26043b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-04-01
+  last_updated: 2026-05-12
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29153%2F0047%22
 - bill_id: r7467
   title: Secrecy Provisions Amendment (Repealing Offences) Bill 2026
@@ -809,7 +809,7 @@ pending:
   introducer_id: '10751'
   introducer_division: Greenway
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7467_first-reps/toc_pdf/26044b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-04-01
+  last_updated: 2026-05-12
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29153%2F0043%22
 - bill_id: r7468
   title: Competition and Consumer Amendment (Unfair Trading Practices) Bill 2026
@@ -830,7 +830,7 @@ pending:
   introducer_id: '10746'
   introducer_division: Fenner
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7468_first-reps/toc_pdf/26045b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-04-01
+  last_updated: 2026-05-12
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29153%2F0055%22
 - bill_id: r7469
   title: Aviation Consumer Protection Bill 2026
@@ -3562,7 +3562,7 @@ passed:
 - bill_id: s1478
   title: National Disability Insurance Scheme Amendment (Integrity and Safeguarding)
     Bill 2026
-  status: Assent
+  status: Act
   type: Government
   portfolio: Health, Disability and Ageing
   originating_house: Senate
@@ -3582,7 +3582,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28888%2F0186%22
 - bill_id: s1484
   title: High Seas Biodiversity Bill 2026
-  status: Assent
+  status: Act
   type: Government
   portfolio: Climate Change, Energy, the Environment and Water
   originating_house: Senate
