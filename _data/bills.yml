@@ -1,18 +1,4 @@
 pending:
-- bill_id: r7332
-  title: Therapeutic Goods Amendment Bill 2025
-  status: Before Reps
-  type: Government
-  portfolio: Prime Minister
-  originating_house: House of Representatives
-  summary: Amends the Therapeutic Goods Act 1989 to make a minor technical amendment.
-  introducer_name: null
-  introducer_party: Labor
-  introducer_id: null
-  introducer_division: null
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7332_first-reps/toc_pdf/25027b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-07-22
-  second_reading_hansard_url: null
 - bill_id: r7436
   title: Treasury Laws Amendment (Financial Reporting System Reform) Bill 2026
   status: Before Senate
@@ -32,42 +18,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7436_first-reps/toc_pdf/26012b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-03-11
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29139%2F0015%22
-- bill_id: r7440
-  title: Transparent and Quality Public Appointments Bill 2026
-  status: Before Reps
-  type: Private
-  portfolio: null
-  originating_house: House of Representatives
-  summary: Establishes a framework for making public appointments, including the establishment
-    of Independent Selection Panels and the Office of the Public Appointments Commissioner.
-    Also establishes the Parliamentary Joint Committee on Appointments.
-  introducer_name: Sophie Scamps
-  introducer_party: Independent
-  introducer_id: '10989'
-  introducer_division: Mackellar
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7440_first-reps/toc_pdf/26020b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-03-02
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29140%2F0041%22
-- bill_id: r7453
-  title: Treasury Laws Amendment (The Survivors Law) Bill 2026
-  status: Before Reps
-  type: Government
-  portfolio: Treasury
-  originating_house: House of Representatives
-  summary: "Amends the: Taxation Administration Act 1953 and 3 other Acts to establish\
-    \ a framework to enable victims and survivors of specified child abuse offences\
-    \ to obtain visibility of, and access to, certain amounts held in a perpetrator\u2019\
-    s superannuation for the purpose of satisfying unpaid compensation orders arising\
-    \ from criminal or civil proceedings; and Bankruptcy Act 1966 to ensure that compensation\
-    \ debts owed to victims and survivors are not extinguished by a perpetrator\u2019\
-    s bankruptcy."
-  introducer_name: Daniel Mulino
-  introducer_party: Labor
-  introducer_id: '10925'
-  introducer_division: Fraser
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7453_first-reps/toc_pdf/26033b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-05-13
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29149%2F0026%22
 - bill_id: r7457
   title: Treasury Laws Amendment (Delivering an Efficient and Trusted Tax System)
     Bill 2026
