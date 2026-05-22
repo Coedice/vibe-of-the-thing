@@ -1640,6 +1640,25 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7443_aspassed/toc_pdf/26023b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-03-13
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29140%2F0073%22
+- bill_id: r7446
+  title: Export Control Amendment (Clarifying Obligations Relating to Registered Establishments)
+    Bill 2026
+  status: Assent
+  type: Government
+  portfolio: Agriculture, Fisheries and Forestry
+  originating_house: House of Representatives
+  summary: 'Amends the Export Control Act 2020 to: enable export operations in relation
+    to general products to be carried out at registered establishments without needing
+    to be included in the registration; and expand the scope of export documentation
+    that can be issued by the Department of Agriculture, Fisheries and Forestry to
+    include additional documentation required by trading partners.'
+  introducer_name: Julie Collins
+  introducer_party: Labor
+  introducer_id: '10136'
+  introducer_division: Franklin
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7446_aspassed/toc_pdf/26027b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-05-20
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29146%2F0016%22
 - bill_id: r7447
   title: Migration Amendment (2026 Measures No. 1) Bill 2026
   status: Act
@@ -1658,6 +1677,45 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7447_aspassed/toc_pdf/26029b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-03-13
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29209%2F0252%22
+- bill_id: r7452
+  title: Customs Legislation Amendment (False Trade Marks Infringement Notices) Bill
+    2026
+  status: Assent
+  type: Government
+  portfolio: Home Affairs
+  originating_house: House of Representatives
+  summary: 'Amends the: Commerce (Trade Descriptions) Act 1905 to create a strict
+    liability offence for the importation of goods that bear false trade marks; and
+    Customs Regulation 2015 to prescribe this offence in the Customs Infringement
+    Notice Scheme, enabling Australian Border Force officers to issue infringement
+    notices as an alternative to prosecution.'
+  introducer_name: Julian Hill
+  introducer_party: Labor
+  introducer_id: '10885'
+  introducer_division: Bruce
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7452_aspassed/toc_pdf/26032b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-05-20
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29149%2F0042%22
+- bill_id: r7453
+  title: Treasury Laws Amendment (The Survivors Law) Bill 2026
+  status: Assent
+  type: Government
+  portfolio: Treasury
+  originating_house: House of Representatives
+  summary: "Amends the: Taxation Administration Act 1953 and 3 other Acts to establish\
+    \ a framework to enable victims and survivors of specified child abuse offences\
+    \ to obtain visibility of, and access to, certain amounts held in a perpetrator\u2019\
+    s superannuation for the purpose of satisfying unpaid compensation orders arising\
+    \ from criminal or civil proceedings; and Bankruptcy Act 1966 to ensure that compensation\
+    \ debts owed to victims and survivors are not extinguished by a perpetrator\u2019\
+    s bankruptcy."
+  introducer_name: Daniel Mulino
+  introducer_party: Labor
+  introducer_id: '10925'
+  introducer_division: Fraser
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7453_aspassed/toc_pdf/26033b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-05-20
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29149%2F0026%22
 - bill_id: r7456
   title: Treasury Laws Amendment (Doubling Penalties for ACCC Enforcement) Bill 2026
   status: Act
@@ -1692,6 +1750,41 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7462_aspassed/toc_pdf/26039b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-04-01
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29150%2F0011%22
+- bill_id: r7463
+  title: Public and Educational Lending Rights (Better Income for Authors) Consequential
+    Amendments and Transitional Provisions Bill 2026
+  status: Assent
+  type: Government
+  portfolio: Arts
+  originating_house: House of Representatives
+  summary: Introduced with the Public and Educational Lending Rights (Better Income
+    for Authors) Bill 2026, the bill repeals the Public Lending Right Act 1985 and
+    makes transitional and consequential provisions to support the implementation
+    of the new public and educational lending rights framework.
+  introducer_name: Tony Burke
+  introducer_party: Labor
+  introducer_id: '10081'
+  introducer_division: Watson
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7463_aspassed/toc_pdf/26041b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-05-20
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29153%2F0036%22
+- bill_id: r7465
+  title: Public and Educational Lending Rights (Better Income for Authors) Bill 2026
+  status: Assent
+  type: Government
+  portfolio: Arts
+  originating_house: House of Representatives
+  summary: Introduced with the Public and Educational Lending Rights (Better Income
+    for Authors) Consequential Amendments and Transitional Provisions Bill 2026, the
+    bill establishes a framework for public and educational lending rights to replace
+    the existing Public Lending Right Scheme and the Educational Lending Right Scheme.
+  introducer_name: Tony Burke
+  introducer_party: Labor
+  introducer_id: '10081'
+  introducer_division: Watson
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7465_aspassed/toc_pdf/26042b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-05-20
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29153%2F0032%22
 - bill_id: r7472
   title: Export Finance and Insurance Corporation Amendment (Strategic Reserve) Bill
     2026
