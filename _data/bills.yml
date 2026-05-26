@@ -1,18 +1,4 @@
 pending:
-- bill_id: r7332
-  title: Therapeutic Goods Amendment Bill 2025
-  status: Before Reps
-  type: Government
-  portfolio: Prime Minister
-  originating_house: House of Representatives
-  summary: Amends the Therapeutic Goods Act 1989 to make a minor technical amendment.
-  introducer_name: null
-  introducer_party: Labor
-  introducer_id: null
-  introducer_division: null
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7332_first-reps/toc_pdf/25027b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-07-22
-  second_reading_hansard_url: null
 - bill_id: r7436
   title: Treasury Laws Amendment (Financial Reporting System Reform) Bill 2026
   status: Before Senate
@@ -32,22 +18,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7436_first-reps/toc_pdf/26012b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-03-11
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29139%2F0015%22
-- bill_id: r7440
-  title: Transparent and Quality Public Appointments Bill 2026
-  status: Before Reps
-  type: Private
-  portfolio: null
-  originating_house: House of Representatives
-  summary: Establishes a framework for making public appointments, including the establishment
-    of Independent Selection Panels and the Office of the Public Appointments Commissioner.
-    Also establishes the Parliamentary Joint Committee on Appointments.
-  introducer_name: Sophie Scamps
-  introducer_party: Independent
-  introducer_id: '10989'
-  introducer_division: Mackellar
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7440_first-reps/toc_pdf/26020b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-03-02
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29140%2F0041%22
 - bill_id: r7457
   title: Treasury Laws Amendment (Delivering an Efficient and Trusted Tax System)
     Bill 2026
@@ -69,7 +39,7 @@ pending:
   introducer_id: '10925'
   introducer_division: Fraser
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7457_first-reps/toc_pdf/26037b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-04-01
+  last_updated: 2026-05-26
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29149%2F0030%22
 - bill_id: r7480
   title: Treasury Laws Amendment (Business Registries Stabilisation and Uplift) Bill
@@ -84,7 +54,7 @@ pending:
   introducer_id: '10746'
   introducer_division: Fenner
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7480_first-reps/toc_pdf/26056b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-05-14
+  last_updated: 2026-05-26
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29156%2F0025%22
 - bill_id: s1436
   title: Whistleblower Protection Authority Bill 2025
@@ -2015,6 +1985,27 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1484_aspassed/toc_pdf/2600620.pdf;fileType=application%2Fpdf
   last_updated: 2026-04-08
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29200%2F0156%22
+- bill_id: s1493
+  title: Competition and Consumer Amendment (Responding to Exceptional Circumstances)
+    Bill 2026
+  status: Assent
+  type: Government
+  portfolio: Treasury
+  originating_house: Senate
+  summary: 'Amends the Competition and Consumer Act 2010 to: enable the minister to
+    make an exemptional circumstance declaration; enable the Australian Competition
+    and Consumer Commission to authorise and exempt conduct from competition law that
+    is in the public interest and assists in the response to those exceptional circumstances;
+    and increase the maximum penalties for breaches of the Oil Code of Conduct. Also
+    makes consequential amendments to the Competition and Consumer Act 2010 and National
+    Emergency Declaration Act 2020.'
+  introducer_name: Tim Ayres
+  introducer_party: Labor
+  introducer_id: '10946'
+  introducer_division: NSW
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1493_aspassed/toc_pdf/2606320.pdf;fileType=application%2Fpdf
+  last_updated: 2026-05-26
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29219%2F0027%22
 failed:
 - bill_id: r7348
   title: Electoral Legislation Amendment (Electoral Communications) Bill 2025
@@ -2074,6 +2065,39 @@ failed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7371_third-reps/toc_pdf/25071b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-03-05
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28849%2F0016%22
+- bill_id: r7387
+  title: Crimes Amendment (Mandatory Minimum Sentences for Child Sexual Abuse) Bill
+    2025
+  status: Not Proceeding
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: Amends the Crimes Act 1914 in relation to mandatory minimum sentences for
+    certain offences relating to child abuse material transmitted or possessed through
+    a carriage or postal service and the making of recognizance release orders for
+    child sex offences only in exceptional circumstances.
+  introducer_name: Julian Leeser
+  introducer_party: Liberal
+  introducer_id: '10888'
+  introducer_division: Berowra
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7387_first-reps/toc_pdf/25086b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-05-26
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28855%2F0294%22
+- bill_id: r7388
+  title: Lobbying (Improving Government Honesty and Trust) Bill 2025 (No. 2)
+  status: Not Proceeding
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: Establishes a scheme in relation to dealings between lobbyists and Government
+    representatives.
+  introducer_name: Monique Ryan
+  introducer_party: Independent
+  introducer_id: '10987'
+  introducer_division: Kooyong
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7388_first-reps/toc_pdf/25087b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-05-26
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28855%2F0299%22
 - bill_id: s1427
   title: Housing Investment Probity Bill 2024
   status: Not Proceeding
