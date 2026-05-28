@@ -1,4 +1,18 @@
 pending:
+- bill_id: r7332
+  title: Therapeutic Goods Amendment Bill 2025
+  status: Before Reps
+  type: Government
+  portfolio: Prime Minister
+  originating_house: House of Representatives
+  summary: Amends the Therapeutic Goods Act 1989 to make a minor technical amendment.
+  introducer_name: null
+  introducer_party: Labor
+  introducer_id: null
+  introducer_division: null
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7332_first-reps/toc_pdf/25027b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-07-22
+  second_reading_hansard_url: null
 - bill_id: r7436
   title: Treasury Laws Amendment (Financial Reporting System Reform) Bill 2026
   status: Before Senate
@@ -18,6 +32,22 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7436_first-reps/toc_pdf/26012b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-03-11
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29139%2F0015%22
+- bill_id: r7440
+  title: Transparent and Quality Public Appointments Bill 2026
+  status: Before Reps
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: Establishes a framework for making public appointments, including the establishment
+    of Independent Selection Panels and the Office of the Public Appointments Commissioner.
+    Also establishes the Parliamentary Joint Committee on Appointments.
+  introducer_name: Sophie Scamps
+  introducer_party: Independent
+  introducer_id: '10989'
+  introducer_division: Mackellar
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7440_first-reps/toc_pdf/26020b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-03-02
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29140%2F0041%22
 - bill_id: r7457
   title: Treasury Laws Amendment (Delivering an Efficient and Trusted Tax System)
     Bill 2026
@@ -39,7 +69,7 @@ pending:
   introducer_id: '10925'
   introducer_division: Fraser
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7457_first-reps/toc_pdf/26037b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-05-26
+  last_updated: 2026-05-28
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29149%2F0030%22
 - bill_id: r7480
   title: Treasury Laws Amendment (Business Registries Stabilisation and Uplift) Bill
@@ -54,8 +84,22 @@ pending:
   introducer_id: '10746'
   introducer_division: Fenner
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7480_first-reps/toc_pdf/26056b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-05-26
+  last_updated: 2026-05-27
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29156%2F0025%22
+- bill_id: r7493
+  title: Treasury Laws Amendment (Tax Reform No. 1) Bill 2026
+  status: Before Reps
+  type: Government
+  portfolio: Treasury
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Jim Chalmers
+  introducer_party: Labor
+  introducer_id: '10809'
+  introducer_division: Rankin
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7493_first-reps/toc_pdf/26072b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-05-28
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29160%2F0020%22
 - bill_id: s1436
   title: Whistleblower Protection Authority Bill 2025
   status: Before Senate
@@ -78,6 +122,24 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1436_first-senate/toc_pdf/25S0420.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28693%2F0177%22
+- bill_id: s1443
+  title: Tertiary Education Legislation Amendment (There For Education, Not Profit)
+    Bill 2025
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: Introduced with the Remuneration Tribunal Amendment (There For Public Service,
+    Not Profit) Bill 2025, the bill amends the Australian National University Act
+    1991 and Tertiary Education Quality and Standards Agency Act 2011 to set a statutory
+    limit on the remuneration of vice-chancellors of Australian universities.
+  introducer_name: Jacqui Lambie
+  introducer_party: Jacqui Lambie Network
+  introducer_id: '10830'
+  introducer_division: Tasmania
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1443_first-senate/toc_pdf/25S0320.pdf;fileType=application%2Fpdf
+  last_updated: 2025-07-23
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0208%22
 - bill_id: s1481
   title: Unlocking Supply of Family Homes Bill 2025
   status: Before Senate
@@ -670,7 +732,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28901%2F0013%22
 - bill_id: r7375
   title: Excise Tariff Amendment (Draught Beer) Bill 2025
-  status: Assent
+  status: Act
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
@@ -702,7 +764,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28901%2F0017%22
 - bill_id: r7377
   title: Customs Tariff Amendment (Draught Beer) Bill 2025
-  status: Assent
+  status: Act
   type: Government
   portfolio: Home Affairs
   originating_house: House of Representatives
@@ -879,7 +941,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28901%2F0023%22
 - bill_id: r7385
   title: Commonwealth Parole Board Bill 2025
-  status: Assent
+  status: Act
   type: Government
   portfolio: Attorney-General
   originating_house: House of Representatives
@@ -897,7 +959,7 @@ passed:
 - bill_id: r7386
   title: Commonwealth Parole Board (Consequential and Transitional Provisions) Bill
     2025
-  status: Assent
+  status: Act
   type: Government
   portfolio: Attorney-General
   originating_house: House of Representatives
@@ -1112,7 +1174,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28866%2F0040%22
 - bill_id: r7401
   title: Migration Amendment (Combatting Migrant Exploitation) Bill 2025
-  status: Assent
+  status: Act
   type: Government
   portfolio: Home Affairs
   originating_house: House of Representatives
@@ -1185,7 +1247,7 @@ passed:
 - bill_id: r7409
   title: Treasury Laws Amendment (Genetic Testing Protections in Life Insurance and
     Other Measures) Bill 2025
-  status: Assent
+  status: Act
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
@@ -1214,7 +1276,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0043%22
 - bill_id: r7411
   title: Corporations Amendment (Digital Assets Framework) Bill 2025
-  status: Assent
+  status: Act
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
@@ -1260,7 +1322,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0051%22
 - bill_id: r7415
   title: Translating and Interpreting Services Bill 2025
-  status: Assent
+  status: Act
   type: Government
   portfolio: Home Affairs
   originating_house: House of Representatives
@@ -1411,7 +1473,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29340%2F0048%22
 - bill_id: r7423
   title: National Health Amendment (Passive Immunological Products) Bill 2026
-  status: Assent
+  status: Act
   type: Government
   portfolio: Health, Disability and Ageing
   originating_house: House of Representatives
