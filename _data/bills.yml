@@ -68,7 +68,7 @@ pending:
   introducer_party: Labor
   introducer_id: '10925'
   introducer_division: Fraser
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7457_first-reps/toc_pdf/26037b01.pdf;fileType=application%2Fpdf
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7457_third-reps/toc_pdf/26037b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-06-02
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29149%2F0030%22
 - bill_id: r7480
@@ -98,8 +98,23 @@ pending:
   introducer_id: '10809'
   introducer_division: Rankin
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7493_first-reps/toc_pdf/26072b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-06-02
+  last_updated: 2026-06-03
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29160%2F0020%22
+- bill_id: r7494
+  title: Workplace Relations Legislation Amendment (Building Cooperative Workplaces
+    No. 1) Bill 2026
+  status: Before Reps
+  type: Government
+  portfolio: Employment and Workplace Relations
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Amanda Rishworth
+  introducer_party: Labor
+  introducer_id: '10543'
+  introducer_division: Kingston
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7494_first-reps/toc_pdf/26073b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-06-03
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29162%2F0009%22
 - bill_id: s1436
   title: Whistleblower Protection Authority Bill 2025
   status: Before Senate
