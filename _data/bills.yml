@@ -78,7 +78,18 @@ pending:
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
-  summary: null
+  summary: "Amends: the Corporations Act 2001 and Commonwealth Registers Act 2020\
+    \ to expand the requirements of the Director Identification Number (Director ID)\
+    \ regime, including by requiring that Director IDs are provided to the Australian\
+    \ Securities and Investment Commission (ASIC) as part of the company registration\
+    \ and director information reporting processes; the Corporations Act 2001 and\
+    \ 4 other Acts to expand ASIC\u2019s powers to administer business registers and\
+    \ include new and clarified requirements to ensure that registry information is\
+    \ accurate and accessible; and 14 Acts to: unwind earlier legislative changes\
+    \ made to implement the Modernising Business Registers program; and support ASIC\u2019\
+    s continued role in the administration of business registers. Also repeals the\
+    \ Corporations (Fees) Amendment (Registries Modernisation) Act 2020 and National\
+    \ Consumer Credit Protection (Fees) Amendment (Registries Modernisation) Act 2020."
   introducer_name: Andrew Leigh
   introducer_party: Labor
   introducer_id: '10746'
@@ -92,7 +103,18 @@ pending:
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
-  summary: null
+  summary: Introduced with the Income Tax Rates Amendment (Tax Reform No. 1) Bill
+    2026, the bill amends the Income Tax Assessment Act 1997 and 3 other taxation
+    laws to replace the 50 per cent capital gains tax discount for individuals, trusts
+    and partnerships with cost base indexation and a 30 per cent minimum tax rate
+    on capital gains accruing on and after 1 July 2027; Income Tax Assessment Act
+    1997 to limit negative gearing for residential property investments to new builds
+    from 1 July 2027; Income Tax Assessment Act 1997 to provide for a non-refundable
+    tax offset from the 2027-28 financial year for Australian resident individuals
+    who earn labour income; and Income Tax Assessment Act 1997 and Fringe Benefits
+    Tax Assessment Act 1986 to provide for a $1,000 standard deduction from the 2026-27
+    financial year for work-related expenses for individuals who are Australian tax
+    residents who derive assessable labour income.
   introducer_name: Jim Chalmers
   introducer_party: Labor
   introducer_id: '10809'
@@ -107,7 +129,14 @@ pending:
   type: Government
   portfolio: Employment and Workplace Relations
   originating_house: House of Representatives
-  summary: null
+  summary: 'Amends the: Fair Work Act 2009 in relation to ministerial membership arrangements
+    for the National Construction Industry Forum, travel allowances for members of
+    the Road Transport Advisory Group, Fair Work Commission processes, exemptions
+    from general protections in certain circumstances, and supported bargaining authorisations;
+    Fair Work Act 2009 and Independent Contractors Act 2006 in relation to the road
+    transport contractor high income threshold; and Fair Work (Registered Organisations)
+    Act 2009 in relation to reporting timeframes for the Administrator of the Construction
+    and General Division of the Construction Forestry Manufacturing and Energy Union.'
   introducer_name: Amanda Rishworth
   introducer_party: Labor
   introducer_id: '10543'
@@ -1903,7 +1932,9 @@ passed:
   type: Government
   portfolio: Finance
   originating_house: House of Representatives
-  summary: null
+  summary: Appropriates additional money out of the Consolidated Revenue Fund for
+    certain expenditure for the purposes of responding to circumstances relating to
+    fuel security response measures.
   introducer_name: null
   introducer_party: Labor
   introducer_id: null
@@ -1917,7 +1948,9 @@ passed:
   type: Government
   portfolio: Finance
   originating_house: House of Representatives
-  summary: null
+  summary: Appropriates additional money out of the Consolidated Revenue Fund for
+    the ordinary annual services of the government for the purposes of responding
+    to circumstances relating to fuel security response measures.
   introducer_name: null
   introducer_party: Labor
   introducer_id: null
