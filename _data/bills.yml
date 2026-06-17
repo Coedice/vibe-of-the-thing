@@ -1,4 +1,207 @@
 pending:
+- bill_id: r7332
+  title: Therapeutic Goods Amendment Bill 2025
+  status: Before Reps
+  type: Government
+  portfolio: Prime Minister
+  originating_house: House of Representatives
+  summary: Amends the Therapeutic Goods Act 1989 to make a minor technical amendment.
+  introducer_name: null
+  introducer_party: Labor
+  introducer_id: null
+  introducer_division: null
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7332_first-reps/toc_pdf/25027b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-07-22
+  second_reading_hansard_url: null
+- bill_id: r7436
+  title: Treasury Laws Amendment (Financial Reporting System Reform) Bill 2026
+  status: Before Senate
+  type: Government
+  portfolio: Treasury
+  originating_house: House of Representatives
+  summary: Amends the Australian Securities and Investments Commission Act 2001 to
+    merge the Financial Reporting Council, the Australian Accounting Standards Board
+    and the Auditing and Assurance Standards Board into a single entity to be known
+    as External Reporting Australia, with responsibility for performing core financial
+    reporting and sustainability standard-setting functions. Also makes consequential
+    amendments to 8 Acts.
+  introducer_name: Daniel Mulino
+  introducer_party: Labor
+  introducer_id: '10925'
+  introducer_division: Fraser
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7436_first-reps/toc_pdf/26012b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-03-11
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29139%2F0015%22
+- bill_id: r7440
+  title: Transparent and Quality Public Appointments Bill 2026
+  status: Before Reps
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: Establishes a framework for making public appointments, including the establishment
+    of Independent Selection Panels and the Office of the Public Appointments Commissioner.
+    Also establishes the Parliamentary Joint Committee on Appointments.
+  introducer_name: Sophie Scamps
+  introducer_party: Independent
+  introducer_id: '10989'
+  introducer_division: Mackellar
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7440_first-reps/toc_pdf/26020b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-03-02
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29140%2F0041%22
+- bill_id: r7457
+  title: Treasury Laws Amendment (Delivering an Efficient and Trusted Tax System)
+    Bill 2026
+  status: Before Reps
+  type: Government
+  portfolio: Treasury
+  originating_house: House of Representatives
+  summary: "Amends the: Income Tax Assessment Act 1997 to: remove the requirement\
+    \ that gifts to deductible gift recipients be valued at $2 or more donor can claim\
+    \ a tax deduction; and exclude tobacco and gambling related activities from eligibility\
+    \ for the Research and Development Tax Incentive; Income Tax Assessment Act 1936\
+    \ to require trustees of closely held trusts to report, in the trust\u2019s income\
+    \ tax return, the quoted tax file numbers of beneficiaries who have an entitlement;\
+    \ and Australian Securities and Investments Commission Act 2001, Superannuation\
+    \ Industry (Supervision) Act 1993 and Treasury Laws Amendment (More Competition,\
+    \ Better Prices) Act 2022 to make minor and technical amendments."
+  introducer_name: Daniel Mulino
+  introducer_party: Labor
+  introducer_id: '10925'
+  introducer_division: Fraser
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7457_third-reps/toc_pdf/26037b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-06-02
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29149%2F0030%22
+- bill_id: r7480
+  title: Treasury Laws Amendment (Business Registries Stabilisation and Uplift) Bill
+    2026
+  status: Before Reps
+  type: Government
+  portfolio: Treasury
+  originating_house: House of Representatives
+  summary: "Amends: the Corporations Act 2001 and Commonwealth Registers Act 2020\
+    \ to expand the requirements of the Director Identification Number (Director ID)\
+    \ regime, including by requiring that Director IDs are provided to the Australian\
+    \ Securities and Investment Commission (ASIC) as part of the company registration\
+    \ and director information reporting processes; the Corporations Act 2001 and\
+    \ 4 other Acts to expand ASIC\u2019s powers to administer business registers and\
+    \ include new and clarified requirements to ensure that registry information is\
+    \ accurate and accessible; and 14 Acts to: unwind earlier legislative changes\
+    \ made to implement the Modernising Business Registers program; and support ASIC\u2019\
+    s continued role in the administration of business registers. Also repeals the\
+    \ Corporations (Fees) Amendment (Registries Modernisation) Act 2020 and National\
+    \ Consumer Credit Protection (Fees) Amendment (Registries Modernisation) Act 2020."
+  introducer_name: Andrew Leigh
+  introducer_party: Labor
+  introducer_id: '10746'
+  introducer_division: Fenner
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7480_first-reps/toc_pdf/26056b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-05-27
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29156%2F0025%22
+- bill_id: r7493
+  title: Treasury Laws Amendment (Tax Reform No. 1) Bill 2026
+  status: Before Reps
+  type: Government
+  portfolio: Treasury
+  originating_house: House of Representatives
+  summary: Introduced with the Income Tax Rates Amendment (Tax Reform No. 1) Bill
+    2026, the bill amends the Income Tax Assessment Act 1997 and 3 other taxation
+    laws to replace the 50 per cent capital gains tax discount for individuals, trusts
+    and partnerships with cost base indexation and a 30 per cent minimum tax rate
+    on capital gains accruing on and after 1 July 2027; Income Tax Assessment Act
+    1997 to limit negative gearing for residential property investments to new builds
+    from 1 July 2027; Income Tax Assessment Act 1997 to provide for a non-refundable
+    tax offset from the 2027-28 financial year for Australian resident individuals
+    who earn labour income; and Income Tax Assessment Act 1997 and Fringe Benefits
+    Tax Assessment Act 1986 to provide for a $1,000 standard deduction from the 2026-27
+    financial year for work-related expenses for individuals who are Australian tax
+    residents who derive assessable labour income.
+  introducer_name: Jim Chalmers
+  introducer_party: Labor
+  introducer_id: '10809'
+  introducer_division: Rankin
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7493_first-reps/toc_pdf/26072b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-06-04
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29160%2F0020%22
+- bill_id: r7494
+  title: Workplace Relations Legislation Amendment (Building Cooperative Workplaces
+    No. 1) Bill 2026
+  status: Before Reps
+  type: Government
+  portfolio: Employment and Workplace Relations
+  originating_house: House of Representatives
+  summary: 'Amends the: Fair Work Act 2009 in relation to ministerial membership arrangements
+    for the National Construction Industry Forum, travel allowances for members of
+    the Road Transport Advisory Group, Fair Work Commission processes, exemptions
+    from general protections in certain circumstances, and supported bargaining authorisations;
+    Fair Work Act 2009 and Independent Contractors Act 2006 in relation to the road
+    transport contractor high income threshold; and Fair Work (Registered Organisations)
+    Act 2009 in relation to reporting timeframes for the Administrator of the Construction
+    and General Division of the Construction Forestry Manufacturing and Energy Union.'
+  introducer_name: Amanda Rishworth
+  introducer_party: Labor
+  introducer_id: '10543'
+  introducer_division: Kingston
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7494_first-reps/toc_pdf/26073b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-06-03
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29162%2F0009%22
+- bill_id: s1436
+  title: Whistleblower Protection Authority Bill 2025
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: 'The bill: establishes the Whistleblower Protection Authority to receive
+    and facilitate the investigation of whistleblower disclosures, provide advice,
+    assistance, guidance and support to persons and agencies relating to the making
+    of whistleblower disclosures and investigate any mistreatment of whistleblowers
+    and undertake enforcement activities; establishes the Whistleblower Protection
+    Advisory Council to provide advice to the Whistleblower Protection Commissioner;
+    and establishes the Parliamentary Joint Committee on the Whistleblower Protection
+    Authority to consider proposed recommendations for the appointment of the commissioner
+    and deputy commissioners and to monitor and review the performance of the commissioner.'
+  introducer_name: David Pocock
+  introducer_party: Independent
+  introducer_id: '11009'
+  introducer_division: ACT
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1436_first-senate/toc_pdf/25S0420.pdf;fileType=application%2Fpdf
+  last_updated: 2025-07-23
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28693%2F0177%22
+- bill_id: s1443
+  title: Tertiary Education Legislation Amendment (There For Education, Not Profit)
+    Bill 2025
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: Introduced with the Remuneration Tribunal Amendment (There For Public Service,
+    Not Profit) Bill 2025, the bill amends the Australian National University Act
+    1991 and Tertiary Education Quality and Standards Agency Act 2011 to set a statutory
+    limit on the remuneration of vice-chancellors of Australian universities.
+  introducer_name: Jacqui Lambie
+  introducer_party: Jacqui Lambie Network
+  introducer_id: '10830'
+  introducer_division: Tasmania
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1443_first-senate/toc_pdf/25S0320.pdf;fileType=application%2Fpdf
+  last_updated: 2025-07-23
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0208%22
+- bill_id: s1481
+  title: Unlocking Supply of Family Homes Bill 2025
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: 'Amends the Income Tax Assessment Act 1997 to: lower the minimum age of
+    eligibility for a downsizer contribution from 55 years to 50 years; extend the
+    period of time in which a contribution can be made from 90 days to 1 year after
+    the change of ownership occurs; and increase the maximum amount of contribution
+    from $300,000 to $500,000.'
+  introducer_name: Jane Hume
+  introducer_party: Liberal
+  introducer_id: '10853'
+  introducer_division: Victoria
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1481_first-senate/toc_pdf/25S3320.pdf;fileType=application%2Fpdf
+  last_updated: 2025-11-26
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28888%2F0169%22
 passed:
 - bill_id: r7333
   title: Customs Tariff Amendment (Australia-United Arab Emirates Comprehensive Economic
@@ -1895,7 +2098,7 @@ passed:
 - bill_id: s1493
   title: Competition and Consumer Amendment (Responding to Exceptional Circumstances)
     Bill 2026
-  status: Assent
+  status: Act
   type: Government
   portfolio: Treasury
   originating_house: Senate
