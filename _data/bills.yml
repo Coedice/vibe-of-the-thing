@@ -13,6 +13,45 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7332_first-reps/toc_pdf/25027b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-22
   second_reading_hansard_url: null
+- bill_id: r7358
+  title: Telecommunications Amendment (Enhancing Consumer Safeguards) Bill 2025
+  status: Before Senate
+  type: Government
+  portfolio: Infrastructure, Transport, Regional Development, Communications, Sport
+    and the Arts
+  originating_house: House of Representatives
+  summary: 'Amends the Telecommunications Act 1997 to: establish a carriage service
+    provider registration scheme; make industry codes directly enforceable by the
+    Australian Communications and Media Authority; and amend existing arrangements
+    relating to the application of penalty amounts for infringement notices and civil
+    penalties.'
+  introducer_name: Anika Wells
+  introducer_party: Labor
+  introducer_id: '10931'
+  introducer_division: Lilley
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7358_first-reps/toc_pdf/25057b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-06-22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28839%2F0005%22
+- bill_id: r7414
+  title: Telecommunications Legislation Amendment (Universal Outdoor Mobile Obligation)
+    Bill 2025
+  status: Before Reps
+  type: Government
+  portfolio: Infrastructure, Transport, Regional Development, Communications, Sport
+    and the Arts
+  originating_house: House of Representatives
+  summary: 'Amends the: Telecommunications (Consumer Protection and Service Standards)
+    Act 1999 to establish a regulatory framework for a Universal Outdoor Mobile Obligation
+    to ensure that baseline mobile coverage is reasonably available outdoors to all
+    people in Australia on an equitable basis; and Competition and Consumer Act 2010
+    and Telecommunications Act 1997 to make consequential amendments.'
+  introducer_name: Anika Wells
+  introducer_party: Labor
+  introducer_id: '10931'
+  introducer_division: Lilley
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7414_first-reps/toc_pdf/25111b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-05-28
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28890%2F0014%22
 - bill_id: r7436
   title: Treasury Laws Amendment (Financial Reporting System Reform) Bill 2026
   status: Before Senate
@@ -48,10 +87,31 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7440_first-reps/toc_pdf/26020b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-03-02
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29140%2F0041%22
+- bill_id: r7451
+  title: Telecommunications Legislation Amendment (Strengthening Communications in
+    Natural Disasters) Bill 2026
+  status: Before Reps
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: 'Amends the: Telecommunications Act 1997 to require the Australian Communications
+    and Media Authority to make a service provider determination in relation to minimum
+    power requirements at high risk sites; and Telecommunications (Consumer Protection
+    and Service Standards) Act 1999 to: enable the minister to make rules requiring
+    temporary disaster roaming in certain circumstances; and provide that the provision
+    of telecommunications services during natural disasters is an eligible purpose
+    for which public interest telecommunications grants may be made.'
+  introducer_name: Helen Haines
+  introducer_party: Independent
+  introducer_id: '10929'
+  introducer_division: Indi
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7451_first-reps/toc_pdf/26031b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-05-25
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29157%2F0211%22
 - bill_id: r7457
   title: Treasury Laws Amendment (Delivering an Efficient and Trusted Tax System)
     Bill 2026
-  status: Before Reps
+  status: Before Senate
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
@@ -69,12 +129,12 @@ pending:
   introducer_id: '10925'
   introducer_division: Fraser
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7457_third-reps/toc_pdf/26037b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-06-02
+  last_updated: 2026-06-22
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29149%2F0030%22
 - bill_id: r7480
   title: Treasury Laws Amendment (Business Registries Stabilisation and Uplift) Bill
     2026
-  status: Before Reps
+  status: Before Senate
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
@@ -95,11 +155,11 @@ pending:
   introducer_id: '10746'
   introducer_division: Fenner
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7480_first-reps/toc_pdf/26056b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-05-27
+  last_updated: 2026-06-22
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29156%2F0025%22
 - bill_id: r7493
   title: Treasury Laws Amendment (Tax Reform No. 1) Bill 2026
-  status: Before Reps
+  status: Before Senate
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
@@ -120,7 +180,7 @@ pending:
   introducer_id: '10809'
   introducer_division: Rankin
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7493_first-reps/toc_pdf/26072b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-06-04
+  last_updated: 2026-06-22
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29160%2F0020%22
 - bill_id: r7494
   title: Workplace Relations Legislation Amendment (Building Cooperative Workplaces
@@ -144,6 +204,20 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7494_first-reps/toc_pdf/26073b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-06-03
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29162%2F0009%22
+- bill_id: r7503
+  title: Treasury Laws Amendment (Fuel Excise Relief No. 2) Bill 2026
+  status: Before Reps
+  type: Government
+  portfolio: Treasury
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: null
+  introducer_party: Labor
+  introducer_id: null
+  introducer_division: null
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7503_first-reps/toc_pdf/26084b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-06-22
+  second_reading_hansard_url: null
 - bill_id: s1436
   title: Whistleblower Protection Authority Bill 2025
   status: Before Senate
@@ -183,7 +257,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1443_first-senate/toc_pdf/25S0320.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0209%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0208%22
 - bill_id: s1481
   title: Unlocking Supply of Family Homes Bill 2025
   status: Before Senate
