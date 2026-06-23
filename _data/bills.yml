@@ -180,7 +180,7 @@ pending:
   introducer_id: '10809'
   introducer_division: Rankin
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7493_first-reps/toc_pdf/26072b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-06-22
+  last_updated: 2026-06-23
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29160%2F0020%22
 - bill_id: r7494
   title: Workplace Relations Legislation Amendment (Building Cooperative Workplaces
@@ -211,13 +211,13 @@ pending:
   portfolio: Treasury
   originating_house: House of Representatives
   summary: null
-  introducer_name: null
-  introducer_party: Labor
-  introducer_id: null
-  introducer_division: null
+  introducer_name: Tim Wilson
+  introducer_party: Liberal
+  introducer_id: '10894'
+  introducer_division: Goldstein
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7503_first-reps/toc_pdf/26084b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-06-22
-  second_reading_hansard_url: null
+  last_updated: 2026-06-23
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29165%2F0011%22
 - bill_id: s1436
   title: Whistleblower Protection Authority Bill 2025
   status: Before Senate
@@ -257,7 +257,25 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1443_first-senate/toc_pdf/25S0320.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0208%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0209%22
+- bill_id: s1470
+  title: Superannuation Legislation Amendment (Tackling the Gender Super Gap) Bill
+    2025
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: Amends the Superannuation Industry (Supervision) Act 1993, Superannuation
+    Industry (Supervision) Regulations 1994 and Income Tax Assessment Act 1997 to
+    enable spouses to split their collective superannuation balances between them
+    on an ongoing annual basis.
+  introducer_name: Jane Hume
+  introducer_party: Liberal
+  introducer_id: '10853'
+  introducer_division: Victoria
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1470_first-senate/toc_pdf/25S2320.pdf;fileType=application%2Fpdf
+  last_updated: 2026-05-13
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28853%2F0194%22
 - bill_id: s1481
   title: Unlocking Supply of Family Homes Bill 2025
   status: Before Senate
