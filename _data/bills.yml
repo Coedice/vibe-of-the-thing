@@ -180,7 +180,7 @@ pending:
   introducer_id: '10809'
   introducer_division: Rankin
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7493_first-reps/toc_pdf/26072b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-06-23
+  last_updated: 2026-06-24
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29160%2F0020%22
 - bill_id: r7494
   title: Workplace Relations Legislation Amendment (Building Cooperative Workplaces
@@ -202,7 +202,7 @@ pending:
   introducer_id: '10543'
   introducer_division: Kingston
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7494_first-reps/toc_pdf/26073b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-06-03
+  last_updated: 2026-06-24
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29162%2F0009%22
 - bill_id: r7503
   title: Treasury Laws Amendment (Fuel Excise Relief No. 2) Bill 2026
@@ -240,6 +240,24 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1436_first-senate/toc_pdf/25S0420.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28693%2F0177%22
+- bill_id: s1442
+  title: Superannuation Guarantee (Administration) Amendment (Frontline Emergency
+    Service Workers) Bill 2025
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: Amends the Superannuation Guarantee (Administration) Act 1992 to increase
+    the superannuation guarantee rate for firefighters and paramedics by 4.4 per cent
+    to match the base rate of superannuation contributions provided to Australian
+    Defence Force personnel.
+  introducer_name: Nick Mckim
+  introducer_party: Greens
+  introducer_id: '10841'
+  introducer_division: Tasmania
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1442_first-senate/toc_pdf/25S0120.pdf;fileType=application%2Fpdf
+  last_updated: 2025-07-23
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0196%22
 - bill_id: s1443
   title: Tertiary Education Legislation Amendment (There For Education, Not Profit)
     Bill 2025
@@ -258,24 +276,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1443_first-senate/toc_pdf/25S0320.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0209%22
-- bill_id: s1470
-  title: Superannuation Legislation Amendment (Tackling the Gender Super Gap) Bill
-    2025
-  status: Before Senate
-  type: Private
-  portfolio: null
-  originating_house: Senate
-  summary: Amends the Superannuation Industry (Supervision) Act 1993, Superannuation
-    Industry (Supervision) Regulations 1994 and Income Tax Assessment Act 1997 to
-    enable spouses to split their collective superannuation balances between them
-    on an ongoing annual basis.
-  introducer_name: Jane Hume
-  introducer_party: Liberal
-  introducer_id: '10853'
-  introducer_division: Victoria
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1470_first-senate/toc_pdf/25S2320.pdf;fileType=application%2Fpdf
-  last_updated: 2026-05-13
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28853%2F0194%22
 - bill_id: s1481
   title: Unlocking Supply of Family Homes Bill 2025
   status: Before Senate
@@ -294,6 +294,21 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1481_first-senate/toc_pdf/25S3320.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-26
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28888%2F0169%22
+- bill_id: s1497
+  title: Workplace Relations Legislation Amendment (Clearing the Fair Work Commission
+    Backlog) Bill 2026
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: null
+  introducer_name: Jane Hume
+  introducer_party: Liberal
+  introducer_id: '10853'
+  introducer_division: Victoria
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1497_first-senate/toc_pdf/26S1120.pdf;fileType=application%2Fpdf
+  last_updated: 2026-06-24
+  second_reading_hansard_url: null
 passed:
 - bill_id: r7333
   title: Customs Tariff Amendment (Australia-United Arab Emirates Comprehensive Economic
@@ -2365,6 +2380,24 @@ failed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1464_first-senate/toc_pdf/S25S1820.pdf;fileType=application%2Fpdf
   last_updated: 2025-09-03
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28831%2F0189%22
+- bill_id: s1470
+  title: Superannuation Legislation Amendment (Tackling the Gender Super Gap) Bill
+    2025
+  status: Not Proceeding
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: Amends the Superannuation Industry (Supervision) Act 1993, Superannuation
+    Industry (Supervision) Regulations 1994 and Income Tax Assessment Act 1997 to
+    enable spouses to split their collective superannuation balances between them
+    on an ongoing annual basis.
+  introducer_name: Jane Hume
+  introducer_party: Liberal
+  introducer_id: '10853'
+  introducer_division: Victoria
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1470_first-senate/toc_pdf/25S2320.pdf;fileType=application%2Fpdf
+  last_updated: 2026-06-24
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28853%2F0194%22
 - bill_id: s1472
   title: Climate Change Amendment (Duty of Care and Intergenerational Climate Equity)
     Bill 2025
