@@ -32,6 +32,21 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7358_first-reps/toc_pdf/25057b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-06-22
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28839%2F0005%22
+- bill_id: r7399
+  title: Stopping Wind Farms in State Forests Bill 2025
+  status: Before Reps
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: Prohibits a constitutional corporation from constructing, installing or
+    commissioning a windfarm in a state forest.
+  introducer_name: Andrew Gee
+  introducer_party: Independent
+  introducer_id: '10883'
+  introducer_division: Calare
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7399_first-reps/toc_pdf/25100b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-11-03
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28869%2F0132%22
 - bill_id: r7414
   title: Telecommunications Legislation Amendment (Universal Outdoor Mobile Obligation)
     Bill 2025
@@ -157,35 +172,10 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7480_first-reps/toc_pdf/26056b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-06-22
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29156%2F0025%22
-- bill_id: r7493
-  title: Treasury Laws Amendment (Tax Reform No. 1) Bill 2026
-  status: Before Senate
-  type: Government
-  portfolio: Treasury
-  originating_house: House of Representatives
-  summary: Introduced with the Income Tax Rates Amendment (Tax Reform No. 1) Bill
-    2026, the bill amends the Income Tax Assessment Act 1997 and 3 other taxation
-    laws to replace the 50 per cent capital gains tax discount for individuals, trusts
-    and partnerships with cost base indexation and a 30 per cent minimum tax rate
-    on capital gains accruing on and after 1 July 2027; Income Tax Assessment Act
-    1997 to limit negative gearing for residential property investments to new builds
-    from 1 July 2027; Income Tax Assessment Act 1997 to provide for a non-refundable
-    tax offset from the 2027-28 financial year for Australian resident individuals
-    who earn labour income; and Income Tax Assessment Act 1997 and Fringe Benefits
-    Tax Assessment Act 1986 to provide for a $1,000 standard deduction from the 2026-27
-    financial year for work-related expenses for individuals who are Australian tax
-    residents who derive assessable labour income.
-  introducer_name: Jim Chalmers
-  introducer_party: Labor
-  introducer_id: '10809'
-  introducer_division: Rankin
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7493_first-reps/toc_pdf/26072b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-06-24
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29160%2F0020%22
 - bill_id: r7494
   title: Workplace Relations Legislation Amendment (Building Cooperative Workplaces
     No. 1) Bill 2026
-  status: Before Reps
+  status: Before Senate
   type: Government
   portfolio: Employment and Workplace Relations
   originating_house: House of Representatives
@@ -202,11 +192,39 @@ pending:
   introducer_id: '10543'
   introducer_division: Kingston
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7494_first-reps/toc_pdf/26073b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-06-24
+  last_updated: 2026-06-25
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29162%2F0009%22
+- bill_id: r7501
+  title: Universities Accord (Opening the Doors of Opportunity) Bill 2026
+  status: Before Reps
+  type: Government
+  portfolio: Education
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Jason Clare
+  introducer_party: Labor
+  introducer_id: '10123'
+  introducer_division: Blaxland
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7501_first-reps/toc_pdf/26082b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-06-25
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29167%2F0017%22
+- bill_id: r7502
+  title: Treasury Laws Amendment (Tax Reform No. 2) Bill 2026
+  status: Before Reps
+  type: Government
+  portfolio: Treasury
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Jim Chalmers
+  introducer_party: Labor
+  introducer_id: '10809'
+  introducer_division: Rankin
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7502_first-reps/toc_pdf/26083b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-06-25
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29167%2F0005%22
 - bill_id: r7503
   title: Treasury Laws Amendment (Fuel Excise Relief No. 2) Bill 2026
-  status: Before Reps
+  status: Before Senate
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
@@ -216,7 +234,7 @@ pending:
   introducer_id: '10894'
   introducer_division: Goldstein
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7503_first-reps/toc_pdf/26084b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-06-23
+  last_updated: 2026-06-25
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29165%2F0011%22
 - bill_id: s1436
   title: Whistleblower Protection Authority Bill 2025
@@ -275,7 +293,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1443_first-senate/toc_pdf/25S0320.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0209%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0208%22
 - bill_id: s1481
   title: Unlocking Supply of Family Homes Bill 2025
   status: Before Senate
@@ -308,7 +326,7 @@ pending:
   introducer_division: Victoria
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1497_first-senate/toc_pdf/26S1120.pdf;fileType=application%2Fpdf
   last_updated: 2026-06-24
-  second_reading_hansard_url: null
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29223%2F0150%22
 passed:
 - bill_id: r7333
   title: Customs Tariff Amendment (Australia-United Arab Emirates Comprehensive Economic
