@@ -117,6 +117,20 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7502_first-reps/toc_pdf/26083b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-06-25
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29167%2F0005%22
+- bill_id: r7519
+  title: Wine and Other Legislation Amendment Bill 2026
+  status: Before Reps
+  type: Government
+  portfolio: Agriculture, Fisheries and Forestry
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Julie Collins
+  introducer_party: Labor
+  introducer_id: '10136'
+  introducer_division: Franklin
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7519_first-reps/toc_pdf/26098b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-07-01
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29170%2F0036%22
 - bill_id: s1436
   title: Whistleblower Protection Authority Bill 2025
   status: Before Senate
@@ -208,7 +222,41 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1497_first-senate/toc_pdf/26S1120.pdf;fileType=application%2Fpdf
   last_updated: 2026-06-24
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29223%2F0150%22
+- bill_id: s1498
+  title: Trade and Investment Agreements (Consultation) Bill 2026
+  status: Before Senate
+  type: Government
+  portfolio: Foreign Affairs and Trade
+  originating_house: Senate
+  summary: null
+  introducer_name: null
+  introducer_party: Labor
+  introducer_id: null
+  introducer_division: null
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1498_first-senate/toc_pdf/2608620.pdf;fileType=application%2Fpdf
+  last_updated: 2026-07-01
+  second_reading_hansard_url: null
 passed:
+- bill_id: r7342
+  title: Universities Accord (Cutting Student Debt by 20 Per Cent) Bill 2025
+  status: Act
+  type: Government
+  portfolio: Education
+  originating_house: House of Representatives
+  summary: 'Amends the Higher Education Support Act 2003 and 5 other Acts to: provide
+    a one-off 20 per cent reduction to Higher Education Loan Program debts and certain
+    other student loans that are incurred on or before 1 June 2025; and increase the
+    minimum repayment threshold from $54,435 in the 2024-25 financial year to $67,000
+    in the 2025-26 financial year and provide that compulsory student loan repayments
+    are calculated on income above the new threshold rather than being based on a
+    percentage of the repayment income.'
+  introducer_name: Jason Clare
+  introducer_party: Labor
+  introducer_id: '10123'
+  introducer_division: Blaxland
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7342_aspassed/toc_pdf/25041b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-08-02
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28810%2F0008%22
 - bill_id: r7390
   title: VET Student Loans (Miscellaneous Measures) Bill 2025
   status: Act
@@ -248,6 +296,43 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7391_aspassed/toc_pdf/25090b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-12-04
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28898%2F0018%22
+- bill_id: r7408
+  title: Universities Accord (Australian Tertiary Education Commission) (Consequential
+    and Transitional Provisions) Bill 2025
+  status: Act
+  type: Government
+  portfolio: Education
+  originating_house: House of Representatives
+  summary: Introduced with the Universities Accord (Australian Tertiary Education
+    Commission) Bill 2025, the bill amends the Higher Education Support Act 2003 and
+    Tertiary Education Quality and Standards Agency Act 2011 to make amendments consequential
+    on the establishment of the Australian Tertiary Education Commission.
+  introducer_name: Jason Clare
+  introducer_party: Labor
+  introducer_id: '10123'
+  introducer_division: Blaxland
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7408_aspassed/toc_pdf/25105b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-04-01
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0035%22
+- bill_id: r7416
+  title: Universities Accord (Australian Tertiary Education Commission) Bill 2025
+  status: Act
+  type: Government
+  portfolio: Education
+  originating_house: House of Representatives
+  summary: Introduced with the Universities Accord (Australian Tertiary Education
+    Commission) (Consequential and Transitional Provisions) Bill 2025, the bill establishes
+    the Australian Tertiary Education Commission to provide stewardship of the higher
+    education system, including by entering into mission based compacts with higher
+    education providers and preparing reports and providing advice and recommendations,
+    if requested by the Minister, to various Commonwealth, state and territory ministers.
+  introducer_name: Claire Clutterham
+  introducer_party: Labor
+  introducer_id: '11033'
+  introducer_division: Sturt
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7416_aspassed/toc_pdf/25107b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-04-01
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29135%2F0164%22
 - bill_id: r7417
   title: Veterans&rsquo; Affairs Legislation Amendment (Miscellaneous Measures No.
     2) Bill 2026
@@ -267,7 +352,110 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7417_aspassed/toc_pdf/25116b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-04-01
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28890%2F0026%22
+- bill_id: r7453
+  title: Treasury Laws Amendment (The Survivors Law) Bill 2026
+  status: Act
+  type: Government
+  portfolio: Treasury
+  originating_house: House of Representatives
+  summary: "Amends the: Taxation Administration Act 1953 and 3 other Acts to establish\
+    \ a framework to enable victims and survivors of specified child abuse offences\
+    \ to obtain visibility of, and access to, certain amounts held in a perpetrator\u2019\
+    s superannuation for the purpose of satisfying unpaid compensation orders arising\
+    \ from criminal or civil proceedings; and Bankruptcy Act 1966 to ensure that compensation\
+    \ debts owed to victims and survivors are not extinguished by a perpetrator\u2019\
+    s bankruptcy."
+  introducer_name: Daniel Mulino
+  introducer_party: Labor
+  introducer_id: '10925'
+  introducer_division: Fraser
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7453_aspassed/toc_pdf/26033b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-05-20
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29149%2F0026%22
+- bill_id: r7493
+  title: Treasury Laws Amendment (Tax Reform No. 1) Bill 2026
+  status: Act
+  type: Government
+  portfolio: Treasury
+  originating_house: House of Representatives
+  summary: Introduced with the Income Tax Rates Amendment (Tax Reform No. 1) Bill
+    2026, the bill amends the Income Tax Assessment Act 1997 and 3 other taxation
+    laws to replace the 50 per cent capital gains tax discount for individuals, trusts
+    and partnerships with cost base indexation and a 30 per cent minimum tax rate
+    on capital gains accruing on and after 1 July 2027; Income Tax Assessment Act
+    1997 to limit negative gearing for residential property investments to new builds
+    from 1 July 2027; Income Tax Assessment Act 1997 to provide for a non-refundable
+    tax offset from the 2027-28 financial year for Australian resident individuals
+    who earn labour income; and Income Tax Assessment Act 1997 and Fringe Benefits
+    Tax Assessment Act 1986 to provide for a $1,000 standard deduction from the 2026-27
+    financial year for work-related expenses for individuals who are Australian tax
+    residents who derive assessable labour income.
+  introducer_name: Jim Chalmers
+  introducer_party: Labor
+  introducer_id: '10809'
+  introducer_division: Rankin
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7493_aspassed/toc_pdf/26072b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-06-26
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29160%2F0020%22
+- bill_id: s1459
+  title: Universities Accord (National Higher Education Code to Prevent and Respond
+    to Gender-based Violence) Bill 2025
+  status: Act
+  type: Government
+  portfolio: Education
+  originating_house: Senate
+  summary: Introduced with the Universities Accord (National Higher Education Code
+    to Prevent and Respond to Gender-based Violence) (Consequential Amendments) Bill
+    2025, the bill provides for a National Higher Education Code to Prevent and Respond
+    to Gender-based Violence which may impose certain requirements and standards on
+    higher education providers in relation to gender-based violence.
+  introducer_name: Katy Gallagher
+  introducer_party: Labor
+  introducer_id: '10838'
+  introducer_division: ACT
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1459_aspassed/toc_pdf/2504020.pdf;fileType=application%2Fpdf
+  last_updated: 2025-08-28
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28816%2F0170%22
+- bill_id: s1460
+  title: Universities Accord (National Higher Education Code to Prevent and Respond
+    to Gender-based Violence) (Consequential Amendments) Bill 2025
+  status: Act
+  type: Government
+  portfolio: Education
+  originating_house: Senate
+  summary: Introduced with the Universities Accord (National Higher Education Code
+    to Prevent and Respond to Gender-based Violence) Bill 2025, the bill amends the
+    Higher Education Support Act 2003 to make compliance with the National Higher
+    Education Code to Prevent and Respond to Gender-based Violence a quality and accountability
+    requirement for higher education providers approved under the Act.
+  introducer_name: Katy Gallagher
+  introducer_party: Labor
+  introducer_id: '10838'
+  introducer_division: ACT
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1460_aspassed/toc_pdf/2503920.pdf;fileType=application%2Fpdf
+  last_updated: 2025-08-28
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28816%2F0170%22
 failed:
+- bill_id: r7346
+  title: Repeal Net Zero Bill 2025
+  status: Not Proceeding
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: 'Repeals the Climate Change Act 2022, Future Made in Australia (Guarantee
+    of Origin) Act 2024, Future Made in Australia (Guarantee of Origin Charges) Act
+    2024, Net Zero Economy Authority Act 2024 and New Vehicle Efficiency Standards
+    Act 2024. Also amends the: Export Finance and Insurance Corporation Act 1991 and
+    Future Made in Australia Act 2024 to remove references to net zero greenhouse
+    gas emissions and the Paris Agreement; and National Greenhouse and Energy Reporting
+    Act 2007 to remove the emissions reduction safeguard mechanism'
+  introducer_name: Barnaby Joyce
+  introducer_party: One Nation
+  introducer_id: '10350'
+  introducer_division: New England
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7346_first-reps/toc_pdf/25050b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-06-30
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28812%2F0010%22
 - bill_id: r7348
   title: Electoral Legislation Amendment (Electoral Communications) Bill 2025
   status: Not Proceeding
@@ -359,6 +547,53 @@ failed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7388_first-reps/toc_pdf/25087b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-05-26
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28855%2F0299%22
+- bill_id: r7399
+  title: Stopping Wind Farms in State Forests Bill 2025
+  status: Not Proceeding
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: Prohibits a constitutional corporation from constructing, installing or
+    commissioning a windfarm in a state forest.
+  introducer_name: Andrew Gee
+  introducer_party: Independent
+  introducer_id: '10883'
+  introducer_division: Calare
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7399_first-reps/toc_pdf/25100b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-06-23
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28869%2F0132%22
+- bill_id: r7400
+  title: Commonwealth Electoral Amendment (Protecting Voters) Bill 2025
+  status: Not Proceeding
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: Amends the Commonwealth Electoral Act 1918 to prevent a registered political
+    party or a candidate in a Senate or House of Representatives election from submitting
+    a postal vote application on behalf of an elector.
+  introducer_name: null
+  introducer_party: null
+  introducer_id: null
+  introducer_division: null
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7400_first-reps/toc_pdf/25101b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-06-23
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28869%2F0137%22
+- bill_id: r7403
+  title: Interactive Gambling Amendment (Ending Online Wagering on Greyhound Racing)
+    Bill 2025
+  status: Not Proceeding
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: Amends the Interactive Gambling Act 2001 to remove greyhound racing from
+    the list of excluded wagering services.
+  introducer_name: Andrew Wilkie
+  introducer_party: Independent
+  introducer_id: '10727'
+  introducer_division: Clark
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7403_first-reps/toc_pdf/25114b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-06-30
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28881%2F0081%22
 - bill_id: s1427
   title: Housing Investment Probity Bill 2024
   status: Not Proceeding
@@ -476,6 +711,25 @@ failed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1472_first-senate/toc_pdf/25S2420.pdf;fileType=application%2Fpdf
   last_updated: 2025-10-29
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28859%2F0197%22
+- bill_id: s1479
+  title: Higher Education Support Amendment (Reverse Job-Ready Graduates Fee Hikes
+    and End 50k Arts Degrees) Bill 2025
+  status: Not Proceeding
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: Amends the Higher Education Support Act 2003 to provide that the maximum
+    student contribution amounts for places in certain units of study revert to what
+    those amounts would have been on 1 January 2026 if the amendments made by the
+    Higher Education Support Amendment (Job-Ready Graduates and Supporting Regional
+    and Remote Students) Act 2020 had not commenced.
+  introducer_name: Mehreen Faruqi
+  introducer_party: Greens
+  introducer_id: '10912'
+  introducer_division: NSW
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1479_first-senate/toc_pdf/25S3020.pdf;fileType=application%2Fpdf
+  last_updated: 2026-07-01
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28885%2F0128%22
 - bill_id: s1488
   title: Criminal Code Amendment (Keeping Australia Safe) Bill 2026
   status: Not Proceeding
@@ -494,3 +748,18 @@ failed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1488_first-senate/toc_pdf/26S0420.pdf;fileType=application%2Fpdf
   last_updated: 2026-04-01
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29205%2F0256%22
+- bill_id: s1500
+  title: Sex Discrimination Amendment (Restoring Common Sense and Recognising Biological
+    Sex) Bill 2026
+  status: Not Proceeding
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: null
+  introducer_name: Michaelia Cash
+  introducer_party: Liberal
+  introducer_id: '10707'
+  introducer_division: WA
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1500_first-senate/toc_pdf/26S1320.pdf;fileType=application%2Fpdf
+  last_updated: 2026-07-01
+  second_reading_hansard_url: null
