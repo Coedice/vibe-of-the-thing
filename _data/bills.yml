@@ -261,7 +261,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1443_first-senate/toc_pdf/25S0320.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0209%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0208%22
 - bill_id: s1481
   title: Unlocking Supply of Family Homes Bill 2025
   status: Before Senate
@@ -330,6 +330,70 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7342_aspassed/toc_pdf/25041b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-08-02
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28810%2F0008%22
+- bill_id: r7351
+  title: Treasury Laws Amendment (Payments System Modernisation) Bill 2025
+  status: Act
+  type: Government
+  portfolio: Treasury
+  originating_house: House of Representatives
+  summary: 'Amends the Payment Systems (Regulation) Act 1998 to: expand the coverage
+    of the payments regulatory framework to include new and emerging payment systems
+    and participants; provide for new ministerial powers to designate payment systems
+    when it is in the national interest to do so; and introduce civil penalty provisions
+    and enforceable undertakings, and increase maximum penalties for certain criminal
+    offences. Also makes consequential amendments to 4 other Acts.'
+  introducer_name: Daniel Mulino
+  introducer_party: Labor
+  introducer_id: '10925'
+  introducer_division: Fraser
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7351_aspassed/toc_pdf/25053b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-09-19
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28814%2F0029%22
+- bill_id: r7367
+  title: Treasury Laws Amendment (Strengthening Financial Systems and Other Measures)
+    Bill 2025
+  status: Act
+  type: Government
+  portfolio: Treasury
+  originating_house: House of Representatives
+  summary: "Amends the: Corporations Act 2001 to expand beneficial ownership disclosure\
+    \ obligations that apply to entities listed on Australia\u2019s financial markets\
+    \ and broaden the Australian Securities and Investments Commission\u2019s regulatory\
+    \ enforcement powers; Australian Charities and Not-for-profits Commission Act\
+    \ 2012 to provide for new exceptions for the public disclosure of protected Australian\
+    \ Charities and Not-for-profits Commission information about new and ongoing investigations;\
+    \ Financial Regulator Assessment Authority Act 2021 to reduce the frequency of\
+    \ the Financial Regulator Assessment Authority review cycles; Competition and\
+    \ Consumer Act 2010 to extend the operation of the prohibiting energy market misconduct\
+    \ provisions from 1 January 2026 to 1 January 2031; and Income Tax (Transitional\
+    \ Provisions) Act 1997 to extend the $20,000 instant asset write-off by 12 months\
+    \ until 30 June 2026. Also makes minor, technical or machinery amendments to 11\
+    \ Acts."
+  introducer_name: Andrew Leigh
+  introducer_party: Labor
+  introducer_id: '10746'
+  introducer_division: Fenner
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7367_aspassed/toc_pdf/25067b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-12-04
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28852%2F0032%22
+- bill_id: r7373
+  title: Treasury Laws Amendment (Payday Superannuation) Bill 2025
+  status: Act
+  type: Government
+  portfolio: Treasury
+  originating_house: House of Representatives
+  summary: Introduced with the Superannuation Guarantee Charge Amendment Bill 2025,
+    the bill amends the Superannuation Guarantee (Administration) Act 1992 to require
+    employers to make superannuation contributions for their employees at the same
+    time as they pay their salary or wages. Also makes consequential amendments to
+    21 Acts.
+  introducer_name: Jim Chalmers
+  introducer_party: Labor
+  introducer_id: '10809'
+  introducer_division: Rankin
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7373_aspassed/toc_pdf/25075b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-11-06
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28901%2F0009%22
 - bill_id: r7390
   title: VET Student Loans (Miscellaneous Measures) Bill 2025
   status: Act
@@ -387,6 +451,32 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7408_aspassed/toc_pdf/25105b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-04-01
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0035%22
+- bill_id: r7412
+  title: Treasury Laws Amendment (Supporting Choice in Superannuation and Other Measures)
+    Bill 2025
+  status: Act
+  type: Government
+  portfolio: Treasury
+  originating_house: House of Representatives
+  summary: 'Amends the: Superannuation Guarantee (Administration) Act 1992 to streamline
+    the choice of superannuation fund process during employee onboarding; Corporations
+    Act 2001 to ban advertising of certain superannuation products to new employees
+    as part of the onboarding process; Income Tax Assessment Act 1936 and Income Tax
+    Assessment Act 1997 to provide income tax and withholding tax exemptions for World
+    Rugby and its wholly-owned subsidiaries; International Tax Agreements Act 1953
+    to give legislative authority to the Convention between Australia and the Portuguese
+    Republic for the elimination of double taxation with respect to taxes on income
+    and the prevention of tax evasion and avoidance; Income Tax Assessment Act 1997
+    to update the list of deductible gift recipients; and A New Tax System (Wine Equalisation
+    Tax) Act 1999 to increase the maximum amount of wine equalisation tax producer
+    rebate claimable by eligible wine producers to $400,000 each financial year.'
+  introducer_name: Daniel Mulino
+  introducer_party: Labor
+  introducer_id: '10925'
+  introducer_division: Fraser
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7412_aspassed/toc_pdf/25113b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-03-26
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0051%22
 - bill_id: r7416
   title: Universities Accord (Australian Tertiary Education Commission) Bill 2025
   status: Act
@@ -470,6 +560,28 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7493_aspassed/toc_pdf/26072b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-06-26
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29160%2F0020%22
+- bill_id: r7494
+  title: Workplace Relations Legislation Amendment (Building Cooperative Workplaces
+    No. 1) Bill 2026
+  status: Assent
+  type: Government
+  portfolio: Employment and Workplace Relations
+  originating_house: House of Representatives
+  summary: 'Amends the: Fair Work Act 2009 in relation to ministerial membership arrangements
+    for the National Construction Industry Forum, travel allowances for members of
+    the Road Transport Advisory Group, Fair Work Commission processes, exemptions
+    from general protections in certain circumstances, and supported bargaining authorisations;
+    Fair Work Act 2009 and Independent Contractors Act 2006 in relation to the road
+    transport contractor high income threshold; and Fair Work (Registered Organisations)
+    Act 2009 in relation to reporting timeframes for the Administrator of the Construction
+    and General Division of the Construction Forestry Manufacturing and Energy Union.'
+  introducer_name: Amanda Rishworth
+  introducer_party: Labor
+  introducer_id: '10543'
+  introducer_division: Kingston
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7494_aspassed/toc_pdf/26073b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-07-06
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29162%2F0009%22
 - bill_id: s1459
   title: Universities Accord (National Higher Education Code to Prevent and Respond
     to Gender-based Violence) Bill 2025
