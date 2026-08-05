@@ -95,7 +95,9 @@ pending:
   type: Government
   portfolio: Attorney-General
   originating_house: House of Representatives
-  summary: null
+  summary: Amends 41 Acts to make minor and technical amendments, including to correct
+    errors, remove spent or obsolete provisions, and update references to align with
+    modern legislative drafting practice. Also repeals 106 spent or obsolete Acts.
   introducer_name: Michelle Rowland
   introducer_party: Labor
   introducer_id: '10751'
@@ -109,7 +111,19 @@ pending:
   type: Government
   portfolio: Education
   originating_house: House of Representatives
-  summary: null
+  summary: 'Amends the: Higher Education Support Act 2003 to change the basis of higher
+    education funding to a managed growth funding system based on a total number of
+    equivalent full-time student load places; and provide for needs-based funding
+    grants to higher education providers in relation to specific types of Commonwealth
+    supported students, including students from low socioeconomic backgrounds, First
+    Nations students and students studying at regional campuses; Universities Accord
+    (Australian Tertiary Education Commission) Act 2026 to: make consequential amendments;
+    provide a framework for the Australian Tertiary Education Commission (ATEC) to
+    exercise its existing function to allocate international student places; and require
+    the ATEC to assess a higher education provider against the terms of their mission
+    based compact; and Education Services for Overseas Students Act 2000, Ombudsman
+    Act 1976 and Tertiary Education Quality and Standards Agency Act 2011 to make
+    minor amendments in relation to information management.'
   introducer_name: Jason Clare
   introducer_party: Labor
   introducer_id: '10123'
@@ -123,7 +137,14 @@ pending:
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
-  summary: null
+  summary: 'Amends the: Income Tax Assessment Act 1997, Income Tax Assessment Act
+    1936 and Taxation Administration Act 1953 to enable corporate tax entities that
+    are not significant global entities to carry back a tax loss in an income year
+    and apply it against tax paid in either or both of the previous two income years
+    to receive a tax offset; Income Tax Assessment Act 1997 and Income Tax (Transitional
+    Provisions) Act 1997 to permanently extend the $20,000 instant asset write-off
+    from 1 July 2026; and Income Tax Assessment Act 1997 to provide an income tax
+    exemption for income derived in respect of employment with the PNG Chiefs Limited.'
   introducer_name: Jim Chalmers
   introducer_party: Labor
   introducer_id: '10809'
@@ -137,7 +158,10 @@ pending:
   type: Government
   portfolio: Health, Disability and Ageing
   originating_house: House of Representatives
-  summary: null
+  summary: Introduced with the Therapeutic Goods Amendment (Medicines Shortages and
+    Other Measures) Bill 2026, the bill amends the Therapeutic Goods (Charges) Act
+    1989 to enable annual charges to be prescribed for the inclusion of grouped biologicals
+    in the Australian Register of Therapeutic Goods.
   introducer_name: Rebecca White
   introducer_party: Labor
   introducer_id: '11052'
@@ -152,7 +176,13 @@ pending:
   type: Government
   portfolio: Health, Disability and Ageing
   originating_house: House of Representatives
-  summary: null
+  summary: 'Introduced with the Therapeutic Goods (Charges) Amendment Bill 2026, the
+    bill amends the Therapeutic Goods Act 1989 to: expand arrangements relating to
+    medicines shortages and discontinuations; enable the determination of common biological
+    groups to allow similar biologicals to share a single entry in the Australian
+    Register of Therapeutic Goods; authorise persons to enter, search and inspect
+    clinical trial sites; enable the Medicines Watch List to incorporate other documents
+    as in force from time to time; and make consequential and technical amendments'
   introducer_name: Rebecca White
   introducer_party: Labor
   introducer_id: '11052'
@@ -167,7 +197,24 @@ pending:
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
-  summary: null
+  summary: "Amends the: Tax Agent Services Act 2009 to expand the Tax Practitioners\
+    \ Board\u2019s regulatory penalty powers; Income Tax Assessment Act 1997, International\
+    \ Tax Agreements Act 1953 and Taxation Administration Act 1953 to amend the foreign\
+    \ resident capital gains tax (CGT) regime, including by clarifying and broadening\
+    \ the foreign resident CGT tax base by introducing a definition of \u2018real\
+    \ property\u2019; Income Tax (Transitional Provisions) Act 1997 to provide a transitional\
+    \ 50 per cent CGT discount for certain foreign residents who dispose of Australian\
+    \ renewable energy assets; Competition and Consumer Act 2010 to amend the operation\
+    \ of the mandatory and suspensory merger control regime; Competition and Consumer\
+    \ Act 2010 and Productivity Commission Act 1998 to give effect to the National\
+    \ Competition Principles (NCP) as contained in the 2024 NCP Agreement; Income\
+    \ Tax Assessment Act 1997 to update the list of deductible gift recipients; Anti-Money\
+    \ Laundering and Counter-Terrorism Financing Act 2006, Income Tax Assessment Act\
+    \ 1997 and Taxation Administration Act 1953 to rename public and private ancillary\
+    \ funds as public and private giving funds; and Taxation Administration Act 1953\
+    \ to make minor and technical amendments. Also repeals the Taxation Administration\
+    \ (Remedial Power\u2014Foreign Resident Capital Gains Withholding) Determination\
+    \ 2017."
   introducer_name: Daniel Mulino
   introducer_party: Labor
   introducer_id: '10925'
@@ -182,7 +229,25 @@ pending:
   type: Government
   portfolio: Social Services
   originating_house: House of Representatives
-  summary: null
+  summary: 'Amends the: A New Tax System (Family Assistance) Act 1999, A New Tax System
+    (Family Assistance) (Administration) Act 1999 and Social Security Act 1991 to:
+    enable the automation of advance payments of social security or family assistance
+    entitlements; and correct cross-referencing errors; Administrative Review Tribunal
+    Act 2024 and A New Tax System (Family Assistance) (Administration) Act 1999 to
+    enable the secretary to alter certain social services decisions that undergo review
+    at the Administrative Review Tribunal under specific circumstances; A New Tax
+    System (Family Assistance) Act 1999 and A New Tax System (Family Assistance) (Administration)
+    Act 1999 to clarify the use of pre-issue income data (PIID); Child Support (Assessment)
+    Act 1989 in relation to the use of PIID, the automation of provisional adjusted
+    taxable income and the delegation of a publishing function; A New Tax System (Family
+    Assistance) (Administration) Act 1999 to enable merits review of tax and family
+    assistance entitlement debt offsetting decisions; Paid Parental Leave Act 2010
+    in relation to the calculation of paid parental leave superannuation contributions
+    and employer debts; Social Security (Administration) Act 1999 to make minor amendments
+    in relation to the operation of the urgent payment provisions; and Social Security
+    and Other Legislation Amendment (Technical Changes No. 2) Act 2025 to clarify
+    the operation of review arrangements for decision relating to the Income Apportionment
+    Resolution Scheme.'
   introducer_name: Tanya Plibersek
   introducer_party: Labor
   introducer_id: '10513'
@@ -196,7 +261,13 @@ pending:
   type: Government
   portfolio: Agriculture, Fisheries and Forestry
   originating_house: House of Representatives
-  summary: null
+  summary: 'Amends the: Wine Australia Act 2013 to: enable Wine Australia to conduct
+    or arrange surveys of the grape and wine industry, including to support the operation
+    of the Competition and Consumer Act 2010; and enable Wine Australia to use and
+    disclose information for authorised purposes; and Primary Industries Levies and
+    Charges Collection Act 2024 to: enable the Australian Bureau of Agricultural and
+    Resource Economics and Sciences to disclose certain information to non-Commonwealth
+    persons or bodies; and make a technical amendment to an existing rule-making power.'
   introducer_name: Julie Collins
   introducer_party: Labor
   introducer_id: '10136'
@@ -287,7 +358,14 @@ pending:
   type: Private
   portfolio: null
   originating_house: Senate
-  summary: null
+  summary: 'Amends the: Fair Work Act 2009 in relation to ministerial membership arrangements
+    for the National Construction Industry Forum, travel allowances for members of
+    the Road Transport Advisory Group, Fair Work Commission processes, and supported
+    bargaining authorisations; Fair Work Act 2009 and Independent Contractors Act
+    2006 in relation to the road transport contractor high income threshold; and Fair
+    Work (Registered Organisations) Act 2009 in relation to reporting timeframes for
+    the Administrator of the Construction and General Division of the Construction
+    Forestry Manufacturing and Energy Union.'
   introducer_name: Jane Hume
   introducer_party: Liberal
   introducer_id: '10853'
@@ -301,7 +379,12 @@ pending:
   type: Government
   portfolio: Foreign Affairs and Trade
   originating_house: Senate
-  summary: null
+  summary: "Implements certain recommendations of the Joint Standing Committee on\
+    \ Trade and Investment Growth\u2019s inquiry into the Australian Government\u2019\
+    s approach to negotiating trade and investment agreements by establishing a framework\
+    \ for the negotiation, consultation and review of Australia\u2019s free trade\
+    \ agreements. Also establishes certain requirements relating to Australia\u2019\
+    \ bilateral investment treaty negotiations."
   introducer_name: Tim Ayres
   introducer_party: Labor
   introducer_id: '10946'
