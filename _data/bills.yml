@@ -13,6 +13,24 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7332_first-reps/toc_pdf/25027b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-22
   second_reading_hansard_url: null
+- bill_id: r7355
+  title: Social Security and Other Legislation Amendment (Responding to Robodebt)
+    Bill 2025
+  status: Before Reps
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: Amends the A New Tax System (Family Assistance) (Administration) Act 1999,
+    Social Security Act 1991, Social Security (Administration) Act 1999 and Student
+    Assistance Act 1973 to respond to certain recommendations of the Report of the
+    Royal Commission into the Robodebt Scheme.
+  introducer_name: Andrew Wilkie
+  introducer_party: Independent
+  introducer_id: '10727'
+  introducer_division: Clark
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7355_first-reps/toc_pdf/25054b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-08-25
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28830%2F0182%22
 - bill_id: r7358
   title: Telecommunications Amendment (Enhancing Consumer Safeguards) Bill 2025
   status: Before Senate
@@ -167,7 +185,7 @@ pending:
   introducer_id: '11052'
   introducer_division: Lyons
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7508_first-reps/toc_pdf/26087b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-08-11
+  last_updated: 2026-08-12
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29171%2F0068%22
 - bill_id: r7509
   title: Therapeutic Goods Amendment (Medicines Shortages and Other Measures) Bill
@@ -273,8 +291,23 @@ pending:
   introducer_id: '10136'
   introducer_division: Franklin
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7519_first-reps/toc_pdf/26098b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-07-01
+  last_updated: 2026-08-11
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29170%2F0036%22
+- bill_id: r7529
+  title: Wage Justice for Early Childhood Education and Care Workers (Special Account)
+    (Extending Support and Strengthening Safety) Bill 2026
+  status: Before Reps
+  type: Government
+  portfolio: Education
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Jason Clare
+  introducer_party: Labor
+  introducer_id: '10123'
+  introducer_division: Blaxland
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7529_first-reps/toc_pdf/26107b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-08-12
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29173%2F0018%22
 - bill_id: s1436
   title: Whistleblower Protection Authority Bill 2025
   status: Before Senate
@@ -314,7 +347,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1442_first-senate/toc_pdf/25S0120.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0196%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0195%22
 - bill_id: s1443
   title: Tertiary Education Legislation Amendment (There For Education, Not Profit)
     Bill 2025
@@ -333,6 +366,42 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1443_first-senate/toc_pdf/25S0320.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0209%22
+- bill_id: s1466
+  title: Social Security and Other Legislation Amendment (Responding to Robodebt)
+    Bill 2025 [No. 2]
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: Amends the A New Tax System (Family Assistance) (Administration) Act 1999,
+    Social Security Act 1991, Social Security (Administration) Act 1999 and Student
+    Assistance Act 1973 to respond to certain recommendations of the Report of the
+    Royal Commission into the Robodebt Scheme.
+  introducer_name: Penny Allman-Payne
+  introducer_party: Greens
+  introducer_id: '11002'
+  introducer_division: Queensland
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1466_first-senate/toc_pdf/25S1920.pdf;fileType=application%2Fpdf
+  last_updated: 2025-08-26
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28834%2F0128%22
+- bill_id: s1480
+  title: Social Media Minimum Age Repeal Bill 2025
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: 'Amends the: Online Safety Act 2021 to remove minimum age requirements
+    for social media use and the obligation on providers of an age-restricted social
+    media platform to take reasonable steps to prevent age-restricted users from having
+    an account with the platform; and Age Discrimination Act 2004 to make a consequential
+    amendment.'
+  introducer_name: Ralph Babet
+  introducer_party: United Australia Party
+  introducer_id: '11003'
+  introducer_division: Victoria
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1480_first-senate/toc_pdf/25S3120.pdf;fileType=application%2Fpdf
+  last_updated: 2025-11-25
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28885%2F0133%22
 - bill_id: s1481
   title: Unlocking Supply of Family Homes Bill 2025
   status: Before Senate
@@ -349,7 +418,7 @@ pending:
   introducer_id: '10853'
   introducer_division: Victoria
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1481_first-senate/toc_pdf/25S3320.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-26
+  last_updated: 2026-08-12
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28888%2F0169%22
 - bill_id: s1497
   title: Workplace Relations Legislation Amendment (Clearing the Fair Work Commission
@@ -392,6 +461,21 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1498_first-senate/toc_pdf/2608620.pdf;fileType=application%2Fpdf
   last_updated: 2026-07-01
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29227%2F0187%22
+- bill_id: s1502
+  title: Superannuation Legislation Amendment (Fair Super for Young Workers) Bill
+    2026
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: null
+  introducer_name: Barbara Pocock
+  introducer_party: Greens
+  introducer_id: '11008'
+  introducer_division: SA
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1502_first-senate/toc_pdf/26S1720.pdf;fileType=application%2Fpdf
+  last_updated: 2026-08-12
+  second_reading_hansard_url: null
 passed:
 - bill_id: r7342
   title: Universities Accord (Cutting Student Debt by 20 Per Cent) Bill 2025
