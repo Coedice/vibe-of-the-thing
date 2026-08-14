@@ -363,13 +363,13 @@ pending:
   portfolio: Treasury
   originating_house: House of Representatives
   summary: null
-  introducer_name: null
+  introducer_name: Daniel Mulino
   introducer_party: Labor
-  introducer_id: null
-  introducer_division: null
+  introducer_id: '10925'
+  introducer_division: Fraser
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7526_first-reps/toc_pdf/26104b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-08-13
-  second_reading_hansard_url: null
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29174%2F0024%22
 - bill_id: r7529
   title: Wage Justice for Early Childhood Education and Care Workers (Special Account)
     (Extending Support and Strengthening Safety) Bill 2026
@@ -460,7 +460,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1444_first-senate/toc_pdf/25S0220.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0209%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0208%22
 - bill_id: s1449
   title: Right to Protest Bill 2025
   status: Before Senate
@@ -612,7 +612,7 @@ pending:
   introducer_division: Queensland
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1504_first-senate/toc_pdf/26S2020.pdf;fileType=application%2Fpdf
   last_updated: 2026-08-13
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29231%2F0133%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29231%2F0134%22
 passed:
 - bill_id: r7342
   title: Universities Accord (Cutting Student Debt by 20 Per Cent) Bill 2025
