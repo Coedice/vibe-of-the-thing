@@ -170,6 +170,44 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7479_first-reps/toc_pdf/26068b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-06-29
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29157%2F0220%22
+- bill_id: r7481
+  title: Regulatory Reform Omnibus Bill 2026
+  status: Before Senate
+  type: Government
+  portfolio: Finance
+  originating_house: House of Representatives
+  summary: "Amends 26 Acts to simplify and streamline regulatory and administrative\
+    \ processes for businesses and community organisations, expand the \u2018tell\
+    \ us once\u2019 arrangements to facilitate the sharing and use of information\
+    \ provided to government agencies, and make technical amendments to ensure that\
+    \ legislation is operating as intended. Also repeals the Commonwealth Funds Management\
+    \ Limited Act 1990 and Superannuation Benefits (Supervisory Mechanisms) Act 1990."
+  introducer_name: Daniel Mulino
+  introducer_party: Labor
+  introducer_id: '10925'
+  introducer_division: Fraser
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7481_third-reps/toc_pdf/26058b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-07-02
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29155%2F0023%22
+- bill_id: r7495
+  title: Public Governance, Performance and Accountability Amendment (Supporting Small
+    Businesses To Be Paid On Time) Bill 2026
+  status: Before Reps
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: Amends the Public Governance, Performance and Accountability Act 2013 to
+    provide that the Commonwealth must not enter into a procurement contract above
+    a prescribed threshold with a business that, in each of its three most recent
+    reporting cycles, either had an average payment time to small business suppliers
+    exceeding 30 calendar days or failed to lodge a required payment times report.
+  introducer_name: Allegra Spender
+  introducer_party: Independent
+  introducer_id: '11001'
+  introducer_division: Wentworth
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7495_first-reps/toc_pdf/26077b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-06-22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29164%2F0146%22
 - bill_id: r7500
   title: Statute Update Bill 2026
   status: Before Senate
@@ -210,7 +248,7 @@ pending:
   introducer_id: '10123'
   introducer_division: Blaxland
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7501_first-reps/toc_pdf/26082b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-08-13
+  last_updated: 2026-08-17
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29167%2F0017%22
 - bill_id: r7502
   title: Treasury Laws Amendment (Tax Reform No. 2) Bill 2026
@@ -334,7 +372,7 @@ pending:
   introducer_id: '10513'
   introducer_division: Sydney
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7515_first-reps/toc_pdf/26094b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-07-01
+  last_updated: 2026-08-17
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29170%2F0032%22
 - bill_id: r7519
   title: Wine and Other Legislation Amendment Bill 2026
