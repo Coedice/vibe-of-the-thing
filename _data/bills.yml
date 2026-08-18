@@ -271,6 +271,25 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7502_first-reps/toc_pdf/26083b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-06-25
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29167%2F0005%22
+- bill_id: r7505
+  title: Public Governance, Performance and Accountability Amendment (Local Industry
+    Preference) Bill 2026
+  status: Before Reps
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: Amends the Public Governance, Performance and Accountability Act 2013 to
+    provide that, for specified Commonwealth projects, domestic manufacturers are
+    to be considered ahead of non-domestic manufacturers in tender processes and that
+    at least 30 per cent of the total value of goods used in those projects must consist
+    of products manufactured domestically.
+  introducer_name: Dai Le
+  introducer_party: Independent
+  introducer_id: '10978'
+  introducer_division: Fowler
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7505_first-reps/toc_pdf/26091b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-06-29
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29168%2F0019%22
 - bill_id: r7508
   title: Therapeutic Goods (Charges) Amendment Bill 2026
   status: Before Senate
@@ -376,7 +395,7 @@ pending:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29170%2F0032%22
 - bill_id: r7519
   title: Wine and Other Legislation Amendment Bill 2026
-  status: Before Reps
+  status: Before Senate
   type: Government
   portfolio: Agriculture, Fisheries and Forestry
   originating_house: House of Representatives
@@ -392,7 +411,7 @@ pending:
   introducer_id: '10136'
   introducer_division: Franklin
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7519_first-reps/toc_pdf/26098b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-08-13
+  last_updated: 2026-08-17
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29170%2F0036%22
 - bill_id: r7526
   title: Treasury Laws Amendment (News Media Bargaining) (Consequential) Bill 2026
@@ -480,7 +499,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1443_first-senate/toc_pdf/25S0320.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0208%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0209%22
 - bill_id: s1444
   title: Remuneration Tribunal Amendment (There For Public Service, Not Profit) Bill
     2025
@@ -602,7 +621,7 @@ pending:
   introducer_division: Victoria
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1497_first-senate/toc_pdf/26S1120.pdf;fileType=application%2Fpdf
   last_updated: 2026-06-24
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29223%2F0152%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29223%2F0153%22
 - bill_id: s1498
   title: Trade and Investment Agreements (Consultation) Bill 2026
   status: Before Senate
