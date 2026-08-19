@@ -103,6 +103,21 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7440_first-reps/toc_pdf/26020b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-03-02
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29140%2F0041%22
+- bill_id: r7450
+  title: Protecting Australia&rsquo;s Prime Agricultural Land Bill 2026
+  status: Before Reps
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: Provides that prime agricultural land must not be used for a purpose other
+    than agriculture.
+  introducer_name: Andrew Gee
+  introducer_party: Independent
+  introducer_id: '10883'
+  introducer_division: Calare
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7450_first-reps/toc_pdf/26030b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-03-23
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29147%2F0240%22
 - bill_id: r7451
   title: Telecommunications Legislation Amendment (Strengthening Communications in
     Natural Disasters) Bill 2026
@@ -208,6 +223,24 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7495_first-reps/toc_pdf/26077b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-06-22
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29164%2F0146%22
+- bill_id: r7497
+  title: Private Health Insurance Amendment (Modernising the Private Health Insurance
+    Rebate) Bill 2026
+  status: Before Reps
+  type: Government
+  portfolio: Health, Disability and Ageing
+  originating_house: House of Representatives
+  summary: 'Amends the: Private Health Insurance Act 2007 to provide that the private
+    health insurance rebate percentage and calculation method for people aged 65 years
+    and over are the same as those applying to people under 65 years of age; and Age
+    Discrimination Act 2004 to make a technical amendment.'
+  introducer_name: Mark Butler
+  introducer_party: Labor
+  introducer_id: '10086'
+  introducer_division: Hindmarsh
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7497_first-reps/toc_pdf/26074b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-06-25
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29167%2F0009%22
 - bill_id: r7500
   title: Statute Update Bill 2026
   status: Before Senate
@@ -248,29 +281,8 @@ pending:
   introducer_id: '10123'
   introducer_division: Blaxland
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7501_first-reps/toc_pdf/26082b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-08-17
+  last_updated: 2026-08-19
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29167%2F0017%22
-- bill_id: r7502
-  title: Treasury Laws Amendment (Tax Reform No. 2) Bill 2026
-  status: Before Reps
-  type: Government
-  portfolio: Treasury
-  originating_house: House of Representatives
-  summary: 'Amends the: Income Tax Assessment Act 1997, Income Tax Assessment Act
-    1936 and Taxation Administration Act 1953 to enable corporate tax entities that
-    are not significant global entities to carry back a tax loss in an income year
-    and apply it against tax paid in either or both of the previous two income years
-    to receive a tax offset; Income Tax Assessment Act 1997 and Income Tax (Transitional
-    Provisions) Act 1997 to permanently extend the $20,000 instant asset write-off
-    from 1 July 2026; and Income Tax Assessment Act 1997 to provide an income tax
-    exemption for income derived in respect of employment with the PNG Chiefs Limited.'
-  introducer_name: Jim Chalmers
-  introducer_party: Labor
-  introducer_id: '10809'
-  introducer_division: Rankin
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7502_first-reps/toc_pdf/26083b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-06-25
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29167%2F0005%22
 - bill_id: r7505
   title: Public Governance, Performance and Accountability Amendment (Local Industry
     Preference) Bill 2026
@@ -425,7 +437,7 @@ pending:
   introducer_id: '10925'
   introducer_division: Fraser
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7526_first-reps/toc_pdf/26104b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-08-13
+  last_updated: 2026-08-19
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29174%2F0024%22
 - bill_id: r7529
   title: Wage Justice for Early Childhood Education and Care Workers (Special Account)
@@ -481,7 +493,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1442_first-senate/toc_pdf/25S0120.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0195%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0196%22
 - bill_id: s1443
   title: Tertiary Education Legislation Amendment (There For Education, Not Profit)
     Bill 2025
@@ -499,7 +511,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1443_first-senate/toc_pdf/25S0320.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0209%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0208%22
 - bill_id: s1444
   title: Remuneration Tribunal Amendment (There For Public Service, Not Profit) Bill
     2025
@@ -517,7 +529,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1444_first-senate/toc_pdf/25S0220.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0208%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0209%22
 - bill_id: s1449
   title: Right to Protest Bill 2025
   status: Before Senate
@@ -550,6 +562,23 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1466_first-senate/toc_pdf/25S1920.pdf;fileType=application%2Fpdf
   last_updated: 2025-08-26
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28834%2F0128%22
+- bill_id: s1467
+  title: Public Governance, Performance and Accountability Amendment (Ban Unethical
+    Contractors) Bill 2025
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: Amends the Public Governance, Performance and Accountability Act 2013 to
+    require that government procurement contracts cannot be entered into with potential
+    suppliers or tenderers who have engaged in unethical conduct.
+  introducer_name: Barbara Pocock
+  introducer_party: Greens
+  introducer_id: '11008'
+  introducer_division: SA
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1467_first-senate/toc_pdf/25S2120.pdf;fileType=application%2Fpdf
+  last_updated: 2025-09-04
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28853%2F0067%22
 - bill_id: s1469
   title: Repeal Net Zero Bill 2025 [No. 2]
   status: Before Senate
@@ -656,6 +685,20 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1502_first-senate/toc_pdf/26S1720.pdf;fileType=application%2Fpdf
   last_updated: 2026-08-12
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29230%2F0170%22
+- bill_id: s1503
+  title: Protecting Australians from Foreign Terrorist Fighters Bill 2026
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: null
+  introducer_name: Pauline Hanson
+  introducer_party: One Nation
+  introducer_id: '10280'
+  introducer_division: Queensland
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1503_first-senate/toc_pdf/26S1620.pdf;fileType=application%2Fpdf
+  last_updated: 2026-08-12
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29230%2F0183%22
 - bill_id: s1504
   title: Treasury Laws Amendment (Removing the Widows and Spouses Tax) Bill 2026
   status: Before Senate
