@@ -107,35 +107,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7451_first-reps/toc_pdf/26031b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-05-25
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29157%2F0211%22
-- bill_id: r7467
-  title: Secrecy Provisions Amendment (Repealing Offences) Bill 2026
-  status: Before Senate
-  type: Government
-  portfolio: Attorney-General
-  originating_house: House of Representatives
-  summary: "Amends: the Criminal Code Act 1995 to: remove the existing offence relating\
-    \ to the unauthorised disclosure of information by certain Commonwealth officers\
-    \ and replace it with a new offence prohibiting the improper use or communication\
-    \ of information by certain Commonwealth officers when done with the intention\
-    \ of obtaining a benefit or causing detriment to a Commonwealth entity or other\
-    \ person; and require the Attorney-General\u2019s consent to prosecute journalists\
-    \ or certain other persons for secrecy offences unless otherwise prescribed by\
-    \ regulations; 12 Acts to make consequential amendments; 17 Acts and 5 regulations\
-    \ to remove certain secrecy offences and non-disclosure duties and remove criminal\
-    \ liability from secrecy offences, effectively converting those offences into\
-    \ non-disclosure duties without criminal liability; the Criminal Code Act 1995,\
-    \ Foreign Influence Transparency Scheme Act 2018 and Intelligence Services Act\
-    \ 2001 to ensure that secrecy offences are proportionate and consistent with the\
-    \ rule of law, clarify the scope of existing offences and limit their application\
-    \ to non-officials; and the Business Names Registration Act 2011 and Criminal\
-    \ Code Act 1995 to make minor and technical amendments to secrecy provisions."
-  introducer_name: Michelle Rowland
-  introducer_party: Labor
-  introducer_id: '10751'
-  introducer_division: Greenway
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7467_first-reps/toc_pdf/26044b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-06-22
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29153%2F0043%22
 - bill_id: r7479
   title: Sex Discrimination Amendment (Sex-based Rights) Bill 2026
   status: Before Reps
@@ -192,7 +163,7 @@ pending:
   introducer_party: Labor
   introducer_id: '10123'
   introducer_division: Blaxland
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7501_first-reps/toc_pdf/26082b01.pdf;fileType=application%2Fpdf
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7501_third-reps/toc_pdf/26082b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-08-20
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29167%2F0017%22
 - bill_id: r7508
@@ -372,7 +343,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1442_first-senate/toc_pdf/25S0120.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0195%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0196%22
 - bill_id: s1443
   title: Tertiary Education Legislation Amendment (There For Education, Not Profit)
     Bill 2025
@@ -657,6 +628,36 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7408_aspassed/toc_pdf/25105b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-04-01
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0035%22
+- bill_id: r7409
+  title: Treasury Laws Amendment (Genetic Testing Protections in Life Insurance and
+    Other Measures) Bill 2025
+  status: Act
+  type: Government
+  portfolio: Treasury
+  originating_house: House of Representatives
+  summary: "Amends: the Insurance Contracts Act 1984 to establish a ban which prohibits\
+    \ insurers from using certain information about an individual\u2019s genetic testing\
+    \ to inform the offer of life insurance cover, or the terms and conditions of\
+    \ the cover that is offered; the Disability Discrimination Act 1992 to align Australia\u2019\
+    s anti-discrimination law with the ban; the Corporations Act 2001 to provide four\
+    \ licensing exemptions for foreign financial services providers; 7 Acts to support\
+    \ Australia\u2019s continuing participation with multilateral development banks\
+    \ (MDBs) and the International Monetary Fund by introducing special appropriations\
+    \ for current and future financial obligations to MDBs, enabling the delegation\
+    \ of certain powers, ensuring payments consistent with existing obligations can\
+    \ be made without additional ministerial approval, and making technical amendments;\
+    \ and the Financial Sector Reform (Hayne Royal Commission Response\u2014Better\
+    \ Advice) Act 2021 to remove the requirement that individual financial advisers\
+    \ register themselves with the Australian Securities and Investments Commission\
+    \ annually from 1 July 2026. Also repeals 9 Acts and the European Bank for Reconstruction\
+    \ and Development Regulation 2012."
+  introducer_name: Daniel Mulino
+  introducer_party: Labor
+  introducer_id: '10925'
+  introducer_division: Fraser
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7409_aspassed/toc_pdf/25106b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-04-08
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0043%22
 - bill_id: r7412
   title: Treasury Laws Amendment (Supporting Choice in Superannuation and Other Measures)
     Bill 2025
