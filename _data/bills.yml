@@ -50,6 +50,23 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7358_first-reps/toc_pdf/25057b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-06-22
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28839%2F0005%22
+- bill_id: r7364
+  title: Road Vehicle Standards Amendment (Safer E-Bikes) Bill 2025
+  status: Before Reps
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: 'Amends the: Road Vehicle Standards Act 2018 to classify and regulate e-bikes
+    as road vehicles and require the minister to determine national road vehicle standards;
+    and Vehicle Standard (Australian Design Rule - Definitions and Vehicle Categories)
+    2005 to make a technical amendment.'
+  introducer_name: Sophie Scamps
+  introducer_party: Independent
+  introducer_id: '10989'
+  introducer_division: Mackellar
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7364_first-reps/toc_pdf/25064b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-09-01
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28843%2F0024%22
 - bill_id: r7414
   title: Telecommunications Legislation Amendment (Universal Outdoor Mobile Obligation)
     Bill 2025
@@ -107,6 +124,35 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7451_first-reps/toc_pdf/26031b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-05-25
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29157%2F0211%22
+- bill_id: r7467
+  title: Secrecy Provisions Amendment (Repealing Offences) Bill 2026
+  status: Before Senate
+  type: Government
+  portfolio: Attorney-General
+  originating_house: House of Representatives
+  summary: "Amends: the Criminal Code Act 1995 to: remove the existing offence relating\
+    \ to the unauthorised disclosure of information by certain Commonwealth officers\
+    \ and replace it with a new offence prohibiting the improper use or communication\
+    \ of information by certain Commonwealth officers when done with the intention\
+    \ of obtaining a benefit or causing detriment to a Commonwealth entity or other\
+    \ person; and require the Attorney-General\u2019s consent to prosecute journalists\
+    \ or certain other persons for secrecy offences unless otherwise prescribed by\
+    \ regulations; 12 Acts to make consequential amendments; 17 Acts and 5 regulations\
+    \ to remove certain secrecy offences and non-disclosure duties and remove criminal\
+    \ liability from secrecy offences, effectively converting those offences into\
+    \ non-disclosure duties without criminal liability; the Criminal Code Act 1995,\
+    \ Foreign Influence Transparency Scheme Act 2018 and Intelligence Services Act\
+    \ 2001 to ensure that secrecy offences are proportionate and consistent with the\
+    \ rule of law, clarify the scope of existing offences and limit their application\
+    \ to non-officials; and the Business Names Registration Act 2011 and Criminal\
+    \ Code Act 1995 to make minor and technical amendments to secrecy provisions."
+  introducer_name: Michelle Rowland
+  introducer_party: Labor
+  introducer_id: '10751'
+  introducer_division: Greenway
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7467_first-reps/toc_pdf/26044b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-06-22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29153%2F0043%22
 - bill_id: r7479
   title: Sex Discrimination Amendment (Sex-based Rights) Bill 2026
   status: Before Reps
@@ -142,7 +188,7 @@ pending:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29167%2F0013%22
 - bill_id: r7501
   title: Universities Accord (Opening the Doors of Opportunity) Bill 2026
-  status: Before Reps
+  status: Before Senate
   type: Government
   portfolio: Education
   originating_house: House of Representatives
@@ -164,7 +210,7 @@ pending:
   introducer_id: '10123'
   introducer_division: Blaxland
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7501_third-reps/toc_pdf/26082b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-08-20
+  last_updated: 2026-09-07
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29167%2F0017%22
 - bill_id: r7508
   title: Therapeutic Goods (Charges) Amendment Bill 2026
@@ -207,7 +253,7 @@ pending:
 - bill_id: r7514
   title: Treasury Laws Amendment (Strengthening Accountability for Tax Adviser Misconduct
     and Other Measures) Bill 2026
-  status: Before Reps
+  status: Before Senate
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
@@ -233,8 +279,8 @@ pending:
   introducer_party: Labor
   introducer_id: '10925'
   introducer_division: Fraser
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7514_first-reps/toc_pdf/26093b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-08-20
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7514_third-reps/toc_pdf/26093b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-09-07
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29171%2F0060%22
 - bill_id: r7515
   title: Social Security and Other Legislation Amendment (Technical Changes No. 2)
@@ -302,7 +348,7 @@ pending:
   introducer_id: '10123'
   introducer_division: Blaxland
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7529_first-reps/toc_pdf/26107b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-08-20
+  last_updated: 2026-09-07
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29173%2F0018%22
 - bill_id: s1436
   title: Whistleblower Protection Authority Bill 2025
@@ -343,7 +389,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1442_first-senate/toc_pdf/25S0120.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0195%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0196%22
 - bill_id: s1443
   title: Tertiary Education Legislation Amendment (There For Education, Not Profit)
     Bill 2025
@@ -362,6 +408,20 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1443_first-senate/toc_pdf/25S0320.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0208%22
+- bill_id: s1449
+  title: Right to Protest Bill 2025
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: Recognises the right to engage in peaceful protest in a public place.
+  introducer_name: David Shoebridge
+  introducer_party: Greens
+  introducer_id: '11010'
+  introducer_division: NSW
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1449_first-senate/toc_pdf/25S0920.pdf;fileType=application%2Fpdf
+  last_updated: 2025-08-27
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28695%2F0077%22
 - bill_id: s1466
   title: Social Security and Other Legislation Amendment (Responding to Robodebt)
     Bill 2025 [No. 2]
@@ -380,6 +440,20 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1466_first-senate/toc_pdf/25S1920.pdf;fileType=application%2Fpdf
   last_updated: 2025-08-26
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28834%2F0128%22
+- bill_id: s1469
+  title: Repeal Net Zero Bill 2025 [No. 2]
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: null
+  introducer_name: Matthew Canavan
+  introducer_party: Liberal National Party
+  introducer_id: '10827'
+  introducer_division: Queensland
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1469_first-senate/toc_pdf/25S2220.pdf;fileType=application%2Fpdf
+  last_updated: 2025-09-04
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28853%2F0096%22
 - bill_id: s1480
   title: Social Media Minimum Age Repeal Bill 2025
   status: Before Senate
@@ -486,6 +560,21 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1504_first-senate/toc_pdf/26S2020.pdf;fileType=application%2Fpdf
   last_updated: 2026-08-13
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29231%2F0134%22
+- bill_id: s1512
+  title: Tax Laws Amendment (Incentivising Food Donations to Charitable Organisations)
+    Bill 2026
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: null
+  introducer_name: Dean Smith
+  introducer_party: Liberal
+  introducer_id: '10768'
+  introducer_division: WA
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1512_first-senate/toc_pdf/26S2820.pdf;fileType=application%2Fpdf
+  last_updated: 2026-09-07
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29236%2F0133%22
 passed:
 - bill_id: r7342
   title: Universities Accord (Cutting Student Debt by 20 Per Cent) Bill 2025
@@ -1075,7 +1164,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29162%2F0009%22
 - bill_id: r7502
   title: Treasury Laws Amendment (Tax Reform No. 2) Bill 2026
-  status: Assent
+  status: Act
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
