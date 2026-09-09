@@ -69,7 +69,7 @@ pending:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28843%2F0024%22
 - bill_id: r7414
   title: Telecommunications Legislation Amendment (Universal Outdoor Mobile Obligation)
-    Bill 2025
+    Bill 2026
   status: Before Reps
   type: Government
   portfolio: Infrastructure, Transport, Regional Development, Communications, Sport
@@ -84,8 +84,8 @@ pending:
   introducer_party: Labor
   introducer_id: '10931'
   introducer_division: Lilley
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7414_first-reps/toc_pdf/25111b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-08-11
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7414_third-reps/toc_pdf/25111b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-09-09
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28890%2F0014%22
 - bill_id: r7440
   title: Transparent and Quality Public Appointments Bill 2026
@@ -312,8 +312,8 @@ pending:
   introducer_party: Labor
   introducer_id: '10513'
   introducer_division: Sydney
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7515_first-reps/toc_pdf/26094b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-09-08
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7515_third-reps/toc_pdf/26094b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-09-09
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29170%2F0032%22
 - bill_id: r7519
   title: Wine and Other Legislation Amendment Bill 2026
@@ -348,7 +348,7 @@ pending:
   introducer_id: '10123'
   introducer_division: Blaxland
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7529_first-reps/toc_pdf/26107b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-09-08
+  last_updated: 2026-09-09
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29173%2F0018%22
 - bill_id: s1436
   title: Whistleblower Protection Authority Bill 2025
@@ -389,7 +389,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1442_first-senate/toc_pdf/25S0120.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0195%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0196%22
 - bill_id: s1443
   title: Tertiary Education Legislation Amendment (There For Education, Not Profit)
     Bill 2025
@@ -408,20 +408,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1443_first-senate/toc_pdf/25S0320.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0209%22
-- bill_id: s1449
-  title: Right to Protest Bill 2025
-  status: Before Senate
-  type: Private
-  portfolio: null
-  originating_house: Senate
-  summary: Recognises the right to engage in peaceful protest in a public place.
-  introducer_name: David Shoebridge
-  introducer_party: Greens
-  introducer_id: '11010'
-  introducer_division: NSW
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1449_first-senate/toc_pdf/25S0920.pdf;fileType=application%2Fpdf
-  last_updated: 2025-08-27
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28695%2F0077%22
 - bill_id: s1466
   title: Social Security and Other Legislation Amendment (Responding to Robodebt)
     Bill 2025 [No. 2]
@@ -440,20 +426,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1466_first-senate/toc_pdf/25S1920.pdf;fileType=application%2Fpdf
   last_updated: 2025-08-26
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28834%2F0128%22
-- bill_id: s1469
-  title: Repeal Net Zero Bill 2025 [No. 2]
-  status: Before Senate
-  type: Private
-  portfolio: null
-  originating_house: Senate
-  summary: null
-  introducer_name: Matthew Canavan
-  introducer_party: Liberal National Party
-  introducer_id: '10827'
-  introducer_division: Queensland
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1469_first-senate/toc_pdf/25S2220.pdf;fileType=application%2Fpdf
-  last_updated: 2025-09-04
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28853%2F0096%22
 - bill_id: s1480
   title: Social Media Minimum Age Repeal Bill 2025
   status: Before Senate
@@ -574,7 +546,7 @@ pending:
   introducer_division: WA
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1512_first-senate/toc_pdf/26S2820.pdf;fileType=application%2Fpdf
   last_updated: 2026-09-07
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29236%2F0133%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29236%2F0134%22
 passed:
 - bill_id: r7342
   title: Universities Accord (Cutting Student Debt by 20 Per Cent) Bill 2025
@@ -1411,6 +1383,38 @@ failed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7403_first-reps/toc_pdf/25114b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-06-30
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28881%2F0081%22
+- bill_id: r7431
+  title: Flags Amendment (Protection of Australian National Flags) Bill 2026
+  status: Not Proceeding
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: Amends the Flags Act 1953 to prohibit the burning, destruction, desecration
+    or other serious dishonouring of the Australian National Flag or the Australian
+    Red Ensign.
+  introducer_name: Pat Conaghan
+  introducer_party: Nationals
+  introducer_id: '10922'
+  introducer_division: Cowper
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7431_first-reps/toc_pdf/26016b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-09-08
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29136%2F0358%22
+- bill_id: r7432
+  title: Criminal Code Amendment (Flag Protection) Bill 2026
+  status: Not Proceeding
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: Amends the Criminal Code Act 1995 to create a criminal offence of intentionally
+    or recklessly burning or desecrating the Australian National Flag, the Australian
+    Aboriginal Flag or the Torres Strait Islander Flag.
+  introducer_name: Rebekha Sharkie
+  introducer_party: Centre Alliance
+  introducer_id: '10874'
+  introducer_division: Mayo
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7432_first-reps/toc_pdf/26017b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-09-08
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29136%2F0362%22
 - bill_id: s1427
   title: Housing Investment Probity Bill 2024
   status: Not Proceeding
