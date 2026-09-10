@@ -184,7 +184,7 @@ pending:
   introducer_id: '10751'
   introducer_division: Greenway
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7500_first-reps/toc_pdf/26081b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-07-02
+  last_updated: 2026-09-10
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29167%2F0013%22
 - bill_id: r7501
   title: Universities Accord (Opening the Doors of Opportunity) Bill 2026
@@ -250,38 +250,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7509_first-reps/toc_pdf/26088b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-08-12
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29171%2F0064%22
-- bill_id: r7514
-  title: Treasury Laws Amendment (Strengthening Accountability for Tax Adviser Misconduct
-    and Other Measures) Bill 2026
-  status: Before Senate
-  type: Government
-  portfolio: Treasury
-  originating_house: House of Representatives
-  summary: "Amends the: Tax Agent Services Act 2009 to expand the Tax Practitioners\
-    \ Board\u2019s regulatory penalty powers; Income Tax Assessment Act 1997, International\
-    \ Tax Agreements Act 1953 and Taxation Administration Act 1953 to amend the foreign\
-    \ resident capital gains tax (CGT) regime, including by clarifying and broadening\
-    \ the foreign resident CGT tax base by introducing a definition of \u2018real\
-    \ property\u2019; Income Tax (Transitional Provisions) Act 1997 to provide a transitional\
-    \ 50 per cent CGT discount for certain foreign residents who dispose of Australian\
-    \ renewable energy assets; Competition and Consumer Act 2010 to amend the operation\
-    \ of the mandatory and suspensory merger control regime; Competition and Consumer\
-    \ Act 2010 and Productivity Commission Act 1998 to give effect to the National\
-    \ Competition Principles (NCP) as contained in the 2024 NCP Agreement; Income\
-    \ Tax Assessment Act 1997 to update the list of deductible gift recipients; Anti-Money\
-    \ Laundering and Counter-Terrorism Financing Act 2006, Income Tax Assessment Act\
-    \ 1997 and Taxation Administration Act 1953 to rename public and private ancillary\
-    \ funds as public and private giving funds; and Taxation Administration Act 1953\
-    \ to make minor and technical amendments. Also repeals the Taxation Administration\
-    \ (Remedial Power\u2014Foreign Resident Capital Gains Withholding) Determination\
-    \ 2017."
-  introducer_name: Daniel Mulino
-  introducer_party: Labor
-  introducer_id: '10925'
-  introducer_division: Fraser
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7514_third-reps/toc_pdf/26093b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-09-07
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29171%2F0060%22
 - bill_id: r7515
   title: Social Security and Other Legislation Amendment (Technical Changes No. 2)
     Bill 2026
@@ -315,26 +283,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7515_third-reps/toc_pdf/26094b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-09-09
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29170%2F0032%22
-- bill_id: r7519
-  title: Wine and Other Legislation Amendment Bill 2026
-  status: Before Senate
-  type: Government
-  portfolio: Agriculture, Fisheries and Forestry
-  originating_house: House of Representatives
-  summary: 'Amends the: Wine Australia Act 2013 to: enable Wine Australia to conduct
-    or arrange surveys of the grape and wine industry, including to support the operation
-    of the Competition and Consumer Act 2010; and enable Wine Australia to use and
-    disclose information for authorised purposes; and Primary Industries Levies and
-    Charges Collection Act 2024 to: enable the Australian Bureau of Agricultural and
-    Resource Economics and Sciences to disclose certain information to non-Commonwealth
-    persons or bodies; and make a technical amendment to an existing rule-making power.'
-  introducer_name: Julie Collins
-  introducer_party: Labor
-  introducer_id: '10136'
-  introducer_division: Franklin
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7519_first-reps/toc_pdf/26098b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-08-17
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29170%2F0036%22
 - bill_id: r7529
   title: Wage Justice for Early Childhood Education and Care Workers (Special Account)
     (Extending Support and Strengthening Safety) Bill 2026
@@ -348,8 +296,23 @@ pending:
   introducer_id: '10123'
   introducer_division: Blaxland
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7529_first-reps/toc_pdf/26107b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-09-09
+  last_updated: 2026-09-10
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29173%2F0018%22
+- bill_id: r7542
+  title: Tertiary Education Quality and Standards Agency Amendment (National Student
+    Ombudsman Levy) Bill 2026
+  status: Before Reps
+  type: Government
+  portfolio: Education
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Jason Clare
+  introducer_party: Labor
+  introducer_id: '10123'
+  introducer_division: Blaxland
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7542_first-reps/toc_pdf/26121b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-09-10
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29182%2F0015%22
 - bill_id: s1436
   title: Whistleblower Protection Authority Bill 2025
   status: Before Senate
@@ -1584,3 +1547,17 @@ failed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1500_first-senate/toc_pdf/26S1320.pdf;fileType=application%2Fpdf
   last_updated: 2026-07-01
   second_reading_hansard_url: null
+- bill_id: s1503
+  title: Protecting Australians from Foreign Terrorist Fighters Bill 2026
+  status: Not Proceeding
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: null
+  introducer_name: Pauline Hanson
+  introducer_party: One Nation
+  introducer_id: '10280'
+  introducer_division: Queensland
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1503_first-senate/toc_pdf/26S1620.pdf;fileType=application%2Fpdf
+  last_updated: 2026-09-10
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29230%2F0183%22
