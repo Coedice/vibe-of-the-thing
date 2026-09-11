@@ -13,24 +13,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7332_first-reps/toc_pdf/25027b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-22
   second_reading_hansard_url: null
-- bill_id: r7355
-  title: Social Security and Other Legislation Amendment (Responding to Robodebt)
-    Bill 2025
-  status: Before Reps
-  type: Private
-  portfolio: null
-  originating_house: House of Representatives
-  summary: Amends the A New Tax System (Family Assistance) (Administration) Act 1999,
-    Social Security Act 1991, Social Security (Administration) Act 1999 and Student
-    Assistance Act 1973 to respond to certain recommendations of the Report of the
-    Royal Commission into the Robodebt Scheme.
-  introducer_name: Andrew Wilkie
-  introducer_party: Independent
-  introducer_id: '10727'
-  introducer_division: Clark
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7355_first-reps/toc_pdf/25054b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-08-25
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28830%2F0182%22
 - bill_id: r7358
   title: Telecommunications Amendment (Enhancing Consumer Safeguards) Bill 2025
   status: Before Senate
@@ -50,23 +32,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7358_first-reps/toc_pdf/25057b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-06-22
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28839%2F0005%22
-- bill_id: r7364
-  title: Road Vehicle Standards Amendment (Safer E-Bikes) Bill 2025
-  status: Before Reps
-  type: Private
-  portfolio: null
-  originating_house: House of Representatives
-  summary: 'Amends the: Road Vehicle Standards Act 2018 to classify and regulate e-bikes
-    as road vehicles and require the minister to determine national road vehicle standards;
-    and Vehicle Standard (Australian Design Rule - Definitions and Vehicle Categories)
-    2005 to make a technical amendment.'
-  introducer_name: Sophie Scamps
-  introducer_party: Independent
-  introducer_id: '10989'
-  introducer_division: Mackellar
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7364_first-reps/toc_pdf/25064b01.pdf;fileType=application%2Fpdf
-  last_updated: 2025-09-01
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28843%2F0024%22
 - bill_id: r7414
   title: Telecommunications Legislation Amendment (Universal Outdoor Mobile Obligation)
     Bill 2026
@@ -124,52 +89,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7451_first-reps/toc_pdf/26031b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-05-25
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29157%2F0211%22
-- bill_id: r7467
-  title: Secrecy Provisions Amendment (Repealing Offences) Bill 2026
-  status: Before Senate
-  type: Government
-  portfolio: Attorney-General
-  originating_house: House of Representatives
-  summary: "Amends: the Criminal Code Act 1995 to: remove the existing offence relating\
-    \ to the unauthorised disclosure of information by certain Commonwealth officers\
-    \ and replace it with a new offence prohibiting the improper use or communication\
-    \ of information by certain Commonwealth officers when done with the intention\
-    \ of obtaining a benefit or causing detriment to a Commonwealth entity or other\
-    \ person; and require the Attorney-General\u2019s consent to prosecute journalists\
-    \ or certain other persons for secrecy offences unless otherwise prescribed by\
-    \ regulations; 12 Acts to make consequential amendments; 17 Acts and 5 regulations\
-    \ to remove certain secrecy offences and non-disclosure duties and remove criminal\
-    \ liability from secrecy offences, effectively converting those offences into\
-    \ non-disclosure duties without criminal liability; the Criminal Code Act 1995,\
-    \ Foreign Influence Transparency Scheme Act 2018 and Intelligence Services Act\
-    \ 2001 to ensure that secrecy offences are proportionate and consistent with the\
-    \ rule of law, clarify the scope of existing offences and limit their application\
-    \ to non-officials; and the Business Names Registration Act 2011 and Criminal\
-    \ Code Act 1995 to make minor and technical amendments to secrecy provisions."
-  introducer_name: Michelle Rowland
-  introducer_party: Labor
-  introducer_id: '10751'
-  introducer_division: Greenway
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7467_first-reps/toc_pdf/26044b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-06-22
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29153%2F0043%22
-- bill_id: r7479
-  title: Sex Discrimination Amendment (Sex-based Rights) Bill 2026
-  status: Before Reps
-  type: Private
-  portfolio: null
-  originating_house: House of Representatives
-  summary: "Amends the Sex Discrimination Act 1984 to: change definitions for \u2018\
-    gender identity\u2019, \u2018man\u2019, \u2018woman\u2019, \u2018intersex status\u2019\
-    \ and \u2018sexual orientation\u2019; and include provisions relating to exclusive\
-    \ services, activities and spaces for women."
-  introducer_name: Alison Penfold
-  introducer_party: Nationals
-  introducer_id: '11046'
-  introducer_division: Lyne
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7479_first-reps/toc_pdf/26068b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-06-29
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29157%2F0220%22
 - bill_id: r7500
   title: Statute Update Bill 2026
   status: Before Senate
@@ -352,7 +271,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1442_first-senate/toc_pdf/25S0120.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0196%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0195%22
 - bill_id: s1443
   title: Tertiary Education Legislation Amendment (There For Education, Not Profit)
     Bill 2025
@@ -371,42 +290,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1443_first-senate/toc_pdf/25S0320.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0209%22
-- bill_id: s1466
-  title: Social Security and Other Legislation Amendment (Responding to Robodebt)
-    Bill 2025 [No. 2]
-  status: Before Senate
-  type: Private
-  portfolio: null
-  originating_house: Senate
-  summary: Amends the A New Tax System (Family Assistance) (Administration) Act 1999,
-    Social Security Act 1991, Social Security (Administration) Act 1999 and Student
-    Assistance Act 1973 to respond to certain recommendations of the Report of the
-    Royal Commission into the Robodebt Scheme.
-  introducer_name: Penny Allman-Payne
-  introducer_party: Greens
-  introducer_id: '11002'
-  introducer_division: Queensland
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1466_first-senate/toc_pdf/25S1920.pdf;fileType=application%2Fpdf
-  last_updated: 2025-08-26
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28834%2F0128%22
-- bill_id: s1480
-  title: Social Media Minimum Age Repeal Bill 2025
-  status: Before Senate
-  type: Private
-  portfolio: null
-  originating_house: Senate
-  summary: 'Amends the: Online Safety Act 2021 to remove minimum age requirements
-    for social media use and the obligation on providers of an age-restricted social
-    media platform to take reasonable steps to prevent age-restricted users from having
-    an account with the platform; and Age Discrimination Act 2004 to make a consequential
-    amendment.'
-  introducer_name: Ralph Babet
-  introducer_party: United Australia Party
-  introducer_id: '11003'
-  introducer_division: Victoria
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1480_first-senate/toc_pdf/25S3120.pdf;fileType=application%2Fpdf
-  last_updated: 2025-11-25
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28885%2F0133%22
 - bill_id: s1481
   title: Unlocking Supply of Family Homes Bill 2025
   status: Before Senate
@@ -883,6 +766,28 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7417_aspassed/toc_pdf/25116b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-04-01
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28890%2F0026%22
+- bill_id: r7424
+  title: Social Security and Other Legislation Amendment (Technical Changes No. 1)
+    Bill 2026
+  status: Act
+  type: Government
+  portfolio: Social Services
+  originating_house: House of Representatives
+  summary: 'Amends the: Child Support (Assessment) Act 1989 to: clarify the commencement
+    date of child support periods when the registrar receives a new tax assessment
+    for a parent; and ensure that a parent with less than 35 per cent care of a child
+    is not entitled to receive child support payments; Social Security Act 1991 and
+    Social Security (Administration) Act 1999 to provide legislative authority for
+    urgent payments to eligible social security recipients outside the standard fortnightly
+    payment cycle; and Social Security Act 1991 to clarify the operation of the social
+    security income test treatment of employment income.'
+  introducer_name: Tanya Plibersek
+  introducer_party: Labor
+  introducer_id: '10513'
+  introducer_division: Sydney
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7424_aspassed/toc_pdf/26004b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-04-01
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29135%2F0013%22
 - bill_id: r7435
   title: Superannuation (Building a Stronger and Fairer Super System) Imposition Bill
     2026
@@ -1208,6 +1113,22 @@ failed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7346_first-reps/toc_pdf/25050b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-06-30
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28812%2F0010%22
+- bill_id: r7347
+  title: Criminal Code Amendment (Using Technology to Generate Child Abuse Material)
+    Bill 2025
+  status: Not Proceeding
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: Amends the Criminal Code Act 1995 to create new offences for generating
+    child abuse material using a carriage service.
+  introducer_name: Kate Chaney
+  introducer_party: Independent
+  introducer_id: '10974'
+  introducer_division: Curtin
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7347_first-reps/toc_pdf/25051b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-03-03
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28812%2F0015%22
 - bill_id: r7348
   title: Electoral Legislation Amendment (Electoral Communications) Bill 2025
   status: Not Proceeding
@@ -1231,6 +1152,57 @@ failed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7348_first-reps/toc_pdf/25052b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-03-03
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28812%2F0020%22
+- bill_id: r7355
+  title: Social Security and Other Legislation Amendment (Responding to Robodebt)
+    Bill 2025
+  status: Not Proceeding
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: Amends the A New Tax System (Family Assistance) (Administration) Act 1999,
+    Social Security Act 1991, Social Security (Administration) Act 1999 and Student
+    Assistance Act 1973 to respond to certain recommendations of the Report of the
+    Royal Commission into the Robodebt Scheme.
+  introducer_name: Andrew Wilkie
+  introducer_party: Independent
+  introducer_id: '10727'
+  introducer_division: Clark
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7355_first-reps/toc_pdf/25054b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-03-24
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28830%2F0182%22
+- bill_id: r7356
+  title: Climate Change (National Framework for Adaptation) Bill 2025
+  status: Not Proceeding
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: Establishes a national climate change adaptation framework which provides
+    for the establishment of an authority, national climate change risk assessments,
+    national adaptation plans, guiding principles of decision-making, reporting requirements
+    and statements of consideration and compatibility.
+  introducer_name: Zali Steggall
+  introducer_party: Independent
+  introducer_id: '10941'
+  introducer_division: Warringah
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7356_first-reps/toc_pdf/25055b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-03-24
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28830%2F0187%22
+- bill_id: r7357
+  title: Higher Education Support Amendment (Fair Study and Opportunity) Bill 2025
+  status: Not Proceeding
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: "Amends the Higher Education Support Act 2003 to reduce the maximum student\
+    \ contribution amount for a place in a unit of study relating to subjects specified\
+    \ as \u2018society and culture\u2019."
+  introducer_name: Dai Le
+  introducer_party: Independent
+  introducer_id: '10978'
+  introducer_division: Fowler
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7357_first-reps/toc_pdf/25056b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-03-24
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28830%2F0192%22
 - bill_id: r7359
   title: Defence Amendment (Defence Honours and Awards Appeals Tribunal) Bill 2025
   status: Not Proceeding
@@ -1247,6 +1219,38 @@ failed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7359_first-reps/toc_pdf/25059b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-24
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28839%2F0009%22
+- bill_id: r7362
+  title: Australia Day Bill 2025
+  status: Not Proceeding
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: Declares Australia Day as the national day of Australia to be observed
+    on 26 January each year.
+  introducer_name: Henry Pike
+  introducer_party: Liberal National Party
+  introducer_id: '10969'
+  introducer_division: Bowman
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7362_first-reps/toc_pdf/25063b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-03-31
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28843%2F0020%22
+- bill_id: r7364
+  title: Road Vehicle Standards Amendment (Safer E-Bikes) Bill 2025
+  status: Not Proceeding
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: 'Amends the: Road Vehicle Standards Act 2018 to classify and regulate e-bikes
+    as road vehicles and require the minister to determine national road vehicle standards;
+    and Vehicle Standard (Australian Design Rule - Definitions and Vehicle Categories)
+    2005 to make a technical amendment.'
+  introducer_name: Sophie Scamps
+  introducer_party: Independent
+  introducer_id: '10989'
+  introducer_division: Mackellar
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7364_first-reps/toc_pdf/25064b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-03-31
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28843%2F0024%22
 - bill_id: r7371
   title: Freedom of Information Amendment Bill 2025
   status: Not Proceeding
