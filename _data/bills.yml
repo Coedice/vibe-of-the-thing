@@ -89,6 +89,35 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7451_first-reps/toc_pdf/26031b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-05-25
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29157%2F0211%22
+- bill_id: r7467
+  title: Secrecy Provisions Amendment (Repealing Offences) Bill 2026
+  status: Before Senate
+  type: Government
+  portfolio: Attorney-General
+  originating_house: House of Representatives
+  summary: "Amends: the Criminal Code Act 1995 to: remove the existing offence relating\
+    \ to the unauthorised disclosure of information by certain Commonwealth officers\
+    \ and replace it with a new offence prohibiting the improper use or communication\
+    \ of information by certain Commonwealth officers when done with the intention\
+    \ of obtaining a benefit or causing detriment to a Commonwealth entity or other\
+    \ person; and require the Attorney-General\u2019s consent to prosecute journalists\
+    \ or certain other persons for secrecy offences unless otherwise prescribed by\
+    \ regulations; 12 Acts to make consequential amendments; 17 Acts and 5 regulations\
+    \ to remove certain secrecy offences and non-disclosure duties and remove criminal\
+    \ liability from secrecy offences, effectively converting those offences into\
+    \ non-disclosure duties without criminal liability; the Criminal Code Act 1995,\
+    \ Foreign Influence Transparency Scheme Act 2018 and Intelligence Services Act\
+    \ 2001 to ensure that secrecy offences are proportionate and consistent with the\
+    \ rule of law, clarify the scope of existing offences and limit their application\
+    \ to non-officials; and the Business Names Registration Act 2011 and Criminal\
+    \ Code Act 1995 to make minor and technical amendments to secrecy provisions."
+  introducer_name: Michelle Rowland
+  introducer_party: Labor
+  introducer_id: '10751'
+  introducer_division: Greenway
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7467_first-reps/toc_pdf/26044b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-06-22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29153%2F0043%22
 - bill_id: r7479
   title: Sex Discrimination Amendment (Sex-based Rights) Bill 2026
   status: Before Reps
@@ -146,7 +175,7 @@ pending:
   introducer_id: '10123'
   introducer_division: Blaxland
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7501_third-reps/toc_pdf/26082b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-09-07
+  last_updated: 2026-09-15
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29167%2F0017%22
 - bill_id: r7508
   title: Therapeutic Goods (Charges) Amendment Bill 2026
@@ -219,21 +248,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7515_third-reps/toc_pdf/26094b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-09-14
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29170%2F0032%22
-- bill_id: r7529
-  title: Wage Justice for Early Childhood Education and Care Workers (Special Account)
-    (Extending Support and Strengthening Safety) Bill 2026
-  status: Before Senate
-  type: Government
-  portfolio: Education
-  originating_house: House of Representatives
-  summary: null
-  introducer_name: Jason Clare
-  introducer_party: Labor
-  introducer_id: '10123'
-  introducer_division: Blaxland
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7529_first-reps/toc_pdf/26107b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-09-14
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29173%2F0018%22
 - bill_id: r7542
   title: Tertiary Education Quality and Standards Agency Amendment (National Student
     Ombudsman Levy) Bill 2026
@@ -247,7 +261,7 @@ pending:
   introducer_id: '10123'
   introducer_division: Blaxland
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7542_first-reps/toc_pdf/26121b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-09-10
+  last_updated: 2026-09-15
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29182%2F0015%22
 - bill_id: s1436
   title: Whistleblower Protection Authority Bill 2025
@@ -307,6 +321,20 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1443_first-senate/toc_pdf/25S0320.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0209%22
+- bill_id: s1449
+  title: Right to Protest Bill 2025
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: Recognises the right to engage in peaceful protest in a public place.
+  introducer_name: David Shoebridge
+  introducer_party: Greens
+  introducer_id: '11010'
+  introducer_division: NSW
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1449_first-senate/toc_pdf/25S0920.pdf;fileType=application%2Fpdf
+  last_updated: 2025-08-27
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28695%2F0077%22
 - bill_id: s1466
   title: Social Security and Other Legislation Amendment (Responding to Robodebt)
     Bill 2025 [No. 2]
@@ -961,6 +989,22 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7457_aspassed/toc_pdf/26037b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-06-30
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29149%2F0030%22
+- bill_id: r7466
+  title: Secrecy Provisions Amendment (Sunsetting Provision) Bill 2026
+  status: Act
+  type: Government
+  portfolio: Attorney-General
+  originating_house: House of Representatives
+  summary: Amends the Criminal Code Act 1995 to extend the operation of certain offences
+    in relation to the unauthorised disclosure of information by certain Commonwealth
+    officers for a further 6 months, until 29 December 2026.
+  introducer_name: Michelle Rowland
+  introducer_party: Labor
+  introducer_id: '10751'
+  introducer_division: Greenway
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7466_aspassed/toc_pdf/26043b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-06-29
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29153%2F0047%22
 - bill_id: r7477
   title: Treasury Laws Amendment (Fuel Excise Relief) Bill 2026
   status: Act
@@ -1093,6 +1137,58 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7503_aspassed/toc_pdf/26084b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-06-30
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29165%2F0011%22
+- bill_id: r7514
+  title: Treasury Laws Amendment (Strengthening Accountability for Tax Adviser Misconduct
+    and Other Measures) Bill 2026
+  status: Act
+  type: Government
+  portfolio: Treasury
+  originating_house: House of Representatives
+  summary: "Amends the: Tax Agent Services Act 2009 to expand the Tax Practitioners\
+    \ Board\u2019s regulatory penalty powers; Income Tax Assessment Act 1997, International\
+    \ Tax Agreements Act 1953 and Taxation Administration Act 1953 to amend the foreign\
+    \ resident capital gains tax (CGT) regime, including by clarifying and broadening\
+    \ the foreign resident CGT tax base by introducing a definition of \u2018real\
+    \ property\u2019; Income Tax (Transitional Provisions) Act 1997 to provide a transitional\
+    \ 50 per cent CGT discount for certain foreign residents who dispose of Australian\
+    \ renewable energy assets; Competition and Consumer Act 2010 to amend the operation\
+    \ of the mandatory and suspensory merger control regime; Competition and Consumer\
+    \ Act 2010 and Productivity Commission Act 1998 to give effect to the National\
+    \ Competition Principles (NCP) as contained in the 2024 NCP Agreement; Income\
+    \ Tax Assessment Act 1997 to update the list of deductible gift recipients; Anti-Money\
+    \ Laundering and Counter-Terrorism Financing Act 2006, Income Tax Assessment Act\
+    \ 1997 and Taxation Administration Act 1953 to rename public and private ancillary\
+    \ funds as public and private giving funds; and Taxation Administration Act 1953\
+    \ to make minor and technical amendments. Also repeals the Taxation Administration\
+    \ (Remedial Power\u2014Foreign Resident Capital Gains Withholding) Determination\
+    \ 2017."
+  introducer_name: Daniel Mulino
+  introducer_party: Labor
+  introducer_id: '10925'
+  introducer_division: Fraser
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7514_aspassed/toc_pdf/26093b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-09-15
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29171%2F0060%22
+- bill_id: r7519
+  title: Wine and Other Legislation Amendment Bill 2026
+  status: Act
+  type: Government
+  portfolio: Agriculture, Fisheries and Forestry
+  originating_house: House of Representatives
+  summary: 'Amends the: Wine Australia Act 2013 to: enable Wine Australia to conduct
+    or arrange surveys of the grape and wine industry, including to support the operation
+    of the Competition and Consumer Act 2010; and enable Wine Australia to use and
+    disclose information for authorised purposes; and Primary Industries Levies and
+    Charges Collection Act 2024 to: enable the Australian Bureau of Agricultural and
+    Resource Economics and Sciences to disclose certain information to non-Commonwealth
+    persons or bodies; and make a technical amendment to an existing rule-making power.'
+  introducer_name: Julie Collins
+  introducer_party: Labor
+  introducer_id: '10136'
+  introducer_division: Franklin
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7519_aspassed/toc_pdf/26098b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-09-15
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29170%2F0036%22
 - bill_id: r7526
   title: Treasury Laws Amendment (News Media Bargaining) (Consequential) Bill 2026
   status: Assent
