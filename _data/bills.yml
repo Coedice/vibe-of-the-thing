@@ -89,35 +89,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7451_first-reps/toc_pdf/26031b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-05-25
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29157%2F0211%22
-- bill_id: r7467
-  title: Secrecy Provisions Amendment (Repealing Offences) Bill 2026
-  status: Before Senate
-  type: Government
-  portfolio: Attorney-General
-  originating_house: House of Representatives
-  summary: "Amends: the Criminal Code Act 1995 to: remove the existing offence relating\
-    \ to the unauthorised disclosure of information by certain Commonwealth officers\
-    \ and replace it with a new offence prohibiting the improper use or communication\
-    \ of information by certain Commonwealth officers when done with the intention\
-    \ of obtaining a benefit or causing detriment to a Commonwealth entity or other\
-    \ person; and require the Attorney-General\u2019s consent to prosecute journalists\
-    \ or certain other persons for secrecy offences unless otherwise prescribed by\
-    \ regulations; 12 Acts to make consequential amendments; 17 Acts and 5 regulations\
-    \ to remove certain secrecy offences and non-disclosure duties and remove criminal\
-    \ liability from secrecy offences, effectively converting those offences into\
-    \ non-disclosure duties without criminal liability; the Criminal Code Act 1995,\
-    \ Foreign Influence Transparency Scheme Act 2018 and Intelligence Services Act\
-    \ 2001 to ensure that secrecy offences are proportionate and consistent with the\
-    \ rule of law, clarify the scope of existing offences and limit their application\
-    \ to non-officials; and the Business Names Registration Act 2011 and Criminal\
-    \ Code Act 1995 to make minor and technical amendments to secrecy provisions."
-  introducer_name: Michelle Rowland
-  introducer_party: Labor
-  introducer_id: '10751'
-  introducer_division: Greenway
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7467_first-reps/toc_pdf/26044b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-06-22
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29153%2F0043%22
 - bill_id: r7479
   title: Sex Discrimination Amendment (Sex-based Rights) Bill 2026
   status: Before Reps
@@ -175,7 +146,7 @@ pending:
   introducer_id: '10123'
   introducer_division: Blaxland
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7501_third-reps/toc_pdf/26082b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-09-15
+  last_updated: 2026-09-16
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29167%2F0017%22
 - bill_id: r7508
   title: Therapeutic Goods (Charges) Amendment Bill 2026
@@ -251,7 +222,7 @@ pending:
 - bill_id: r7542
   title: Tertiary Education Quality and Standards Agency Amendment (National Student
     Ombudsman Levy) Bill 2026
-  status: Before Reps
+  status: Before Senate
   type: Government
   portfolio: Education
   originating_house: House of Representatives
@@ -261,7 +232,7 @@ pending:
   introducer_id: '10123'
   introducer_division: Blaxland
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7542_first-reps/toc_pdf/26121b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-09-15
+  last_updated: 2026-09-16
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29182%2F0015%22
 - bill_id: s1436
   title: Whistleblower Protection Authority Bill 2025
@@ -302,7 +273,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1442_first-senate/toc_pdf/25S0120.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0195%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0196%22
 - bill_id: s1443
   title: Tertiary Education Legislation Amendment (There For Education, Not Profit)
     Bill 2025
@@ -321,20 +292,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1443_first-senate/toc_pdf/25S0320.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0209%22
-- bill_id: s1449
-  title: Right to Protest Bill 2025
-  status: Before Senate
-  type: Private
-  portfolio: null
-  originating_house: Senate
-  summary: Recognises the right to engage in peaceful protest in a public place.
-  introducer_name: David Shoebridge
-  introducer_party: Greens
-  introducer_id: '11010'
-  introducer_division: NSW
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1449_first-senate/toc_pdf/25S0920.pdf;fileType=application%2Fpdf
-  last_updated: 2025-08-27
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28695%2F0077%22
 - bill_id: s1466
   title: Social Security and Other Legislation Amendment (Responding to Robodebt)
     Bill 2025 [No. 2]
@@ -1667,6 +1624,24 @@ failed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1479_first-senate/toc_pdf/25S3020.pdf;fileType=application%2Fpdf
   last_updated: 2026-07-01
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28885%2F0128%22
+- bill_id: s1482
+  title: A New Tax System (Family Assistance) Amendment (No Jab No Pay Repeal) Bill
+    2025
+  status: Not Proceeding
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: Amends the A New Tax System (Family Assistance) Act 1999 to enable a child
+    to meet their immunisation requirements for the purposes of payment of the child
+    care subsidy on the basis of a conscientious objection or if the child is 7 years
+    of age or older.
+  introducer_name: Alex Antic
+  introducer_party: Liberal
+  introducer_id: '10954'
+  introducer_division: SA
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1482_first-senate/toc_pdf/25S3220.pdf;fileType=application%2Fpdf
+  last_updated: 2026-09-16
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28888%2F0164%22
 - bill_id: s1488
   title: Criminal Code Amendment (Keeping Australia Safe) Bill 2026
   status: Not Proceeding
