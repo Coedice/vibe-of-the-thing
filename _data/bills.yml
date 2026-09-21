@@ -223,7 +223,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1442_first-senate/toc_pdf/25S0120.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0196%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0195%22
 - bill_id: s1443
   title: Tertiary Education Legislation Amendment (There For Education, Not Profit)
     Bill 2025
@@ -241,7 +241,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1443_first-senate/toc_pdf/25S0320.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0209%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0208%22
 - bill_id: s1481
   title: Unlocking Supply of Family Homes Bill 2025
   status: Before Senate
@@ -308,7 +308,10 @@ pending:
   type: Private
   portfolio: null
   originating_house: Senate
-  summary: null
+  summary: Amends the Superannuation Guarantee (Administration) Act 1992 and Superannuation
+    Guarantee (Administration) Regulations 2018 to extend compulsory employer superannuation
+    contributions to all employees under 18 years of age, regardless of the number
+    of hours they work.
   introducer_name: Barbara Pocock
   introducer_party: Greens
   introducer_id: '11008'
@@ -322,7 +325,10 @@ pending:
   type: Private
   portfolio: null
   originating_house: Senate
-  summary: null
+  summary: Amends the Income Tax Assessment Act 1997 to preserve grandfathered access
+    to negative gearing and the 50 per cent capital gains tax discount where an asset
+    passes from joint ownership to sole ownership as a result of divorce, relationship
+    breakdown or the death of a joint owner.
   introducer_name: Matthew Canavan
   introducer_party: Liberal National Party
   introducer_id: '10827'
@@ -551,6 +557,42 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7379_aspassed/toc_pdf/25082b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-10-30
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28899%2F0007%22
+- bill_id: r7380
+  title: Regulatory Reform Omnibus Bill 2025
+  status: Act
+  type: Government
+  portfolio: Finance
+  originating_house: House of Representatives
+  summary: "Amends: 13 Acts to provide for a \u2018tell us once\u2019 approach to\
+    \ support the sharing and use of information provided to various government agencies,\
+    \ including Services Australia; the A New Tax System (Family Assistance) Act 1999\
+    \ and A New Tax System (Family Assistance) (Administration) Act 1999 to amend\
+    \ the language used for the Additional Child Care Subsidy (child wellbeing) payment;\
+    \ the Health Insurance Act 1973, National Health Act 1953 and Dental Benefits\
+    \ Act 2008 to amend regulatory settings around certain health care services; the\
+    \ Private Health Insurance Act 2007 to remove the risk of unintentional non-compliance\
+    \ by a private health insurer due to a rounding technicality; the Marriage Act\
+    \ 1961 to allow marriage celebrants to accept digital forms of identity verification;\
+    \ the Offshore Petroleum and Greenhouse Gas Storage Act 2006 to enable petroleum\
+    \ and environmental regulators to share certain information; the Australian Communications\
+    \ and Media Authority Act 2005 and Defence Act 1903 to expand certain delegation\
+    \ powers; the National Broadband Network Companies Act 2011 to enable NBN Co mapping\
+    \ data to continue to be made publicly available; the Fuel Security Act 2012,\
+    \ Petroleum and Other Fuels Reporting Act 2017 and Liquid Fuel Emergency Act 1984\
+    \ to enable the Government to respond to potential shortages of critical fuels;\
+    \ the Greenhouse and Energy Minimum Standards Act 2012 to include the consideration\
+    \ of energy performance; and the Social Security Act 1991, Military Rehabilitation\
+    \ and Compensation Act 2004 and Veterans\u2019 Entitlements Act 1986 to: provide\
+    \ for consistency in relation to certain social security benefits; and make minor\
+    \ or technical amendments. Also repeals the Cockatoo and Schnapper Islands Act\
+    \ 1949 and Early Years Quality Fund Special Account Act 2013."
+  introducer_name: Jim Chalmers
+  introducer_party: Labor
+  introducer_id: '10809'
+  introducer_division: Rankin
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7380_aspassed/toc_pdf/25078b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-12-04
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28900%2F0013%22
 - bill_id: r7390
   title: VET Student Loans (Miscellaneous Measures) Bill 2025
   status: Act
@@ -801,6 +843,26 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7437_aspassed/toc_pdf/26018b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-03-13
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29138%2F0009%22
+- bill_id: r7443
+  title: Royal Commissions Legislation Amendment (Protections for Providing Information)
+    Bill 2026
+  status: Act
+  type: Government
+  portfolio: Attorney-General
+  originating_house: House of Representatives
+  summary: 'Amends the: Royal Commissions Act 1902 and Criminal Code Act 1995 to provide
+    additional protections for people who provide intelligence or operationally sensitive
+    information to a Royal Commission on a voluntary or compulsory basis where that
+    information is subject to secrecy provisions; and Royal Commission Regulations
+    2019 to ensure that these protections apply to the Royal Commission on Antisemitism
+    and Social Cohesion.'
+  introducer_name: Michelle Rowland
+  introducer_party: Labor
+  introducer_id: '10751'
+  introducer_division: Greenway
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7443_aspassed/toc_pdf/26023b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-03-13
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29140%2F0073%22
 - bill_id: r7453
   title: Treasury Laws Amendment (The Survivors Law) Bill 2026
   status: Act
@@ -860,6 +922,24 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7457_aspassed/toc_pdf/26037b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-06-30
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29149%2F0030%22
+- bill_id: r7463
+  title: Public and Educational Lending Rights (Better Income for Authors) Consequential
+    Amendments and Transitional Provisions Bill 2026
+  status: Act
+  type: Government
+  portfolio: Arts
+  originating_house: House of Representatives
+  summary: Introduced with the Public and Educational Lending Rights (Better Income
+    for Authors) Bill 2026, the bill repeals the Public Lending Right Act 1985 and
+    makes transitional and consequential provisions to support the implementation
+    of the new public and educational lending rights framework.
+  introducer_name: Tony Burke
+  introducer_party: Labor
+  introducer_id: '10081'
+  introducer_division: Watson
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7463_aspassed/toc_pdf/26041b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-05-20
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29153%2F0036%22
 - bill_id: r7466
   title: Secrecy Provisions Amendment (Sunsetting Provision) Bill 2026
   status: Act
@@ -923,6 +1003,25 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7480_aspassed/toc_pdf/26056b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-06-30
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29156%2F0025%22
+- bill_id: r7481
+  title: Regulatory Reform Omnibus Bill 2026
+  status: Assent
+  type: Government
+  portfolio: Finance
+  originating_house: House of Representatives
+  summary: "Amends 26 Acts to simplify and streamline regulatory and administrative\
+    \ processes for businesses and community organisations, expand the \u2018tell\
+    \ us once\u2019 arrangements to facilitate the sharing and use of information\
+    \ provided to government agencies, and make technical amendments to ensure that\
+    \ legislation is operating as intended. Also repeals the Commonwealth Funds Management\
+    \ Limited Act 1990 and Superannuation Benefits (Supervisory Mechanisms) Act 1990."
+  introducer_name: Daniel Mulino
+  introducer_party: Labor
+  introducer_id: '10925'
+  introducer_division: Fraser
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7481_aspassed/toc_pdf/26058b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-09-18
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29155%2F0023%22
 - bill_id: r7493
   title: Treasury Laws Amendment (Tax Reform No. 1) Bill 2026
   status: Act
@@ -1066,7 +1165,12 @@ passed:
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
-  summary: null
+  summary: Introduced with the News Journalism Payments Bill 2026, News Journalism
+    Payments (Consequential Amendments) Bill 2026, News Media Bargaining (Administration)
+    Bill 2026 and News Media Bargaining Charge Bill 2026, the bill amends the Administrative
+    Decisions (Judicial Review) Act 1977, Income Tax Assessment Act 1997 and Taxation
+    Administration Act 1953 to make consequential amendments to support the operation
+    of the news media bargaining framework.
   introducer_name: Daniel Mulino
   introducer_party: Labor
   introducer_id: '10925'
@@ -1074,6 +1178,25 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7526_aspassed/toc_pdf/26104b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-08-26
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29174%2F0024%22
+- bill_id: r7529
+  title: Wage Justice for Early Childhood Education and Care Workers (Special Account)
+    (Extending Support and Strengthening Safety) Bill 2026
+  status: Assent
+  type: Government
+  portfolio: Education
+  originating_house: House of Representatives
+  summary: 'Amends the Wage Justice for Early Childhood Education and Care Workers
+    (Special Account) Act 2024 to: enable the Wage Justice for Early Childhood Education
+    and Care Workers Special Account to continue funding grants to support the remuneration
+    of workers in the early childhood education and care sector; and extend the operation
+    of the Act from 30 June 2028 to 31 December 2029.'
+  introducer_name: Jason Clare
+  introducer_party: Labor
+  introducer_id: '10123'
+  introducer_division: Blaxland
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7529_aspassed/toc_pdf/26107b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-09-18
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29173%2F0018%22
 - bill_id: s1459
   title: Universities Accord (National Higher Education Code to Prevent and Respond
     to Gender-based Violence) Bill 2025
@@ -1643,7 +1766,15 @@ failed:
   type: Private
   portfolio: null
   originating_house: Senate
-  summary: null
+  summary: 'Amends the: Counter-Terrorism (Temporary Exclusion Orders) Act 2019 to
+    enable the Federal Court of Australia to make a foreign terrorist fighter exclusion
+    order in certain circumstances; Crimes Act 1914 to require bail authorities to
+    treat the protection of the community and national security as paramount considerations
+    when granting bail to persons charged with or convicted of terrorism offences;
+    Australian Passports Act 2005 to enable the Minister to refuse, cancel or suspend
+    an Australian travel document in certain circumstances; and Criminal Code Act
+    1995 to make it an offence to organise or facilitate the entry into Australia
+    of certain persons.'
   introducer_name: Pauline Hanson
   introducer_party: One Nation
   introducer_id: '10280'
