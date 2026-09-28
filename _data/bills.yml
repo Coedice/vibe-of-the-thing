@@ -475,6 +475,24 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7367_aspassed/toc_pdf/25067b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-12-04
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28852%2F0032%22
+- bill_id: r7368
+  title: Private Health Insurance (National Joint Replacement Register Levy) Amendment
+    Bill 2025
+  status: Act
+  type: Government
+  portfolio: Health and Ageing
+  originating_house: House of Representatives
+  summary: Amends the Private Health Insurance (National Joint Replacement Register
+    Levy) Act 2009 to provide that the person responsible for payment of the National
+    Joint Replacement Register levy is the person defined in the Private Health Insurance
+    (Medical Devices and Human Tissue Products) Rules.
+  introducer_name: Rebecca White
+  introducer_party: Labor
+  introducer_id: '11052'
+  introducer_division: Lyons
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7368_aspassed/toc_pdf/25062b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-11-04
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28852%2F0040%22
 - bill_id: r7370
   title: Social Security and Other Legislation Amendment (Technical Changes No. 2)
     Bill 2025
@@ -843,6 +861,25 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7437_aspassed/toc_pdf/26018b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-03-13
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29138%2F0009%22
+- bill_id: r7442
+  title: Parliamentary Frameworks Legislation Amendment (Reviews) Bill 2026
+  status: Act
+  type: Government
+  portfolio: Finance
+  originating_house: House of Representatives
+  summary: 'Amends the: Members of Parliament (Staff) Act 1984, Parliamentary Business
+    Resources Act 2017 and Parliamentary Workplace Support Service Act 2023 to enable
+    the forthcoming statutory reviews of these Acts to be combined; and Parliamentary
+    Business Resources Act 2017 and Parliamentary Workplace Support Service Act 2023
+    to align the frequency of the future periodic reviews of these Acts to allow them
+    to be combined or conducted separately.'
+  introducer_name: Patrick Gorman
+  introducer_party: Labor
+  introducer_id: '10911'
+  introducer_division: Perth
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7442_aspassed/toc_pdf/26022b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-03-13
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29142%2F0009%22
 - bill_id: r7443
   title: Royal Commissions Legislation Amendment (Protections for Providing Information)
     Bill 2026
@@ -940,6 +977,23 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7463_aspassed/toc_pdf/26041b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-05-20
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29153%2F0036%22
+- bill_id: r7465
+  title: Public and Educational Lending Rights (Better Income for Authors) Bill 2026
+  status: Act
+  type: Government
+  portfolio: Arts
+  originating_house: House of Representatives
+  summary: Introduced with the Public and Educational Lending Rights (Better Income
+    for Authors) Consequential Amendments and Transitional Provisions Bill 2026, the
+    bill establishes a framework for public and educational lending rights to replace
+    the existing Public Lending Right Scheme and the Educational Lending Right Scheme.
+  introducer_name: Tony Burke
+  introducer_party: Labor
+  introducer_id: '10081'
+  introducer_division: Watson
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7465_aspassed/toc_pdf/26042b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-05-20
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29153%2F0032%22
 - bill_id: r7466
   title: Secrecy Provisions Amendment (Sunsetting Provision) Bill 2026
   status: Act
@@ -1161,7 +1215,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29170%2F0036%22
 - bill_id: r7526
   title: Treasury Laws Amendment (News Media Bargaining) (Consequential) Bill 2026
-  status: Assent
+  status: Act
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
