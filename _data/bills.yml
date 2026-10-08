@@ -53,8 +53,7 @@ pending:
   last_updated: 2026-09-14
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28890%2F0014%22
 - bill_id: r7451
-  title: Telecommunications Legislation Amendment (Strengthening Communications in
-    Natural Disasters) Bill 2026
+  title: Result
   status: Before Reps
   type: Private
   portfolio: null
@@ -441,10 +440,10 @@ passed:
     access to stored communications to enable agencies to undertake development and
     testing activities; and make a technical correction; and Crimes Act 1914 to clarify
     the threshold for authorising and varying controlled operations.'
-  introducer_name: Tony Burke
+  introducer_name: Josh Wilson
   introducer_party: Labor
-  introducer_id: '10081'
-  introducer_division: Watson
+  introducer_id: '10893'
+  introducer_division: Fremantle
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7360_aspassed/toc_pdf/25060b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-04
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28836%2F0015%22
@@ -545,10 +544,10 @@ passed:
     \ 2025, the bill imposes a superannuation guarantee charge on any superannuation\
     \ guarantee shortfall of an employer for a qualifying earnings day (the employee\u2019\
     s payday)."
-  introducer_name: Jim Chalmers
+  introducer_name: Amanda Rishworth
   introducer_party: Labor
-  introducer_id: '10809'
-  introducer_division: Rankin
+  introducer_id: '10543'
+  introducer_division: Kingston
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7374_aspassed/toc_pdf/25074b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-06
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28901%2F0013%22
@@ -1154,10 +1153,10 @@ passed:
     further temporary reductions in the excise duty rates and excise-equivalent customs
     duty rates by 30.4 per cent of the full rate for fuels, including petrol and diesel
     and similar petroleum-based products.
-  introducer_name: Tim Wilson
-  introducer_party: Liberal
-  introducer_id: '10894'
-  introducer_division: Goldstein
+  introducer_name: Catherine King
+  introducer_party: Labor
+  introducer_id: '10368'
+  introducer_division: Ballarat
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7503_aspassed/toc_pdf/26084b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-06-30
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29165%2F0011%22
@@ -1214,7 +1213,7 @@ passed:
   last_updated: 2026-09-15
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29170%2F0036%22
 - bill_id: r7526
-  title: Treasury Laws Amendment (News Media Bargaining) (Consequential) Bill 2026
+  title: Result
   status: Act
   type: Government
   portfolio: Treasury
