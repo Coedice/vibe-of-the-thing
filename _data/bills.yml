@@ -53,7 +53,8 @@ pending:
   last_updated: 2026-09-14
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28890%2F0014%22
 - bill_id: r7451
-  title: Result
+  title: Telecommunications Legislation Amendment (Strengthening Communications in
+    Natural Disasters) Bill 2026
   status: Before Reps
   type: Private
   portfolio: null
@@ -159,7 +160,9 @@ pending:
   type: Government
   portfolio: Education
   originating_house: House of Representatives
-  summary: null
+  summary: Introduced with the National Student Ombudsman Levy Bill 2026, the bill
+    amends the Tertiary Education Quality and Standards Agency Act 2011 to provide
+    for the collection and administration of the national student ombudsman levy.
   introducer_name: Jason Clare
   introducer_party: Labor
   introducer_id: '10123'
@@ -175,7 +178,15 @@ pending:
   portfolio: Infrastructure, Transport, Regional Development, Communications, Sport
     and the Arts
   originating_house: House of Representatives
-  summary: null
+  summary: "Aligns Australia\u2019s anti-doping legislation with the revised World\
+    \ Anti-Doping Code and International Standards commencing on 1 January 2027 by\
+    \ amending the: National Sport Tribunal Act 2019 and Sport Integrity Australia\
+    \ Act 2020 to enable athletes to seek review by the National Sports Tribunal of\
+    \ decisions by the Australian Sports Drug Medical Advisory Committee to deny a\
+    \ Therapeutic Use Exemption; and Sport Integrity Australia Act 2020 to: alter\
+    \ the process by which mandatory and voluntary provisional suspensions and sanctions\
+    \ are implemented; provide an additional exception to the mandatory publication\
+    \ of information on the Violations List; and make minor and consequential amendments."
   introducer_name: Anika Wells
   introducer_party: Labor
   introducer_id: '10931'
@@ -222,7 +233,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1442_first-senate/toc_pdf/25S0120.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0195%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0196%22
 - bill_id: s1443
   title: Tertiary Education Legislation Amendment (There For Education, Not Profit)
     Bill 2025
@@ -240,7 +251,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1443_first-senate/toc_pdf/25S0320.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0208%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0209%22
 - bill_id: s1481
   title: Unlocking Supply of Family Homes Bill 2025
   status: Before Senate
@@ -342,7 +353,9 @@ pending:
   type: Private
   portfolio: null
   originating_house: Senate
-  summary: null
+  summary: Amends the Income Tax Assessment Act 1997 and Income Tax (Transitional
+    Provisions) Act 1997 to provide a tax offset for companies for certain expenditure
+    incurred in undertaking food donations activities for registered food charities.
   introducer_name: Dean Smith
   introducer_party: Liberal
   introducer_id: '10768'
@@ -440,10 +453,10 @@ passed:
     access to stored communications to enable agencies to undertake development and
     testing activities; and make a technical correction; and Crimes Act 1914 to clarify
     the threshold for authorising and varying controlled operations.'
-  introducer_name: Josh Wilson
+  introducer_name: Tony Burke
   introducer_party: Labor
-  introducer_id: '10893'
-  introducer_division: Fremantle
+  introducer_id: '10081'
+  introducer_division: Watson
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7360_aspassed/toc_pdf/25060b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-04
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28836%2F0015%22
@@ -544,10 +557,10 @@ passed:
     \ 2025, the bill imposes a superannuation guarantee charge on any superannuation\
     \ guarantee shortfall of an employer for a qualifying earnings day (the employee\u2019\
     s payday)."
-  introducer_name: Amanda Rishworth
+  introducer_name: Jim Chalmers
   introducer_party: Labor
-  introducer_id: '10543'
-  introducer_division: Kingston
+  introducer_id: '10809'
+  introducer_division: Rankin
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7374_aspassed/toc_pdf/25074b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-06
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28901%2F0013%22
@@ -1153,10 +1166,10 @@ passed:
     further temporary reductions in the excise duty rates and excise-equivalent customs
     duty rates by 30.4 per cent of the full rate for fuels, including petrol and diesel
     and similar petroleum-based products.
-  introducer_name: Catherine King
-  introducer_party: Labor
-  introducer_id: '10368'
-  introducer_division: Ballarat
+  introducer_name: Tim Wilson
+  introducer_party: Liberal
+  introducer_id: '10894'
+  introducer_division: Goldstein
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7503_aspassed/toc_pdf/26084b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-06-30
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29165%2F0011%22
@@ -1213,7 +1226,7 @@ passed:
   last_updated: 2026-09-15
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29170%2F0036%22
 - bill_id: r7526
-  title: Result
+  title: Treasury Laws Amendment (News Media Bargaining) (Consequential) Bill 2026
   status: Act
   type: Government
   portfolio: Treasury
