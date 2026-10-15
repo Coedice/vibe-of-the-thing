@@ -13,45 +13,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7332_first-reps/toc_pdf/25027b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-22
   second_reading_hansard_url: null
-- bill_id: r7358
-  title: Telecommunications Amendment (Enhancing Consumer Safeguards) Bill 2025
-  status: Before Senate
-  type: Government
-  portfolio: Infrastructure, Transport, Regional Development, Communications, Sport
-    and the Arts
-  originating_house: House of Representatives
-  summary: 'Amends the Telecommunications Act 1997 to: establish a carriage service
-    provider registration scheme; make industry codes directly enforceable by the
-    Australian Communications and Media Authority; and amend existing arrangements
-    relating to the application of penalty amounts for infringement notices and civil
-    penalties.'
-  introducer_name: Anika Wells
-  introducer_party: Labor
-  introducer_id: '10931'
-  introducer_division: Lilley
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7358_first-reps/toc_pdf/25057b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-06-22
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28839%2F0005%22
-- bill_id: r7414
-  title: Telecommunications Legislation Amendment (Universal Outdoor Mobile Obligation)
-    Bill 2026
-  status: Before Senate
-  type: Government
-  portfolio: Infrastructure, Transport, Regional Development, Communications, Sport
-    and the Arts
-  originating_house: House of Representatives
-  summary: 'Amends the: Telecommunications (Consumer Protection and Service Standards)
-    Act 1999 to establish a regulatory framework for a Universal Outdoor Mobile Obligation
-    to ensure that baseline mobile coverage is reasonably available outdoors to all
-    people in Australia on an equitable basis; and Competition and Consumer Act 2010
-    and Telecommunications Act 1997 to make consequential amendments.'
-  introducer_name: Anika Wells
-  introducer_party: Labor
-  introducer_id: '10931'
-  introducer_division: Lilley
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7414_third-reps/toc_pdf/25111b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-09-14
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28890%2F0014%22
 - bill_id: r7451
   title: Telecommunications Legislation Amendment (Strengthening Communications in
     Natural Disasters) Bill 2026
@@ -176,7 +137,7 @@ pending:
 - bill_id: r7515
   title: Social Security and Other Legislation Amendment (Technical Changes No. 2)
     Bill 2026
-  status: Before Senate
+  status: Before Reps
   type: Government
   portfolio: Social Services
   originating_house: House of Representatives
@@ -204,49 +165,8 @@ pending:
   introducer_id: '10513'
   introducer_division: Sydney
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7515_third-reps/toc_pdf/26094b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-10-12
+  last_updated: 2026-10-15
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29170%2F0032%22
-- bill_id: r7542
-  title: Tertiary Education Quality and Standards Agency Amendment (National Student
-    Ombudsman Levy) Bill 2026
-  status: Before Senate
-  type: Government
-  portfolio: Education
-  originating_house: House of Representatives
-  summary: Introduced with the National Student Ombudsman Levy Bill 2026, the bill
-    amends the Tertiary Education Quality and Standards Agency Act 2011 to provide
-    for the collection and administration of the national student ombudsman levy.
-  introducer_name: Jason Clare
-  introducer_party: Labor
-  introducer_id: '10123'
-  introducer_division: Blaxland
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7542_first-reps/toc_pdf/26121b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-09-16
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29182%2F0015%22
-- bill_id: r7548
-  title: Sport Legislation Amendment (World Anti-Doping Code Implementation) Bill
-    2026
-  status: Before Reps
-  type: Government
-  portfolio: Infrastructure, Transport, Regional Development, Communications, Sport
-    and the Arts
-  originating_house: House of Representatives
-  summary: "Aligns Australia\u2019s anti-doping legislation with the revised World\
-    \ Anti-Doping Code and International Standards commencing on 1 January 2027 by\
-    \ amending the: National Sport Tribunal Act 2019 and Sport Integrity Australia\
-    \ Act 2020 to enable athletes to seek review by the National Sports Tribunal of\
-    \ decisions by the Australian Sports Drug Medical Advisory Committee to deny a\
-    \ Therapeutic Use Exemption; and Sport Integrity Australia Act 2020 to: alter\
-    \ the process by which mandatory and voluntary provisional suspensions and sanctions\
-    \ are implemented; provide an additional exception to the mandatory publication\
-    \ of information on the Violations List; and make minor and consequential amendments."
-  introducer_name: Anika Wells
-  introducer_party: Labor
-  introducer_id: '10931'
-  introducer_division: Lilley
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7548_first-reps/toc_pdf/26127b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-10-14
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29186%2F0015%22
 - bill_id: r7551
   title: Sex Discrimination and Fair Work Amendment (Equality in Treatment in Religious
     Schools) Bill 2026
@@ -334,20 +254,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1443_first-senate/toc_pdf/25S0320.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0209%22
-- bill_id: s1449
-  title: Right to Protest Bill 2025
-  status: Before Senate
-  type: Private
-  portfolio: null
-  originating_house: Senate
-  summary: Recognises the right to engage in peaceful protest in a public place.
-  introducer_name: David Shoebridge
-  introducer_party: Greens
-  introducer_id: '11010'
-  introducer_division: NSW
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1449_first-senate/toc_pdf/25S0920.pdf;fileType=application%2Fpdf
-  last_updated: 2025-08-27
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28695%2F0077%22
 - bill_id: s1466
   title: Social Security and Other Legislation Amendment (Responding to Robodebt)
     Bill 2025 [No. 2]
@@ -366,20 +272,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1466_first-senate/toc_pdf/25S1920.pdf;fileType=application%2Fpdf
   last_updated: 2025-08-26
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28834%2F0128%22
-- bill_id: s1469
-  title: Repeal Net Zero Bill 2025 [No. 2]
-  status: Before Senate
-  type: Private
-  portfolio: null
-  originating_house: Senate
-  summary: null
-  introducer_name: Matthew Canavan
-  introducer_party: Liberal National Party
-  introducer_id: '10827'
-  introducer_division: Queensland
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1469_first-senate/toc_pdf/25S2220.pdf;fileType=application%2Fpdf
-  last_updated: 2025-09-04
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28853%2F0096%22
 - bill_id: s1480
   title: Social Media Minimum Age Repeal Bill 2025
   status: Before Senate
@@ -537,6 +429,21 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1521_first-senate/toc_pdf/26S3820.pdf;fileType=application%2Fpdf
   last_updated: 2026-10-14
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29246%2F0165%22
+- bill_id: s1524
+  title: Water Amendment (Ending Further Murray-Darling Basin Water Buybacks) Bill
+    2026
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: null
+  introducer_name: Matthew Canavan
+  introducer_party: Liberal National Party
+  introducer_id: '10827'
+  introducer_division: Queensland
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1524_first-senate/toc_pdf/26S3920.pdf;fileType=application%2Fpdf
+  last_updated: 2026-10-15
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29247%2F0072%22
 passed:
 - bill_id: r7342
   title: Universities Accord (Cutting Student Debt by 20 Per Cent) Bill 2025
