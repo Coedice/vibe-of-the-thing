@@ -235,7 +235,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1442_first-senate/toc_pdf/25S0120.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0195%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0196%22
 - bill_id: s1443
   title: Tertiary Education Legislation Amendment (There For Education, Not Profit)
     Bill 2025
@@ -445,6 +445,23 @@ pending:
   last_updated: 2026-10-15
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29247%2F0072%22
 passed:
+- bill_id: r7341
+  title: Pacific Banking Guarantee Bill 2025
+  status: Act
+  type: Government
+  portfolio: Treasury
+  originating_house: House of Representatives
+  summary: Appropriates money out of the Consolidated Revenue Fund for the purpose
+    of meeting any liabilities that the Commonwealth may incur under a Pacific banking
+    guarantee entered into with an Australian-headquartered authorised deposit-taking
+    institution operating in the Pacific region.
+  introducer_name: Daniel Mulino
+  introducer_party: Labor
+  introducer_id: '10925'
+  introducer_division: Fraser
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7341_aspassed/toc_pdf/25038b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-09-05
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28811%2F0040%22
 - bill_id: r7342
   title: Universities Accord (Cutting Student Debt by 20 Per Cent) Bill 2025
   status: Act
@@ -1216,6 +1233,32 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7494_aspassed/toc_pdf/26073b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-07-06
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29162%2F0009%22
+- bill_id: r7501
+  title: Universities Accord (Opening the Doors of Opportunity) Bill 2026
+  status: Assent
+  type: Government
+  portfolio: Education
+  originating_house: House of Representatives
+  summary: 'Amends the: Higher Education Support Act 2003 to change the basis of higher
+    education funding to a managed growth funding system based on a total number of
+    equivalent full-time student load places; and provide for needs-based funding
+    grants to higher education providers in relation to specific types of Commonwealth
+    supported students, including students from low socioeconomic backgrounds, First
+    Nations students and students studying at regional campuses; Universities Accord
+    (Australian Tertiary Education Commission) Act 2026 to: make consequential amendments;
+    provide a framework for the Australian Tertiary Education Commission (ATEC) to
+    exercise its existing function to allocate international student places; and require
+    the ATEC to assess a higher education provider against the terms of their mission
+    based compact; and Education Services for Overseas Students Act 2000, Ombudsman
+    Act 1976 and Tertiary Education Quality and Standards Agency Act 2011 to make
+    minor amendments in relation to information management.'
+  introducer_name: Jason Clare
+  introducer_party: Labor
+  introducer_id: '10123'
+  introducer_division: Blaxland
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7501_aspassed/toc_pdf/26082b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-10-16
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29167%2F0017%22
 - bill_id: r7502
   title: Treasury Laws Amendment (Tax Reform No. 2) Bill 2026
   status: Act
@@ -1254,6 +1297,24 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7503_aspassed/toc_pdf/26084b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-06-30
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29165%2F0011%22
+- bill_id: r7512
+  title: Online Safety Amendment (Strengthening Enforcement for the Social Media Minimum
+    Age) Bill 2026
+  status: Act
+  type: Government
+  portfolio: Infrastructure, Transport, Regional Development, Communications, Sport
+    and the Arts
+  originating_house: House of Representatives
+  summary: "Amends the Online Safety Act 2021 in relation to the operation of the\
+    \ social media minimum age framework by expanding the eSafety Commissioner\u2019\
+    s information-gathering powers and increasing civil penalties for non-compliance."
+  introducer_name: Anika Wells
+  introducer_party: Labor
+  introducer_id: '10931'
+  introducer_division: Lilley
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7512_aspassed/toc_pdf/26090b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-09-11
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29168%2F0164%22
 - bill_id: r7514
   title: Treasury Laws Amendment (Strengthening Accountability for Tax Adviser Misconduct
     and Other Measures) Bill 2026
