@@ -66155,3 +66155,43 @@ reports:
   slug: jcrc
   title: Untitled
   recommendations: []
+- think_tank: Lowy Institute
+  source_url: https://cdn.sanity.io/files/5dcouzig/production/f79ce171b5bbf11ae0db4adeefc1e4f7a6b0313d.pdf
+  slug: lowy
+  title: Untitled
+  recommendations: []
+- think_tank: COTA Australia
+  source_url: https://cota.org.au/wp-content/uploads/2026/10/COTA-MR-1026-Aged-Care-Assessment-Review-Oct-16.pdf
+  slug: cota
+  title: Untitled
+  recommendations: []
+- think_tank: COTA Australia
+  source_url: https://cota.org.au/wp-content/uploads/2026/10/COTA-MR-1026-PHI-bill-rejection-FINAL.pdf
+  slug: cota
+  title: Untitled
+  recommendations: []
+- think_tank: Business Council of Co-operatives and Mutuals
+  source_url: https://bccm.coop/wp-content/uploads/2026/10/2026-BCCM-Leaders-Summit-program_FIN.pdf
+  slug: bccm
+  title: Untitled
+  recommendations: []
+- think_tank: People with Disability Australia
+  source_url: https://pwd.org.au/wp-content/uploads/2026/10/Advancing-Women-Final-Report.pdf
+  slug: pwd
+  title: Untitled
+  recommendations: []
+- think_tank: Universities Australia
+  source_url: https://universitiesaustralia.edu.au/wp-content/uploads/2026/10/20261012-UA-submission-Draft-SRE-Adopting-a-definition-of-Islamophobia.pdf
+  slug: universities-australia
+  title: Untitled
+  recommendations: []
+- think_tank: Universities Australia
+  source_url: https://universitiesaustralia.edu.au/wp-content/uploads/2026/10/20261016-Correspondence-from-CEO-of-Universities-Australia-to-CEO-of-TEQSA.pdf
+  slug: universities-australia
+  title: Untitled
+  recommendations: []
+- think_tank: Climate Council
+  source_url: https://www.climatecouncil.org.au/wp-content/uploads/2026/10/CC_MVSA0458-CC-Guide-Shifting-the-Suburbs_V6-FA-Screen-Single-1.pdf
+  slug: climate-council
+  title: Untitled
+  recommendations: []
