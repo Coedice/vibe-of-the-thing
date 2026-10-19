@@ -1,7 +1,7 @@
 """Scrapes data from aph.gov.au for current bills and outputs to YAML."""
 
 import os
-from typing import List
+from typing import List, Optional
 
 import requests
 from Bill import Bill
@@ -33,8 +33,13 @@ BILLS_YAML_FILE = "_data/bills.yml"
 BILLS_YAML_FILE_TMP = "_data/bills.yml.tmp"
 
 
-def get_bill_ids(section_name: str, bills_url: str, ids: List[str] = []) -> List[str]:
+def get_bill_ids(
+    section_name: str, bills_url: str, ids: Optional[List[str]] = None
+) -> List[str]:
     """Get bill IDs from bills URL."""
+
+    if ids is None:
+        ids = []
 
     # Get HTML from pending bills and parse it
     response = requests.get(
@@ -64,7 +69,7 @@ def get_bill_ids(section_name: str, bills_url: str, ids: List[str] = []) -> List
         return get_bill_ids(section_name, next_url, ids=ids + bill_ids)
 
     # Remove any duplicates and sort
-    bill_ids = sorted(list(set(bill_ids)))
+    bill_ids = sorted(set(ids + bill_ids))
 
     return bill_ids
 
