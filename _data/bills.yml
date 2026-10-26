@@ -1216,7 +1216,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1443_first-senate/toc_pdf/25S0320.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0209%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0208%22
 - bill_id: s1444
   title: Remuneration Tribunal Amendment (There For Public Service, Not Profit) Bill
     2025
@@ -1234,7 +1234,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1444_first-senate/toc_pdf/25S0220.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0209%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0208%22
 - bill_id: s1445
   title: Great Australian Bight (World Heritage Protection) Bill 2025
   status: Before Senate
@@ -2079,7 +2079,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1518_first-senate/toc_pdf/26S3120.pdf;fileType=application%2Fpdf
   last_updated: 2026-09-17
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0132%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0133%22
 - bill_id: s1519
   title: Wearable Recording Devices (Import Control) Bill 2026
   status: Before Senate
@@ -2560,6 +2560,25 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7354_aspassed/toc_pdf/25046b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-10-29
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28849%2F0170%22
+- bill_id: r7358
+  title: Telecommunications Amendment (Enhancing Consumer Safeguards) Bill 2025
+  status: Assent
+  type: Government
+  portfolio: Infrastructure, Transport, Regional Development, Communications, Sport
+    and the Arts
+  originating_house: House of Representatives
+  summary: 'Amends the Telecommunications Act 1997 to: establish a carriage service
+    provider registration scheme; make industry codes directly enforceable by the
+    Australian Communications and Media Authority; and amend existing arrangements
+    relating to the application of penalty amounts for infringement notices and civil
+    penalties.'
+  introducer_name: Anika Wells
+  introducer_party: Labor
+  introducer_id: '10931'
+  introducer_division: Lilley
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7358_aspassed/toc_pdf/25057b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-10-26
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28839%2F0005%22
 - bill_id: r7360
   title: Telecommunications and Other Legislation Amendment Bill 2025
   status: Act
@@ -3421,6 +3440,26 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7413_aspassed/toc_pdf/25112b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-07-06
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0027%22
+- bill_id: r7414
+  title: Telecommunications Legislation Amendment (Universal Outdoor Mobile Obligation)
+    Bill 2026
+  status: Assent
+  type: Government
+  portfolio: Infrastructure, Transport, Regional Development, Communications, Sport
+    and the Arts
+  originating_house: House of Representatives
+  summary: 'Amends the: Telecommunications (Consumer Protection and Service Standards)
+    Act 1999 to establish a regulatory framework for a Universal Outdoor Mobile Obligation
+    to ensure that baseline mobile coverage is reasonably available outdoors to all
+    people in Australia on an equitable basis; and Competition and Consumer Act 2010
+    and Telecommunications Act 1997 to make consequential amendments.'
+  introducer_name: Anika Wells
+  introducer_party: Labor
+  introducer_id: '10931'
+  introducer_division: Lilley
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7414_aspassed/toc_pdf/25111b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-10-26
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28890%2F0014%22
 - bill_id: r7415
   title: Translating and Interpreting Services Bill 2025
   status: Act
@@ -4709,6 +4748,26 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7514_aspassed/toc_pdf/26093b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-09-15
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29171%2F0060%22
+- bill_id: r7517
+  title: Aged Care Legislation Amendment (Aboriginal and Torres Strait Islander Aged
+    Care Commissioner and Other Measures) Bill 2026
+  status: Assent
+  type: Government
+  portfolio: Health, Disability and Ageing
+  originating_house: House of Representatives
+  summary: 'Amends the: Aged Care Act 2024 to establish the statutory office of the
+    Aboriginal and Torres Strait Islander Aged Care Commissioner within the Aged Care
+    Quality and Safety Commission; and Aged Care Act 2024 and Aged Care Rules 2025
+    to make miscellaneous, technical and consequential amendments to the aged care
+    framework. Also repeals the Aged Care (Consequential and Transitional Provisions)
+    (Aged Care System Modification) Rules 2025.'
+  introducer_name: Sam Rae
+  introducer_party: Labor
+  introducer_id: '10982'
+  introducer_division: Hawke
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7517_aspassed/toc_pdf/26101b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-10-26
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29170%2F0044%22
 - bill_id: r7518
   title: Biosecurity Amendment (Improving Operational Efficiency) Bill 2026
   status: Act
@@ -4965,6 +5024,88 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7539_aspassed/toc_pdf/26115b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-09-18
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29182%2F0019%22
+- bill_id: r7540
+  title: Customs and Other Legislation Amendment (Illicit Tobacco Enforcement Modernisation
+    and Other Measures) Bill 2026
+  status: Assent
+  type: Government
+  portfolio: Home Affairs
+  originating_house: House of Representatives
+  summary: 'Amends the: Customs Act 1901 to: create new offences for importing, possessing
+    or conveying illicit tobacco products; enable unlawfully imported tobacco to be
+    prescribed as a tier 1 good; extend customs control to tobacco for which duty
+    has been refunded; amend seizure, forfeiture, notice and disposal processes for
+    illicit tobacco and other goods; and amend the customs licensing regime by imposing
+    new licence conditions and expanding the role of the National Customs Licensing
+    Advisory Committee; and Proceeds of Crime Act 2002 to: amend the framework for
+    the making of productions orders; clarify the operation of the pecuniary penalty
+    order framework; and clarify the calculation of total wealth when determining
+    unexplained wealth amounts in proceeds of crime proceedings.'
+  introducer_name: Julian Hill
+  introducer_party: Labor
+  introducer_id: '10885'
+  introducer_division: Bruce
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7540_aspassed/toc_pdf/26116b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-10-26
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29182%2F0023%22
+- bill_id: r7541
+  title: National Student Ombudsman Levy Bill 2026
+  status: Assent
+  type: Government
+  portfolio: Education
+  originating_house: House of Representatives
+  summary: Introduced with the Tertiary Education Quality and Standards Agency Amendment
+    (National Student Ombudsman Levy) Bill 2026, the bill imposes a levy on higher
+    education providers to recover the costs of administering the National Student
+    Ombudsman.
+  introducer_name: Jason Clare
+  introducer_party: Labor
+  introducer_id: '10123'
+  introducer_division: Blaxland
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7541_aspassed/toc_pdf/26120b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-10-26
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29182%2F0011%22
+- bill_id: r7542
+  title: Tertiary Education Quality and Standards Agency Amendment (National Student
+    Ombudsman Levy) Bill 2026
+  status: Assent
+  type: Government
+  portfolio: Education
+  originating_house: House of Representatives
+  summary: Introduced with the National Student Ombudsman Levy Bill 2026, the bill
+    amends the Tertiary Education Quality and Standards Agency Act 2011 to provide
+    for the collection and administration of the national student ombudsman levy.
+  introducer_name: Jason Clare
+  introducer_party: Labor
+  introducer_id: '10123'
+  introducer_division: Blaxland
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7542_aspassed/toc_pdf/26121b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-10-26
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29182%2F0015%22
+- bill_id: r7548
+  title: Sport Legislation Amendment (World Anti-Doping Code Implementation) Bill
+    2026
+  status: Assent
+  type: Government
+  portfolio: Infrastructure, Transport, Regional Development, Communications, Sport
+    and the Arts
+  originating_house: House of Representatives
+  summary: "Aligns Australia\u2019s anti-doping legislation with the revised World\
+    \ Anti-Doping Code and International Standards commencing on 1 January 2027 by\
+    \ amending the: National Sport Tribunal Act 2019 and Sport Integrity Australia\
+    \ Act 2020 to enable athletes to seek review by the National Sports Tribunal of\
+    \ decisions by the Australian Sports Drug Medical Advisory Committee to deny a\
+    \ Therapeutic Use Exemption; and Sport Integrity Australia Act 2020 to: alter\
+    \ the process by which mandatory and voluntary provisional suspensions and sanctions\
+    \ are implemented; provide an additional exception to the mandatory publication\
+    \ of information on the Violations List; and make minor and consequential amendments."
+  introducer_name: Anika Wells
+  introducer_party: Labor
+  introducer_id: '10931'
+  introducer_division: Lilley
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7548_aspassed/toc_pdf/26127b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-10-26
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29186%2F0015%22
 - bill_id: r7552
   title: Autonomous Sanctions Amendment (Iran and Syria) Bill 2026
   status: Act
