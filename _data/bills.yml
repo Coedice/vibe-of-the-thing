@@ -92,39 +92,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7455_first-reps/toc_pdf/26035b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-03-25
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29149%2F0038%22
-- bill_id: r7459
-  title: Interactive Gambling Amendment (Stop the Gambling Ads) Bill 2026
-  status: Before Reps
-  type: Private
-  portfolio: null
-  originating_house: House of Representatives
-  summary: Amends the Interactive Gambling Act 2001 to prohibit the advertising of
-    licensed interactive wagering services in Australia, subject to limited exceptions
-    and phased implementation arrangements.
-  introducer_name: Kate Chaney
-  introducer_party: Independent
-  introducer_id: '10974'
-  introducer_division: Curtin
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7459_first-reps/toc_pdf/26047b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-03-30
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29151%2F0046%22
-- bill_id: r7460
-  title: Australian Citizenship Amendment (Stripping Terrorists of Australian Citizenship)
-    Bill 2026
-  status: Before Reps
-  type: Private
-  portfolio: null
-  originating_house: House of Representatives
-  summary: "Amends the Australian Citizenship Act 2007 to provide for a court to order\
-    \ the cessation of a person\u2019s Australian citizenship where the person holds\
-    \ two or more citizenships and is convicted of a terrorism offence."
-  introducer_name: Barnaby Joyce
-  introducer_party: One Nation
-  introducer_id: '10350'
-  introducer_division: New England
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7460_first-reps/toc_pdf/26048b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-03-30
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29151%2F0051%22
 - bill_id: r7467
   title: Secrecy Provisions Amendment (Repealing Offences) Bill 2026
   status: Before Senate
@@ -790,7 +757,7 @@ pending:
   introducer_id: '10931'
   introducer_division: Lilley
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7553_first-reps/toc_pdf/26131b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-10-15
+  last_updated: 2026-10-27
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29190%2F0019%22
 - bill_id: r7554
   title: Treasury Laws Amendment (Tax Reform No. 3) Bill 2026
@@ -832,7 +799,7 @@ pending:
   introducer_id: '10884'
   introducer_division: Brand
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7559_first-reps/toc_pdf/26136b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-10-14
+  last_updated: 2026-10-27
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29189%2F0009%22
 - bill_id: r7560
   title: Domestic Gas Reservation Levy Bill 2026
@@ -846,7 +813,7 @@ pending:
   introducer_id: '10884'
   introducer_division: Brand
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7560_first-reps/toc_pdf/26137b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-10-14
+  last_updated: 2026-10-27
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29189%2F0017%22
 - bill_id: r7561
   title: Domestic Gas Reservation (Consequential Amendments) Bill 2026
@@ -860,7 +827,7 @@ pending:
   introducer_id: '10884'
   introducer_division: Brand
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7561_first-reps/toc_pdf/26135b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-10-14
+  last_updated: 2026-10-27
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29189%2F0013%22
 - bill_id: r7564
   title: Private Health Insurance Amendment (Modernising the Private Health Insurance
@@ -877,6 +844,35 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7564_first-reps/toc_pdf/26138b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-10-15
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29190%2F0023%22
+- bill_id: r7566
+  title: Treasury Laws Amendment (Tax Reform No. 4) Bill 2026
+  status: Before Reps
+  type: Government
+  portfolio: Treasury
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Jim Chalmers
+  introducer_party: Labor
+  introducer_id: '10809'
+  introducer_division: Rankin
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7566_first-reps/toc_pdf/26140b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-10-27
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29192%2F0023%22
+- bill_id: r7568
+  title: Defence Legislation Amendment (Accelerating Capability and Protecting Bases)
+    Bill 2026
+  status: Before Reps
+  type: Government
+  portfolio: Defence
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Peter Khalil
+  introducer_party: Labor
+  introducer_id: '10887'
+  introducer_division: Wills
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7568_first-reps/toc_pdf/26146b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-10-27
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29192%2F0027%22
 - bill_id: s1138
   title: Plebiscite (Future Migration Level) Bill 2018
   status: Before Senate
@@ -1198,7 +1194,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1442_first-senate/toc_pdf/25S0120.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0195%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0196%22
 - bill_id: s1443
   title: Tertiary Education Legislation Amendment (There For Education, Not Profit)
     Bill 2025
@@ -5630,6 +5626,39 @@ failed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7450_first-reps/toc_pdf/26030b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-10-13
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29147%2F0240%22
+- bill_id: r7459
+  title: Interactive Gambling Amendment (Stop the Gambling Ads) Bill 2026
+  status: Not Proceeding
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: Amends the Interactive Gambling Act 2001 to prohibit the advertising of
+    licensed interactive wagering services in Australia, subject to limited exceptions
+    and phased implementation arrangements.
+  introducer_name: Kate Chaney
+  introducer_party: Independent
+  introducer_id: '10974'
+  introducer_division: Curtin
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7459_first-reps/toc_pdf/26047b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-10-27
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29151%2F0046%22
+- bill_id: r7460
+  title: Australian Citizenship Amendment (Stripping Terrorists of Australian Citizenship)
+    Bill 2026
+  status: Not Proceeding
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: "Amends the Australian Citizenship Act 2007 to provide for a court to order\
+    \ the cessation of a person\u2019s Australian citizenship where the person holds\
+    \ two or more citizenships and is convicted of a terrorism offence."
+  introducer_name: Barnaby Joyce
+  introducer_party: One Nation
+  introducer_id: '10350'
+  introducer_division: New England
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7460_first-reps/toc_pdf/26048b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-10-27
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29151%2F0051%22
 - bill_id: r7497
   title: Private Health Insurance Amendment (Modernising the Private Health Insurance
     Rebate) Bill 2026
