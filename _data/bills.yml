@@ -72,7 +72,7 @@ pending:
   introducer_id: '10885'
   introducer_division: Bruce
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7454_first-reps/toc_pdf/26034b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-03-25
+  last_updated: 2026-10-28
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29149%2F0034%22
 - bill_id: r7455
   title: Australian Criminal Intelligence Commission (National Policing Information
@@ -90,7 +90,7 @@ pending:
   introducer_id: '10885'
   introducer_division: Bruce
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7455_first-reps/toc_pdf/26035b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-03-25
+  last_updated: 2026-10-28
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29149%2F0038%22
 - bill_id: r7467
   title: Secrecy Provisions Amendment (Repealing Offences) Bill 2026
@@ -757,7 +757,7 @@ pending:
   introducer_id: '10931'
   introducer_division: Lilley
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7553_first-reps/toc_pdf/26131b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-10-27
+  last_updated: 2026-10-28
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29190%2F0019%22
 - bill_id: r7554
   title: Treasury Laws Amendment (Tax Reform No. 3) Bill 2026
@@ -771,7 +771,7 @@ pending:
   introducer_id: '10809'
   introducer_division: Rankin
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7554_first-reps/toc_pdf/26132b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-10-14
+  last_updated: 2026-10-28
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29189%2F0021%22
 - bill_id: r7555
   title: Income Tax Rates Amendment (Minimum Tax on Discretionary Trusts) Bill 2026
@@ -785,8 +785,22 @@ pending:
   introducer_id: '10809'
   introducer_division: Rankin
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7555_first-reps/toc_pdf/26134b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-10-14
+  last_updated: 2026-10-28
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29189%2F0025%22
+- bill_id: r7556
+  title: Competition and Consumer Amendment (AER Inquiry Powers) Bill 2026
+  status: Before Reps
+  type: Government
+  portfolio: Climate Change, Energy, the Environment and Water
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: null
+  introducer_party: Labor
+  introducer_id: null
+  introducer_division: null
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7556_first-reps/toc_pdf/26133b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-10-28
+  second_reading_hansard_url: null
 - bill_id: r7559
   title: Domestic Gas Reservation Bill 2026
   status: Before Reps
@@ -799,7 +813,7 @@ pending:
   introducer_id: '10884'
   introducer_division: Brand
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7559_first-reps/toc_pdf/26136b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-10-27
+  last_updated: 2026-10-28
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29189%2F0009%22
 - bill_id: r7560
   title: Domestic Gas Reservation Levy Bill 2026
@@ -813,7 +827,7 @@ pending:
   introducer_id: '10884'
   introducer_division: Brand
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7560_first-reps/toc_pdf/26137b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-10-27
+  last_updated: 2026-10-28
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29189%2F0017%22
 - bill_id: r7561
   title: Domestic Gas Reservation (Consequential Amendments) Bill 2026
@@ -827,7 +841,7 @@ pending:
   introducer_id: '10884'
   introducer_division: Brand
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7561_first-reps/toc_pdf/26135b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-10-27
+  last_updated: 2026-10-28
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29189%2F0013%22
 - bill_id: r7564
   title: Private Health Insurance Amendment (Modernising the Private Health Insurance
@@ -844,6 +858,20 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7564_first-reps/toc_pdf/26138b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-10-15
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29190%2F0023%22
+- bill_id: r7565
+  title: Agriculture Legislation Amendment (Biosecurity and Export Control) Bill 2026
+  status: Before Reps
+  type: Government
+  portfolio: Agriculture, Fisheries and Forestry
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Julie Collins
+  introducer_party: Labor
+  introducer_id: '10136'
+  introducer_division: Franklin
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7565_first-reps/toc_pdf/26139b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-10-28
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29193%2F0009%22
 - bill_id: r7566
   title: Treasury Laws Amendment (Tax Reform No. 4) Bill 2026
   status: Before Reps
@@ -856,8 +884,23 @@ pending:
   introducer_id: '10809'
   introducer_division: Rankin
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7566_first-reps/toc_pdf/26140b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-10-27
+  last_updated: 2026-10-28
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29192%2F0023%22
+- bill_id: r7567
+  title: Health Legislation Amendment (Improved Medicare Integrity and Other Measures)
+    Bill 2026
+  status: Before Reps
+  type: Government
+  portfolio: Health, Disability and Ageing
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Rebecca White
+  introducer_party: Labor
+  introducer_id: '11052'
+  introducer_division: Lyons
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7567_first-reps/toc_pdf/26145b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-10-28
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29193%2F0016%22
 - bill_id: r7568
   title: Defence Legislation Amendment (Accelerating Capability and Protecting Bases)
     Bill 2026
@@ -871,7 +914,7 @@ pending:
   introducer_id: '10887'
   introducer_division: Wills
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7568_first-reps/toc_pdf/26146b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-10-27
+  last_updated: 2026-10-28
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29192%2F0027%22
 - bill_id: s1138
   title: Plebiscite (Future Migration Level) Bill 2018
@@ -1194,7 +1237,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1442_first-senate/toc_pdf/25S0120.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0196%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0195%22
 - bill_id: s1443
   title: Tertiary Education Legislation Amendment (There For Education, Not Profit)
     Bill 2025
@@ -2016,7 +2059,7 @@ pending:
   introducer_division: NSW
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1515_first-senate/toc_pdf/26S3020.pdf;fileType=application%2Fpdf
   last_updated: 2026-09-15
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0112%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0111%22
 - bill_id: s1516
   title: Environment and Other Legislation Amendment (Fast Tracking Coal, Gas and
     Oil Projects) Bill 2026
@@ -2057,7 +2100,7 @@ pending:
   introducer_division: ACT
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1517_first-senate/toc_pdf/26S3220.pdf;fileType=application%2Fpdf
   last_updated: 2026-09-15
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0128%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0126%22
 - bill_id: s1518
   title: Military Rehabilitation and Compensation Amendment (Veterans&rsquo; Healthcare
     Without Caps) Bill 2026
@@ -2075,7 +2118,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1518_first-senate/toc_pdf/26S3120.pdf;fileType=application%2Fpdf
   last_updated: 2026-09-17
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0133%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0132%22
 - bill_id: s1519
   title: Wearable Recording Devices (Import Control) Bill 2026
   status: Before Senate
@@ -2558,7 +2601,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28849%2F0170%22
 - bill_id: r7358
   title: Telecommunications Amendment (Enhancing Consumer Safeguards) Bill 2025
-  status: Assent
+  status: Act
   type: Government
   portfolio: Infrastructure, Transport, Regional Development, Communications, Sport
     and the Arts
@@ -3439,7 +3482,7 @@ passed:
 - bill_id: r7414
   title: Telecommunications Legislation Amendment (Universal Outdoor Mobile Obligation)
     Bill 2026
-  status: Assent
+  status: Act
   type: Government
   portfolio: Infrastructure, Transport, Regional Development, Communications, Sport
     and the Arts
@@ -4747,7 +4790,7 @@ passed:
 - bill_id: r7517
   title: Aged Care Legislation Amendment (Aboriginal and Torres Strait Islander Aged
     Care Commissioner and Other Measures) Bill 2026
-  status: Assent
+  status: Act
   type: Government
   portfolio: Health, Disability and Ageing
   originating_house: House of Representatives
@@ -5023,7 +5066,7 @@ passed:
 - bill_id: r7540
   title: Customs and Other Legislation Amendment (Illicit Tobacco Enforcement Modernisation
     and Other Measures) Bill 2026
-  status: Assent
+  status: Act
   type: Government
   portfolio: Home Affairs
   originating_house: House of Representatives
@@ -5046,7 +5089,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29182%2F0023%22
 - bill_id: r7541
   title: National Student Ombudsman Levy Bill 2026
-  status: Assent
+  status: Act
   type: Government
   portfolio: Education
   originating_house: House of Representatives
@@ -5064,7 +5107,7 @@ passed:
 - bill_id: r7542
   title: Tertiary Education Quality and Standards Agency Amendment (National Student
     Ombudsman Levy) Bill 2026
-  status: Assent
+  status: Act
   type: Government
   portfolio: Education
   originating_house: House of Representatives
@@ -5081,7 +5124,7 @@ passed:
 - bill_id: r7548
   title: Sport Legislation Amendment (World Anti-Doping Code Implementation) Bill
     2026
-  status: Assent
+  status: Act
   type: Government
   portfolio: Infrastructure, Transport, Regional Development, Communications, Sport
     and the Arts
