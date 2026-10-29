@@ -756,7 +756,7 @@ pending:
   introducer_party: Labor
   introducer_id: '10931'
   introducer_division: Lilley
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7553_first-reps/toc_pdf/26131b01.pdf;fileType=application%2Fpdf
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7553_third-reps/toc_pdf/26131b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-10-28
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29190%2F0019%22
 - bill_id: r7554
@@ -771,7 +771,7 @@ pending:
   introducer_id: '10809'
   introducer_division: Rankin
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7554_first-reps/toc_pdf/26132b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-10-28
+  last_updated: 2026-10-29
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29189%2F0021%22
 - bill_id: r7555
   title: Income Tax Rates Amendment (Minimum Tax on Discretionary Trusts) Bill 2026
@@ -785,7 +785,7 @@ pending:
   introducer_id: '10809'
   introducer_division: Rankin
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7555_first-reps/toc_pdf/26134b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-10-28
+  last_updated: 2026-10-29
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29189%2F0025%22
 - bill_id: r7556
   title: Competition and Consumer Amendment (AER Inquiry Powers) Bill 2026
@@ -813,7 +813,7 @@ pending:
   introducer_id: '10884'
   introducer_division: Brand
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7559_first-reps/toc_pdf/26136b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-10-28
+  last_updated: 2026-10-29
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29189%2F0009%22
 - bill_id: r7560
   title: Domestic Gas Reservation Levy Bill 2026
@@ -827,7 +827,7 @@ pending:
   introducer_id: '10884'
   introducer_division: Brand
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7560_first-reps/toc_pdf/26137b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-10-28
+  last_updated: 2026-10-29
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29189%2F0017%22
 - bill_id: r7561
   title: Domestic Gas Reservation (Consequential Amendments) Bill 2026
@@ -841,7 +841,7 @@ pending:
   introducer_id: '10884'
   introducer_division: Brand
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7561_first-reps/toc_pdf/26135b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-10-28
+  last_updated: 2026-10-29
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29189%2F0013%22
 - bill_id: r7564
   title: Private Health Insurance Amendment (Modernising the Private Health Insurance
@@ -884,7 +884,7 @@ pending:
   introducer_id: '10809'
   introducer_division: Rankin
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7566_first-reps/toc_pdf/26140b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-10-28
+  last_updated: 2026-10-29
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29192%2F0023%22
 - bill_id: r7567
   title: Health Legislation Amendment (Improved Medicare Integrity and Other Measures)
@@ -914,7 +914,7 @@ pending:
   introducer_id: '10887'
   introducer_division: Wills
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7568_first-reps/toc_pdf/26146b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-10-28
+  last_updated: 2026-10-29
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29192%2F0027%22
 - bill_id: s1138
   title: Plebiscite (Future Migration Level) Bill 2018
@@ -1237,7 +1237,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1442_first-senate/toc_pdf/25S0120.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0195%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0196%22
 - bill_id: s1443
   title: Tertiary Education Legislation Amendment (There For Education, Not Profit)
     Bill 2025
@@ -2100,7 +2100,7 @@ pending:
   introducer_division: ACT
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1517_first-senate/toc_pdf/26S3220.pdf;fileType=application%2Fpdf
   last_updated: 2026-09-15
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0126%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0128%22
 - bill_id: s1518
   title: Military Rehabilitation and Compensation Amendment (Veterans&rsquo; Healthcare
     Without Caps) Bill 2026
@@ -2118,7 +2118,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1518_first-senate/toc_pdf/26S3120.pdf;fileType=application%2Fpdf
   last_updated: 2026-09-17
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0132%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0133%22
 - bill_id: s1519
   title: Wearable Recording Devices (Import Control) Bill 2026
   status: Before Senate
