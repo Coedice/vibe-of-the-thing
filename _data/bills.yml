@@ -721,7 +721,11 @@ pending:
   type: Private
   portfolio: null
   originating_house: House of Representatives
-  summary: null
+  summary: 'Amends the Australian Research Council Act 2001 and Tertiary Education
+    Quality and Standards Agency Act 2011 to: establish a statutory definition of
+    antisemitism; and require higher education providers and researchers to prevent,
+    address and not promote antisemitism as a condition of registration and financial
+    assistance.'
   introducer_name: Julian Leeser
   introducer_party: Liberal
   introducer_id: '10888'
@@ -751,7 +755,12 @@ pending:
   portfolio: Infrastructure, Transport, Regional Development, Communications, Sport
     and the Arts
   originating_house: House of Representatives
-  summary: null
+  summary: 'Amends the: Online Safety Act 2021 to: replace the existing industry code
+    framework and Basic Online Safety Expectations with a digital duty of care which
+    requires online service providers to take measures to provide a safe online environment;
+    and expand the powers of the eSafety Commissioner to regulate online services,
+    content and conduct; and Broadcasting Services Act 1992, Criminal Code Act 1995
+    and Interactive Gambling Act 2001 to make consequential amendments.'
   introducer_name: Anika Wells
   introducer_party: Labor
   introducer_id: '10931'
@@ -779,7 +788,9 @@ pending:
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
-  summary: null
+  summary: Introduced with the Treasury Laws Amendment (Tax Reform No. 3) Bill 2026,
+    the bill amends the Income Tax Rates Act 1986 to impose a minimum tax rate of
+    30 per cent on the net income of discretionary trusts from 1 July 2028.
   introducer_name: Jim Chalmers
   introducer_party: Labor
   introducer_id: '10809'
@@ -807,7 +818,15 @@ pending:
   type: Government
   portfolio: Industry, Science and Resources
   originating_house: House of Representatives
-  summary: null
+  summary: 'Introduced with the Domestic Gas Reservation Levy Bill 2026 and Domestic
+    Gas Reservation (Consequential Amendments) Bill 2026 to establish a nationally
+    consistent domestic gas reservation framework, the bill: establishes an export
+    licensing regime under which a person must hold an export licence to export liquefied
+    natural gas on and after 1 January 2028; places obligations on export licence
+    holders, including to contribute to domestic gas supply through a domestic supply
+    obligation (DSO); provides mechanisms to support compliance with the DSO in specified
+    circumstances; and provides the Australian Energy Regulator with responsibility
+    for administering and enforcing the domestic gas reservation framework.'
   introducer_name: Madeleine King
   introducer_party: Labor
   introducer_id: '10884'
@@ -821,7 +840,11 @@ pending:
   type: Government
   portfolio: Industry, Science and Resources
   originating_house: House of Representatives
-  summary: null
+  summary: Introduced with the Domestic Gas Reservation Bill 2026 and Domestic Gas
+    Reservation (Consequential Amendments) Bill 2026 to establish a nationally consistent
+    domestic gas reservation framework, the bill imposes a levy on liquefied natural
+    gas export licence holders to recover the costs associated with the administration
+    and regulation of the framework.
   introducer_name: Madeleine King
   introducer_party: Labor
   introducer_id: '10884'
@@ -835,7 +858,11 @@ pending:
   type: Government
   portfolio: Industry, Science and Resources
   originating_house: House of Representatives
-  summary: null
+  summary: Introduced with the Domestic Gas Reservation Bill 2026 and Domestic Gas
+    Reservation Levy Bill 2026 to establish a nationally consistent domestic gas reservation
+    framework, the bill makes consequential amendments to the Competition and Consumer
+    Act 2010, Competition and Consumer (Gas Market Code) Regulations 2023 and Customs
+    (Prohibited Exports) Regulation 1958 to support the operation of the framework.
   introducer_name: Madeleine King
   introducer_party: Labor
   introducer_id: '10884'
@@ -1237,7 +1264,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1442_first-senate/toc_pdf/25S0120.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0196%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0195%22
 - bill_id: s1443
   title: Tertiary Education Legislation Amendment (There For Education, Not Profit)
     Bill 2025
@@ -1255,7 +1282,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1443_first-senate/toc_pdf/25S0320.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0208%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0209%22
 - bill_id: s1444
   title: Remuneration Tribunal Amendment (There For Public Service, Not Profit) Bill
     2025
@@ -2100,7 +2127,7 @@ pending:
   introducer_division: ACT
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1517_first-senate/toc_pdf/26S3220.pdf;fileType=application%2Fpdf
   last_updated: 2026-09-15
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0128%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0126%22
 - bill_id: s1518
   title: Military Rehabilitation and Compensation Amendment (Veterans&rsquo; Healthcare
     Without Caps) Bill 2026
@@ -2140,7 +2167,9 @@ pending:
   type: Private
   portfolio: null
   originating_house: Senate
-  summary: null
+  summary: Amends the Census and Statistics Act 1905 to establish a Parliamentary
+    Joint Committee on the Census to inquire and report on the preparation, conduct
+    and outcomes of each census conducted by the Australian Bureau of Statistics.
   introducer_name: Dean Smith
   introducer_party: Liberal
   introducer_id: '10768'
@@ -2182,7 +2211,9 @@ pending:
   type: Private
   portfolio: null
   originating_house: Senate
-  summary: null
+  summary: Amends the Members of Parliament (Staff) Act 1984 to provide non-government
+    parliamentarians with a guaranteed minimum number of non-ministerial personal
+    employees.
   introducer_name: Pauline Hanson
   introducer_party: One Nation
   introducer_id: '10280'
@@ -2212,7 +2243,11 @@ pending:
   type: Private
   portfolio: null
   originating_house: Senate
-  summary: null
+  summary: Amends the Administrative Review Tribunal Act 2024 and Freedom of Information
+    Act 1982 to require the Commonwealth to meet the reasonable legal costs incurred
+    by an applicant when the Commonwealth appeals a decision of the Administrative
+    Review Tribunal or the Australian Information Commissioner in relation to access
+    to information under the Freedom of Information Act 1982.
   introducer_name: Jacqui Lambie
   introducer_party: Jacqui Lambie Network
   introducer_id: '10830'
