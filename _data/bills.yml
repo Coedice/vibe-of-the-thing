@@ -740,7 +740,10 @@ pending:
   type: Private
   portfolio: null
   originating_house: House of Representatives
-  summary: null
+  summary: Amends the Sex Discrimination Act 1984 and Fair Work Act 2009 to remove
+    or narrow exemptions allowing religious schools to discriminate against students
+    and staff on the basis of protected attributes, while preserving limited religious
+    preference for certain leadership and religious teaching positions.
   introducer_name: Allegra Spender
   introducer_party: Independent
   introducer_id: '11001'
@@ -755,12 +758,11 @@ pending:
   portfolio: Infrastructure, Transport, Regional Development, Communications, Sport
     and the Arts
   originating_house: House of Representatives
-  summary: 'Amends the: Online Safety Act 2021 to: replace the existing industry code
+  summary: 'Amends the Online Safety Act 2021 to: replace the existing industry code
     framework and Basic Online Safety Expectations with a digital duty of care which
     requires online service providers to take measures to provide a safe online environment;
     and expand the powers of the eSafety Commissioner to regulate online services,
-    content and conduct; and Broadcasting Services Act 1992, Criminal Code Act 1995
-    and Interactive Gambling Act 2001 to make consequential amendments.'
+    content and conduct. Also makes consequential amendments to 5 other Acts.'
   introducer_name: Anika Wells
   introducer_party: Labor
   introducer_id: '10931'
@@ -774,7 +776,21 @@ pending:
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
-  summary: null
+  summary: 'Introduced with the Income Tax Rates Amendment (Minimum Tax on Discretionary
+    Trusts) Bill 2026, the bill amends the: Income Tax Assessment Act 1936 and Income
+    Tax Assessment Act 1997 to establish a minimum tax rate of 30 per cent on the
+    net income of discretionary trusts from 1 July 2028; Income Tax (Transitional
+    Provisions) Act 1997 to provide roll-over relief for taxpayers restructuring from
+    discretionary trusts to other entity types; Income Tax Assessment Act 1936 to
+    establish an elective regime for certain discretionary trusts; Income Tax Assessment
+    Act 1936, Income Tax Assessment Act 1997 and Taxation Administration Act 1953
+    to clarify and adjust the operation of capital gains tax adjustment provisions,
+    including their application to trusts and managed investment vehicles; and Income
+    Tax Assessment Act 1997 and Income Tax (Transitional Provisions) Act 1997 to:
+    amend negative gearing provisions in relation to new residential dwellings and
+    dwellings that support affordable housing; and provide transitional relief for
+    excess concessional superannuation contributions arising from the commencement
+    of Payday Superannuation.'
   introducer_name: Jim Chalmers
   introducer_party: Labor
   introducer_id: '10809'
@@ -1282,7 +1298,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1443_first-senate/toc_pdf/25S0320.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0209%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0208%22
 - bill_id: s1444
   title: Remuneration Tribunal Amendment (There For Public Service, Not Profit) Bill
     2025
@@ -2145,14 +2161,17 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1518_first-senate/toc_pdf/26S3120.pdf;fileType=application%2Fpdf
   last_updated: 2026-09-17
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0133%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0132%22
 - bill_id: s1519
   title: Wearable Recording Devices (Import Control) Bill 2026
   status: Before Senate
   type: Private
   portfolio: null
   originating_house: Senate
-  summary: null
+  summary: Amends the Customs (Prohibited Imports) Regulations 1956 to prohibit, for
+    a period of 12 months, the importation of wearable recording devices, including
+    camera-equipped smart glasses and earbuds, unless the Minister or an authorised
+    person has granted a permission in writing for the device to be imported.
   introducer_name: David Shoebridge
   introducer_party: Greens
   introducer_id: '11010'
@@ -2183,7 +2202,9 @@ pending:
   type: Private
   portfolio: null
   originating_house: Senate
-  summary: null
+  summary: 'Amends the Corporations Act 2001 to: remove mandatory Scope 3 greenhouse
+    gas emissions reporting requirements; and exclude certain entities from the mandatory
+    sustainability reporting regime; and make consequential amendments.'
   introducer_name: Jane Hume
   introducer_party: Liberal
   introducer_id: '10853'
@@ -2228,7 +2249,10 @@ pending:
   type: Private
   portfolio: null
   originating_house: Senate
-  summary: null
+  summary: Amends the Water Act 2007 to prohibit the Commonwealth from entering into
+    a contract to purchase a permanent or ongoing surface water access entitlement
+    in the Murray-Darling Basin if the purchase would increase the total share of
+    basin surface water resources accessible to the Commonwealth under such entitlements.
   introducer_name: Matthew Canavan
   introducer_party: Liberal National Party
   introducer_id: '10827'
@@ -3387,7 +3411,7 @@ passed:
 - bill_id: r7406
   title: Health Legislation Amendment (Prescribing of Pharmaceutical Benefits) Bill
     2025
-  status: Assent
+  status: Act
   type: Government
   portfolio: Health, Disability and Ageing
   originating_house: House of Representatives
@@ -3497,7 +3521,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F28887%2F0051%22
 - bill_id: r7413
   title: Coal Mining Industry (Long Service Leave) Legislation Amendment Bill 2026
-  status: Assent
+  status: Act
   type: Government
   portfolio: Employment and Workplace Relations
   originating_house: House of Representatives
@@ -3834,7 +3858,7 @@ passed:
 - bill_id: r7434
   title: Health Legislation Amendment (Improving Choice and Transparency for Private
     Health Consumers) Bill 2026
-  status: Assent
+  status: Act
   type: Government
   portfolio: Health, Disability and Ageing
   originating_house: House of Representatives
@@ -3872,7 +3896,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29138%2F0013%22
 - bill_id: r7436
   title: Treasury Laws Amendment (Financial Reporting System Reform) Bill 2026
-  status: Assent
+  status: Act
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
@@ -3971,7 +3995,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29140%2F0073%22
 - bill_id: r7445
   title: Northern Australia Infrastructure Facility Amendment Bill 2026
-  status: Assent
+  status: Act
   type: Government
   portfolio: Infrastructure, Transport, Regional Development, Communications, Sport
     and the Arts
@@ -4114,7 +4138,7 @@ passed:
 - bill_id: r7457
   title: Treasury Laws Amendment (Delivering an Efficient and Trusted Tax System)
     Bill 2026
-  status: Assent
+  status: Act
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
@@ -4203,7 +4227,7 @@ passed:
 - bill_id: r7464
   title: Defence Force Discipline Amendment (RCDVS Implementation and Related Measures
     No. 1) Bill 2026
-  status: Assent
+  status: Act
   type: Government
   portfolio: Defence
   originating_house: House of Representatives
@@ -4271,7 +4295,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29153%2F0047%22
 - bill_id: r7468
   title: Competition and Consumer Amendment (Unfair Trading Practices) Bill 2026
-  status: Assent
+  status: Act
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
@@ -4366,7 +4390,7 @@ passed:
 - bill_id: r7480
   title: Treasury Laws Amendment (Business Registries Stabilisation and Uplift) Bill
     2026
-  status: Assent
+  status: Act
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
@@ -4391,7 +4415,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29156%2F0025%22
 - bill_id: r7481
   title: Regulatory Reform Omnibus Bill 2026
-  status: Assent
+  status: Act
   type: Government
   portfolio: Finance
   originating_house: House of Representatives
@@ -4602,7 +4626,7 @@ passed:
 - bill_id: r7494
   title: Workplace Relations Legislation Amendment (Building Cooperative Workplaces
     No. 1) Bill 2026
-  status: Assent
+  status: Act
   type: Government
   portfolio: Employment and Workplace Relations
   originating_house: House of Representatives
@@ -4624,7 +4648,7 @@ passed:
 - bill_id: r7498
   title: Defence Legislation Amendment (RCDVS Implementation and Related Measures
     No. 2) Bill 2026
-  status: Assent
+  status: Act
   type: Government
   portfolio: Defence
   originating_house: House of Representatives
@@ -4653,7 +4677,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29167%2F0025%22
 - bill_id: r7499
   title: Major Sporting Events (Indicia and Images) Protection Amendment Bill 2026
-  status: Assent
+  status: Act
   type: Government
   portfolio: Infrastructure, Transport, Regional Development, Communications, Sport
     and the Arts
@@ -4719,7 +4743,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29167%2F0005%22
 - bill_id: r7503
   title: Treasury Laws Amendment (Fuel Excise Relief No. 2) Bill 2026
-  status: Assent
+  status: Act
   type: Government
   portfolio: Treasury
   originating_house: House of Representatives
@@ -5024,7 +5048,7 @@ passed:
 - bill_id: r7529
   title: Wage Justice for Early Childhood Education and Care Workers (Special Account)
     (Extending Support and Strengthening Safety) Bill 2026
-  status: Assent
+  status: Act
   type: Government
   portfolio: Education
   originating_house: House of Representatives
@@ -5082,7 +5106,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29176%2F0145%22
 - bill_id: r7539
   title: Knox Class Action (Facilitation) Bill 2026
-  status: Assent
+  status: Act
   type: Government
   portfolio: Social Services
   originating_house: House of Representatives
