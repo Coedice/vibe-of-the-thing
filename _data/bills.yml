@@ -2102,7 +2102,7 @@ pending:
   introducer_division: NSW
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1515_first-senate/toc_pdf/26S3020.pdf;fileType=application%2Fpdf
   last_updated: 2026-09-15
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0111%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0112%22
 - bill_id: s1516
   title: Environment and Other Legislation Amendment (Fast Tracking Coal, Gas and
     Oil Projects) Bill 2026
@@ -2143,7 +2143,7 @@ pending:
   introducer_division: ACT
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1517_first-senate/toc_pdf/26S3220.pdf;fileType=application%2Fpdf
   last_updated: 2026-09-15
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0126%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0128%22
 - bill_id: s1518
   title: Military Rehabilitation and Compensation Amendment (Veterans&rsquo; Healthcare
     Without Caps) Bill 2026
@@ -2161,7 +2161,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1518_first-senate/toc_pdf/26S3120.pdf;fileType=application%2Fpdf
   last_updated: 2026-09-17
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0132%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0133%22
 - bill_id: s1519
   title: Wearable Recording Devices (Import Control) Bill 2026
   status: Before Senate
@@ -3678,7 +3678,7 @@ passed:
   introducer_id: '10081'
   introducer_division: Watson
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7421_aspassed/toc_pdf/26002b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-01-20
+  last_updated: 2026-01-21
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29340%2F0011%22
 - bill_id: r7422
   title: Combatting Antisemitism, Hate and Extremism (Criminal and Migration Laws)
@@ -3707,7 +3707,7 @@ passed:
   introducer_id: '10751'
   introducer_division: Greenway
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7422_aspassed/toc_pdf/26003b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-01-20
+  last_updated: 2026-01-21
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29340%2F0048%22
 - bill_id: r7423
   title: National Health Amendment (Passive Immunological Products) Bill 2026
@@ -4434,7 +4434,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29155%2F0023%22
 - bill_id: r7482
   title: Appropriation (Parliamentary Departments) Bill (No. 1) 2026-2027
-  status: Assent
+  status: Act
   type: Government
   portfolio: Finance
   originating_house: House of Representatives
@@ -4449,7 +4449,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29154%2F0169%22
 - bill_id: r7483
   title: Appropriation Bill (No. 1) 2026-2027
-  status: Assent
+  status: Act
   type: Government
   portfolio: Finance
   originating_house: House of Representatives
@@ -4464,7 +4464,7 @@ passed:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29154%2F0157%22
 - bill_id: r7484
   title: Appropriation Bill (No. 2) 2026-2027
-  status: Assent
+  status: Act
   type: Government
   portfolio: Finance
   originating_house: House of Representatives
