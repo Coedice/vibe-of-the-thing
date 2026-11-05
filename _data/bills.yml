@@ -821,13 +821,13 @@ pending:
   portfolio: Climate Change, Energy, the Environment and Water
   originating_house: House of Representatives
   summary: null
-  introducer_name: null
+  introducer_name: Josh Wilson
   introducer_party: Labor
-  introducer_id: null
-  introducer_division: null
+  introducer_id: '10893'
+  introducer_division: Fremantle
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7556_first-reps/toc_pdf/26133b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-10-28
-  second_reading_hansard_url: null
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29193%2F0013%22
 - bill_id: r7559
   title: Domestic Gas Reservation Bill 2026
   status: Before Reps
@@ -943,7 +943,7 @@ pending:
   introducer_division: Lyons
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7567_first-reps/toc_pdf/26145b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-10-28
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29193%2F0016%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29193%2F0017%22
 - bill_id: r7568
   title: Defence Legislation Amendment (Accelerating Capability and Protecting Bases)
     Bill 2026
@@ -1298,7 +1298,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1443_first-senate/toc_pdf/25S0320.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0209%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0208%22
 - bill_id: s1444
   title: Remuneration Tribunal Amendment (There For Public Service, Not Profit) Bill
     2025
@@ -2161,7 +2161,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1518_first-senate/toc_pdf/26S3120.pdf;fileType=application%2Fpdf
   last_updated: 2026-09-17
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0133%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0132%22
 - bill_id: s1519
   title: Wearable Recording Devices (Import Control) Bill 2026
   status: Before Senate
