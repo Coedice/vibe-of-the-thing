@@ -1,4 +1,18 @@
 pending:
+- bill_id: r7332
+  title: Therapeutic Goods Amendment Bill 2025
+  status: Before Reps
+  type: Government
+  portfolio: Prime Minister
+  originating_house: House of Representatives
+  summary: Amends the Therapeutic Goods Act 1989 to make a minor technical amendment.
+  introducer_name: null
+  introducer_party: Labor
+  introducer_id: null
+  introducer_division: null
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7332_first-reps/toc_pdf/25027b01.pdf;fileType=application%2Fpdf
+  last_updated: 2025-07-22
+  second_reading_hansard_url: null
 - bill_id: r7448
   title: Anti-Money Laundering and Counter-Terrorism Financing Amendment Bill 2026
   status: Before Senate
@@ -18,6 +32,27 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7448_third-reps/toc_pdf/26028b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-10-12
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29146%2F0020%22
+- bill_id: r7451
+  title: Telecommunications Legislation Amendment (Strengthening Communications in
+    Natural Disasters) Bill 2026
+  status: Before Reps
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: 'Amends the: Telecommunications Act 1997 to require the Australian Communications
+    and Media Authority to make a service provider determination in relation to minimum
+    power requirements at high risk sites; and Telecommunications (Consumer Protection
+    and Service Standards) Act 1999 to: enable the minister to make rules requiring
+    temporary disaster roaming in certain circumstances; and provide that the provision
+    of telecommunications services during natural disasters is an eligible purpose
+    for which public interest telecommunications grants may be made.'
+  introducer_name: Helen Haines
+  introducer_party: Independent
+  introducer_id: '10929'
+  introducer_division: Indi
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7451_first-reps/toc_pdf/26031b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-05-25
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29157%2F0211%22
 - bill_id: r7454
   title: Australian Criminal Intelligence Commission Bill 2026
   status: Before Reps
@@ -57,6 +92,35 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7455_first-reps/toc_pdf/26035b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-10-28
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29149%2F0038%22
+- bill_id: r7467
+  title: Secrecy Provisions Amendment (Repealing Offences) Bill 2026
+  status: Before Senate
+  type: Government
+  portfolio: Attorney-General
+  originating_house: House of Representatives
+  summary: "Amends: the Criminal Code Act 1995 to: remove the existing offence relating\
+    \ to the unauthorised disclosure of information by certain Commonwealth officers\
+    \ and replace it with a new offence prohibiting the improper use or communication\
+    \ of information by certain Commonwealth officers when done with the intention\
+    \ of obtaining a benefit or causing detriment to a Commonwealth entity or other\
+    \ person; and require the Attorney-General\u2019s consent to prosecute journalists\
+    \ or certain other persons for secrecy offences unless otherwise prescribed by\
+    \ regulations; 12 Acts to make consequential amendments; 17 Acts and 5 regulations\
+    \ to remove certain secrecy offences and non-disclosure duties and remove criminal\
+    \ liability from secrecy offences, effectively converting those offences into\
+    \ non-disclosure duties without criminal liability; the Criminal Code Act 1995,\
+    \ Foreign Influence Transparency Scheme Act 2018 and Intelligence Services Act\
+    \ 2001 to ensure that secrecy offences are proportionate and consistent with the\
+    \ rule of law, clarify the scope of existing offences and limit their application\
+    \ to non-officials; and the Business Names Registration Act 2011 and Criminal\
+    \ Code Act 1995 to make minor and technical amendments to secrecy provisions."
+  introducer_name: Michelle Rowland
+  introducer_party: Labor
+  introducer_id: '10751'
+  introducer_division: Greenway
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7467_first-reps/toc_pdf/26044b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-06-22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29153%2F0043%22
 - bill_id: r7469
   title: Aviation Consumer Protection Bill 2026
   status: Before Senate
@@ -170,6 +234,23 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7478_first-reps/toc_pdf/26076b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-06-22
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29164%2F0142%22
+- bill_id: r7479
+  title: Sex Discrimination Amendment (Sex-based Rights) Bill 2026
+  status: Before Reps
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: "Amends the Sex Discrimination Act 1984 to: change definitions for \u2018\
+    gender identity\u2019, \u2018man\u2019, \u2018woman\u2019, \u2018intersex status\u2019\
+    \ and \u2018sexual orientation\u2019; and include provisions relating to exclusive\
+    \ services, activities and spaces for women."
+  introducer_name: Alison Penfold
+  introducer_party: Nationals
+  introducer_id: '11046'
+  introducer_division: Lyne
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7479_first-reps/toc_pdf/26068b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-06-29
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29157%2F0220%22
 - bill_id: r7488
   title: Human Rights Bill 2026
   status: Before Reps
@@ -223,6 +304,22 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7496_first-reps/toc_pdf/26078b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-06-22
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29164%2F0151%22
+- bill_id: r7500
+  title: Statute Update Bill 2026
+  status: Before Reps
+  type: Government
+  portfolio: Attorney-General
+  originating_house: House of Representatives
+  summary: Amends 41 Acts to make minor and technical amendments, including to correct
+    errors, remove spent or obsolete provisions, and update references to align with
+    modern legislative drafting practice. Also repeals 106 spent or obsolete Acts.
+  introducer_name: Michelle Rowland
+  introducer_party: Labor
+  introducer_id: '10751'
+  introducer_division: Greenway
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7500_first-reps/toc_pdf/26081b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-09-14
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29167%2F0013%22
 - bill_id: r7505
   title: Public Governance, Performance and Accountability Amendment (Local Industry
     Preference) Bill 2026
@@ -257,6 +354,44 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7506_first-reps/toc_pdf/26092b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-06-29
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29168%2F0024%22
+- bill_id: r7508
+  title: Therapeutic Goods (Charges) Amendment Bill 2026
+  status: Before Senate
+  type: Government
+  portfolio: Health, Disability and Ageing
+  originating_house: House of Representatives
+  summary: Introduced with the Therapeutic Goods Amendment (Medicines Shortages and
+    Other Measures) Bill 2026, the bill amends the Therapeutic Goods (Charges) Act
+    1989 to enable annual charges to be prescribed for the inclusion of grouped biologicals
+    in the Australian Register of Therapeutic Goods.
+  introducer_name: Rebecca White
+  introducer_party: Labor
+  introducer_id: '11052'
+  introducer_division: Lyons
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7508_first-reps/toc_pdf/26087b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-08-12
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29171%2F0068%22
+- bill_id: r7509
+  title: Therapeutic Goods Amendment (Medicines Shortages and Other Measures) Bill
+    2026
+  status: Before Senate
+  type: Government
+  portfolio: Health, Disability and Ageing
+  originating_house: House of Representatives
+  summary: 'Introduced with the Therapeutic Goods (Charges) Amendment Bill 2026, the
+    bill amends the Therapeutic Goods Act 1989 to: expand arrangements relating to
+    medicines shortages and discontinuations; enable the determination of common biological
+    groups to allow similar biologicals to share a single entry in the Australian
+    Register of Therapeutic Goods; authorise persons to enter, search and inspect
+    clinical trial sites; enable the Medicines Watch List to incorporate other documents
+    as in force from time to time; and make consequential and technical amendments'
+  introducer_name: Rebecca White
+  introducer_party: Labor
+  introducer_id: '11052'
+  introducer_division: Lyons
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7509_first-reps/toc_pdf/26088b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-08-12
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29171%2F0064%22
 - bill_id: r7511
   title: Human Rights (Children Born Alive Protection) Bill 2026
   status: Before Reps
@@ -274,6 +409,39 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7511_first-reps/toc_pdf/26110b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-08-17
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29175%2F0233%22
+- bill_id: r7515
+  title: Social Security and Other Legislation Amendment (Technical Changes No. 2)
+    Bill 2026
+  status: Before Reps
+  type: Government
+  portfolio: Social Services
+  originating_house: House of Representatives
+  summary: 'Amends the: A New Tax System (Family Assistance) Act 1999, A New Tax System
+    (Family Assistance) (Administration) Act 1999 and Social Security Act 1991 to:
+    enable the automation of advance payments of social security or family assistance
+    entitlements; and correct cross-referencing errors; Administrative Review Tribunal
+    Act 2024 and A New Tax System (Family Assistance) (Administration) Act 1999 to
+    enable the secretary to alter certain social services decisions that undergo review
+    at the Administrative Review Tribunal under specific circumstances; A New Tax
+    System (Family Assistance) Act 1999 and A New Tax System (Family Assistance) (Administration)
+    Act 1999 to clarify the use of pre-issue income data (PIID); Child Support (Assessment)
+    Act 1989 in relation to the use of PIID, the automation of provisional adjusted
+    taxable income and the delegation of a publishing function; A New Tax System (Family
+    Assistance) (Administration) Act 1999 to enable merits review of tax and family
+    assistance entitlement debt offsetting decisions; Paid Parental Leave Act 2010
+    in relation to the calculation of paid parental leave superannuation contributions
+    and employer debts; Social Security (Administration) Act 1999 to make minor amendments
+    in relation to the operation of the urgent payment provisions; and Social Security
+    and Other Legislation Amendment (Technical Changes No. 2) Act 2025 to clarify
+    the operation of review arrangements for decision relating to the Income Apportionment
+    Resolution Scheme.'
+  introducer_name: Tanya Plibersek
+  introducer_party: Labor
+  introducer_id: '10513'
+  introducer_division: Sydney
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7515_third-reps/toc_pdf/26094b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-10-15
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29170%2F0032%22
 - bill_id: r7516
   title: Administrative and Judicial Review Legislation Amendment Bill 2026
   status: Before Senate
@@ -565,6 +733,24 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7550_first-reps/toc_pdf/26129b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-10-12
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29187%2F0122%22
+- bill_id: r7551
+  title: Sex Discrimination and Fair Work Amendment (Equality in Treatment in Religious
+    Schools) Bill 2026
+  status: Before Reps
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: Amends the Sex Discrimination Act 1984 and Fair Work Act 2009 to remove
+    or narrow exemptions allowing religious schools to discriminate against students
+    and staff on the basis of protected attributes, while preserving limited religious
+    preference for certain leadership and religious teaching positions.
+  introducer_name: Allegra Spender
+  introducer_party: Independent
+  introducer_id: '11001'
+  introducer_division: Wentworth
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7551_first-reps/toc_pdf/26130b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-10-12
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29187%2F0126%22
 - bill_id: r7553
   title: Online Safety Amendment (Digital Duty of Care) Bill 2026
   status: Before Reps
@@ -584,6 +770,34 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7553_third-reps/toc_pdf/26131b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-10-28
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29190%2F0019%22
+- bill_id: r7554
+  title: Treasury Laws Amendment (Tax Reform No. 3) Bill 2026
+  status: Before Reps
+  type: Government
+  portfolio: Treasury
+  originating_house: House of Representatives
+  summary: 'Introduced with the Income Tax Rates Amendment (Minimum Tax on Discretionary
+    Trusts) Bill 2026, the bill amends the: Income Tax Assessment Act 1936 and Income
+    Tax Assessment Act 1997 to establish a minimum tax rate of 30 per cent on the
+    net income of discretionary trusts from 1 July 2028; Income Tax (Transitional
+    Provisions) Act 1997 to provide roll-over relief for taxpayers restructuring from
+    discretionary trusts to other entity types; Income Tax Assessment Act 1936 to
+    establish an elective regime for certain discretionary trusts; Income Tax Assessment
+    Act 1936, Income Tax Assessment Act 1997 and Taxation Administration Act 1953
+    to clarify and adjust the operation of capital gains tax adjustment provisions,
+    including their application to trusts and managed investment vehicles; and Income
+    Tax Assessment Act 1997 and Income Tax (Transitional Provisions) Act 1997 to:
+    amend negative gearing provisions in relation to new residential dwellings and
+    dwellings that support affordable housing; and provide transitional relief for
+    excess concessional superannuation contributions arising from the commencement
+    of Payday Superannuation.'
+  introducer_name: Jim Chalmers
+  introducer_party: Labor
+  introducer_id: '10809'
+  introducer_division: Rankin
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7554_first-reps/toc_pdf/26132b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-10-29
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29189%2F0021%22
 - bill_id: r7555
   title: Income Tax Rates Amendment (Minimum Tax on Discretionary Trusts) Bill 2026
   status: Before Reps
@@ -704,6 +918,31 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7565_first-reps/toc_pdf/26139b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-10-28
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29193%2F0009%22
+- bill_id: r7566
+  title: Treasury Laws Amendment (Tax Reform No. 4) Bill 2026
+  status: Before Reps
+  type: Government
+  portfolio: Treasury
+  originating_house: House of Representatives
+  summary: 'Amends the: Income Tax Assessment Act 1936, Income Tax Assessment Act
+    1997, Income Tax (Transitional Provisions) Act 1997 and Taxation Administration
+    Act 1953 to provide investors in eligible innovative start-up companies with access
+    to a 50 per cent capital gains tax discount; Income Tax Assessment Act 1997, Income
+    Tax (Transitional Provisions) Act 1997 and Industry Research and Development Act
+    1986 to simplify and refine the research and development tax incentive; Income
+    Tax Assessment Act 1997 and Venture Capital Act 2002 to expand venture capital
+    tax incentives; Taxation Administration Act 1953 to enable entities to choose
+    to pay Pay As You Go (PAYG) instalments monthly and enable the Commissioner of
+    Taxation to require monthly instalments from certain non-compliant taxpayers;
+    and Fringe Benefits Tax Assessment Act 1986 to phase in changes to the fringe
+    benefits tax treatment of eligible electric cars.'
+  introducer_name: Jim Chalmers
+  introducer_party: Labor
+  introducer_id: '10809'
+  introducer_division: Rankin
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7566_first-reps/toc_pdf/26140b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-10-29
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29192%2F0023%22
 - bill_id: r7567
   title: Health Legislation Amendment (Improved Medicare Integrity and Other Measures)
     Bill 2026
@@ -1024,6 +1263,64 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1435_first-senate/toc_pdf/24S2420.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28072%2F0144%22
+- bill_id: s1436
+  title: Whistleblower Protection Authority Bill 2025
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: 'The bill: establishes the Whistleblower Protection Authority to receive
+    and facilitate the investigation of whistleblower disclosures, provide advice,
+    assistance, guidance and support to persons and agencies relating to the making
+    of whistleblower disclosures and investigate any mistreatment of whistleblowers
+    and undertake enforcement activities; establishes the Whistleblower Protection
+    Advisory Council to provide advice to the Whistleblower Protection Commissioner;
+    and establishes the Parliamentary Joint Committee on the Whistleblower Protection
+    Authority to consider proposed recommendations for the appointment of the commissioner
+    and deputy commissioners and to monitor and review the performance of the commissioner.'
+  introducer_name: David Pocock
+  introducer_party: Independent
+  introducer_id: '11009'
+  introducer_division: ACT
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1436_first-senate/toc_pdf/25S0420.pdf;fileType=application%2Fpdf
+  last_updated: 2025-07-23
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28693%2F0177%22
+- bill_id: s1442
+  title: Superannuation Guarantee (Administration) Amendment (Frontline Emergency
+    Service Workers) Bill 2025
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: Amends the Superannuation Guarantee (Administration) Act 1992 to increase
+    the superannuation guarantee rate for firefighters and paramedics by 4.4 per cent
+    to match the base rate of superannuation contributions provided to Australian
+    Defence Force personnel.
+  introducer_name: Nick Mckim
+  introducer_party: Greens
+  introducer_id: '10841'
+  introducer_division: Tasmania
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1442_first-senate/toc_pdf/25S0120.pdf;fileType=application%2Fpdf
+  last_updated: 2025-07-23
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0195%22
+- bill_id: s1443
+  title: Tertiary Education Legislation Amendment (There For Education, Not Profit)
+    Bill 2025
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: Introduced with the Remuneration Tribunal Amendment (There For Public Service,
+    Not Profit) Bill 2025, the bill amends the Australian National University Act
+    1991 and Tertiary Education Quality and Standards Agency Act 2011 to set a statutory
+    limit on the remuneration of vice-chancellors of Australian universities.
+  introducer_name: Jacqui Lambie
+  introducer_party: Jacqui Lambie Network
+  introducer_id: '10830'
+  introducer_division: Tasmania
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1443_first-senate/toc_pdf/25S0320.pdf;fileType=application%2Fpdf
+  last_updated: 2025-07-23
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0208%22
 - bill_id: s1444
   title: Remuneration Tribunal Amendment (There For Public Service, Not Profit) Bill
     2025
@@ -1041,7 +1338,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1444_first-senate/toc_pdf/25S0220.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0209%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0208%22
 - bill_id: s1445
   title: Great Australian Bight (World Heritage Protection) Bill 2025
   status: Before Senate
@@ -1089,6 +1386,20 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1447_first-senate/toc_pdf/25S0720.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-28
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28694%2F0172%22
+- bill_id: s1449
+  title: Right to Protest Bill 2025
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: Recognises the right to engage in peaceful protest in a public place.
+  introducer_name: David Shoebridge
+  introducer_party: Greens
+  introducer_id: '11010'
+  introducer_division: NSW
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1449_first-senate/toc_pdf/25S0920.pdf;fileType=application%2Fpdf
+  last_updated: 2025-08-27
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28695%2F0077%22
 - bill_id: s1451
   title: Higher Education Support Amendment (End Dirty University Partnerships) Bill
     2025
@@ -1184,6 +1495,24 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1462_first-senate/toc_pdf/25S1620.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-30
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28821%2F0206%22
+- bill_id: s1466
+  title: Social Security and Other Legislation Amendment (Responding to Robodebt)
+    Bill 2025 [No. 2]
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: Amends the A New Tax System (Family Assistance) (Administration) Act 1999,
+    Social Security Act 1991, Social Security (Administration) Act 1999 and Student
+    Assistance Act 1973 to respond to certain recommendations of the Report of the
+    Royal Commission into the Robodebt Scheme.
+  introducer_name: Penny Allman-Payne
+  introducer_party: Greens
+  introducer_id: '11002'
+  introducer_division: Queensland
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1466_first-senate/toc_pdf/25S1920.pdf;fileType=application%2Fpdf
+  last_updated: 2025-08-26
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28834%2F0128%22
 - bill_id: s1467
   title: Public Governance, Performance and Accountability Amendment (Ban Unethical
     Contractors) Bill 2025
@@ -1216,6 +1545,20 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1468_first-senate/toc_pdf/25S2020.pdf;fileType=application%2Fpdf
   last_updated: 2026-03-26
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28853%2F0072%22
+- bill_id: s1469
+  title: Repeal Net Zero Bill 2025 [No. 2]
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: null
+  introducer_name: Matthew Canavan
+  introducer_party: Liberal National Party
+  introducer_id: '10827'
+  introducer_division: Queensland
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1469_first-senate/toc_pdf/25S2220.pdf;fileType=application%2Fpdf
+  last_updated: 2025-09-04
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28853%2F0096%22
 - bill_id: s1471
   title: Online Safety and Other Legislation Amendment (My Face, My Rights) Bill 2025
   status: Before Senate
@@ -1284,6 +1627,42 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1475_first-senate/toc_pdf/25S2720.pdf;fileType=application%2Fpdf
   last_updated: 2025-11-05
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28876%2F0195%22
+- bill_id: s1480
+  title: Social Media Minimum Age Repeal Bill 2025
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: 'Amends the: Online Safety Act 2021 to remove minimum age requirements
+    for social media use and the obligation on providers of an age-restricted social
+    media platform to take reasonable steps to prevent age-restricted users from having
+    an account with the platform; and Age Discrimination Act 2004 to make a consequential
+    amendment.'
+  introducer_name: Ralph Babet
+  introducer_party: United Australia Party
+  introducer_id: '11003'
+  introducer_division: Victoria
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1480_first-senate/toc_pdf/25S3120.pdf;fileType=application%2Fpdf
+  last_updated: 2025-11-25
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28885%2F0133%22
+- bill_id: s1481
+  title: Unlocking Supply of Family Homes Bill 2025
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: 'Amends the Income Tax Assessment Act 1997 to: lower the minimum age of
+    eligibility for a downsizer contribution from 55 years to 50 years; extend the
+    period of time in which a contribution can be made from 90 days to 1 year after
+    the change of ownership occurs; and increase the maximum amount of contribution
+    from $300,000 to $500,000.'
+  introducer_name: Jane Hume
+  introducer_party: Liberal
+  introducer_id: '10853'
+  introducer_division: Victoria
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1481_first-senate/toc_pdf/25S3320.pdf;fileType=application%2Fpdf
+  last_updated: 2026-08-12
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28888%2F0169%22
 - bill_id: s1483
   title: Defence Amendment (Sexual Assault Prevention, Intervention and Response Commission)
     Bill 2025
@@ -1453,6 +1832,47 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1496_first-senate/toc_pdf/26S1020.pdf;fileType=application%2Fpdf
   last_updated: 2026-08-11
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29222%2F0115%22
+- bill_id: s1497
+  title: Workplace Relations Legislation Amendment (Clearing the Fair Work Commission
+    Backlog) Bill 2026
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: 'Amends the: Fair Work Act 2009 in relation to ministerial membership arrangements
+    for the National Construction Industry Forum, travel allowances for members of
+    the Road Transport Advisory Group, Fair Work Commission processes, and supported
+    bargaining authorisations; Fair Work Act 2009 and Independent Contractors Act
+    2006 in relation to the road transport contractor high income threshold; and Fair
+    Work (Registered Organisations) Act 2009 in relation to reporting timeframes for
+    the Administrator of the Construction and General Division of the Construction
+    Forestry Manufacturing and Energy Union.'
+  introducer_name: Jane Hume
+  introducer_party: Liberal
+  introducer_id: '10853'
+  introducer_division: Victoria
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1497_first-senate/toc_pdf/26S1120.pdf;fileType=application%2Fpdf
+  last_updated: 2026-06-24
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29223%2F0153%22
+- bill_id: s1498
+  title: Trade and Investment Agreements (Consultation) Bill 2026
+  status: Before Senate
+  type: Government
+  portfolio: Foreign Affairs and Trade
+  originating_house: Senate
+  summary: "Implements certain recommendations of the Joint Standing Committee on\
+    \ Trade and Investment Growth\u2019s inquiry into the Australian Government\u2019\
+    s approach to negotiating trade and investment agreements by establishing a framework\
+    \ for the negotiation, consultation and review of Australia\u2019s free trade\
+    \ agreements. Also establishes certain requirements relating to Australia\u2019\
+    \ bilateral investment treaty negotiations."
+  introducer_name: Tim Ayres
+  introducer_party: Labor
+  introducer_id: '10946'
+  introducer_division: NSW
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1498_first-senate/toc_pdf/2608620.pdf;fileType=application%2Fpdf
+  last_updated: 2026-07-01
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29227%2F0187%22
 - bill_id: s1499
   title: Anti-Discrimination Legislation Amendment (Sexual Orientation, Gender Identity
     and Sex Characteristics Discrimination Commissioner) Bill 2026
@@ -1487,6 +1907,41 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1501_first-senate/toc_pdf/26S1420.pdf;fileType=application%2Fpdf
   last_updated: 2026-07-02
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29228%2F0101%22
+- bill_id: s1502
+  title: Superannuation Legislation Amendment (Fair Super for Young Workers) Bill
+    2026
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: Amends the Superannuation Guarantee (Administration) Act 1992 and Superannuation
+    Guarantee (Administration) Regulations 2018 to extend compulsory employer superannuation
+    contributions to all employees under 18 years of age, regardless of the number
+    of hours they work.
+  introducer_name: Barbara Pocock
+  introducer_party: Greens
+  introducer_id: '11008'
+  introducer_division: SA
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1502_first-senate/toc_pdf/26S1720.pdf;fileType=application%2Fpdf
+  last_updated: 2026-08-20
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29230%2F0170%22
+- bill_id: s1504
+  title: Treasury Laws Amendment (Removing the Widows and Spouses Tax) Bill 2026
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: Amends the Income Tax Assessment Act 1997 to preserve grandfathered access
+    to negative gearing and the 50 per cent capital gains tax discount where an asset
+    passes from joint ownership to sole ownership as a result of divorce, relationship
+    breakdown or the death of a joint owner.
+  introducer_name: Matthew Canavan
+  introducer_party: Liberal National Party
+  introducer_id: '10827'
+  introducer_division: Queensland
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1504_first-senate/toc_pdf/26S2020.pdf;fileType=application%2Fpdf
+  last_updated: 2026-08-13
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29231%2F0134%22
 - bill_id: s1505
   title: Criminal Code Amendment (Equal Access to Voluntary Assisted Dying) Bill 2026
   status: Before Senate
@@ -1606,6 +2061,23 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1511_first-senate/toc_pdf/26S2620.pdf;fileType=application%2Fpdf
   last_updated: 2026-08-20
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29235%2F0069%22
+- bill_id: s1512
+  title: Tax Laws Amendment (Incentivising Food Donations to Charitable Organisations)
+    Bill 2026
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: Amends the Income Tax Assessment Act 1997 and Income Tax (Transitional
+    Provisions) Act 1997 to provide a tax offset for companies for certain expenditure
+    incurred in undertaking food donations activities for registered food charities.
+  introducer_name: Dean Smith
+  introducer_party: Liberal
+  introducer_id: '10768'
+  introducer_division: WA
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1512_first-senate/toc_pdf/26S2820.pdf;fileType=application%2Fpdf
+  last_updated: 2026-09-07
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29236%2F0134%22
 - bill_id: s1513
   title: Housing Australia Amendment (Transparency and Reporting) Bill 2026
   status: Before Senate
@@ -1693,7 +2165,7 @@ pending:
   introducer_division: ACT
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1517_first-senate/toc_pdf/26S3220.pdf;fileType=application%2Fpdf
   last_updated: 2026-09-15
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0128%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0126%22
 - bill_id: s1518
   title: Military Rehabilitation and Compensation Amendment (Veterans&rsquo; Healthcare
     Without Caps) Bill 2026
@@ -1712,6 +2184,23 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1518_first-senate/toc_pdf/26S3120.pdf;fileType=application%2Fpdf
   last_updated: 2026-09-17
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0132%22
+- bill_id: s1519
+  title: Wearable Recording Devices (Import Control) Bill 2026
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: Amends the Customs (Prohibited Imports) Regulations 1956 to prohibit, for
+    a period of 12 months, the importation of wearable recording devices, including
+    camera-equipped smart glasses and earbuds, unless the Minister or an authorised
+    person has granted a permission in writing for the device to be imported.
+  introducer_name: David Shoebridge
+  introducer_party: Greens
+  introducer_id: '11010'
+  introducer_division: NSW
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1519_first-senate/toc_pdf/26S3320.pdf;fileType=application%2Fpdf
+  last_updated: 2026-10-14
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29246%2F0201%22
 - bill_id: s1520
   title: Census and Statistics Amendment (Parliamentary Oversight of the Census) Bill
     2026
@@ -1729,6 +2218,22 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1520_first-senate/toc_pdf/26S3420.pdf;fileType=application%2Fpdf
   last_updated: 2026-10-12
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29244%2F0170%22
+- bill_id: s1521
+  title: Treasury Laws Amendment (Scrapping Scope 3) Bill 2026
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: 'Amends the Corporations Act 2001 to: remove mandatory Scope 3 greenhouse
+    gas emissions reporting requirements; and exclude certain entities from the mandatory
+    sustainability reporting regime; and make consequential amendments.'
+  introducer_name: Jane Hume
+  introducer_party: Liberal
+  introducer_id: '10853'
+  introducer_division: Victoria
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1521_first-senate/toc_pdf/26S3820.pdf;fileType=application%2Fpdf
+  last_updated: 2026-10-14
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29246%2F0165%22
 - bill_id: s1522
   title: Protecting Australia&rsquo;s Defence Heritage Bill 2026
   status: Before Senate
@@ -1759,6 +2264,24 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1523_first-senate/toc_pdf/26S3620.pdf;fileType=application%2Fpdf
   last_updated: 2026-10-14
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29246%2F0188%22
+- bill_id: s1524
+  title: Water Amendment (Ending Further Murray-Darling Basin Water Buybacks) Bill
+    2026
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: Amends the Water Act 2007 to prohibit the Commonwealth from entering into
+    a contract to purchase a permanent or ongoing surface water access entitlement
+    in the Murray-Darling Basin if the purchase would increase the total share of
+    basin surface water resources accessible to the Commonwealth under such entitlements.
+  introducer_name: Matthew Canavan
+  introducer_party: Liberal National Party
+  introducer_id: '10827'
+  introducer_division: Queensland
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1524_first-senate/toc_pdf/26S3920.pdf;fileType=application%2Fpdf
+  last_updated: 2026-10-15
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29247%2F0072%22
 - bill_id: s1525
   title: Freedom of Information and Other Legislation Amendment (Stop the Financial
     Coercion) Bill 2026
