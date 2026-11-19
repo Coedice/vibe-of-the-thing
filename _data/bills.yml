@@ -335,23 +335,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7506_first-reps/toc_pdf/26092b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-06-29
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29168%2F0024%22
-- bill_id: r7508
-  title: Therapeutic Goods (Charges) Amendment Bill 2026
-  status: Before Senate
-  type: Government
-  portfolio: Health, Disability and Ageing
-  originating_house: House of Representatives
-  summary: Introduced with the Therapeutic Goods Amendment (Medicines Shortages and
-    Other Measures) Bill 2026, the bill amends the Therapeutic Goods (Charges) Act
-    1989 to enable annual charges to be prescribed for the inclusion of grouped biologicals
-    in the Australian Register of Therapeutic Goods.
-  introducer_name: Rebecca White
-  introducer_party: Labor
-  introducer_id: '11052'
-  introducer_division: Lyons
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7508_first-reps/toc_pdf/26087b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-11-18
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29171%2F0068%22
 - bill_id: r7509
   title: Therapeutic Goods Amendment (Medicines Shortages and Other Measures) Bill
     2026
@@ -371,7 +354,7 @@ pending:
   introducer_id: '11052'
   introducer_division: Lyons
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7509_first-reps/toc_pdf/26088b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-11-18
+  last_updated: 2026-11-19
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29171%2F0064%22
 - bill_id: r7511
   title: Human Rights (Children Born Alive Protection) Bill 2026
@@ -457,7 +440,7 @@ pending:
   introducer_id: '10751'
   introducer_division: Greenway
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7527_first-reps/toc_pdf/26105b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-11-18
+  last_updated: 2026-11-19
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29173%2F0022%22
 - bill_id: r7531
   title: Criminal Code Amendment (National Sport Integrity Offences) Bill 2026
@@ -575,24 +558,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7543_first-reps/toc_pdf/26124b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-09-14
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29183%2F0110%22
-- bill_id: r7544
-  title: Private Health Insurance (National Joint Replacement Register Levy) Amendment
-    Bill 2026
-  status: Before Senate
-  type: Government
-  portfolio: Health, Disability and Ageing
-  originating_house: House of Representatives
-  summary: Amends the Private Health Insurance (National Joint Replacement Register
-    Levy) Act 2009 to remove the $5000 cap on the levy that may be imposed on sponsors
-    of joint replacement devices listed on the Prescribed List of Medical Devices
-    and Human Tissue Products.
-  introducer_name: Anika Wells
-  introducer_party: Labor
-  introducer_id: '10931'
-  introducer_division: Lilley
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7544_first-reps/toc_pdf/26122b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-11-18
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29186%2F0019%22
 - bill_id: r7545
   title: Red Lines Package Omnibus Bill 2026
   status: Before Reps
@@ -768,7 +733,9 @@ pending:
   type: Government
   portfolio: Climate Change, Energy, the Environment and Water
   originating_house: House of Representatives
-  summary: null
+  summary: 'Amends the Competition and Consumer Act 2010 to: establish a framework
+    to enable the Australian Energy Regulator to conduct inquiries in relation to
+    the supply of energy-related goods or services; and make consequential amendments.'
   introducer_name: Josh Wilson
   introducer_party: Labor
   introducer_id: '10893'
@@ -921,13 +888,23 @@ pending:
   type: Government
   portfolio: Defence
   originating_house: House of Representatives
-  summary: null
+  summary: 'Amends the: Defence Act 1903 to: establish a framework to support defence
+    capability development and preparedness activities conducted in Australia; establish
+    a consolidated defence security zone framework to protect defence personnel, activities,
+    capabilities, assets and facilities; expand the oversight functions of the Inspector-General
+    of the Australian Defence Force and the Parliamentary Joint Committee on Defence;
+    and replace roman numerals in certain headings in the Act; and Criminal Code Act
+    1995, Marine Safety (Domestic Commercial Vessel) National Law Act 2012, Navigation
+    Act 2012 and Telecommunications (Interception and Access) Act 1979 to provide
+    for capability declarations. Also makes consequential or contingent amendments
+    to 22 Acts and 2 regulations and repeals the Control of Naval Waters Act 1918
+    and Defence (Special Undertakings) Act 1952.'
   introducer_name: Peter Khalil
   introducer_party: Labor
   introducer_id: '10887'
   introducer_division: Wills
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7568_first-reps/toc_pdf/26146b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-11-18
+  last_updated: 2026-11-19
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29192%2F0027%22
 - bill_id: s1138
   title: Plebiscite (Future Migration Level) Bill 2018
@@ -1250,7 +1227,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1442_first-senate/toc_pdf/25S0120.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0196%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0195%22
 - bill_id: s1443
   title: Tertiary Education Legislation Amendment (There For Education, Not Profit)
     Bill 2025
@@ -1268,7 +1245,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1443_first-senate/toc_pdf/25S0320.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0209%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0208%22
 - bill_id: s1444
   title: Remuneration Tribunal Amendment (There For Public Service, Not Profit) Bill
     2025
@@ -1695,7 +1672,7 @@ pending:
   introducer_division: Queensland
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1489_first-senate/toc_pdf/26S0520.pdf;fileType=application%2Fpdf
   last_updated: 2026-03-10
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29208%2F0153%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29208%2F0154%22
 - bill_id: s1490
   title: Prime Agricultural Land Protection Bill 2026 (No. 2)
   status: Before Senate
@@ -1710,7 +1687,7 @@ pending:
   introducer_division: Queensland
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1490_first-senate/toc_pdf/26S0620.pdf;fileType=application%2Fpdf
   last_updated: 2026-03-11
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29209%2F0179%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29209%2F0177%22
 - bill_id: s1491
   title: Online Safety Amendment (Fix Our Feeds) Bill 2026
   status: Before Senate
@@ -1974,25 +1951,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1509_first-senate/toc_pdf/26S2320.pdf;fileType=application%2Fpdf
   last_updated: 2026-08-18
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29233%2F0124%22
-- bill_id: s1510
-  title: Fair Work Amendment (Disqualified Officers) Bill 2026
-  status: Before Senate
-  type: Private
-  portfolio: null
-  originating_house: Senate
-  summary: 'Amends the: Fair Work (Registered Organisations) Act 2009 to enable the
-    administrator of a registered organisation to permanently expel members and disqualify
-    officers in certain circumstances, removing the current five-year limit on periods
-    of expulsion and disqualification; and Fair Work (Registered Organisations) (CFMEU
-    Construction and General Division Administration) Determination 2024 to make a
-    consequential amendment.'
-  introducer_name: Jane Hume
-  introducer_party: Liberal
-  introducer_id: '10853'
-  introducer_division: Victoria
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1510_first-senate/toc_pdf/26S2420.pdf;fileType=application%2Fpdf
-  last_updated: 2026-09-09
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29234%2F0133%22
 - bill_id: s1511
   title: Migration Amendment (Overseas Organ Transplant Disclosure) Bill 2026
   status: Before Senate
@@ -2072,7 +2030,7 @@ pending:
   introducer_division: NSW
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1515_first-senate/toc_pdf/26S3020.pdf;fileType=application%2Fpdf
   last_updated: 2026-09-15
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0112%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0111%22
 - bill_id: s1516
   title: Environment and Other Legislation Amendment (Fast Tracking Coal, Gas and
     Oil Projects) Bill 2026
@@ -2291,7 +2249,7 @@ pending:
   introducer_id: '10849'
   introducer_division: Queensland
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1529_first-senate/toc_pdf/2614820.pdf;fileType=application%2Fpdf
-  last_updated: 2026-11-17
+  last_updated: 2026-11-19
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29249%2F0208%22
 - bill_id: s1530
   title: Australian Education Amendment (Accountability and Transparency for Private
@@ -6017,3 +5975,22 @@ failed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1503_first-senate/toc_pdf/26S1620.pdf;fileType=application%2Fpdf
   last_updated: 2026-09-10
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29230%2F0183%22
+- bill_id: s1510
+  title: Fair Work Amendment (Disqualified Officers) Bill 2026
+  status: Not Proceeding
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: 'Amends the: Fair Work (Registered Organisations) Act 2009 to enable the
+    administrator of a registered organisation to permanently expel members and disqualify
+    officers in certain circumstances, removing the current five-year limit on periods
+    of expulsion and disqualification; and Fair Work (Registered Organisations) (CFMEU
+    Construction and General Division Administration) Determination 2024 to make a
+    consequential amendment.'
+  introducer_name: Jane Hume
+  introducer_party: Liberal
+  introducer_id: '10853'
+  introducer_division: Victoria
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1510_first-senate/toc_pdf/26S2420.pdf;fileType=application%2Fpdf
+  last_updated: 2026-11-19
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29234%2F0133%22
