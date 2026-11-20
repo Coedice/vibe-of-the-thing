@@ -67780,3 +67780,58 @@ reports:
   slug: cprc
   title: Untitled
   recommendations: []
+- think_tank: Lowy Institute
+  source_url: https://cdn.sanity.io/files/5dcouzig/production/fdac3d195ed194db19494ecc481e0400d6c64800.pdf
+  slug: lowy
+  title: Untitled
+  recommendations: []
+- think_tank: COTA Australia
+  source_url: https://cota.org.au/wp-content/uploads/2026/11/COTA-MR-1126-super-consultation-FINAL.pdf
+  slug: cota
+  title: Untitled
+  recommendations: []
+- think_tank: COTA Australia
+  source_url: https://cota.org.au/wp-content/uploads/2026/11/COTA-MR-2611-Support-at-Home-Pricing-FINAL.pdf
+  slug: cota
+  title: Untitled
+  recommendations: []
+- think_tank: Institute of Public Affairs
+  source_url: https://ipa.org.au/wp-content/uploads/The-Dark-Legacy-of-Daniel-Andrews-Chapter-9-Intro-Why-This-Is-A-Necessary-Book-2025.pdf
+  slug: ipa
+  title: Untitled
+  recommendations: []
+- think_tank: Institute of Public Affairs
+  source_url: https://ipa.org.au/wp-content/uploads/IPA-Working-Paper-3.26-Pseudoscience-weaponised.pdf
+  slug: ipa
+  title: Untitled
+  recommendations: []
+- think_tank: Universities Australia
+  source_url: https://universitiesaustralia.edu.au/wp-content/uploads/2026/11/20261120-Submission-on-Consultation-to-Temporary-Funding-Floor-Consultation-1.pdf
+  slug: universities-australia
+  title: Untitled
+  recommendations: []
+- think_tank: Universities Australia
+  source_url: https://universitiesaustralia.edu.au/wp-content/uploads/2026/11/261118-UA-submission-Commonwealth-Grant-Scheme-Guidelines-2026-Instrument.pdf
+  slug: universities-australia
+  title: Untitled
+  recommendations: []
+- think_tank: Safe and Equal
+  source_url: https://safeandequal.org.au/wp-content/uploads/Safe-and-Equal-2026-Financial-Statements-FINAL.pdf
+  slug: safe-and-equal
+  title: Untitled
+  recommendations: []
+- think_tank: Safe and Equal
+  source_url: https://safeandequal.org.au/wp-content/uploads/SafeAndEqual_AR25-26_FINAL_01.pdf
+  slug: safe-and-equal
+  title: Untitled
+  recommendations: []
+- think_tank: Climate Council
+  source_url: https://www.climatecouncil.org.au/wp-content/uploads/2026/11/5-Tips-For-Talking-About-Climate-Change-1.pdf
+  slug: climate-council
+  title: Untitled
+  recommendations: []
+- think_tank: Climate Council
+  source_url: https://www.climatecouncil.org.au/wp-content/uploads/2026/11/Pollution-Pipeline-Australias-Dirtiest-Data-Centres-Report.pdf
+  slug: climate-council
+  title: Untitled
+  recommendations: []
