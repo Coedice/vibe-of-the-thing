@@ -1245,7 +1245,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1443_first-senate/toc_pdf/25S0320.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0208%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0209%22
 - bill_id: s1444
   title: Remuneration Tribunal Amendment (There For Public Service, Not Profit) Bill
     2025
@@ -1704,7 +1704,7 @@ pending:
   introducer_division: SA
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1491_first-senate/toc_pdf/26S0820.pdf;fileType=application%2Fpdf
   last_updated: 2026-04-01
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29217%2F0236%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29217%2F0238%22
 - bill_id: s1492
   title: Commonwealth Environmental Water Holder Commission of Inquiry Bill 2026
   status: Before Senate
@@ -1721,7 +1721,7 @@ pending:
   introducer_division: NSW
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1492_first-senate/toc_pdf/26S0720.pdf;fileType=application%2Fpdf
   last_updated: 2026-04-01
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29216%2F0180%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29216%2F0182%22
 - bill_id: s1494
   title: Extended Producer Responsibility Scheme for Packaging (No Time to Waste)
     Bill 2026
@@ -2030,7 +2030,7 @@ pending:
   introducer_division: NSW
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1515_first-senate/toc_pdf/26S3020.pdf;fileType=application%2Fpdf
   last_updated: 2026-09-15
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0111%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0112%22
 - bill_id: s1516
   title: Environment and Other Legislation Amendment (Fast Tracking Coal, Gas and
     Oil Projects) Bill 2026
@@ -2089,7 +2089,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1518_first-senate/toc_pdf/26S3120.pdf;fileType=application%2Fpdf
   last_updated: 2026-09-17
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0132%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0133%22
 - bill_id: s1519
   title: Wearable Recording Devices (Import Control) Bill 2026
   status: Before Senate
@@ -4314,13 +4314,13 @@ passed:
     \ goods, materials or capabilities considered essential to Australia\u2019s economic\
     \ security, supply chain resilience or national interest; provide for remuneration\
     \ and allowances for committee members; and provide for reporting requirements."
-  introducer_name: Nita Green
+  introducer_name: Chris Bowen
   introducer_party: Labor
-  introducer_id: '10950'
-  introducer_division: Queensland
+  introducer_id: '10060'
+  introducer_division: McMahon
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7472_aspassed/toc_pdf/26052b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-04-01
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29216%2F0235%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29151%2F0085%22
 - bill_id: r7473
   title: Appropriation (Fuel Security Response) Bill (No. 2) 2025-2026
   status: Act
@@ -4330,13 +4330,13 @@ passed:
   summary: Appropriates additional money out of the Consolidated Revenue Fund for
     certain expenditure for the purposes of responding to circumstances relating to
     fuel security response measures.
-  introducer_name: null
+  introducer_name: Jim Chalmers
   introducer_party: Labor
-  introducer_id: null
-  introducer_division: null
+  introducer_id: '10809'
+  introducer_division: Rankin
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7473_aspassed/toc_pdf/26054b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-04-01
-  second_reading_hansard_url: null
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29151%2F0092%22
 - bill_id: r7474
   title: Appropriation (Fuel Security Response) Bill (No. 1) 2025-2026
   status: Act
@@ -4346,13 +4346,13 @@ passed:
   summary: Appropriates additional money out of the Consolidated Revenue Fund for
     the ordinary annual services of the government for the purposes of responding
     to circumstances relating to fuel security response measures.
-  introducer_name: null
+  introducer_name: Jim Chalmers
   introducer_party: Labor
-  introducer_id: null
-  introducer_division: null
+  introducer_id: '10809'
+  introducer_division: Rankin
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7474_aspassed/toc_pdf/26053b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-04-01
-  second_reading_hansard_url: null
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29151%2F0089%22
 - bill_id: r7477
   title: Treasury Laws Amendment (Fuel Excise Relief) Bill 2026
   status: Act
@@ -4367,13 +4367,13 @@ passed:
     and Fuel Tax Act 2006 to provide the Transport Minister with the power, on a temporary
     basis, to vary the road user charge for a financial year commencing on 1 July
     2025 or 1 July 2026.'
-  introducer_name: null
+  introducer_name: Jim Chalmers
   introducer_party: Labor
-  introducer_id: null
-  introducer_division: null
+  introducer_id: '10809'
+  introducer_division: Rankin
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7477_aspassed/toc_pdf/26055b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-04-01
-  second_reading_hansard_url: null
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29152%2F0015%22
 - bill_id: r7480
   title: Treasury Laws Amendment (Business Registries Stabilisation and Uplift) Bill
     2026
