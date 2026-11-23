@@ -338,7 +338,7 @@ pending:
 - bill_id: r7509
   title: Therapeutic Goods Amendment (Medicines Shortages and Other Measures) Bill
     2026
-  status: Before Senate
+  status: Before Reps
   type: Government
   portfolio: Health, Disability and Ageing
   originating_house: House of Representatives
@@ -354,7 +354,7 @@ pending:
   introducer_id: '11052'
   introducer_division: Lyons
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7509_first-reps/toc_pdf/26088b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-11-19
+  last_updated: 2026-11-23
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29171%2F0064%22
 - bill_id: r7511
   title: Human Rights (Children Born Alive Protection) Bill 2026
@@ -373,37 +373,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7511_first-reps/toc_pdf/26110b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-08-17
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29175%2F0233%22
-- bill_id: r7516
-  title: Administrative and Judicial Review Legislation Amendment Bill 2026
-  status: Before Senate
-  type: Government
-  portfolio: Attorney-General
-  originating_house: House of Representatives
-  summary: 'Amends the: Administrative Review Tribunal Act 2024 to: authorise registrars
-    to exercise additional powers, including the power to reinstate and dismiss applications;
-    enable the correction of obvious errors in orders issued by registrars; clarify
-    that the President is assigned to every jurisdictional area; provide for additional
-    matters to be considered when appointing non-judicial members and change the basis
-    on which non-judicial members are appointed; and expand the class of decisions
-    that are treated as intelligence and security decisions; Administrative Review
-    Tribunal Act 2024 and Child Support (Registration and Collection) Act 1988 to
-    exclude the period from 24 December to 14 January from the calculation of time
-    for an original decision-maker to provide certain documents; Taxation Administration
-    Act 1953 to prescribe a standardised timeframe for making certain applications
-    to the Administrative Review Tribunal (ART) for review; Migration Act 1958 to:
-    require applications to the ART for review of certain decisions to be made using
-    an approved form; clarify that the ART may permit the examination or cross-examination
-    of a person giving evidence before the tribunal; remove the requirement to notify
-    the secretary of dismissal decisions in certain reviews; and require identity
-    verification for certain matters; and Administrative Review Tribunal Act 2024
-    and Migration Act 1958 to enable the ART to give reasons for its decisions orally.'
-  introducer_name: Michelle Rowland
-  introducer_party: Labor
-  introducer_id: '10751'
-  introducer_division: Greenway
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7516_first-reps/toc_pdf/26095b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-11-18
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29170%2F0022%22
 - bill_id: r7523
   title: Passenger Movement Charge Amendment Bill 2026
   status: Before Reps
@@ -417,31 +386,8 @@ pending:
   introducer_id: '10885'
   introducer_division: Bruce
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7523_first-reps/toc_pdf/26102b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-09-10
+  last_updated: 2026-11-23
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29173%2F0031%22
-- bill_id: r7527
-  title: Counter-Terrorism Legislation Amendment Bill 2026
-  status: Before Senate
-  type: Government
-  portfolio: Attorney-General
-  originating_house: House of Representatives
-  summary: 'Amends the: Crimes Act 1914 and Criminal Code Act 1995 to: extend the
-    operation of certain counter-terrorism powers and other frameworks for a further
-    3 years, until 7 December 2029; and expand information-sharing arrangements; Criminal
-    Code Act 1995 to: update the post-sentence order and control order frameworks
-    for serious terrorist offenders; clarify the process for de-listing terrorist
-    organisations; and expand protections for United Nations and associated personnel;
-    Surveillance Devices Act 2004 and Telecommunications (Interception and Access)
-    Act 1979 to enable agencies to obtain warrants in relation to serious terrorist
-    offenders in custody when considering applications for control orders. Also makes
-    consequential amendments to 5 Acts.'
-  introducer_name: Michelle Rowland
-  introducer_party: Labor
-  introducer_id: '10751'
-  introducer_division: Greenway
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7527_first-reps/toc_pdf/26105b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-11-19
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29173%2F0022%22
 - bill_id: r7531
   title: Criminal Code Amendment (National Sport Integrity Offences) Bill 2026
   status: Before Senate
@@ -626,7 +572,7 @@ pending:
   introducer_id: '10513'
   introducer_division: Sydney
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7549_first-reps/toc_pdf/26128b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-10-15
+  last_updated: 2026-11-23
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29186%2F0023%22
 - bill_id: r7550
   title: Antisemitism in Higher Education Bill 2026
@@ -681,7 +627,7 @@ pending:
   introducer_id: '10931'
   introducer_division: Lilley
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7553_third-reps/toc_pdf/26131b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-11-16
+  last_updated: 2026-11-23
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29190%2F0019%22
 - bill_id: r7554
   title: Treasury Laws Amendment (Tax Reform No. 3) Bill 2026
@@ -743,6 +689,34 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7556_first-reps/toc_pdf/26133b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-10-28
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29193%2F0013%22
+- bill_id: r7557
+  title: Housing Australia (Prioritising Australian Citizens) Bill 2026
+  status: Before Reps
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Tim Wilson
+  introducer_party: Liberal
+  introducer_id: '10894'
+  introducer_division: Goldstein
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7557_first-reps/toc_pdf/26141b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-11-23
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29195%2F0247%22
+- bill_id: r7558
+  title: Commonwealth Electoral Amendment (Banning Fossil Fuel Donations) Bill 2026
+  status: Before Reps
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Elizabeth Watson-Brown
+  introducer_party: Greens
+  introducer_id: '10997'
+  introducer_division: Ryan
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7558_first-reps/toc_pdf/26142b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-11-23
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29195%2F0252%22
 - bill_id: r7559
   title: Domestic Gas Reservation Bill 2026
   status: Before Senate
@@ -801,6 +775,34 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7561_first-reps/toc_pdf/26135b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-11-16
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29189%2F0013%22
+- bill_id: r7562
+  title: Scrap Net Zero (Cheaper Energy) Bill 2026
+  status: Before Reps
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Dan Tehan
+  introducer_party: Liberal
+  introducer_id: '10742'
+  introducer_division: Wannon
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7562_first-reps/toc_pdf/26143b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-11-23
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29195%2F0257%22
+- bill_id: r7563
+  title: Cash is King Bill 2026
+  status: Before Reps
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Kevin Hogan
+  introducer_party: Nationals
+  introducer_id: '10806'
+  introducer_division: Page
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7563_first-reps/toc_pdf/26144b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-11-23
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29195%2F0261%22
 - bill_id: r7564
   title: Private Health Insurance Amendment (Modernising the Private Health Insurance
     Rebate) Bill 2026 [No. 2]
@@ -881,31 +883,62 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7567_first-reps/toc_pdf/26145b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-10-28
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29193%2F0017%22
-- bill_id: r7568
-  title: Defence Legislation Amendment (Accelerating Capability and Protecting Bases)
-    Bill 2026
-  status: Before Senate
+- bill_id: r7569
+  title: National Health Amendment (Cheaper Medicines) Bill 2026
+  status: Before Reps
   type: Government
-  portfolio: Defence
+  portfolio: Health, Disability and Ageing
   originating_house: House of Representatives
-  summary: 'Amends the: Defence Act 1903 to: establish a framework to support defence
-    capability development and preparedness activities conducted in Australia; establish
-    a consolidated defence security zone framework to protect defence personnel, activities,
-    capabilities, assets and facilities; expand the oversight functions of the Inspector-General
-    of the Australian Defence Force and the Parliamentary Joint Committee on Defence;
-    and replace roman numerals in certain headings in the Act; and Criminal Code Act
-    1995, Marine Safety (Domestic Commercial Vessel) National Law Act 2012, Navigation
-    Act 2012 and Telecommunications (Interception and Access) Act 1979 to provide
-    for capability declarations. Also makes consequential or contingent amendments
-    to 22 Acts and 2 regulations and repeals the Control of Naval Waters Act 1918
-    and Defence (Special Undertakings) Act 1952.'
-  introducer_name: Peter Khalil
+  summary: null
+  introducer_name: null
   introducer_party: Labor
-  introducer_id: '10887'
-  introducer_division: Wills
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7568_first-reps/toc_pdf/26146b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-11-19
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29192%2F0027%22
+  introducer_id: null
+  introducer_division: null
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7569_first-reps/toc_pdf/26147b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-11-23
+  second_reading_hansard_url: null
+- bill_id: r7571
+  title: Banks Stick to Banking Bill 2026
+  status: Before Reps
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Kevin Hogan
+  introducer_party: Nationals
+  introducer_id: '10806'
+  introducer_division: Page
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7571_first-reps/toc_pdf/26151b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-11-23
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29195%2F0269%22
+- bill_id: r7572
+  title: National Lobbying Bill 2026
+  status: Before Reps
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Monique Ryan
+  introducer_party: Independent
+  introducer_id: '10987'
+  introducer_division: Kooyong
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7572_first-reps/toc_pdf/26152b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-11-23
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29195%2F0273%22
+- bill_id: r7573
+  title: Fair Fuel Price Bill 2026
+  status: Before Reps
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Andrew Gee
+  introducer_party: Independent
+  introducer_id: '10883'
+  introducer_division: Calare
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7573_first-reps/toc_pdf/26153b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-11-23
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29195%2F0278%22
 - bill_id: s1138
   title: Plebiscite (Future Migration Level) Bill 2018
   status: Before Senate
@@ -1263,7 +1296,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1444_first-senate/toc_pdf/25S0220.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0209%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0208%22
 - bill_id: s1445
   title: Great Australian Bight (World Heritage Protection) Bill 2025
   status: Before Senate
@@ -2030,7 +2063,7 @@ pending:
   introducer_division: NSW
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1515_first-senate/toc_pdf/26S3020.pdf;fileType=application%2Fpdf
   last_updated: 2026-09-15
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0112%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0111%22
 - bill_id: s1516
   title: Environment and Other Legislation Amendment (Fast Tracking Coal, Gas and
     Oil Projects) Bill 2026
@@ -2089,7 +2122,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1518_first-senate/toc_pdf/26S3120.pdf;fileType=application%2Fpdf
   last_updated: 2026-09-17
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0133%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0132%22
 - bill_id: s1519
   title: Wearable Recording Devices (Import Control) Bill 2026
   status: Before Senate
@@ -2239,17 +2272,29 @@ pending:
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29248%2F0143%22
 - bill_id: s1529
   title: Commonwealth Electoral Amendment Bill 2026
-  status: Before Senate
+  status: Before Reps
   type: Government
   portfolio: Finance
   originating_house: Senate
-  summary: null
+  summary: "Amends the Commonwealth Electoral Act 1918 to refine the funding and disclosure\
+    \ framework due to come into effect on 1 January 2027 by: clarifying the amount\
+    \ permitted to be withdrawn from a federal account; providing certain entities\
+    \ and third parties with a mechanism to repurpose amounts derived from member\
+    \ dues that have been credited to a federal account; enabling an investment mechanism\
+    \ for federal accounts; clarifying that credit cards can be used to incur electoral\
+    \ expenditure; clarifying that provisions immunising gifts from state and territory\
+    \ laws apply only to gifts given for federal purposes; clarifying the treatment\
+    \ of certain federal structures; exempting expenditure on how-to-vote card material\
+    \ from certain electoral expenditure cap civil penalties; excluding certain small\
+    \ monetary gifts from gift cap and disclosure requirements; removing and amending\
+    \ certain annual return requirements; replacing references to \u2018financial\
+    \ year\u2019 with \u2018calendar year\u2019; and making technical amendments."
   introducer_name: Anthony Chisholm
   introducer_party: Labor
   introducer_id: '10849'
   introducer_division: Queensland
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1529_first-senate/toc_pdf/2614820.pdf;fileType=application%2Fpdf
-  last_updated: 2026-11-19
+  last_updated: 2026-11-23
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29249%2F0208%22
 - bill_id: s1530
   title: Australian Education Amendment (Accountability and Transparency for Private
