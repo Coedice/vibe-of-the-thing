@@ -13,27 +13,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7332_first-reps/toc_pdf/25027b01.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-22
   second_reading_hansard_url: null
-- bill_id: r7451
-  title: Telecommunications Legislation Amendment (Strengthening Communications in
-    Natural Disasters) Bill 2026
-  status: Before Reps
-  type: Private
-  portfolio: null
-  originating_house: House of Representatives
-  summary: 'Amends the: Telecommunications Act 1997 to require the Australian Communications
-    and Media Authority to make a service provider determination in relation to minimum
-    power requirements at high risk sites; and Telecommunications (Consumer Protection
-    and Service Standards) Act 1999 to: enable the minister to make rules requiring
-    temporary disaster roaming in certain circumstances; and provide that the provision
-    of telecommunications services during natural disasters is an eligible purpose
-    for which public interest telecommunications grants may be made.'
-  introducer_name: Helen Haines
-  introducer_party: Independent
-  introducer_id: '10929'
-  introducer_division: Indi
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7451_first-reps/toc_pdf/26031b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-05-25
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29157%2F0211%22
 - bill_id: r7454
   title: Australian Criminal Intelligence Commission Bill 2026
   status: Before Reps
@@ -53,7 +32,7 @@ pending:
   introducer_id: '10885'
   introducer_division: Bruce
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7454_first-reps/toc_pdf/26034b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-10-28
+  last_updated: 2026-11-24
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29149%2F0034%22
 - bill_id: r7455
   title: Australian Criminal Intelligence Commission (National Policing Information
@@ -71,7 +50,7 @@ pending:
   introducer_id: '10885'
   introducer_division: Bruce
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7455_first-reps/toc_pdf/26035b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-10-28
+  last_updated: 2026-11-24
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29149%2F0038%22
 - bill_id: r7467
   title: Secrecy Provisions Amendment (Repealing Offences) Bill 2026
@@ -181,24 +160,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7475_first-reps/toc_pdf/26051b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-06-30
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29153%2F0071%22
-- bill_id: r7476
-  title: Commonwealth Environmental Water Holder Commission of Inquiry Bill 2026 (No.
-    2)
-  status: Before Reps
-  type: Private
-  portfolio: null
-  originating_house: House of Representatives
-  summary: Establishes the Commonwealth Environmental Water Holder Commission of Inquiry
-    to inquire into and report on the management, use, performance and outcomes of
-    Commonwealth environmental water holdings, with particular focus on the role,
-    functions and conduct of the Commonwealth Environmental Water Holder.
-  introducer_name: Alison Penfold
-  introducer_party: Nationals
-  introducer_id: '11046'
-  introducer_division: Lyne
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7476_first-reps/toc_pdf/26067b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-05-25
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29157%2F0216%22
 - bill_id: r7478
   title: Carbon Credits (Carbon Farming Initiative) Amendment Bill 2026
   status: Before Reps
@@ -232,23 +193,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7479_first-reps/toc_pdf/26068b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-06-29
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29157%2F0220%22
-- bill_id: r7488
-  title: Human Rights Bill 2026
-  status: Before Reps
-  type: Private
-  portfolio: null
-  originating_house: House of Representatives
-  summary: "Establishes a framework to advance and protect human rights in Australia,\
-    \ including by giving effect to Australia\u2019s obligations under international\
-    \ human rights law and providing the Australian Human Rights Commission with additional\
-    \ powers and functions."
-  introducer_name: Andrew Wilkie
-  introducer_party: Independent
-  introducer_id: '10727'
-  introducer_division: Clark
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7488_first-reps/toc_pdf/26069b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-05-25
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29157%2F0224%22
 - bill_id: r7495
   title: Public Governance, Performance and Accountability Amendment (Supporting Small
     Businesses To Be Paid On Time) Bill 2026
@@ -386,7 +330,7 @@ pending:
   introducer_id: '10885'
   introducer_division: Bruce
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7523_first-reps/toc_pdf/26102b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-11-23
+  last_updated: 2026-11-24
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29173%2F0031%22
 - bill_id: r7531
   title: Criminal Code Amendment (National Sport Integrity Offences) Bill 2026
@@ -572,7 +516,7 @@ pending:
   introducer_id: '10513'
   introducer_division: Sydney
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7549_first-reps/toc_pdf/26128b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-11-23
+  last_updated: 2026-11-24
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29186%2F0023%22
 - bill_id: r7550
   title: Antisemitism in Higher Education Bill 2026
@@ -627,7 +571,7 @@ pending:
   introducer_id: '10931'
   introducer_division: Lilley
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7553_third-reps/toc_pdf/26131b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-11-23
+  last_updated: 2026-11-24
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29190%2F0019%22
 - bill_id: r7554
   title: Treasury Laws Amendment (Tax Reform No. 3) Bill 2026
@@ -833,7 +777,7 @@ pending:
   introducer_id: '10136'
   introducer_division: Franklin
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7565_first-reps/toc_pdf/26139b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-10-28
+  last_updated: 2026-11-24
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29193%2F0009%22
 - bill_id: r7566
   title: Treasury Laws Amendment (Tax Reform No. 4) Bill 2026
@@ -890,13 +834,13 @@ pending:
   portfolio: Health, Disability and Ageing
   originating_house: House of Representatives
   summary: null
-  introducer_name: null
+  introducer_name: Mark Butler
   introducer_party: Labor
-  introducer_id: null
-  introducer_division: null
+  introducer_id: '10086'
+  introducer_division: Hindmarsh
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7569_first-reps/toc_pdf/26147b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-11-23
-  second_reading_hansard_url: null
+  last_updated: 2026-11-24
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29195%2F0424%22
 - bill_id: r7571
   title: Banks Stick to Banking Bill 2026
   status: Before Reps
@@ -1278,7 +1222,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1443_first-senate/toc_pdf/25S0320.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0209%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0208%22
 - bill_id: s1444
   title: Remuneration Tribunal Amendment (There For Public Service, Not Profit) Bill
     2025
@@ -1296,7 +1240,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1444_first-senate/toc_pdf/25S0220.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0208%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0209%22
 - bill_id: s1445
   title: Great Australian Bight (World Heritage Protection) Bill 2025
   status: Before Senate
@@ -2063,7 +2007,7 @@ pending:
   introducer_division: NSW
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1515_first-senate/toc_pdf/26S3020.pdf;fileType=application%2Fpdf
   last_updated: 2026-09-15
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0111%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0112%22
 - bill_id: s1516
   title: Environment and Other Legislation Amendment (Fast Tracking Coal, Gas and
     Oil Projects) Bill 2026
@@ -2104,7 +2048,7 @@ pending:
   introducer_division: ACT
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1517_first-senate/toc_pdf/26S3220.pdf;fileType=application%2Fpdf
   last_updated: 2026-09-15
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0126%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0128%22
 - bill_id: s1518
   title: Military Rehabilitation and Compensation Amendment (Veterans&rsquo; Healthcare
     Without Caps) Bill 2026
@@ -2294,7 +2238,7 @@ pending:
   introducer_id: '10849'
   introducer_division: Queensland
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1529_first-senate/toc_pdf/2614820.pdf;fileType=application%2Fpdf
-  last_updated: 2026-11-23
+  last_updated: 2026-11-24
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29249%2F0208%22
 - bill_id: s1530
   title: Australian Education Amendment (Accountability and Transparency for Private
@@ -2311,6 +2255,20 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1530_first-senate/toc_pdf/26S4220.pdf;fileType=application%2Fpdf
   last_updated: 2026-11-18
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29250%2F0174%22
+- bill_id: s1531
+  title: Australian Soldiers of the Anglo-Boer War Commission of Inquiry Bill 2026
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: null
+  introducer_name: Ralph Babet
+  introducer_party: United Australia Party
+  introducer_id: '11003'
+  introducer_division: Victoria
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1531_first-senate/toc_pdf/26S4320.pdf;fileType=application%2Fpdf
+  last_updated: 2026-11-24
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29253%2F0205%22
 - bill_id: s996
   title: Landholders&rsquo; Right to Refuse (Gas and Coal) Bill 2015
   status: Before Senate
@@ -5760,6 +5718,27 @@ failed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7450_first-reps/toc_pdf/26030b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-10-13
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29147%2F0240%22
+- bill_id: r7451
+  title: Telecommunications Legislation Amendment (Strengthening Communications in
+    Natural Disasters) Bill 2026
+  status: Not Proceeding
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: 'Amends the: Telecommunications Act 1997 to require the Australian Communications
+    and Media Authority to make a service provider determination in relation to minimum
+    power requirements at high risk sites; and Telecommunications (Consumer Protection
+    and Service Standards) Act 1999 to: enable the minister to make rules requiring
+    temporary disaster roaming in certain circumstances; and provide that the provision
+    of telecommunications services during natural disasters is an eligible purpose
+    for which public interest telecommunications grants may be made.'
+  introducer_name: Helen Haines
+  introducer_party: Independent
+  introducer_id: '10929'
+  introducer_division: Indi
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7451_first-reps/toc_pdf/26031b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-11-24
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29157%2F0211%22
 - bill_id: r7459
   title: Interactive Gambling Amendment (Stop the Gambling Ads) Bill 2026
   status: Not Proceeding
@@ -5793,6 +5772,41 @@ failed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7460_first-reps/toc_pdf/26048b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-10-27
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29151%2F0051%22
+- bill_id: r7476
+  title: Commonwealth Environmental Water Holder Commission of Inquiry Bill 2026 (No.
+    2)
+  status: Not Proceeding
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: Establishes the Commonwealth Environmental Water Holder Commission of Inquiry
+    to inquire into and report on the management, use, performance and outcomes of
+    Commonwealth environmental water holdings, with particular focus on the role,
+    functions and conduct of the Commonwealth Environmental Water Holder.
+  introducer_name: Alison Penfold
+  introducer_party: Nationals
+  introducer_id: '11046'
+  introducer_division: Lyne
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7476_first-reps/toc_pdf/26067b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-11-24
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29157%2F0216%22
+- bill_id: r7488
+  title: Human Rights Bill 2026
+  status: Not Proceeding
+  type: Private
+  portfolio: null
+  originating_house: House of Representatives
+  summary: "Establishes a framework to advance and protect human rights in Australia,\
+    \ including by giving effect to Australia\u2019s obligations under international\
+    \ human rights law and providing the Australian Human Rights Commission with additional\
+    \ powers and functions."
+  introducer_name: Andrew Wilkie
+  introducer_party: Independent
+  introducer_id: '10727'
+  introducer_division: Clark
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7488_first-reps/toc_pdf/26069b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-11-24
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29157%2F0224%22
 - bill_id: r7497
   title: Private Health Insurance Amendment (Modernising the Private Health Insurance
     Rebate) Bill 2026
