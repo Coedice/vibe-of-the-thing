@@ -279,27 +279,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7506_first-reps/toc_pdf/26092b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-06-29
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29168%2F0024%22
-- bill_id: r7509
-  title: Therapeutic Goods Amendment (Medicines Shortages and Other Measures) Bill
-    2026
-  status: Before Reps
-  type: Government
-  portfolio: Health, Disability and Ageing
-  originating_house: House of Representatives
-  summary: 'Introduced with the Therapeutic Goods (Charges) Amendment Bill 2026, the
-    bill amends the Therapeutic Goods Act 1989 to: expand arrangements relating to
-    medicines shortages and discontinuations; enable the determination of common biological
-    groups to allow similar biologicals to share a single entry in the Australian
-    Register of Therapeutic Goods; authorise persons to enter, search and inspect
-    clinical trial sites; enable the Medicines Watch List to incorporate other documents
-    as in force from time to time; and make consequential and technical amendments'
-  introducer_name: Rebecca White
-  introducer_party: Labor
-  introducer_id: '11052'
-  introducer_division: Lyons
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7509_first-reps/toc_pdf/26088b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-11-23
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29171%2F0064%22
 - bill_id: r7511
   title: Human Rights (Children Born Alive Protection) Bill 2026
   status: Before Reps
@@ -489,35 +468,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7546_first-reps/toc_pdf/26126b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-09-14
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29183%2F0120%22
-- bill_id: r7549
-  title: Child Support and Family Assistance Legislation Amendment (Ending Financial
-    Abuse in the Child Support Scheme No. 1) Bill 2026
-  status: Before Reps
-  type: Government
-  portfolio: Social Services
-  originating_house: House of Representatives
-  summary: 'Amends the: Child Support (Assessment) Act 1989 and Child Support (Registration
-    and Collection) Act 1988 to: enable the Child Support Registrar to refuse certain
-    child support and change of assessment applications where they may cause harm,
-    and summarily dismiss certain objections; and replace mandatory document exchange
-    requirements in change of assessment and objection processes with other information
-    exchange arrangements; A New Tax System (Family Assistance) (Administration) Act
-    1999 to: make a consequential amendment in relation to summarily dismissed objections
-    concerning care percentage decisions; and allow the recovery of certain Family
-    Tax Benefit debts to be temporarily paused; and Child Support (Registration and
-    Collection) Act 1988 to: expand the collection of child support debts, arrears
-    and overpayments by the registrar, including those arising from retrospective
-    variations during periods of private collection; and enable payers to apply for
-    child support to be collected by the registrar; and Child Support (Assessment)
-    Act 1989 to enable eligible parents in specified overseas jurisdictions to apply
-    directly to Services Australia for an Australian child support assessment.'
-  introducer_name: Tanya Plibersek
-  introducer_party: Labor
-  introducer_id: '10513'
-  introducer_division: Sydney
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7549_first-reps/toc_pdf/26128b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-11-24
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29186%2F0023%22
 - bill_id: r7550
   title: Antisemitism in Higher Education Bill 2026
   status: Before Reps
@@ -554,25 +504,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7551_first-reps/toc_pdf/26130b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-10-12
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29187%2F0126%22
-- bill_id: r7553
-  title: Online Safety Amendment (Digital Duty of Care) Bill 2026
-  status: Before Senate
-  type: Government
-  portfolio: Infrastructure, Transport, Regional Development, Communications, Sport
-    and the Arts
-  originating_house: House of Representatives
-  summary: 'Amends the Online Safety Act 2021 to: replace the existing industry code
-    framework and Basic Online Safety Expectations with a digital duty of care which
-    requires online service providers to take measures to provide a safe online environment;
-    and expand the powers of the eSafety Commissioner to regulate online services,
-    content and conduct. Also makes consequential amendments to 5 other Acts.'
-  introducer_name: Anika Wells
-  introducer_party: Labor
-  introducer_id: '10931'
-  introducer_division: Lilley
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7553_third-reps/toc_pdf/26131b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-11-24
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29190%2F0019%22
 - bill_id: r7554
   title: Treasury Laws Amendment (Tax Reform No. 3) Bill 2026
   status: Before Senate
@@ -599,24 +530,8 @@ pending:
   introducer_id: '10809'
   introducer_division: Rankin
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7554_first-reps/toc_pdf/26132b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-11-16
+  last_updated: 2026-11-25
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29189%2F0021%22
-- bill_id: r7555
-  title: Income Tax Rates Amendment (Minimum Tax on Discretionary Trusts) Bill 2026
-  status: Before Senate
-  type: Government
-  portfolio: Treasury
-  originating_house: House of Representatives
-  summary: Introduced with the Treasury Laws Amendment (Tax Reform No. 3) Bill 2026,
-    the bill amends the Income Tax Rates Act 1986 to impose a minimum tax rate of
-    30 per cent on the net income of discretionary trusts from 1 July 2028.
-  introducer_name: Jim Chalmers
-  introducer_party: Labor
-  introducer_id: '10809'
-  introducer_division: Rankin
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7555_first-reps/toc_pdf/26134b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-11-16
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29189%2F0025%22
 - bill_id: r7556
   title: Competition and Consumer Amendment (AER Inquiry Powers) Bill 2026
   status: Before Reps
@@ -747,21 +662,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7563_first-reps/toc_pdf/26144b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-11-23
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29195%2F0261%22
-- bill_id: r7564
-  title: Private Health Insurance Amendment (Modernising the Private Health Insurance
-    Rebate) Bill 2026 [No. 2]
-  status: Before Reps
-  type: Government
-  portfolio: Health, Disability and Ageing
-  originating_house: House of Representatives
-  summary: null
-  introducer_name: Mark Butler
-  introducer_party: Labor
-  introducer_id: '10086'
-  introducer_division: Hindmarsh
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7564_first-reps/toc_pdf/26138b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-10-15
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29190%2F0023%22
 - bill_id: r7565
   title: Agriculture Legislation Amendment (Biosecurity and Export Control) Bill 2026
   status: Before Reps
@@ -777,7 +677,7 @@ pending:
   introducer_id: '10136'
   introducer_division: Franklin
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7565_first-reps/toc_pdf/26139b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-11-24
+  last_updated: 2026-11-25
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29193%2F0009%22
 - bill_id: r7566
   title: Treasury Laws Amendment (Tax Reform No. 4) Bill 2026
@@ -883,6 +783,21 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7573_first-reps/toc_pdf/26153b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-11-23
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29195%2F0278%22
+- bill_id: r7574
+  title: Electronic Transactions Amendment (Transferable Records for Australia&rsquo;s
+    Digital Economy) Bill 2026
+  status: Before Reps
+  type: Government
+  portfolio: Attorney-General
+  originating_house: House of Representatives
+  summary: null
+  introducer_name: Michelle Rowland
+  introducer_party: Labor
+  introducer_id: '10751'
+  introducer_division: Greenway
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7574_first-reps/toc_pdf/26149b01.pdf;fileType=application%2Fpdf
+  last_updated: 2026-11-25
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29197%2F0005%22
 - bill_id: s1138
   title: Plebiscite (Future Migration Level) Bill 2018
   status: Before Senate
@@ -1204,7 +1119,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1442_first-senate/toc_pdf/25S0120.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0195%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0196%22
 - bill_id: s1443
   title: Tertiary Education Legislation Amendment (There For Education, Not Profit)
     Bill 2025
@@ -1240,7 +1155,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1444_first-senate/toc_pdf/25S0220.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0209%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0208%22
 - bill_id: s1445
   title: Great Australian Bight (World Heritage Protection) Bill 2025
   status: Before Senate
@@ -1773,7 +1688,7 @@ pending:
   introducer_id: '10946'
   introducer_division: NSW
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1498_first-senate/toc_pdf/2608620.pdf;fileType=application%2Fpdf
-  last_updated: 2026-07-01
+  last_updated: 2026-11-25
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29227%2F0187%22
 - bill_id: s1499
   title: Anti-Discrimination Legislation Amendment (Sexual Orientation, Gender Identity
@@ -2007,7 +1922,7 @@ pending:
   introducer_division: NSW
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1515_first-senate/toc_pdf/26S3020.pdf;fileType=application%2Fpdf
   last_updated: 2026-09-15
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0112%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0111%22
 - bill_id: s1516
   title: Environment and Other Legislation Amendment (Fast Tracking Coal, Gas and
     Oil Projects) Bill 2026
@@ -2048,7 +1963,7 @@ pending:
   introducer_division: ACT
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1517_first-senate/toc_pdf/26S3220.pdf;fileType=application%2Fpdf
   last_updated: 2026-09-15
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0128%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0126%22
 - bill_id: s1518
   title: Military Rehabilitation and Compensation Amendment (Veterans&rsquo; Healthcare
     Without Caps) Bill 2026
@@ -2066,7 +1981,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1518_first-senate/toc_pdf/26S3120.pdf;fileType=application%2Fpdf
   last_updated: 2026-09-17
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0132%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0133%22
 - bill_id: s1519
   title: Wearable Recording Devices (Import Control) Bill 2026
   status: Before Senate
@@ -2212,34 +2127,8 @@ pending:
   introducer_id: '10853'
   introducer_division: Victoria
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1528_first-senate/toc_pdf/26S4020.pdf;fileType=application%2Fpdf
-  last_updated: 2026-11-16
+  last_updated: 2026-11-25
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29248%2F0143%22
-- bill_id: s1529
-  title: Commonwealth Electoral Amendment Bill 2026
-  status: Before Reps
-  type: Government
-  portfolio: Finance
-  originating_house: Senate
-  summary: "Amends the Commonwealth Electoral Act 1918 to refine the funding and disclosure\
-    \ framework due to come into effect on 1 January 2027 by: clarifying the amount\
-    \ permitted to be withdrawn from a federal account; providing certain entities\
-    \ and third parties with a mechanism to repurpose amounts derived from member\
-    \ dues that have been credited to a federal account; enabling an investment mechanism\
-    \ for federal accounts; clarifying that credit cards can be used to incur electoral\
-    \ expenditure; clarifying that provisions immunising gifts from state and territory\
-    \ laws apply only to gifts given for federal purposes; clarifying the treatment\
-    \ of certain federal structures; exempting expenditure on how-to-vote card material\
-    \ from certain electoral expenditure cap civil penalties; excluding certain small\
-    \ monetary gifts from gift cap and disclosure requirements; removing and amending\
-    \ certain annual return requirements; replacing references to \u2018financial\
-    \ year\u2019 with \u2018calendar year\u2019; and making technical amendments."
-  introducer_name: Anthony Chisholm
-  introducer_party: Labor
-  introducer_id: '10849'
-  introducer_division: Queensland
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1529_first-senate/toc_pdf/2614820.pdf;fileType=application%2Fpdf
-  last_updated: 2026-11-24
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29249%2F0208%22
 - bill_id: s1530
   title: Australian Education Amendment (Accountability and Transparency for Private
     Schools) Bill 2026
@@ -2269,6 +2158,20 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1531_first-senate/toc_pdf/26S4320.pdf;fileType=application%2Fpdf
   last_updated: 2026-11-24
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29253%2F0205%22
+- bill_id: s1532
+  title: Electoral Legislation Amendment (Voter Identification) Bill 2026
+  status: Before Senate
+  type: Private
+  portfolio: null
+  originating_house: Senate
+  summary: null
+  introducer_name: James Mcgrath
+  introducer_party: Liberal National Party
+  introducer_id: '10833'
+  introducer_division: Queensland
+  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1532_first-senate/toc_pdf/26S4420.pdf;fileType=application%2Fpdf
+  last_updated: 2026-11-25
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29254%2F0246%22
 - bill_id: s996
   title: Landholders&rsquo; Right to Refuse (Gas and Coal) Bill 2015
   status: Before Senate
