@@ -548,46 +548,6 @@ pending:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7558_first-reps/toc_pdf/26142b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-11-23
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29195%2F0252%22
-- bill_id: r7559
-  title: Domestic Gas Reservation Bill 2026
-  status: Before Senate
-  type: Government
-  portfolio: Industry, Science and Resources
-  originating_house: House of Representatives
-  summary: 'Introduced with the Domestic Gas Reservation Levy Bill 2026 and Domestic
-    Gas Reservation (Consequential Amendments) Bill 2026 to establish a nationally
-    consistent domestic gas reservation framework, the bill: establishes an export
-    licensing regime under which a person must hold an export licence to export liquefied
-    natural gas on and after 1 January 2028; places obligations on export licence
-    holders, including to contribute to domestic gas supply through a domestic supply
-    obligation (DSO); provides mechanisms to support compliance with the DSO in specified
-    circumstances; and provides the Australian Energy Regulator with responsibility
-    for administering and enforcing the domestic gas reservation framework.'
-  introducer_name: Madeleine King
-  introducer_party: Labor
-  introducer_id: '10884'
-  introducer_division: Brand
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7559_first-reps/toc_pdf/26136b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-11-26
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29189%2F0009%22
-- bill_id: r7561
-  title: Domestic Gas Reservation (Consequential Amendments) Bill 2026
-  status: Before Senate
-  type: Government
-  portfolio: Industry, Science and Resources
-  originating_house: House of Representatives
-  summary: Introduced with the Domestic Gas Reservation Bill 2026 and Domestic Gas
-    Reservation Levy Bill 2026 to establish a nationally consistent domestic gas reservation
-    framework, the bill makes consequential amendments to the Competition and Consumer
-    Act 2010, Competition and Consumer (Gas Market Code) Regulations 2023 and Customs
-    (Prohibited Exports) Regulation 1958 to support the operation of the framework.
-  introducer_name: Madeleine King
-  introducer_party: Labor
-  introducer_id: '10884'
-  introducer_division: Brand
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7561_first-reps/toc_pdf/26135b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-11-26
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29189%2F0013%22
 - bill_id: r7562
   title: Scrap Net Zero (Cheaper Energy) Bill 2026
   status: Before Reps
@@ -1088,7 +1048,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1442_first-senate/toc_pdf/25S0120.pdf;fileType=application%2Fpdf
   last_updated: 2025-07-23
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0195%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F28690%2F0196%22
 - bill_id: s1443
   title: Tertiary Education Legislation Amendment (There For Education, Not Profit)
     Bill 2025
@@ -1931,7 +1891,7 @@ pending:
   introducer_division: Tasmania
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/s1518_first-senate/toc_pdf/26S3120.pdf;fileType=application%2Fpdf
   last_updated: 2026-09-17
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0133%22
+  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansards%2F29241%2F0132%22
 - bill_id: s1519
   title: Wearable Recording Devices (Import Control) Bill 2026
   status: Before Senate
@@ -3893,25 +3853,6 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7447_aspassed/toc_pdf/26029b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-03-13
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29144%2F0029%22
-- bill_id: r7448
-  title: Anti-Money Laundering and Counter-Terrorism Financing Amendment Bill 2026
-  status: Assent
-  type: Government
-  portfolio: Home Affairs
-  originating_house: House of Representatives
-  summary: 'Amends the Anti-Money Laundering and Counter-Terrorism Financing Act 2006
-    to: enable the Chief Executive Officer of the Australian Transaction Reports and
-    Analysis Centre to restrict or prohibit reporting entities from using high-risk
-    mechanisms to provide designated services; amend the meaning of financing of terrorism
-    to reference new offences for financing a state sponsor of terrorism; and make
-    technical amendments.'
-  introducer_name: Matt Thistlethwaite
-  introducer_party: Labor
-  introducer_id: '10762'
-  introducer_division: Kingsford Smith
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7448_aspassed/toc_pdf/26028b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-11-26
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29146%2F0020%22
 - bill_id: r7449
   title: Crimes and Other Legislation Amendment (Omnibus No. 1) Bill 2026
   status: Act
@@ -4640,23 +4581,6 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7507_aspassed/toc_pdf/26085b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-08-26
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29170%2F0048%22
-- bill_id: r7508
-  title: Therapeutic Goods (Charges) Amendment Bill 2026
-  status: Assent
-  type: Government
-  portfolio: Health, Disability and Ageing
-  originating_house: House of Representatives
-  summary: Introduced with the Therapeutic Goods Amendment (Medicines Shortages and
-    Other Measures) Bill 2026, the bill amends the Therapeutic Goods (Charges) Act
-    1989 to enable annual charges to be prescribed for the inclusion of grouped biologicals
-    in the Australian Register of Therapeutic Goods.
-  introducer_name: Rebecca White
-  introducer_party: Labor
-  introducer_id: '11052'
-  introducer_division: Lyons
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7508_aspassed/toc_pdf/26087b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-11-26
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29171%2F0068%22
 - bill_id: r7512
   title: Online Safety Amendment (Strengthening Enforcement for the Social Media Minimum
     Age) Bill 2026
@@ -4725,70 +4649,6 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7514_aspassed/toc_pdf/26093b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-09-15
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29171%2F0060%22
-- bill_id: r7515
-  title: Social Security and Other Legislation Amendment (Technical Changes No. 2)
-    Bill 2026
-  status: Assent
-  type: Government
-  portfolio: Social Services
-  originating_house: House of Representatives
-  summary: 'Amends the: A New Tax System (Family Assistance) Act 1999, A New Tax System
-    (Family Assistance) (Administration) Act 1999 and Social Security Act 1991 to:
-    enable the automation of advance payments of social security or family assistance
-    entitlements; and correct cross-referencing errors; Administrative Review Tribunal
-    Act 2024 and A New Tax System (Family Assistance) (Administration) Act 1999 to
-    enable the secretary to alter certain social services decisions that undergo review
-    at the Administrative Review Tribunal under specific circumstances; A New Tax
-    System (Family Assistance) Act 1999 and A New Tax System (Family Assistance) (Administration)
-    Act 1999 to clarify the use of pre-issue income data (PIID); Child Support (Assessment)
-    Act 1989 in relation to the use of PIID, the automation of provisional adjusted
-    taxable income and the delegation of a publishing function; A New Tax System (Family
-    Assistance) (Administration) Act 1999 to enable merits review of tax and family
-    assistance entitlement debt offsetting decisions; Paid Parental Leave Act 2010
-    in relation to the calculation of paid parental leave superannuation contributions
-    and employer debts; Social Security (Administration) Act 1999 to make minor amendments
-    in relation to the operation of the urgent payment provisions; and Social Security
-    and Other Legislation Amendment (Technical Changes No. 2) Act 2025 to clarify
-    the operation of review arrangements for decision relating to the Income Apportionment
-    Resolution Scheme.'
-  introducer_name: Tanya Plibersek
-  introducer_party: Labor
-  introducer_id: '10513'
-  introducer_division: Sydney
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7515_aspassed/toc_pdf/26094b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-11-26
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29170%2F0032%22
-- bill_id: r7516
-  title: Administrative and Judicial Review Legislation Amendment Bill 2026
-  status: Assent
-  type: Government
-  portfolio: Attorney-General
-  originating_house: House of Representatives
-  summary: 'Amends the: Administrative Review Tribunal Act 2024 to: authorise registrars
-    to exercise additional powers, including the power to reinstate and dismiss applications;
-    enable the correction of obvious errors in orders issued by registrars; clarify
-    that the President is assigned to every jurisdictional area; provide for additional
-    matters to be considered when appointing non-judicial members and change the basis
-    on which non-judicial members are appointed; and expand the class of decisions
-    that are treated as intelligence and security decisions; Administrative Review
-    Tribunal Act 2024 and Child Support (Registration and Collection) Act 1988 to
-    exclude the period from 24 December to 14 January from the calculation of time
-    for an original decision-maker to provide certain documents; Taxation Administration
-    Act 1953 to prescribe a standardised timeframe for making certain applications
-    to the Administrative Review Tribunal (ART) for review; Migration Act 1958 to:
-    require applications to the ART for review of certain decisions to be made using
-    an approved form; clarify that the ART may permit the examination or cross-examination
-    of a person giving evidence before the tribunal; remove the requirement to notify
-    the secretary of dismissal decisions in certain reviews; and require identity
-    verification for certain matters; and Administrative Review Tribunal Act 2024
-    and Migration Act 1958 to enable the ART to give reasons for its decisions orally.'
-  introducer_name: Michelle Rowland
-  introducer_party: Labor
-  introducer_id: '10751'
-  introducer_division: Greenway
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7516_aspassed/toc_pdf/26095b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-11-26
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29170%2F0022%22
 - bill_id: r7517
   title: Aged Care Legislation Amendment (Aboriginal and Torres Strait Islander Aged
     Care Commissioner and Other Measures) Bill 2026
@@ -4968,29 +4828,6 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7526_aspassed/toc_pdf/26104b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-08-26
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29174%2F0024%22
-- bill_id: r7527
-  title: Counter-Terrorism Legislation Amendment Bill 2026
-  status: Assent
-  type: Government
-  portfolio: Attorney-General
-  originating_house: House of Representatives
-  summary: 'Amends the: Crimes Act 1914 and Criminal Code Act 1995 to: extend the
-    operation of certain counter-terrorism powers and other frameworks for a further
-    3 years, until 7 December 2029; and expand information-sharing arrangements; Criminal
-    Code Act 1995 to: update the post-sentence order and control order frameworks
-    for serious terrorist offenders; clarify the process for de-listing terrorist
-    organisations; and expand protections for United Nations and associated personnel;
-    Surveillance Devices Act 2004 and Telecommunications (Interception and Access)
-    Act 1979 to enable agencies to obtain warrants in relation to serious terrorist
-    offenders in custody when considering applications for control orders. Also makes
-    consequential amendments to 5 Acts.'
-  introducer_name: Michelle Rowland
-  introducer_party: Labor
-  introducer_id: '10751'
-  introducer_division: Greenway
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7527_aspassed/toc_pdf/26105b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-11-25
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29173%2F0022%22
 - bill_id: r7528
   title: News Journalism Payments Bill 2026
   status: Act
@@ -5146,24 +4983,6 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7542_aspassed/toc_pdf/26121b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-10-26
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29182%2F0015%22
-- bill_id: r7544
-  title: Private Health Insurance (National Joint Replacement Register Levy) Amendment
-    Bill 2026
-  status: Assent
-  type: Government
-  portfolio: Health, Disability and Ageing
-  originating_house: House of Representatives
-  summary: Amends the Private Health Insurance (National Joint Replacement Register
-    Levy) Act 2009 to remove the $5000 cap on the levy that may be imposed on sponsors
-    of joint replacement devices listed on the Prescribed List of Medical Devices
-    and Human Tissue Products.
-  introducer_name: Anika Wells
-  introducer_party: Labor
-  introducer_id: '10931'
-  introducer_division: Lilley
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7544_aspassed/toc_pdf/26122b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-11-26
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29186%2F0019%22
 - bill_id: r7548
   title: Sport Legislation Amendment (World Anti-Doping Code Implementation) Bill
     2026
@@ -5205,31 +5024,6 @@ passed:
   pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7552_aspassed/toc_pdf/26114b01.pdf;fileType=application%2Fpdf
   last_updated: 2026-10-16
   second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29187%2F0161%22
-- bill_id: r7568
-  title: Defence Legislation Amendment (Accelerating Capability and Protecting Bases)
-    Bill 2026
-  status: Assent
-  type: Government
-  portfolio: Defence
-  originating_house: House of Representatives
-  summary: 'Amends the: Defence Act 1903 to: establish a framework to support defence
-    capability development and preparedness activities conducted in Australia; establish
-    a consolidated defence security zone framework to protect defence personnel, activities,
-    capabilities, assets and facilities; expand the oversight functions of the Inspector-General
-    of the Australian Defence Force and the Parliamentary Joint Committee on Defence;
-    and replace roman numerals in certain headings in the Act; and Criminal Code Act
-    1995, Marine Safety (Domestic Commercial Vessel) National Law Act 2012, Navigation
-    Act 2012 and Telecommunications (Interception and Access) Act 1979 to provide
-    for capability declarations. Also makes consequential or contingent amendments
-    to 22 Acts and 2 regulations and repeals the Control of Naval Waters Act 1918
-    and Defence (Special Undertakings) Act 1952.'
-  introducer_name: Peter Khalil
-  introducer_party: Labor
-  introducer_id: '10887'
-  introducer_division: Wills
-  pdf_url: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7568_aspassed/toc_pdf/26146b01.pdf;fileType=application%2Fpdf
-  last_updated: 2026-11-26
-  second_reading_hansard_url: https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22chamber%2Fhansardr%2F29192%2F0027%22
 - bill_id: s1457
   title: Competition and Consumer Amendment (Australian Energy Regulator Separation)
     Bill 2025
